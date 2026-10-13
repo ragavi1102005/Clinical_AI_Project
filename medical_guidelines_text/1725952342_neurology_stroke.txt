@@ -1,0 +1,127 @@
+--- Page 1 ---
+Department of Health Research
+Ministry of Health and Family Welfare, Government of India
+Standard Treatment Workflow (STW) for the Management of
+STROKE
+ICD-10-I63, I64
+SYMPTOMS
+WARNING SIGNS (BEFAST)
+• Numbness or weakness, especially on one side of
+• BALANCE : Loss of balance or
+the body
+coordination
+WHAT IS STROKE? • Loss of consciousness or altered consciousness
+• EYES : Sudden blurred or double vision/
+• Decreased vision in one or both eyes
+sudden, persistent vision trouble
+An episode of
+• Language difficulties, either in speaking or
+neurological • FACE : Deviation at the angle of the
+dysfunction caused by understanding
+mouth
+focal cerebral, spinal, or
+• Difficulty walking; loss of balance or coordination
+retinal infarction or • ARM : Arm Drift
+• Confusion or loss of memory
+haemorrhage
+• SPEECH : Slurred speech or the inability
+• Swallowing difficulties
+to speak or understand
+• Paralysis of any part of the body, including face
+• TIME : Act fast
+• Sudden, severe headache with no known cause
+• Sudden new onset of headache or loss of
+• Neck pain
+consciousness
+• Nausea and vomiting
+• Sudden giddiness, vomiting and
+imbalance
+TYPES OF STROKE
+Transient Ischemic Attack
+Intracerebral haemorrhage
+(TIA)
+Focal collection of blood Ischemic stroke Subarachnoid haemorrhage Cerebral venous Transient episode of
+within the brain
+Focal cerebral, spinal, or Bleeding into the thrombosis Thrombosis of neurologic dysfunction caused
+parenchyma or ventricular
+retinal infarction subarachnoid space a cerebral venous by focal cerebral, spinal cord,
+system that is not caused by
+structure or retinal ischemia, without
+trauma
+acute infarction
+PRELIMINARY MANAGEMENT INVESTIGATIONS
+• Assess and manage ABCs
+• Initiate cardiac monitoring ESSENTIAL DESIRABLE OPTIONAL
+• Maintain O2 saturation >94%
+• Establish IV access • CT Scan head • CTA • MRI/MRA
+• Determine blood glucose and treat accordingly • ECG • Echocardiogram • Holter monitoring
+• Determine time of symptom onset or last known normal, and obtain family • Blood Sugar
+contact information, preferably a cell phone • Lipids
+• Triage and RAPID TRANSFER of patient to nearest district hospital with CT • Renal parameter
+Scan facility or Stroke center with facility for thrombolysis
+• Referal hospital to be notified to handle the referred patient with stroke
+MANAGEMENT
+ISCHEMIC: * HAEMORRHAGIC:
+IV tPA (0-4.5 hrs) or • Dysphagia assessment,
+STROKE ONSET TIME: <4.5 HOURS endovascular treatment • Blood pressure/blood sugar monitoring and IV fluids.
+according to eligibility • Prevention of Pneumonia
+and availability • Prophylaxis for deep venous thrombosis etc, monitor and record ECG
+* RECOMMENDED DIAGNOSTIC STUDIES
+ALL PATIENTS SELECTED PATIENTS
+• Noncontrast brain CT or brain MRI • TT and/or ECT if it is suspected the patient is taking direct thrombin
+• Blood glucose inhibitors or direct factor Xa inhibitors
+• Oxygen saturation • Liver function tests
+• Serum electrolytes/renal function tests • Toxicology screen
+• Complete blood count, including platelet count • Blood alcohol level
+• Markers of cardiac ischemia • Pregnancy test
+• BT, CT, Prothrombin time/INR • Arterial blood gas test (if hypoxia is suspected)
+• Activated partial thromboplastin time • Chest radiography (if lung disease is suspected)
+• ECG • Lumbar puncture (if subarachnoid hemorrhage is suspected and CT
+• FLP and carotid doppler (ischemic stroke) scan is negative for blood)
+• Electroencephalogram (if seizures are suspected)
+Rapid Assessment, CODE Stroke, Blood pressure and Blood Sugar monitoring, NIHSS, Intravenous lines
+STROKE ONSET TIME: >4.5 HOURS Endovascular treatment with Mechanical thrombectomy using stent retriever (4.5 hrs to 24hrs) according to
+eligibility
+DISCHARGE PLANNING
+SECONDARY PREVENTION
+REHABILITATION
+(checklist : drugs, diet, compliance,
+Aspirin (in ischemic stroke)
+Physiotherapy
+exercises, health education)
+Antihypertensives
+Speech Therapy
+Antidiabetics
+Occupational Therapy
+FOLLOW UP at 2nd week, 1st month, 3rd
+Lipid lowering agents
+Vocational training
+month and 6th month
+STROKE UNIT MANAGEMENT
+· Medical and Nursing staff : control of blood pressure; control of diabetes; swallow assessment; DVT prophylaxis; antiplatelet drugs
+· Rehabilitation staff:
+» Acute phase: basic bed mobility, transfer techniques, communication training, prevention of complications
+» Subacute and chronic phase: mobility, gait and balance training, training of activities of daily living (grooming, eating, dressing etc), bowel/bladder
+training, perceptual and cognitive rehabilitation, provision of assistive devices.
+KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES
+October/
+2019
+n
+i
+.
+g
+r
+o
+.
+r
+m
+c
+i
+.
+w
+t
+s
+This STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and are
+based on expert opinions and available scientific evidence. There may be variations in the management of an individual patient based on his/her specific condition, as decided by the
+treating physician. There will be no indemnity for direct or indirect consequences. Kindly visit our web portal (stw.icmr.org.in) for more information.
+© Indian Council of Medical Research and Department of Health Research, Ministry of Health & Family Welfare, Government of India.

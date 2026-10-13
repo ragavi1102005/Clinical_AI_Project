@@ -1,0 +1,15 @@
+pandas
+scikit-learn
+joblib
+transformers
+torch
+langchain
+langchain-community
+faiss-cpu
+rank_bm25
+pypdf
+sentence-transformers
+streamlit
+cryptography
+pdfplumber
+spacy  

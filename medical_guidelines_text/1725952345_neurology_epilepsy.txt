@@ -1,0 +1,158 @@
+--- Page 1 ---
+Department of Health Research
+Ministry of Health and Family Welfare, Government of India
+Standard Treatment Workflow (STW) for the Management of
+EPILEPSY
+ICD 10 - G40
+Abnormal jerky Loss of Episodes could be single
+Episodic, few Blank
+movements consciousness/ with high risk of
+secs-mins staring
+awareness recurrence. Prolonged
+motor convulsion of > 5
+CLINICAL
+mins with loss of
+FEATURES
+Sudden With or without urine/ Any other episode consciousness - STATUS
+Bizzare activity
+drops/ falls, stool incontinence, lasting for few mins EPILEPTICUS (SE) -
+out of context
+brief jerks tongue bite, drooling (usually<5 mins) MEDICAL EMERGENCY
+PRIMARY HEALTH CENTRE (MEDICAL OFFICER) REASONS FOR REFERRAL DISTRICT HOSPITALS
+• Clinical diagnosis of epilepsy: detailed history from an eyewitness (centres with specialists like • Careful evaluation of all
+• Differentiate between provoked seizures and epilepsy (provoked due to fever, paediatrician, referral patients, provide
+acute CNS insult, antibiotics, and metabolic causes) neurologist) specialized management
+• Laboratory investigations: CBC, liver function tests, routine biochemistry,
+for patients and refer
+hemogram, lipd profile, vit D levels, TFT (whichever feasible)
+• Redflag Signs back to PHC for follow up
+• Initiation of treatment:
+• Progressive problems, rapid of management
+- Treat the patient if patient has epilepsy (2 or more episodes of unprovoked
+appearance of new symptoms • Maintain communication,
+seizures)
+• Recent injury ongoing clinical support - Treat a single seizure if risk of recurrence is high as in patients with focal
+• Symptoms appearing after and supervision of MOs at
+seizures,mentally retarded, neurological deficits having family history of
+alcohol binge PHC
+seizures abnormalEEG, neuroimaging
+• Status epilepticus after • Laboratory investigation
+- Anti Epileptic Drug (AED broad spectrum, low dose, start low go slow, except
+status epilepticus) stabilization - CBC, liver function
+- Emergency medical care of status epilepticus • Non response to adequate tests, antiepileptic drug
+• Treatment counselling: side effects/toxicities of drugs, red flags, importance of dose and duration of levels, routine
+adherence, maintaining treatment diary medication biochemistry,
+• Advice on prevention of seizures: regular medication, sleep 7-8 hrs, avoid excess • Serious side effects hemogram, lipid profile,
+TV/mobile/ photic stimulation, regular diet, lifestyle choices(avoid alcohol) • Neuroimaging vit D levels, TFT, CT
+• Evaluate any possibility of superimposed non-epileptic seizure
+brain (when necesary)
+• Training of MLP/ANM/ASHA on epilepsy
+• Monitor side effects of
+• For excessive alcohol use, refer to ANM/MLP where psychosocial interventions are RED FLAG SIGNS
+AED
+carried out for substance use disorders
+• Clinical Psychologist:
+• Follow up visits for treatment monitoring & difficult patients under neurologist at
+o Fever
+counselling health
+STC centre
+o Headache
+• Basic management of co-morbidities (behaviour, cognition, reproductive health, services for persons with
+o Vomiting
+bone health) epilepsy or upon referral
+o Altered Sensorium
+• Alert to signs of abuse and neglect from PHC/UPHC
+o Severe Giddiness
+• Maintain upward referrals with paediatrician/physician at DH
+o Loss of function of body
+AED– BROAD SPECTRUM (GENERALIZED SEIZURES) DOSE (MAINTENANCE: MG/D) ADVERSE EFFECTS
+Sodium Valproate (avoid in women of child Starting dose :200mg TDS Anorexia, wt gain, nausea, vomiting, tremors,
+bearing age unless non responsive to other drugs) Maintenance Dose: 600-2400 hair loss, PCOS, thrombocytopenia
+Starting dose: 25mg HS (Lower dose with VPA) Sedation, ataxia, dizziness, skin rash, SJS (lower
+Lamotrigine
+Maintenance Dose: 100-300 risk with slow titration)
+Starting dose: 250mg BD Somnolence, dizziness, cognitive slowing,
+Levetiracetam
+Maintenance Dose: 1000-3000 psychosis
+Sedation, somnolence, cognitive problems,
+Starting dose: 25mg OD
+Topiramate
+weight loss, word finding difficulty, renal
+Maintenance Dose: 100-400
+stones, seizure worsening
+AED (focal seizures)
+Sedation, dizziness, ataxia, skin rash, SJS,
+Starting dose: 100mg BD
+Carbamazepine hyponatremia, seizure worsening in some
+Maintenance dose: 400-1200
+situations
+Starting dose: 150mg BD Sedation, dizziness, ataxia, headache,
+Oxcarbazepine
+Maintenance dose: 600 to 1800 hyponateremia, skin rash
+Phenobarbitone Starting dose: 30mg HS Sedation, ataxia, depression, memory
+Can be used for generalized also Maintenance dose: 60-180 problems, hyperactivity in children, skin rash
+Ataxia, sedation, gum hyperplasia, coarsening
+Starting dose: 200mg HS
+Phenytoin of facial features, hirsutism, memory
+Maintenance dose:200-400
+problems, osteomalacia & bone loss, skin rash
+Folic Acid 5 mg/day to be added along with AEDs in all women of child bearing age. Polytherapy and valproate to be avoided in women with epilepsy
+IMPENDING SE ESTABLISHED SE REFRACTORY SE
+5 MIN 30 MIN 60 MIN 2 IV drugs fail (Benzo + IV AED)
+FIRST ABCS TO BE DONE FROM WHEN YOU SEE PATIENT SIMULTANEOUSLY WITH MEDICATION
+Out of Hospital/home : Buccal/Intranasal IMDZ with acute repititive seizures/status (0.3-0.5 mg/kg) ICU
+IV Midazolam loading 0.2 mg/kg
+EMERGENCY ROOM
+OR CIV 0.05-0.5 mg/kg/hr
+(can go up to 2 mg/kg/hr)
+IV Lorazepam up to 0.1 mg/kg @ 2mg/min
+Taper gradually after seizure stops
+OR
+(preferably as evidenced by EEG)
+IV Midazolam 0.1-0.2 mg/kg bolus or 0.05-0.5 mg/kg/hr in CIV
+OR
+Thiopental 5-7 mg/kg IV bolus
+IV Diazepam upto 0.25-0.4 mg/kg over 2-3 min
+further 50 mg until seizures controlled
+3-5 mg/kg/hr for only 48 hours
+• Phenytoin @50 mg/min 20 mg/kg repeat
+OR Propofol IV loading 2-5 mg/kg
+plus 10 mg/kg if seizures do not stop in 15-20 min
+CIV 1-15 MG/KG/HR
+• If seizures not controlled or contra indiction (CI) to PHT
+OR Pentobarbital IV upto 10 mg/kg
+Intravenous Valproate 25-40 mg/kg @3-6 mg/kg/min
+@ <0.2-0.4 mg/kg/min CIV 0.5-2 mg/kg/h
+• If CI to above two; Phenobarbitone 20 mg/kg IV @ less than 5-60 mg/min but be OR Ketamine bolus 1.5 mg/kg
+prepared to Intubate and ventilate
+CIV 0.01-0.05 mg/kg/h max 10mg/kg/hr * to be
+EEG Monitoring
+Levetiracetam 20-30 mg/kg IV at 5 mg/kg/min (max 3g) or
+Levetiracetam 1500-3000 mg via NGT or Super refractory
+> 24hr no control
+Lacosamide 200-400 mg IV at 40-80 mg/min
+Topiramate 150-800 mg bid via NGT
+Airway, blood pressure, temperature, intravenous access, electrocardiography, CBC, glucose, electrolytes, AED levels, ABG, oximetry, tox screen, central line
+If alcoholic- thiamine & glucose, if diabetic GLUCOTEST/blood sugar & glucose IV. MUST INFORM CONSULTANT ON CALL
+KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES
+October/
+2019
+n
+i
+.
+g
+r
+o
+.
+r
+m
+c
+i
+.
+w
+t
+s
+This STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and are
+based on expert opinions and available scientific evidence. There may be variations in the management of an individual patient based on his/her specific condition, as decided by the
+treating physician. There will be no indemnity for direct or indirect consequences. Kindly visit our web portal (stw.icmr.org.in) for more information.
+© Indian Council of Medical Research and Department of Health Research, Ministry of Health & Family Welfare, Government of India.

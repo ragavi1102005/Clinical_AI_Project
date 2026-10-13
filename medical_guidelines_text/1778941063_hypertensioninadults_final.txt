@@ -1,0 +1,143 @@
+--- Page 1 ---
+Standard Treatment Workflow (STW)
+HYPERTENSION IN ADULTS
+ICD-11 BA00
+This STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and are based on expert opinions and
+available scientific evidence. There may be variations in the management of an individual patient based on his/her specific condition, as decided by the treating physician. There will be no indemnity for direct or indirect
+consequences. Kindly visit our web portal (stw.icmr.org.in) for more information. © Indian Council of Medical Research and Department of Health Research, Ministry of Health & Family Welfare, Government of India.
+May/2026
+Department of Health Research
+Ministry of Health and Family Welfare, Government of India
+Hypertension is a SILENT KILLER RISK FACTORS CLASSIFICATION BLOOD PRESSURE LEVELS ACTION
+as the majority of patients with high BP are asymptomatic!
+• High salt Normal Systolic <120 AND Reassure and
+Only way to know if BP is high is to measure it accurately!
+Diastolic<80 encourage healthy
+intake
+lifestyle
+• Sedentary
+Elevated BP Systolic 120-139 AND/ OR Lifestyle
+behavior
+Diastolic 80-89 modification
+• Tobacco and
+Hypertension Systolic 140-159 AND/ OR
+alcohol Grade 1 Diastolic 90-99 Pharmacological
+consumption Hypertension Systolic 160-179 AND/ OR management+
+• Obesity Grade 2 Diastolic 100-109 • Lifestyle
+Hypertension Systolic ≥ 180 AND/ OR modification
+Grade 3 Diastolic ≥ 110
+DIAGNOSIS OF HYPERTENSION BLOOD PRESSURE CONTROL TARGETS
+• Systolic BP ≥140 AND/OR Diastolic BP ≥ • All adults: SBP <140 and DBP <90
+90 mmHg on two different clinic visits mmHg
+• Population screening BP reading may • Diabetes mellitus, CKD, or established
+count as the first reading CVD: SBP <130 and DBP <80 mmHg
+• Use the higher category if only Systolic or (optimal target if tolerated)
+Diastolic BP is high, manage based on • Age ≥80 years: SBP <150 and DBP <90
+the higher value mmHg
+• If Systolic BP is ≥160 AND/OR Diastolic BP • Assess orthostatic BP at every visit of
+≥100 measurement of one clinic visit is adults ≥ 65 years
+sufficient for diagnosing hypertension
+MANAGEMENT OF HYPERTENSION
+PHARMACOTHERAPY
+DRUG CLASS DRUG DOSES CONTRAINDICATIONS SIDE EFFECTS
+CCB Amlodipine 2.5–10 mg OD Heart failure Pedal edema, constipation
+Enalapril 5–40 mg OD or BD Pregnancy,
+Dry cough, angioedema, hyperkalemia
+ACE inhibitors
+Ramipril 2.5–10 mg OD or BD Women planning pregnancy, rise in serum creatinine
+prior angioedema to ACEi,
+Losartan 50–100 mg OD
+Hyperkalemia,
+ARB Olmesartan 20–40 mg OD Hypotension, acute renal failure,
+Bilateral renal artery stenosis
+hyperkalemia
+Telmisartan 40–80 mg OD
+Chlorthalidone 12.5–25 mg OD Glucose intolerance, metabolic syndrome,
+Diuretics Pregnancy, Gout hyponatremia, hypercalcemia, hypokalemia
+Hydrochlorothiazide 12.5 mg OD
+Carvedilol 12.5–50 mg OD or BD
+Asthma, severe bradycardia, Depression, fatigue, reduced exercise
+Labetalol 100–400 mg BD
+Beta-blockers A-V block (grade 2 or 3), tolerance, hyperglycemia, sexual
+Metoprolol 50–100 mg OD or BD
+uncontrolled heart failure dysfunction
+Nebivolol 5 mg OD
+Mastalgia, gynecomastia, sexual
+Aldosterone antagonist Spironolactone 25 mg OD Hyperkalemia
+dysfunction, gout
+PHARMACOLOGICAL STRATEGY SUGGESTED TREATMENT PROTOCOLS
+• Combination therapy (two drugs from two different classes) could be the PROTOCOL NO 1 ATTACC PROTOCOL NO 2 AATTCC
+1 If BP is high:* 1 If BP is high:*
+default initial pharmacological treatment for most adults with
+Prescribe Amlodipine 5mg Prescribe Amlodipine 5mg
+hypertension
+2 After 4 weeks measure BP again. 2 After 4 weeks measure BP again.
+• Single-pill combinations (SPCs/fixed-dose combinations, FDCs) are
+If still high: If still high:
+preferred over multiple pills to improve adherence
+Add Telmisartan 40mg Increase to Amlodipine 10mg
+• Monotherapy remains appropriate only for (a) low-risk Grade 1 HTN, (b) 3 After 4 weeks measure BP again. 3 After 4 weeks measure BP again.
+elderly ≥ 80 years, or (c) frail patients If still high: If still high:
+• A CCB or Thiazide/Thiazide-like diuretic should be used with a Increase Telmisartan to 80mg Add Telmisartan 40mg
+Renin-Angiotensin-Aldosterone System (RAAS) blocker (either an ACEi or 4 After 4 weeks measure BP again. 4 After 4 weeks measure BP again.
+If still high: If still high:
+an ARB)
+Increase Amlodipine to 10mg Increase to Telmisartan 80mg
+• Three-drug combination, often a RAAS blocker, CCB, or a
+5 After 4 weeks measure BP again. 5 After 4 weeks measure BP again.
+Thiazide/Thiazide-like diuretic, if blood pressure is not controlled with the
+If still high: If still high:
+initial two-drug combination
+Add Chlorthalidone 12.5mg Add Chlorthalidone 12.5mg
+• β-blockers are appropriate in cases of angina, postmyocardial infarction,
+6 After 4 weeks measure BP again. 6 After 4 weeks measure BP again.
+heart failure (HFrEF or HFpEF with ischemia) If still high: If still high:
+• DO NOT combine two RAAS blockers as it increases the risk of adverse
+Consider adding drugs of other classes, preferably MRA (eg.Spironolactone)
+effects, including acute kidney injury (AKI)
+*High BP ≥140 /90 mmHg
+At every visit: Check if the patient has been taking medications regularly and
+correctly
+RED FLAGS SIGNS
+LIFESTYLE MODIFICATION MONITORING OF HYPERTENSION HYPERTENSION URGENCY
+Systolic BP ≥180 AND/OR Diastolic
+• Advise all patients against tobacco • BP to be measured at every clinical • Systolic BP ≥180 AND/OR Diastolic ≥
+BP ≥120
+and alcohol use visit 120 mmHg with
+AND Symptoms of target organ damage
+• Limit salt intake to <5g/day • Evaluate for diabetes (fasting
+• Visual disturbance, dizziness,
+• No signs of acute target-organ
+plasma glucose or HbA ) and
+• Use healthy oils, eat more confusion, headache
+1c damage
+manage accordingly • Chest pain
+fruits/vegetables, prefer fish/omega-3
+Management • Breathlessness (worse lying
+• Annual evaluations - Serum
+foods such as nuts and seeds • Start oral antihypertensive drugs down/leg swelling)
+creatinine, Urine (albumin, sugar,
+• Physical Activity: 30 minutes daily • Do NOT use IV medicines • Sudden weakness, speech/
+creatinine), Lipid profile, swallowing difficulty, vision
+• Weight Management: Keep BMI <23 • Reduce BP gradually over 24–48 hours
+problem
+Fundoscopy • Refer/admit if symptoms or organ
+kg/m2 and waist circumference: <90 Management
+• Additional investigations (if damage suspected • Stabilise ABC and refer to
+cm (men) and <80 cm (women)
+required)- ECG, ECHO • Follow-up within 1 week emergency care at higher center
+ABBREVIATIONS
+ACEi: Angiotensin-converting enzyme inhibitor HFrEF: Heart failure with reduced ejection fraction
+ARB: Angiotensin receptor blocker HFpEF: Heart Failure with Preserved Ejection
+BP: Blood pressure OD: Once Daily
+CCB: Calcium channel blocker MRA: Mineralocorticoid Receptor Antagonist
+FDC: Fixed-dose combination RAAS: Renin Angiotensin-Aldosterone System
+REFERENCES
+1.Mancia G, Kreutz R, Brunström M, et al. 2023 ESH Guidelines for the management of arterial hypertension. J Hypertens. 2023;41(12):1874–2071. doi:10.1097/HJH.0000000000003480 PMID: 37345492
+2.Joseph G, Thanh Pham V, Kragh Andersen P, et al. Cardiovascular events according to blood pressure thresholds recommended by ACC/AHA. Blood Press. 2024;33(1):2380346.
+doi:10.1080/08037051.2024.2380346 PMID: 39018201
+3.Gupta R, Maheshwari A, Verma N, Narasingan SN, Tripathi K, Joshi S, Manoria PC, et al. Indian Society of Hypertension (InSH) Consensus Guideline for the Management of Hypertension, 2025.
+Hypertension Journal. 2025;11(4):76–138. doi:10.61081/htnj/25v11i401.
+4.Ministry of Health and Family Welfare, Government of India. Training modules on non-communicable diseases. New Delhi: MoHFW; 2025.
+5.ICMR-National Institute of Epidemiology. India Hypertension Control Initiative: Training modules. Chennai, 2021.
+ALL ADULTS ≥ 18 YEARS SHOULD GET BLOOD PRESSURE MEASURED AT EVERY CLINIC VISIT

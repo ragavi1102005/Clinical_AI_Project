@@ -1,0 +1,122 @@
+--- Page 1 ---
+Department of Health Research
+Ministry of Health and Family Welfare, Government of India
+Standard Treatment Workflow (STW) for the Management of
+PHARYNGITIS AND SORE THROAT
+ICD-10-J02
+Acute onset of throat pain with or without – Fever, tonsillo-pharyngeal exudates, odynophagia
+and tender cervical lymphadenopathy is typically seen in bacterial pharyngitis.
+Streptococcal (GABHS) pharyngitis is the commonest cause of bacterial pharyngitis
+Rhinitis, conjunctivitis, skin or mucosal rashes point towards a viral etiology.
+Pharyngitis and sore throat may be the initial symptoms in epidemics of flu
+CLINICAL SCENARIOS
+Sore throat followed by high grade fever, cough, drooling, lymphadenopathy,
+Acute pharyngitis
+breathing difficulty suggest Epiglottitis or Laryngotracheobronchitis,
+may include a
+especially in pediatric patients
+spectrum of disease
+varying from simple
+viral pharyngitis to
+dreaded neck space
+infection. An adherent membrane extending beyond the tonsillar confines with
+toxaemia suggests Diphtheria
+Pharyngitis with generalized lymphadenopathy is consistent with Infectious
+Mononucleosis (IM)
+Smoking and GERD are common causes of non-infective pharyngitis
+CLINICAL EXAMINATION
+PRELIMINARY
+DESIRABLE RED FLAGS
+• Temperature chart: fever is usually absent or low-grade in viral pharyngitis
+• Check for vitals/ signs of dehydration due to compromised oral intake due to odynophagia
+Assess • Generalized
+• Complete oral and oropharyngeal examination with tongue depressor
+Centor lymphadenopathy
+• Palpate for cervical and generalized lymphadenopathy
+• Cardiac murmurs
+criteria
+• Rheumatic fever and acute glomerulonephritis are potential systemic complications of
+• Purulent
+and
+streptococcal pharyngitis productive cough
+ascertain • Hepatosplenomegaly can be found in IM with tachypnea
+its
+• A sandpapery scarlatiniform rash may be seen in GABHS infection whereas maculopapular suggestive of LRTI
+score
+rashes are seen with various viral infections and with IM empirically treated with penicillin • Hot potato voice
+• Unilateral tonsillar
+enlargement
+• Tonsillar
+CENTOR UNLIKELY TO HAVE LIKELY TO HAVE REQUIRE LAB TESTS TO
+CLINICAL FEATURES membrane going
+SCORE GABHS GABHS CONFIRM GABHS INFECTION
+beyond its
+Fever 1 confines
+• Agranulocyosis
+Anterior cervical
+1
+lymphadenopathy Score = 0-1 Score = 4 Score = 2-3 • Epidemic of flu
+Tonsillar exudate 1
+Absence of cough 1
+INVESTIGATIONS
+ESSENTIAL OPTIONAL DESIRABLE
+Throat swab for culture, routine hemogram including GABHS rapid antigen detection test (RADT) Lab tests to rule out EB Virus, Coxsackie virus,
+total and differential leukocyte counts and peripheral Herpes virus, fungal or Gonococcal pharyngitis
+smear to look for atypical lymphocytes (seen in IM).
+MANAGEMENT
+PHC / PRIMARY LEVEL DISTRICT HOSPITAL
+1. Assess the patient for signs of toxicity, epiglottitis or oropharyngeal abscess
+2. Ensure vitals/ hydration of the patient
+Management of
+3. Saltwater gargle, warm liquids, and rest may be helpful in relieving symptoms
+complication
+4. Ibuprofen or Paracetamol is recommended for analgesia
+e.g.
+5. Antibiotic therapy:
+• Deep neck
+a. Patients positive for all 4 Centor criteria to be treated with antibiotics without waiting for antigen testing or cultures
+space infection
+b. Patients with Centor score of 2&3 to be treated with antibiotics only if antigen testing or throat swab culture is positive
+• Diphtheria
+c. Patients with Centor score of only 1 not to be treated with antibiotics
+• Epiglottis
+d. Amoxicillin (50 mg/kg/d in 2-3 doses orally) for 10 days is the first choice for GABHS infection. For patients who are
+• Croup
+sensitive for penicillin group, Erythromycin or Azithromycin is the antibiotics of choice
+6. Parenteral antibiotics (Ceftriaxone/ cefotaxime) and steroids are to be started when the airway is compromised due to suspected
+epiglottis/ Croup.
+FOLLOW UP SERVICES
+Recurrent (more than 7 episodes in previuos year or 5/year in last two years or 3/year in last 3 years) tonsillitis episodes need to be evaluated for
+tonsillectomy.
+KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES
+GABHS: Group A Beta Hemolyticus Streptococcus
+EB: Epstein Barr
+ABBREVIATIONS GERD: Gastro Esophageal Reflux Disease
+RADT: Rapid Antigen Detection Test
+LRTI: Lower Respiratory Tract Infection
+REFERENCES
+1. Shaikh N, Swaminathan N, Hooper EG (2012) Accuracy and precision of the signs and symptoms of streptococcal pharyngitis in children: a systematic review. J Pediatr. 160 (3): 487-493.
+2. Centor RM, Allison JJ, Cohen SJ (2007) Pharyngitis management: defining the controversy. J Gen Intern Med. 22(1): 127-130.
+3. Altamimi S, Khalil A, Khalaiwi KA, Milner R, Pusic MV, Al Othman MA (2009) Short versus standard duration antibiotic therapy for acute streptococcal pharyngitis in children.
+Cochrane Database Syst Rev. 21. CD004872.
+October/
+2019
+n
+i
+.
+g
+r
+o
+.
+r
+m
+c
+i
+.
+w
+t
+s
+This STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and are
+based on expert opinions and available scientific evidence. There may be variations in the management of an individual patient based on his/her specific condition, as decided by the
+treating physician. There will be no indemnity for direct or indirect consequences. Kindly visit our web portal (stw.icmr.org.in) for more information.
+© Indian Council of Medical Research and Department of Health Research, Ministry of Health & Family Welfare, Government of India.

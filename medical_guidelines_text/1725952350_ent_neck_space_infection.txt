@@ -1,0 +1,103 @@
+--- Page 1 ---
+Department of Health Research
+Ministry of Health and Family Welfare, Government of India
+Standard Treatment Workflow (STW) for the Management of
+NECK SPACE INFECTION
+ICD-10-J36, J39.0, K 12.2, J39.1
+Rapidly progressive bacterial infections which spread along facial planes and spaces of head and neck region. They may be fatal unless
+emergently treated. Most of these infections are secondary to dental infection.
+The typical presentation is with acute onset of pain and swelling in the neck with fever,
+malaise, trismus and dysphagia.
+Extension along spaces to involve multiple deep neck spaces is frequent and may
+extend to parotid space, masticator space, temporal space, visceral vascular
+CLINICAL SCENARIOS (carotid) space.
+They usually present as
+• Ludwig’s angina
+(submandibular space infection)
+• Peritonsillar abscess
+Cervical space infection may spread inferiorly to the anterior mediastinum and
+• Parapharyngeal abscess
+posteriorly along prevertebral space.
+• Retropharyngeal abscess
+Tubercular cold abscess involves the same anatomical spaces but would not
+display inflammatory signs or rapid progression.
+SYSTEMIC ASSESSMENT
+Screen for diabetes mellitus, HIV infection, agranulocytosis and immunosuppressive therapy or chemotherapy.
+Signs of inflammation may be less marked and disease course may be more rapidly progressive in immunocompromised patients.
+CLINICAL EXAMINATION
+• Airway assessment to rule out stridor or respiratory compromise
+RED FLAGS FOR REFERRAL TO DISTRICT HOSPITAL
+• Look for signs of dehydration
+• Monitor temperature, heart rate, respiratory rate, BP, and signs
+• Breathing difficulty
+of sepsis/ septic shock.
+• Trismus
+• Oral cavity examination to check jaw opening, condition of teeth
+• Torticollis/ neck stiffness
+and floor of mouth
+• Subcutaneous crepitus and skin discolouration
+• Oropharyngeal examination to check for inflammed medially
+or blisters suggest necrotizing fibrofascitis.
+displaced tonsil & uvula and bulge in lateral pharyngeal wall
+• Toxaemia
+• Palpation of neck for lymph nodes, cellulitis, abscess or
+• Lower cranial nerve palsy
+subcutaneous crepitus
+• Facial puffiness suggestive of venous
+• Cranial nerve examination to rule out lower cranial nerve palsies
+thrombosis
+• Mediastinal extension
+INVESTIGATIONS
+ESSENTIAL INVESTIGATIONS
+1. Contrast enhanced CT scan of head and neck is the standard in evaluation of neck space infections. If CT Scan facility is not available, following
+should be done:-
+a. Lateral x-ray neck: Prevertebral soft tissue thickening >7 mm at the level of C2 or > 2/3rd of the width of the vertebral body at C6 is highly
+suggestive of retropharyngeal abscess. It may also demonstrate foreign bodies, subcutaneous air, air fluid levels and erosion of vertebrae.
+b. Ultrasound neck can suggest abscess and guide aspiration attempts.
+2. Blood: Total and differential leukocyte count, blood sugar, urea
+3. Abscess Cultures with Gram stain to direct antimicrobial therapy. Anaerobic culture, when available.
+MANAGEMENT
+PHC/PRIMARY LEVEL DISTRICT HOSPITAL
+INDICATIONS FOR I&D
+1. Cautiously assess the 1. Hospitalization: As an emergency for close watch and intensive
+airway. If found management. • Necrotizing fibrofascitis
+compromised, do 2. Airway management: In progressive disease, in view of impending • Abscess formation
+endotracheal intubation/ airway compromise, consider securing the airway early. During acute • No response to antibiotics over
+consider tracheotomy respiratory difficulty, tracheostomy should be done if intubation is 48-72 hours
+2. Immediately gain an IV difficult • Deterioration despite antibiotics
+access for hydration, broad 3. Correction of fluid and electrolyte imbalance over 24 hours
+spectrum antibiotics and 4. Antibiotics: Early and aggressive IV antibiotic therapy with a • Airway compromise or impending
+pain killers. combination of Crystalline Penicillin, Aminoglycoside and airway compromise
+3. Transfer the patient to Metronidazole or Clindamycin is preferred. • Mediastinal spread
+hospital with facility for 5. Incision and drainage: Peritonsillar abscess is drained intraorally. All • Vascular complication like venous
+surgical drainage other abscesses are drained via an external approach thrombosis
+QUALITY ASSESSMENT PARAMETERS FOLLOW UP SERVICES
+Complete resolution of infection and follow up to ensure no recurrence; Consider cold tonsillectomy for patients with history of multiple
+treatment of initial cause of infection in tooth or tonsil. episodes of tonsillar abscess
+ABBREVIATIONS
+CT – Computerized tomography MRI – Magnetic resonance imaging
+REFERENCES
+1. Smith II JL, Hsu JM, Chang J (2006) Predicting deep neck space abscess using computed tomography. Am J Otolaryngol 27: 244-247.
+2. Mayor GP, Millán JMS, Martínez VA (2001) Is conservative treatment of deep neck space infections appropriate? Head And Neck 23: 126-133.
+3. Bottin R, Marioni G, Rinaldi R, Boninsegna M, Salvadori L, et al. (2003) Deep neck infection: A present day complication. A retrospective review of 83 cases. Eur Arch Otorhinolaryngol 260: 576-579.
+This STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and are
+based on expert opinions and available scientific evidence. There may be variations in the management of an individual patient based on his/her specific condition, as decided by the
+treating physician. There will be no indemnity for direct or indirect consequences. Kindly visit our web portal (stw.icmr.org.in) for more information.
+© Indian Council of Medical Research and Department of Health Research, Ministry of Health & Family Welfare, Government of India.
+October/
+2019
+n
+i
+.
+g
+r
+o
+.
+r
+m
+c
+i
+.
+w
+t
+s

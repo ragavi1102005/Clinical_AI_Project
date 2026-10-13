@@ -1,0 +1,178 @@
+--- Page 1 ---
+Department of Health Research
+Ministry of Health and Family Welfare, Government of India
+Standard Treatment Workflow
+GLOMERULAR DISEASES
+ICD-11-N005.9
+GLOMERULAR DISEASES
+IDENTIFY THE SYNDROME
+Glomerular diseases are
+Syndrome Key Features
+inflammatory or other
+disorders of the kidney’s
+Edema, frothy urine, hypoalbuminemia, hyperlipidemia.
+filtering units (glomeruli)
+Nephrotic Proteinuria (Nephrotic Range):
+causing proteinuria,
+Syndrome Adults: >3.5 g/1.73 m²/day or spot urine PCR >3 g/g
+hematuria, or edema, and
+Children: > 1000 mg/m2 per day or spot urine PCR >2 g/g
+presenting as nephrotic
+syndrome, nephritic syndrome,
+Nephritic Cola-coloured urine, oliguria, edema, hypertension,
+RPGN, urinary abnormalities,
+Syndrome Hematuria (± RBC casts), no or mild proteinuria
+AKI, or CKD.
+Rapidly Rapid increase of Serum Creatinine within days to weeks.
+Untreated cases may progress
+to ESKD Progressive May have constitutional symptoms, e.g. pulmonary hemorrhage,
+Glomerulonephritis fever, joint pains
+Isolated proteinuria or hematuria, usually detected on screening.
+Asymptomatic
+Repeat urine microscopy, dipstick, proteinuria quantification
+Urinary
+Refer to nephrologist if abnormalities persist
+Abnormalities
+NEPHROTIC SYNDROME
+Common Causes Key Tests Management Special Paediatric Precautions
+•Screen for TB before
+Children: Minimal
+steroid initiation (Mantoux,
+Change Disease
+(most common, CXR)
+steroid-responsive) •Avoid live vaccines during
+and 3 months after
+Adults: Minimal steroids
+Change Disease, •Regular growth and BP
+FSGS,
+monitoring
+Membranous
+•Avoid ACEi/ARB in
+Nephropathy,
+steroid-sensitive cases with
+Diabetic
+normal kidney function
+Nephropathy,
+•Relapses may occur, hence
+Lupus Nephritis
+look for proteinuria during
+intercurrent illness
+•Steroids in intercurrent ilness
+Common Causes
+Post-infectious GN, HSP (children) IgA nephropathy, lupus
+nephritis, vasculitis
+Key Tests
+Urinalysis (RBCs, RBC cast, protein)
+Serum creatinine
+C3/C4, ANA, anti-dsDNA
+ASO titre (if H/o sore throat or skin lesions)
+Management
+BP control (<130/80 adults; <95th percentile children)
+Supportive fluid management
+Avoid NSAIDs/nephrotoxins
+Treat underlying cause
+Refer if unresponsive or atypical
+GLOMERULAR DISEASES: DETECT EARLY, TREAT TIMELY, PREVENT CKD/ESKD
+July/
+2026
+PHC Level/CHC Level
+• Salt restriction
+• Urine Microscopy
+• Loop diuretics for edema (monitor Na+/K+; consider
+• Proteinuria quantifica-
+tion loop + thiazide for resistant edema; aim for 0.5–1
+• Serum albumin kg/day weight loss in adults)
+• Lipid profile • ACEi/ARB for proteinuria reduction Statins for
+• ANA, anti-dsDNA, C3, C4 dyslipidemia
+• Anti-PLA2R
+• Hepatitis B/C, HIV District hospital/Tertiary level
+• Myeloma profile (SPEP,
+• Steroid Protocol: To be done by specialised team
+serum free light chain
+• Children: Prednisolone 2 mg/kg/day (max 60 mg) × 6
+assay)
+weeks → 1.5 mg/kg (max 40 mg) on alternate days × 6
+• Blood Sugar F/PP
+weeks
+• Kidney Biopsy: as per
+• Adults: Treatment should be done as per kidney
+indication
+biopsy reports
+• Other tests as per clini-
+• Thromboprophylaxis if albumin <2.5 g/dL
+cal context
+NEPHRITIC SYNDROME RAPIDLY PROGRESSIVE GLOMERULONEPHRITIS (RPGN)
+Definition: Management
+Rapid renal decline (doubling of PHC Level/CHC Level
+creatinine within days–weeks)
+Immediate nephrology
+Causes:
+referral
+ANCA vasculitis, anti-GBM disease,
+District hospital/Tertiary level
+lupus nephritis, severe IgA
+Kidney Biopsy
+nephropathy , Pauci-immune Glo-
+IV methylprednisolone merulonephritis
+PHC Level/CHC Level 500–1000 mg × 3 days Key Tests:
+Urinalysis, serum creatinine Cyclophosphamide/rituximab
+ANCA (anti PR3, anti MPO titres), ± plasmapheresis
+anti-GBM, ANA, anti-dsDNA,
+complements C3, C4, CXR
+L o o k f o r coexisting diseases
+Red Flag Signs General Management
+REFERRAL TO NEPHROLOGIST (DISTRICT HOSPITAL
+• Respiratory distress Principles
+OR NEAREST AVAILABLE CENTRE)
+• Severe abdominal pain • Maintain BP target
+Immediate – Same Day (Red Flag Signs) • Unilateral limb swelling <130/80 mmHg (adults)
+• Oliguria or anuria or <95th percentile
+Rapidly Progressive Glomerulonephritis • Seizures (children)
+• Restrict salt (unless
+• Hypotension
+Pulmonary-renal syndrome
+paediatric without
+• Acute febrile illness
+edema)
+Suspected peritonitis in nephrotic syndrome
+• Reverse edema
+gradually to prevent
+Hypertensive emergency
+Look for complications hypovolemia
+Pregnancy • Malnutrition • Avoid NSAIDs and
+• Hypovolemia aminoglycosides
+• AKI • Maintain adequate
+nutrition and encourage
+• Thromboembolism
+physical activity
+• Infections
+Monitor regularly
+Infection Prevention
+• Update Vaccinations before starting • BP & weight - each visit
+immunosuppressive therapy, if possible • Urine Examination - monthly
+• Pneumococcal and annual inactivated • Serum creatinine and eGFR- (1–3
+influenza vaccines are safe and month) (more often in active disease)
+recommended
+• Monitor growth in children every
+• Maintain strict hygiene (handwashing,
+6 months
+safe food and drinking water)
+• Eye evaluation for posterior
+• While on immunosuppressive therapy,
+• subcapsular cataract every 6 months
+avoid crowded areas and wear mask
+ABBREVIATIONS
+ACR: Albumin-to-Creatinine Ratio CKD: Chronic Kidney Disease MCD: Minimal Change Disease
+AKI: Acute Kidney Injury dsDNA: Double-Stranded DNA NSAIDs: Non-Steroidal Anti-Inflammatory
+ANA: Antinuclear Antibody eGFR: Estimated Glomerular Filtration Rate Drugs
+ACEi: Angiotensin-Converting ESKD: End-Stage Kidney Disease RPGN: Rapidly Progressive
+Glomerulonephritis
+Enzyme Inhibitor FSGS: Focal Segmental Glomerulosclerosis
+SPEP: Serum Protein Electrophoresis
+C3/C4: Complement C3 and C4 HSP: Henoch-Schonlein Purpura
+REFERENCES
+1. KDIGO 2021 Clinical Practice Guidelines for the management of Glomerular Diseases, available at www.kdigo.org
+This STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines
+are advisory, and are based on expert opinions and available scientific evidence. There may be variations in the management of an individual patient based on
+his/her specific condition, as decided by the treating physician. There will be no indemnity for direct or indirect consequences. Kindly visit the website of ICMR for
+more information: (icmr.gov.in) for more information. ©Indian Council of Medical Research, Ministry of Health & Family Welfare, Government of India

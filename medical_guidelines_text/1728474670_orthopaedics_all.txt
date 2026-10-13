@@ -1,0 +1,421 @@
+--- Page 1 ---
+Department of Health Research
+Ministry of Health and Family Welfare, Government of India
+PARTNERS
+
+--- Page 2 ---
+of India
+
+--- Page 3 ---
+Department of Health Research
+Ministry of Health and Family Welfare, Government of India
+These STWs have been prepared by national experts of India
+with feasibility considerations for various levels of healthcare
+system in the country. These broad guidelines are advisory, and
+are based on expert opinions and available scientific evidence.
+There may be variations in the management of an individual
+patient based on his/her specific condition, as decided by the
+treating physician. There will be no indemnity for direct or
+indirect consequences. Kindly visit our web portal
+(stw.icmr.org.in) for more information.
+© Indian Council of Medical Research and Department of
+Health Research, Ministry of Health & Family Welfare,
+Government of India.
+
+--- Page 4 ---
+Suggested Citation: Standard Treatment Workflows
+of India, 2022, Edition, Vol. 3, New Delhi, Indian
+Council of Medical Research, Department of Health
+Research, Ministry of Health and Family Welfare,
+Government of India.
+© DHR and ICMR
+All rights reserved. No part of these workflows may be
+transmitted or reproduced in any form or by any
+means without prior permission from the
+organization.
+Printed in India
+
+--- Page 5 ---
+Department of Health Research
+Ministry of Health and Family Welfare, Government of India
+• INTRODUCTION
+• SPECIALITIES COVERED IN THIS EDITION
+Orthopaedics
+Septic arthritis
+Supracondylar fracture of Humerus in Children
+
+--- Page 6 ---
+INTRODUCTION
+Department of Health Research
+GOAL Ministry of Health and Family Welfare, Government of India
+To empower the primary, secondary and tertiary health care
+physicians/surgeons towards achieving the overall goal of
+Universal Health Coverage with disease management protocols
+and pre-defined referral mechanisms by decoding complex
+guidelines.
+OBJECTIVES
+To formulate treatment algorithms for common and serious
+medical & surgical conditions for both outdoor & indoor patient
+management at primary, secondary and tertiary levels of India’s
+healthcare system that are scientific, robust and locally
+contextual.
+METHODOLOGY
+Speciality
+wise Expert
+Committees
+ADVISORY ICMR
+COMMITTEE STW Team
+Editorial
+Output
+Board
+Mobile Web
+Book
+Apps Portal
+PROCESS OVERVIEW
+• Participation also from Public
+DEVELOP STWS
+Health Specialists Search
+CONVERT THEM
+Strategists Graphic Designers
+INTO
+INFOGRAPHICS
+TOPIC
+PRIORITIZATION
+REVIEW OF
+CURRENT • Review by Editorial Board
+• Prevalence studies GUIDELINES & • Approval by Advisory
+• Global burden of FEASIBILITY AS Committee
+PER HEALTH
+diseases studies
+SYSTEM
+• HBP of AB-PMJAY
+
+--- Page 7 ---
+ORTHOPAEDICS
+
+--- Page 8 ---
+Standard Treatment Workflow (STW)
+SEPTIC (PYOGENIC) ARTHRITIS
+ICD-M00
+SIGNS ASSESSMENT
+Fever with pain,
+swelling and
+∙ Swelling, erythema,
+Detailed medical
+inability to move the
+tenderness, painful
+history to look for
+joint
+SYMPTOMS limitation of joint motion,
+primary focus of
+painful limp
+infection
+Malaise and/ or
+∙ Patients may or may not including history
+listlessness, irritability,
+appear acutely ill or toxic of antecedent
+poor feeding,
+(especially malnourished/
+mild trauma
+immobility and joint
+immunocompromised
+dysfunction
+patients)
+INVESTIGATION
+WHEN TO SUSPECT
+Desirable
+Essential
+SEPTIC ARTHRITIS
+∙ Plain radiographs of affected joint
+∙ Hemogram with ESR
+∙ Ultrasound of affected joint • Cloudy or purulent
+∙ C-reactive protein (CRP)
+∙ Doppler to rule out DVT synovial fluid:
+∙ Blood culture
+∙ Renal and liver function • Synovial fluid white
+∙ Joint fluid aspirate for examination
+∙ ELISA serology for HIV, HBsAg, HCV blood cell count
+(Gram stain, aerobic and anaerobic
+∙ Blood sugar (FBS, PPBS/RBS) >100,000 cells/ mL
+culture and sensitivity (C&S) testing)
+∙ Synovial fluid for fungal and (neutrophils > 90%)
+mycobacterial staining with C&S for and Gram’s staining
+suspected cases • Synovial fluid glucose
+Optional
+∙ Serum Procalcitonin ∙ Synovial fluid for polarising microscopy level 50 mg/ dL less
+∙ CE-MRI (contrast-enhanced magnetic ∙ Synovial fluid examination for synovial than serum glucose
+resonance imaging) sugar and protein levels levels
+Clinical impression of septic arthritis No definite alternative diagnosis Definite alternative diagnosis
+Primary Care
+Refer immediately to higher centre after:
+Primary Care NOT SEPTIC
+1. Adequate analgesia
+Refer immediately to
+2. Immobilisation of the part
+higher centre after:
+3. First dose IV broad spectrum antibiotic (only if access
+• Inflammatory arthritis
+1. Adequate analgesia
+to higher centre will take more than 2-3 hours)
+• Crystal arthritis
+2. Immobilisation of
+• Haemarthrosis
+the part
+Higher Centre
+• Trauma
+• Same as above, plus
+• Joint aspiration for Gram stain + C&S • Bursitis or cellulitis
+• Radiograph and ultrasound of affected joint Higher Centre • Transient synovitis
+• IV antibiotic to be continued, change according to • Same as above, plus
+C&S report • Aspirate and
+• Surgical treatment as mentioned below
+investigate joint fluid Treat as appropriate
+• If requiring repeated surgery or atypical organism
+• Radiograph of
+obtain specialist’s consultation
+affected joint
+• IV antibiotic to be continued for two weeks,
+followed by oral antibiotics for four weeks
+• Conversion to oral antibiotics based on
+1. Clinical improvement
+2. Fall in inflammatory markers (CRP, ESR levels to
+be monitored every 2 days during hospital stay) Septic arthritis
+3. And resolution of systemic symptoms
+• Consult with microbiologist whenever available
+• Manage complications like DVT, osteomyelitis, Treatment as per septic
+pathological fracture arthritis protocol
+SURGICAL TREATMENT
+Surgical decompression: If surgery is
+Arthrotomy + thorough saline contraindicated: Serial
+lavage +/- suction drainage aspiration and lavage
+preferably under
+ultrasound guidance
+CLINICAL IMPROVEMENT
+INADEQUATE RESPONSE TO TREATMENT
+OR NO
+NO RESOLUTION OF SYMPTOMS
+YES
+• Incorrect causative organism - stop antibiotics and • Re-evaluate clinically and radiologically
+re-culture • Repeat arthrotomy
+• Modification of antibiotic treatment - seek microbiological
+• Debridement
+Continue
+advice
+• Repeat culture
+antibiotic • Alternative foci of infection or systemic sepsis
+• Further imaging (eg, MRI) - osteomyelitis might need • Consider microbiologist opinion
+surgical intervention • Think atypical infection
+REFERENCES
+1. Mathews CJ, Coakley G. Septic arthritis: current diagnostic and therapeutic algorithm. Curr Opin Rheumatol. 2008 Jul;20(4):457-62
+2. Mathews CJ, Kingsley G, Field M, Jones A, Weston VC, Phillips M, Walker D, Coakley G. Management of septic arthritis: a systematic review. Ann Rheum Dis. 2007 Apr;66(4):440-5
+3. Hassan AS, Rao A, Manadan AM, Block JA. Peripheral Bacterial Septic Arthritis: Review of Diagnosis and Management. J Clin Rheumatol. 2017 Dec;23(8):435-442
+4. Mathews CJ, Weston VC, Jones A, Field M, Coakley G. Bacterial septic arthritis in adults. Lancet. 2010 Mar 6;375(9717):846-55
+This STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and
+are based on expert opinions and available scientific evidence. There may be variations in the management of an individual patient based on his/her specific condition, as decided by
+the treating physician. There will be no indemnity for direct or indirect consequences. Kindly visit the website of DHR for more information: (stw.icmr.org.in) for more information.
+©Department of Health Research, Ministry of Health & Family Welfare, Government of India.
+July/
+2020
+Department of Health Research
+Ministry of Health and Family Welfare, Government of India
+MANAGEMENT
+KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES
+
+--- Page 9 ---
+Department of Health Research
+Ministry of Health and Family Welfare, Government of India
+Standard Treatment Workflow (STW)
+SUPRACONDYLAR FRACTURE OF HUMERUS IN CHILDREN
+ICD-10-S42.413A
+Pain, swelling and
+GARTLAND CLASSIFICATION OF
+loss of movement at
+SUPRACONDYLAR FRACTURES
+elbow
+Most
+commonly in
+children aged
+5-7 years
+TYPE I: TYPE II: TYPE III:
+CLINICAL PRESENTATION
+Undisplaced Displaced fracture with Completely displaced
+fracture variable angulation, fractures with cortical
+posterior cortical continuity discontinuity. Soft
+of humerus preserved tissue gap variable
+Fall on
+outstretched AP X-ray of type III
+arm supracondylar fractures
+Fracture is just above
+the epicondyles of
+Lateral X-ray of type III
+humerus (upper limb)
+supracondylar fractures
+EXAMINATION
+EXAMINATION DISTAL NEUROVASCULAR EXAMINATION (ALWAYS COMPARE WITH NORMAL LIMB)
+VASCULAR EXAMINATION NEUROLOGICAL
+• Swelling
+EXAMINATION
+• Deformity • Assess radial pulse WELL PERFUSED POORLY PERFUSED • Median nerve
+• Ecchymosis ∙ Assess vascular • Radial nerve
+• Limited active and passive perfusion Warm and pink Cold and pale • Ulnar nerve
+elbow motion Detailed examination of
+these nerves should be
+If vascular injury is suspected it should be treated as an emergency
+carried out if suspected
+INVESTIGATIONS
+ESSENTIAL DESIRABLE
+Radiographs: AP and lateral x-ray elbow. The comparative x-ray of
+Immediate arterial doppler/ CT angiography (in case of
+contralateral elbow should be done, if suspicion is strong and x-ray of
+suspected vascular injury)
+injured elbow appears normal
+TREATMENT
+MANAGEMENT OF MANAGEMENT OF CLOSED FRACTURES (IF X-RAY NOT AVAILBALE FOLLOW THE
+OPEN FRACTURES SIMILAR MANAGEMENT IN SITUATIONS OF SUSPICION)
+PRIMARY CARE
+PRIMARY CARE 1. Pain management
+1. Inj Tetanus toxoid 2. Splintage using triangular sling/ lateral elbow sling/ well padded moulded cramer wire splint in the
+2. Pain management position of deformity
+3. Liberal saline wash 3. If vascular injury is suspected it should be treated as an emergency
+4. Removal of visible dirt 4.Refer to higher centre
+and debris
+SECONDARY/ TERTIARY CARE (X-RAY AVAILABLE)
+5. Sterile dressing and
+splintage TYPE I: TYPE II: One attempt of closed TYPE III: supracondylar fractures/ flexion type/
+6. First dose antibiotic after Immobilise: reduction under anaesthesia with medial column collapse
+test dose (Broad Above elbow radiological control a) Neurovascular deficit absent: Closed
+a) Closed reduction possible: above reduction and percutanous pinning (CRPP)
+spectrum antibiotics) well padded
+elbow plaster cast in flexion of elbow b) Neurovascular deficit present: Open
+7. Refer to higher center cast with 90
+(10 degrees short of radial pulse) and Reduction and pinning;
+degree elbow
+pronation of forearm. Observe the C) Nerve injury without Vascular Injury: reduce
+flexion for
+patient for distal neuro-vascular fracture and observe for recovery of nerve injury
+SECONDARY/ TERTIARY CARE
+three weeks
+deficits and swelling for at least 24 for 3 weeks
+All of above plus Follow-up:
+hours. Follow-up Xray should be done in case of suspected/ proved distal neurovascular
+Reassess patient X-ray at 1 week at 5 days for any displacement injury refer to tertiary centre. Emergent closed
+to assess for b) Closed reduction failed/ reduction of displaced pediatric supracondylar
+displacement impossible: Open reduction and fractures must be performed in patients with
+pinning decreased perfusion of the hand
+These are signs of Compartment
+RED FLAG SIGNS FOR REFERRAL
+syndrome (Volkmann’s ischaemia)
+• Pain on passive stretching • Paresthesia • Paralysis
+and may require urgent fasciotomy,
+• Pallor • Pulselessness
+along with management of vascula r
+injury and fracture fixation
+This STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and
+are based on expert opinions and available scientific evidence. There may be variations in the management of an individual patient based on his/her specific condition, as decided by
+the treating physician. There will be no indemnity for direct or indirect consequences. Kindly visit the website of DHR for more information: (stw.icmr.org.in) for more information.
+©Department of Health Research, Ministry of Health & Family Welfare, Government of India.
+July/
+2020
+KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES
+
+--- Page 10 ---
+CONTRIBUTORS
+Department of Health Research
+Ministry of Health and Family Welfare, Government of India
+ADVISORY COMMITTEE
+CHAIRMAN
+Prof. (Dr.) Balram Bhargava, Secretary-DHR and DG-ICMR
+VICE CHAIRMAN
+Dr. Nikhil Tandon, AIIMS, New Delhi
+MEMBERS
+Dr. Anil Bhansali, Endocrinology, PGIMER, Chandigarh
+Mrs. Anu Nagar, Jt. Secretary, Dept. of Health Research, MoHFW, Govt. of India
+Dr. Ashok Deorari, Neonatology, AIIMS, New Delhi
+Dr. Binod K Khaitan, Dermatology, AIIMS, New Delhi
+Dr. Pramod Garg, Gastroenterology, TISHTI, Faridabad
+Dr. Radhika Tandon, Ophthalmology, AIIMS, New Delhi
+Dr. Rajdeep Singh, General Surgery, MAMC, New Delhi
+Dr. S. C. Goel, Orthopaedics, BHU, Varanasi
+Dr. Sandeep Agarwala, Paediatrics, AIIMS, New Delhi
+Dr. Sudeep Gupta, Oncology, TMC, Mumbai
+Dr. T. Sundararaman, Former Executive Director, NHSRC, New Delhi
+Dr. Usha Dutta, Gastroenterology, PGIMER, Chandigarh
+Ex officio Additional Secretary & MD (NHM), MoHFW, Govt. of India
+Ex officio Director General Health Services / Representative
+EDITORIAL BOARD
+EXTERNAL COMMITTEE
+Dr. Anil Bhansali, Endocrinology, PGIMER, Chandigarh
+Dr. Anurag Srivastava, Oncology, AIIMS, New Delhi
+Dr. Deepika Pandhi, Dermatology, UCMS, New Delhi
+Dr. Neeraj Gupta, Paediatrics, AIIMS, Jodhpur
+Dr. Radhika Tandon, Ophthalmology, RP Centre, AIIMS, New Delhi
+Dr. Rajdeep Singh, General Surgery, MAMC, New Delhi
+Dr. Usha Dutta, Gastroenterology, PGIMER, Chandigarh
+Dr. Vijay Jain, Orthopaedics, RML, New Delhi
+INTERNAL COMMITTEE
+Dr. R S Dhaliwal, Scientist G & Head (NCD), ICMR
+Dr. Ashoo Grover, Scientist F, ICMR
+Dr. Lokesh Kumar Sharma, Scientist E, ICMR
+Dr. Aparna Mukherjee, Scientist E, ICMR
+Dr. Jerin Jose Cherian, Scientist D, ICMR
+Dr. Saumya Srivastava Aggarwal, Project Scientist C, ICMR
+
+--- Page 11 ---
+EXPERT GROUPS
+Department of Health Research
+Ministry of Health and Family Welfare, Government of India
+ORTHOPAEDICS
+CHAIR
+Dr. S C Goel, BHU, Varanasi
+CO-CHAIR
+Dr. R Arya, VMMC & SJH, New Delhi
+MEMBERS
+Dr. Alok C Agarwal, AIIMS, Raipur
+Dr. C P Pal, SNMC, Agra
+Dr. Rohit Jindal, GMCH, Chandigarh
+Dr. S Rajshekaran, GH, Chennai
+Dr. Sanjeev Gaur, GMC, Bhopal
+Dr. Vijay Jain, RML, New Delhi
+Dr. Vineet Sharma, KGMU, Lucknow
+
+--- Page 12 ---
+Department of Health Research
+Ministry of Health and Family Welfare, Government of India
+CHIEF PATRON
+Dr Mansukh Mandaviya
+Union Minister for Health & Family Welfare
+PATRON
+Dr Bharati Pravin Pawar
+Union Minister of State for Health & Family Welfare
+ADVISOR
+Prof. Dr Balram Bhargava
+Secretary, DHR & Director General, ICMR
+ICMR STW TEAM
+Dr R S Dhaliwal, Scientist G & Head(NCD), ICMR
+Dr Ashoo Grover, Scientist F, ICMR
+Dr Lokesh Kumar Sharma, Scientist E, ICMR
+Dr Jerin Jose Cherian, Scientist D, ICMR
+Mr Neeraj Parmar, Technical Officer A, ICMR
+Dr Saumya Srivastava Aggarwal, Project Scientist C, ICMR
+Mr Dhiraj Kumar, Project Graphics Designer, ICMR
+ADMINISTRATION
+Shri R. Ramakrishnan, Sr DDG (Admin.), ICMR
+Shri Rajeev Roy, Sr FA, ICMR
+Dr R Lakshminarayanan, DDG(Admin.), ICMR
+Shri Jagdish Rajesh, ADG (Admin.), ICMR
+Shri Vinod Sharma, ADG(Finance), ICMR
+
+--- Page 13 ---
+of India
+Scan to access Standard Treatment Workflows
+App Store
+Web Portal Google Play
+
+--- Page 14 ---
+Department of Health Research
+Ministry of Health and Family Welfare, Government of India
+S T A N D A R D T R E A T M E N T
+W O R K F L O W S
+PARTNERS
+2022 EDITION
+VOLUME III

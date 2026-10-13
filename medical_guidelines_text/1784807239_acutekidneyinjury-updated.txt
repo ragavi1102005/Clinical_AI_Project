@@ -1,0 +1,127 @@
+--- Page 1 ---
+Department of Health Research
+Ministry of Health and Family Welfare, Government of India
+Standard Treatment Workflow (STW)
+ACUTE KIDNEY INJURY
+ICD-11-GB60
+PRELIMINARY ACTIONS
+SYMPTOMS
+• Monitor urine volume & body weight
+• Reduced urine output
+• Identify and treat complications
+• Dark, concentrated urine
+• Correct hydration status
+• Swelling over feet/face
+• Stop nephrotoxic drugs
+• Breathlessness • Exclude urinary outflow obstruction
+• Nausea, vomiting, reduced appetite • Stabilize blood pressure
+• Confusion or altered sensorium • Treat infection
+• Assess dialysis need
+• Optimize blood sugar level
+AKI RISK INCREASES IN THE PRESENCE OF
+• Hypotension DESIRABLE ACTIONS/INVESTIGATIONS
+• Volume loss (eg: vomiting, diarrhea, • Stage AKI (KDIGO criteria*)
+bleeding) • Check electrolytes, acid-base status Including serum
+calcium, phosphate, and uric acid
+• Heat exposure or heat stroke
+• Urinalysis- if proteinuria, hematuria rule out
+• Low effective arterial volume (Heart
+glomerulonephritis
+failure, decompensated liver disease)
+• CBC- hemolysis, low platelets- suggets TMA
+• Nephrotoxic/ indigenous drug use
+• Rule out pre-existing kidney disease
+WHAT IS AKI?
+• Plant and chemical toxins • Ultrasound of KUB region
+Increase in serum creati-
+• Radio contrast exposure • Assessment for infection
+nine ≥0.3 mg/dL in 48
+• Infections • Laboratory investigation for specific cause
+hours OR
+≥1.5× baseline within 7 • Animal bites/ stings • CPK level in suspected rhabdomyolysis
+• LDH, bilirubin for hemolysis
+days AND/OR • In neonates - oligohydramnios/birth
+• ECG, Chest X-ray
+urine output <0.5 mL/k- asphyxia, respiratory distress
+g/h for 6 hours.
+• Hemolysis
+AKI IN SPECIFIC SETTINGS
+• Rhabdomyolysis (Post trauma)
+*Criteria should be • Neonatal - refer to paediatrician
+• Pregnancy-related complications
+applied after excluding • Pregnancy - manage complications
+• Multiorgan failure
+urinary obstruction • Envenomations - antisnake venom, hemodynamic
+correction
+• Poisoning - specific antidote when available
+• Systemic disease - refer for investigations
+PRINCIPLES OF ASSESSMENT • Kidney transplant recipient - refer to nephrologist
+• Careful review of history and
+TREATMENT OF HYPERKALEMIA
+medications
+• 10 ml of 10% calcium gluconate over 2-5 minutes slow
+• Determine whether pre-renal, renal or
+IV under ECG monitoring, can be repeated upto 3 times
+post-renal
+• Inhaled Salbutamol : 10mg (4 respules of 2.5ml
+• Identify and correct reversible factors
+Salbutamol)
+• Look out for occult causes (e.g. • Insulin-dextrose: 10U in 50ml of 50% dextrose or 100ml
+envenomations, poisoning) of 25% dextrose
+• Determine severity of AKI • Avoid high potassium diet
+• Determine whether community • Withold medication likely to contribute to
+acquired or hospital acquired hyperkalemia (ACEi/ARB)
+• Urgent dialysis if life threatening
+• Potassium binders if dialysis unavailable
+MANAGEMENT
+PRIMARY CARE SECONDARY CARE TERTIARY CARE
+• Detailed history and physical • As in primary care • All interventions as in secondary care
+examination • Admit to healthcare facility, identify and correct urinary • Admission for stabilisation and further
+• Identify and correct volume deficit
+tract obstruction (USG, CT) evaluation
+• Stop nephrotoxic agents
+• Detailed investigation for infections • Kidney biopsy if indicated
+• Identify and correct bladder outlet
+• Manage pregnancy complications - deliver if indicated • Multidisciplinary consultation as
+obstruction
+• Look for underlying CKD indicated
+• Give anti-snake venom if indicated
+• Dialysis (PD or HD) • Dialysis (PD or HD or CRRT)
+• Identify hyperkalemia and start
+• Evaluate volume status • Plasma Exchange where indicated
+treatment
+• Viral screening for dialysis initiation
+• IV loop diuretics if fluid overload
+• Blood grouping and typing
+• Oxygen if pulmonary edema
+• PD if indicated • Baseline Chest X-ray and ECG
+• Timely referral after stabilisation • Look for any life threatening complications
+• Admission for stabilization and further evaluation
+RED FLAGS FOR URGENT INDICATIONS FOR DIALYSIS FOLLOW-UP OF AKI
+REFERRAL • Acidosis- refractory • UO > 1L, stable or falling creatinine, no symptoms: stop
+dialysis
+• Indications for dialysis
+• Electrolyte disturbance- hyperkalemia
+• Unexplained AKI • Not resolving for >2 weeks: CECT to exclude cortical
+• Involvement of other organs • Intoxications necrosis; kidney biopsy as indicated
+• Sepsis • Overload - refractory • Look for systemic diseases (e.g. vasculitis, myeloma,
+• Systemic disease TMA)
+• Uremic encephalopathy pericarditis
+• Complicated pregnancy • Serum creatinine and urine protein q 6-12 months for
+• Post Transplant life
+ABBREVIATIONS
+AKI: Acute Kidney Injury PD: Peritoneal dialysis CKD: Chronic Kidney Disease UO: Urine output
+CECT: Contrast-enhanced CT scan TMA: Thrombotic microangiopathy HD: Hemodialysis USG: Ultrasonography
+REFERENCE
+1. Kellum JA, Lameire N, Levin A, Stevens PE, and the KDIGO Consensus Conference participants. Harmonizing acute and chronic kidney disease
+definition and classification: report of a Kidney Disease: Improving Global Outcomes (KDIGO) Consensus Conference. Kidney International.
+2021;100(3):516–526
+2.*KIDNEY DISEASE: Improving Global Outcomes (KDIGO) Acute Kidney Injury Work Group. KDIGO Clinical Practice Guideline for Acute Kidney
+Injury. Kidney Int, Suppl. 2012; 2: 1–138
+STOP AKI: ACT FAST, PROTECT KIDNEYS
+This STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and
+are based on expert opinions and available scientific evidence. There may be variations in the management of an individual patient based on his/her specific condition, as decided by
+the treating physician. There will be no indemnity for direct or indirect consequences. Kindly visit our web portal (stw.icmr.org.in) for more information.
+© Indian Council of Medical Research and Department of Health Research, Ministry of Health & Family Welfare, Government of India.
+July/
+2026
