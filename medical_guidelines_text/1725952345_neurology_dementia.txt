@@ -1,16 +1,138 @@
 --- Page 1 ---
-Department of Health Research
-Ministry of Health and Family Welfare, Government of India
+Cognitive decline in
+more than one
+domain
+No
+No dementia
+Suspected dementia
+Delirium or Depression?
+Functional decline
+Yes
+No
+Yes
+Treat
+Yes
+No
+Follow up and Re-evaluation
+Yes
+Dementia
+Typical clinical profile (age, progression, no focal signs)
+Yes
+Probable AD
+ASHA
+PHC
+CHC
+DH
+VD/ mixed dementia
+Lab investigation
+TSH, vit. B12
+No
+Other causes
+Medical college
+Tertiary level centre
 Standard Treatment Workflow (STW) for the Management of
 DEMENTIA
 ICD 10 - F02,F03,G30
-Impaired memory Anxiety Hallucinations Incontinence
 CLINICAL
-Forgetting learned
-FEATURES OF Apathy Agression Mood fluctuations
-activities
+FEATURES OF
 DEMENTIA
-Depression Sleep disturbances Personality change
+Impaired memory
+Apathy Agression
+Depression
+Mood fluctuations
+Personality change Sleep disturbances
+Hallucinations Incontinence
+FOLLOW UP OF DIAGNOSED & TREATED PATIENTS INTERVENTION MATRIX FOR DEMENTIA ACROSS PLATFORMS OF CARE
+PRIMARY HEALTH CENTRE (MEDICAL OFFICER)
+DISTRICT HOSPITAL (SPECIALIST- PHYSICIAN/
+GERIATRIC SPECIALIST/ NEUROLOGIST/
+PSYCHIATRIST)
+EVALUATION OF DEMENTIA
+MEDICATIONS RECOMMENDED FOR USE FOR ALZHIEMERS DEMENTIA
+KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES
+FOR COGNITION
+• Donepezil: 5 mg once after breakfast x 1 month, then 10 mg after breakfast to continue
+If any side effect/ not tolerating: Rivastigmine to be used start dose 1.5 mg BD / 1 month then 3
+mg BD x 1 month, then 4.5 mg BD x 1 month, then 6 mg twice after meals only x 1 month.
+• Memantine: in moderate to severe dementia 5 mg BD x 1 month, then 10 mg BD to continue.
+• Galantamine: 8 mg BD if not tolerating 1
+FOR DEPRESSION
+• Escitalopram 10 mg
+FOR AGITATION
+• Identification of
+triggers
+• Non
+pharmacological
+interventions
+History and
+examination
+Lab investigation
+TSH,Vit B12, vit D
+LFT/RFT/FBS
+Neuropsychiatry
+testing
+Optional tests
+based on clinical
+features
+CT scan/MRI
+Anxiety
+• Not responding to
+adequate dose and
+duration of
+prescribed
+medications
+• Presence of red flags
+• Diagnose dementia after detailed history
+• Screeing for:
+- Treatable causes of dementia - thyroid disorders, B-12
+deficiency, subdural hemorrhage.
+- Depression.
+- Vascular risk factors
+• Lab investigations- CBC, biochemistry, liver function tests,
+hemogram, lipd profile, TFT, VDRL, vit B12 level, vit D level
+• Referrals for MRI/CT
+• Initiation of treatment/drugs; treatment for co-morbid
+conditions (including depression, vision, hearing deficits
+and gait problems), thyroid, arthritis.
+• Initiate therapy for vascular risk factors
+• Encourage healthy lifestyle
+• Assess for palliative care
+• Learn and share facts about dementia to provide
+immediate need to the person with severe dementia
+• Follow up and monitor for side effects of drugs/ red flags in
+patient/ signs of danger
+• Follow-up of difficult patients under the guidance of
+higher centre.
+• Careful evaluation of all the referral patients of dementia
+• Screening for treatable causes for dementia including
+normal pressure hydrocephalus, B12 deficiency,
+hypothyroidism, chronic meningitis
+• Neuroimaging CT/MRI- to rule out subdural hematoma/
+tumors/ NPH(surgically remediable causes of rapid
+cognitive decline)
+• Lab investigations- CBC, liver function tests, biochemistry,
+hemogram, lipd profile, vit D levels, TFT, VDRL, retrovirus
+after counselling (whenever feasible and high index of
+suspicion)
+• All the points mentioned in PHC to be followed if patient
+presents to a DH
+• Upward referral linkages with tertiary care and
+downward referral with PHC.
+• Encouraging patient and caregiver participation in an
+ongoing support program for them.
+• Avoid antipsychotics until necessary
+• Interaction with, training of MOs at PHC/UPHC and
+ongoing clinical support and supervision
+REASONS FOR
+REFERRAL
+RED FLAGS
+• Fever
+• Rapid progression
+• Seizures
+• Recent head
+injury
+• Alcoholism and
+falls
 IMPORTANT POINTS TO CONSIDER
 • Dementia is a complex and variable condition
 • No single test will definitively diagnose dementia
@@ -18,112 +140,6 @@ IMPORTANT POINTS TO CONSIDER
 • Assessment should aim at gathering information about changed behaviours, functional capacity, psychosocial support and medical
 comorbidities
 • History should be taken from a close caregiver, staying with the patient for a longer duration than the appearance of symptoms
-EVALUATION OF DEMENTIA
-No
-No dementia
-Cognitive decline in
-History and
-more than one examination
-domain
-ASHA
-Lab investigation
-Yes PHC
-Suspected dementia TSH,Vit B12, vit D
-CHC
-Yes LFT/RFT/FBS
-Treat Delirium or Depression? DH
-Yes
-No
-No Neuropsychiatry
-Functional decline Follow up and Re-evaluation
-testing
-Yes
-Medical college
-Dementia
-Tertiary level centre
-Optional tests
-No Yes
-based on clinical Typical clinical profile (age, progression, no focal signs) Probable AD
-features
-VD/ mixed dementia
-CT scan/MRI
-Lab investigation
-Other causes
-TSH, vit. B12
-FOLLOW UP OF DIAGNOSED & TREATED PATIENTS INTERVENTION MATRIX FOR DEMENTIA ACROSS PLATFORMS OF CARE
-DISTRICT HOSPITAL (SPECIALIST- PHYSICIAN/
-REASONS FOR
-PRIMARY HEALTH CENTRE (MEDICAL OFFICER)
-GERIATRIC SPECIALIST/ NEUROLOGIST/
-REFERRAL
-PSYCHIATRIST)
-• Not responding to
-adequate dose and
-• Diagnose dementia after detailed history • Careful evaluation of all the referral patients of dementia
-duration of
-• Screeing for: • Screening for treatable causes for dementia including
-prescribed
-- Treatable causes of dementia - thyroid disorders, B-12 normal pressure hydrocephalus, B12 deficiency,
-medications
-deficiency, subdural hemorrhage. hypothyroidism, chronic meningitis
-• Presence of red flags
-- Depression. • Neuroimaging CT/MRI- to rule out subdural hematoma/
-- Vascular risk factors tumors/ NPH(surgically remediable causes of rapid
-• Lab investigations- CBC, biochemistry, liver function tests, cognitive decline)
-hemogram, lipd profile, TFT, VDRL, vit B12 level, vit D level • Lab investigations- CBC, liver function tests, biochemistry,
-• Referrals for MRI/CT hemogram, lipd profile, vit D levels, TFT, VDRL, retrovirus
-RED FLAGS
-• Initiation of treatment/drugs; treatment for co-morbid after counselling (whenever feasible and high index of
-conditions (including depression, vision, hearing deficits suspicion)
-• Fever
-and gait problems), thyroid, arthritis. • All the points mentioned in PHC to be followed if patient
-• Rapid progression
-• Initiate therapy for vascular risk factors presents to a DH
-• Seizures
-• Encourage healthy lifestyle • Upward referral linkages with tertiary care and
-• Recent head
-• Assess for palliative care downward referral with PHC.
-injury
-• Learn and share facts about dementia to provide • Encouraging patient and caregiver participation in an
-• Alcoholism and
-immediate need to the person with severe dementia ongoing support program for them.
-falls
-• Follow up and monitor for side effects of drugs/ red flags in • Avoid antipsychotics until necessary
-patient/ signs of danger • Interaction with, training of MOs at PHC/UPHC and
-• Follow-up of difficult patients under the guidance of ongoing clinical support and supervision
-higher centre.
-MEDICATIONS RECOMMENDED FOR USE FOR ALZHIEMERS DEMENTIA
-FOR COGNITION
-FOR DEPRESSION FOR AGITATION
-• Donepezil: 5 mg once after breakfast x 1 month, then 10 mg after breakfast to continue
-• Escitalopram 10 mg • Identification of
-If any side effect/ not tolerating: Rivastigmine to be used start dose 1.5 mg BD / 1 month then 3
-triggers
-mg BD x 1 month, then 4.5 mg BD x 1 month, then 6 mg twice after meals only x 1 month.
-• Non
-• Memantine: in moderate to severe dementia 5 mg BD x 1 month, then 10 mg BD to continue.
-pharmacological
-• Galantamine: 8 mg BD if not tolerating 1
-interventions
-KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES
-October/
-2019
-n
-i
-.
-g
-r
-o
-.
-r
-m
-c
-i
-.
-w
-t
-s
-This STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and are
-based on expert opinions and available scientific evidence. There may be variations in the management of an individual patient based on his/her specific condition, as decided by the
-treating physician. There will be no indemnity for direct or indirect consequences. Kindly visit our web portal (stw.icmr.org.in) for more information.
-© Indian Council of Medical Research and Department of Health Research, Ministry of Health & Family Welfare, Government of India.
+Forgetting learned
+activities
+r/

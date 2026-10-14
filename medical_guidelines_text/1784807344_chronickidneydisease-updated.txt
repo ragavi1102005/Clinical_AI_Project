@@ -1,136 +1,168 @@
 --- Page 1 ---
-Department of Health Research
-Ministry of Health and Family Welfare, Government of India
 Standard Treatment Workflow (STW)
 CHRONIC KIDNEY DISEASE (CKD)
 ICD-11-GB61
-WHEN TO LOOK FOR CKD BP CONTROL (TARGET
-• History of long-standing nocturia, or constitutional symptoms <120/80)
-• Edema, hematuria, proteinuria or renal stones • Restrict dietary salt to <5 g/day
-• Long-term intake of painkillers or herbal medicines • Use any anti-HT available in local
-• Longstanding diabetes, hypertension, Heart Disease, stroke, PVD, Family formulary
-• BP <90th percentile & <120/80 in
-history of kidney disease, AKI in the past, Prediabetes, HIV, Recurrent UTI in
-Adolescents >13 yrs
-childhood, Developmental anomalies of the Kidney
-• Unexplained Anemia, Growth retardation, rickets ACE/ARB preferred*
-• Systemic diseases (eg. connective tissue disease) *Caution if Potassium >5.5 mEq/L
+NUTRITION
+• Salt restriction <5 g/day and protein intake 0.8 g/kg/day.
+• Do not restrict protein intake unless there is documented high protein
+consumption (Dairy and white meat are good protein sources; include a
+variety of dals)
+• Restrict potassium and salt substitutes in case of hyperkalemia.
+• Avoid fruit juices, coconut water, and carbonated beverages.
+• For children: Ensure adequate protein intake appropriate for age, with
+dietary recommendations as advised by the nephrologist
+MINERAL BONE DISEASE
+• Measure serum calcium,
+phosphorus, 25 OH vitamin D,
+PTH & alkaline phosphatase -
+if any abnormality, refer to
+Nephrologist
+• Oral sodium bicarbonate if
+venous bicarbonate <18 mEq/l
+ACEI/ARB, SGLT2I & Non-Steroidal
+MRAs retard CKD progression &
+reduce CV events - should be
+used when possible, with careful
+monitoring
+LOW POTASSIUM
+FRUITS/VEGETABLES
+Apple, pineapple, papaya, pear,
+tangerine, watermelon, grape,
+plum, cabbage, carrot, cauliflower,
+onion, radish, peppers, chillies,
+brinjal, cucumber, green beans
 EVALUATION OF NEWLY DIAGNOSED PATIENT WITH
-VACCINATION SCHEDULE FOR
 CKD
-NEWLY DIAGNOSED CKD PATIENT
 • Serum creatinine, electrolytes, bicarbonate
-• If HBV –ve: 20 µg IM in each deltoid
 • Estimate glomerular filtration rate using CKD-EPI
-at 0,1,2 and 6 months
 equation (>18 yrs) or Modified Schwartz equation (<18 yrs)
-• Pneumococcal, Shingles, Annual
 • Urinalysis/examine sediment, proteinuria quantitation
-Influenza Vaccine
-• Ultrasound of kidneys and urinary tract • In children – complete primary
-WHAT IS CKD?
-• Calcium, phosphate, alkaline phosphatase, albumin vaccination schedule
+• Ultrasound of kidneys and urinary tract
+• Calcium, phosphate, alkaline phosphatase, albumin
 • CBC including peripheral blood film
-Abnormalities of
 • Iron profile – Serum iron, TIBC, TSAT
-kidney structure or ANEMIA MANAGEMENT
-function, present for >3 • Establish iron replete state
-months, with INITIAL ASSESSMENT FOR • If not iron replete, give oral iron
-implications for health • Confirmation of CKD diagnosis (repeat tests after 3 • Consider IV iron for dialysis patients
-months) and those not tolerating orally
-• Staging and progression rate • If Iron Replete – start ESAs & titrate
-• Establishing cause of kidney disease to keep Hb 10–11 g/dl
-• Identify and treat reversible factors (hypertension,
-volume loss, obstruction, infection)
+WHEN TO LOOK FOR CKD
+• History of long-standing nocturia, or constitutional symptoms
+• Edema, hematuria, proteinuria or renal stones
+• Long-term intake of painkillers or herbal medicines
+• Longstanding diabetes, hypertension, Heart Disease, stroke, PVD, Family
+history of kidney disease, AKI in the past, Prediabetes, HIV, Recurrent UTI in
+childhood, Developmental anomalies of the Kidney
+• Unexplained Anemia, Growth retardation, rickets
+• Systemic diseases (eg. connective tissue disease)
+WHAT IS CKD?
+Abnormalities of
+kidney structure or
+function, present for >3
+months, with
+implications for health
+BP CONTROL (TARGET
+<120/80)
+• Restrict dietary salt to <5 g/day
+• Use any anti-HT available in local
+formulary
+• BP <90th percentile & <120/80 in
+Adolescents >13 yrs
+ACE/ARB preferred*
+*Caution if Potassium >5.5 mEq/L
+DIABETES CONTROL
+• Do not use metformin if eGFR <30
+• SGLT2i if eGFR >20 ml/min
+• Individualize HbA1c target
+ANEMIA MANAGEMENT
+• Establish iron replete state
+• If not iron replete, give oral iron
+• Consider IV iron for dialysis patients
+and those not tolerating orally
+• If Iron Replete – start ESAs & titrate
+to keep Hb 10–11 g/dl
 MANAGEMENT OF
-• Look for complications (anemia, bone disease,
 HYPERPHOSPHATEMIA (PO4>5.5)
-dys-electrolytemias, CVD)
 • Restrict Phosphate in Diet
 • Start with Ca-containing binders
-LIFESTYLE MEASURES FOR ALL CKD PATIENTS
 • Non Ca-binders can be used if
-• Weight control/weight gain monitoring in children
 serum Ca >9 mg/dl, vascular
-• Regular physical activity calcification or low iPTH
-• Reduce dietary salt intake to <5 g/day
-• Stop tobacco use in all forms
-DIABETES CONTROL
-• Stop alcohol use
-• Do not use metformin if eGFR <30
-• Stop using unproven health supplements
-• SGLT2i if eGFR >20 ml/min
-• Do not use NSAIDS
-• Individualize HbA1c target
-• Avoid untested indigenous medicines
-NUTRITION LOW POTASSIUM MINERAL BONE DISEASE
-• Salt restriction <5 g/day and protein intake 0.8 g/kg/day.
-FRUITS/VEGETABLES • Measure serum calcium,
-• Do not restrict protein intake unless there is documented high protein
-phosphorus, 25 OH vitamin D,
-Apple, pineapple, papaya, pear,
-consumption (Dairy and white meat are good protein sources; include a
-PTH & alkaline phosphatase -
-tangerine, watermelon, grape,
-variety of dals)
-if any abnormality, refer to
-plum, cabbage, carrot, cauliflower,
-• Restrict potassium and salt substitutes in case of hyperkalemia.
-Nephrologist
-onion, radish, peppers, chillies,
-• Avoid fruit juices, coconut water, and carbonated beverages.
-• Oral sodium bicarbonate if
-• For children: Ensure adequate protein intake appropriate for age, with brinjal, cucumber, green beans
-venous bicarbonate <18 mEq/l
-dietary recommendations as advised by the nephrologist
-MANAGEMENT
-PRIMARY CARE INDICATIONS FOR REFERRAL ACEI/ARB, SGLT2I & Non-Steroidal
-• Detailed history and physical examination • Initial evaluation of all newly diagnosed cases MRAs retard CKD progression &
-• Identify and correct reversible factors • Rapid disease progression reduce CV events - should be
-• Stop nephrotoxic agents used when possible, with careful
-• New complication
-• Referral after stabilization monitoring
-• Discussion for Renal Replacement Therapy (RRT)
-ADMISSION CRITERIA
+calcification or low iPTH
 DISTRICT HOSPITAL
-• Initial evaluation or when patient presents with specific
 • Detailed history and physical examination
-problems – like acute worsening, development of a new
 • Investigate to ascertain cause of CKD
-complication
 • Tailor treatment to cause
-• For creation of vascular access
 • Identify and manage complications
-• For PD catheter placement or initiation
 • Vaccination
-• Initiation on HD and for kidney transplant
 • Identify and correct acute factors
-• Counseling: nutrition, lifestyle, pregnancy in women of child-bearing age TERTIARY CARE
+• Counseling: nutrition, lifestyle, pregnancy in women of child-bearing age
 • Discussion regarding RRT
-• Detailed history and physical examination
 • Vascular access creation or PD Catheter insertion
+• Send patient back to community with treatment plan
+TERTIARY CARE
+• Detailed history and physical examination
 • Investigate to ascertain cause of CKD
-• Send patient back to community with treatment plan
 (imaging/biopsy/genetic studies)
-• Tailor treatment to cause PREPARATION FOR RENAL REPLACEMENT THERAPY
-• Identify and manage complications • eGFR <30: Preserve veins in the non-dominant arm for AV fistula
-• Vaccination • eGFR <30: Discuss RRT options
-• Counseling: nutrition, lifestyle, pregnancy in women of • Counsel for AVF
-child-bearing age • Dialysis start: To be decided by Nephrologist based on symptoms and
-• Discussion regarding RRT complications of renal failure
+• Tailor treatment to cause
+• Identify and manage complications
+• Vaccination
+• Counseling: nutrition, lifestyle, pregnancy in women of
+child-bearing age
+• Discussion regarding RRT
 • Vascular access creation/PD catheter insertion
-CONSERVATIVE CARE
 • Work-up for transplantation
-• If life expectancy limited, multiple comorbidities/personal preference
 • Send patient back to community with treatment plan
+PREPARATION FOR RENAL REPLACEMENT THERAPY
+• eGFR <30: Preserve veins in the non-dominant arm for AV fistula
+• eGFR <30: Discuss RRT options
+• Counsel for AVF
+• Dialysis start: To be decided by Nephrologist based on symptoms and
+complications of renal failure
+CONSERVATIVE CARE
+• If life expectancy limited, multiple comorbidities/personal preference
 • Decision-making should be shared with patient/family
 EARLY RECOGNITION. DECISIVE ACTION. PREVENT COMPLICATIONS
-This STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and
-are based on expert opinions and available scientific evidence. There may be variations in the management of an individual patient based on his/her specific condition, as decided by
-the treating physician. There will be no indemnity for direct or indirect consequences. Kindly visit our web portal (stw.icmr.org.in) for more information.
-© Indian Council of Medical Research and Department of Health Research, Ministry of Health & Family Welfare, Government of India.
-July/
-2026
+INITIAL ASSESSMENT FOR
+• Confirmation of CKD diagnosis (repeat tests after 3
+months)
+• Staging and progression rate
+• Establishing cause of kidney disease
+• Identify and treat reversible factors (hypertension,
+volume loss, obstruction, infection)
+• Look for complications (anemia, bone disease,
+dys-electrolytemias, CVD)
+LIFESTYLE MEASURES FOR ALL CKD PATIENTS
+• Weight control/weight gain monitoring in children
+• Regular physical activity
+• Reduce dietary salt intake to <5 g/day
+• Stop tobacco use in all forms
+• Stop alcohol use
+• Stop using unproven health supplements
+• Do not use NSAIDS
+• Avoid untested indigenous medicines
+VACCINATION SCHEDULE FOR
+NEWLY DIAGNOSED CKD PATIENT
+• If HBV –ve: 20 µg IM in each deltoid
+at 0,1,2 and 6 months
+• Pneumococcal, Shingles, Annual
+Influenza Vaccine
+• In children – complete primary
+vaccination schedule
+ADMISSION CRITERIA
+• Initial evaluation or when patient presents with specific
+problems – like acute worsening, development of a new
+complication
+• For creation of vascular access
+• For PD catheter placement or initiation
+• Initiation on HD and for kidney transplant
+MANAGEMENT
+PRIMARY CARE
+• Detailed history and physical examination
+• Identify and correct reversible factors
+• Stop nephrotoxic agents
+• Referral after stabilization
+INDICATIONS FOR REFERRAL
+• Initial evaluation of all newly diagnosed cases
+• Rapid disease progression
+• New complication
+• Discussion for Renal Replacement Therapy (RRT)
+ly
+ABBREVIATIONS
 ACEI: Angiotensin Converting
 Enzyme Inhibitor
 AKI: Acute Kidney Injury
@@ -150,16 +182,37 @@ Virus
 iPTH: Intact Parathyroid Hormone
 IV: Intravenous
 NSAIDs: Non-Steroidal Anti-Inflam-
-matory Drugs ABBREVIATIONS
-PD: Peritoneal Dialysis ACEI: Angiotensin Converting Enzyme Inhibitor Hb: Haemoglobin PO4: Phosphate
-PO4: Phosphate AKI: Acute Kidney Injury HbA1c: Haemoglobin A1c PVD: Peripheral Vascular Disease
-PVD: Peripheral Vascular Disease ARB: Angiotensin Receptor Blocker HBV: Hepatitis B Virus RRT: Renal Replacement Therapy
-RRT: Renal Replacement Therapy AV Fistula: Arterio-Venous Fistula HIV: Human Immunodeficiency Virus SGLT2I: Sodium Glucose Transporter
-SGLT2I: Sodium Glucose BP: Blood Pressure iPTH: Intact Parathyroid Hormone 2 inhibitor
-Transporter 2 inhibitor Ca: Calcium IV: Intravenous TIBC: Total Iron Binding Capacity
-TIBC: Total Iron Binding Capacity eGFR: Estimated Glomerular Filtration Rate NSAIDs: Non-Steroidal Anti-Inflammatory Drugs TSAT: Transferrin Saturation
-TSAT: Transferrin Saturation ESA: Erythropoiesis Stimulating Agents PD: Peritoneal Dialysis UTI: Urinary Tract Infection
+matory Drugs
+PD: Peritoneal Dialysis
+PO4: Phosphate
+PVD: Peripheral Vascular Disease
+RRT: Renal Replacement Therapy
+SGLT2I: Sodium Glucose
+Transporter 2 inhibitor
+TIBC: Total Iron Binding Capacity
+TSAT: Transferrin Saturation
 UTI: Urinary Tract Infection
-REFERENCES
-1. Kidney Disease: Improving Global Outcomes (KDIGO) CKD Work Group. KDIGO 2024 Clinical Practice Guideline for the Evaluation and Man-
-agement of Chronic Kidney Disease. Kidney Int. 2024 Apr;105(4S):S117-S314. doi: 10.1016/j.kint.2023.10.018. PMID: 38490803
+ACEI: Angiotensin Converting Enzyme Inhibitor
+AKI: Acute Kidney Injury
+ARB: Angiotensin Receptor Blocker
+AV Fistula: Arterio-Venous Fistula
+BP: Blood Pressure
+Ca: Calcium
+eGFR: Estimated Glomerular Filtration Rate
+ESA: Erythropoiesis Stimulating Agents
+Hb: Haemoglobin
+HbA1c: Haemoglobin A1c
+HBV: Hepatitis B Virus
+HIV: Human Immunodeficiency Virus
+iPTH: Intact Parathyroid Hormone
+IV: Intravenous
+NSAIDs: Non-Steroidal Anti-Inflammatory Drugs
+PD: Peritoneal Dialysis
+PO4: Phosphate
+PVD: Peripheral Vascular Disease
+RRT: Renal Replacement Therapy
+SGLT2I: Sodium Glucose Transporter
+2 inhibitor
+TIBC: Total Iron Binding Capacity
+TSAT: Transferrin Saturation
+UTI: Urinary Tract Infection

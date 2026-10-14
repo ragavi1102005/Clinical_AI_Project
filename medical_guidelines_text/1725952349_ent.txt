@@ -1,6 +1,4 @@
 --- Page 1 ---
-Department of Health Research
-Ministry of Health and Family Welfare, Government of India
 PARTNERS
 
 --- Page 2 ---
@@ -18,8 +16,6 @@ organization.
 Printed in India
 
 --- Page 4 ---
-Department of Health Research
-Ministry of Health and Family Welfare, Government of India
 These STWs have been prepared by national experts of India with
 feasibility considerations for various levels of healthcare system in
 the country. These broad guidelines are advisory, and are based on
@@ -27,13 +23,10 @@ expert opinions and available scientific evidence. There may be
 variations in the management of an individual patient based on
 his/her specific condition, as decided by the treating physician.
 There will be no indemnity for direct or indirect consequences.
-Kindly visit our web portal (stw.icmr.org.in) for more information.
 © Indian Council of Medical Research and Department of Health
 Research, Ministry of Health & Family Welfare, Government of India.
 
 --- Page 5 ---
-Department of Health Research
-Ministry of Health and Family Welfare, Government of India
 • INTRODUCTION
 ENT
 ACUTE RHINOSINUSITIS
@@ -46,13 +39,48 @@ PHARYNGITIS AND SORE THROAT
 
 --- Page 6 ---
 INTRODUCTION
-Department of Health Research
-Ministry of Health and Family Welfare, Government of India
 GOAL
 To empower the primary, secondary and tertiary care physicians/ surgeons towards
 achieving the overall goal of Universal Health Coverage with disease management
 protocols and pre-defined referral mechanisms by decoding complex guidelines
 OBJECTIVES
+METHODOLOGY
+PROCESS OVERVIEW
+ADVISORY
+COMMITTEE
+STW SECRETARIAT DESIGN TEAM
+EXPERT GROUPS COMMITTEES
+EDITORIAL BOARD
+• Prevalence studies
+• Global burden of
+diseases studies
+• HBP of AB-PMJAY
+Harrison’s Textbook
+Oxford Handbook
+• Review by Editorial Board
+• Approval by Advisory
+Committee
+• Public Comments
+• 100 Meetings 650 hours
+Consultations
+(5200 person hours)
+• Participation also from
+Public Health Specialists
+Search Strategists
+Clinical Scientists
+TOPIC
+PRIORITIZATION
+DEVELOP STWS &
+CONVERT THEM
+INTO
+INFOGRAPHICS
+REVIEW OF
+CURRENT
+GUIDELINES &
+FEASIBILITY AS
+PER HEALTH
+SYSTEM
+Graphic Designers
 Primary Objective:
 To formulate clinical decision making protocols for common and serious medical/
 surgical conditions for both OPD and IPD management at primary, secondary and
@@ -61,210 +89,102 @@ services which are locally contextual
 Secondary Objective:
 To facilitate PMJAY arm of Ayushman Bharat with secondary and tertiary level
 management of all surgical and medical conditions covered under the scheme.
-METHODOLOGY
-ADVISORY
-COMMITTEE
-STW SECRETARIAT EDITORIAL BOARD DESIGN TEAM
-EXPERT GROUPS COMMITTEES
-PROCESS OVERVIEW
-• 100 Meetings 650 hours
-Consultations
-DEVELOP STWS & (5200 person hours)
-CONVERT THEM
-• Participation also from
-INTO
-Public Health Specialists
-INFOGRAPHICS
-TOPIC Search Strategists
-PRIORITIZATION
-Clinical Scientists
-Graphic Designers
-• Prevalence studies
-• Global burden of REVIEW OF • Review by Editorial Board
-CURRENT
-diseases studies • Approval by Advisory
-GUIDELINES &
-• HBP of AB-PMJAY FEASIBILITY AS Committee
-PER HEALTH • Public Comments
-SYSTEM
-Harrison’s Textbook
-Oxford Handbook
 
 --- Page 7 ---
 ENT
 
 --- Page 8 ---
-Department of Health Research
-Ministry of Health and Family Welfare, Government of India
 Standard Treatment Workflow (STW) for the Management of
 ACUTE RHINOSINUSITIS
 ICD 10 J01.90
-RELATED CLINICAL SCENARIOS
-Recurrent acute sinusitis is episodes of acute sinusitis interspersed
-with symptom free intervals of more than 3 months in duration.
-WHEN TO SUSPECT?
-Symptoms with duration less than 7 days are treated as viral
-Usually a sequela of viral
-upper respiratory infection.
-infection which causes
-ciliary impairment and
-bacterial superinfection
-Diagnosis- persistence of
-nasal blockage/ nasal
-discharge and facial pain/
-hyposmia beyond 7 days Invasive fungal sinusitis is suspected if in addition to above symptoms
-(maximum upto 3 months) the following are present: facial hyposthesia, facial skin/palatal/ turbinate
-discoloration and proptosis/ diplopia/ reduced or loss of vision
-Children may present with acute febrile illness/cough
-associated with these symptoms.
-ALTERNATIVE CLINICAL SCENARIOS
-∙ Consider alternate diagnosis if: Unilateral symptoms/ Bleeding/ Crusting/ Cacosmia (foul smell)
-∙ Rule out other contributory factors: Allergy/ upper alveolar dental caries/ DNS/ LPR/ smoking.
-∙ Rhinorrhoea and nasal congestion in second trimester of pregnancy is considered hormonal in etiology and is to be managed with
-saline irrigation/ drops
+CLINICAL EXAMINATION
+INDICATIONS OF PARENTERAL
+ANTIBIOTIC THERAPY
+∙ Orbital/ intracranial
+complications
+∙ Non-resolution of symptoms
+with atleast 7 days of oral
+antibiotics
+∙ Worsening of symptoms while
+on oral antibiotics
+PRELIMINARY
+∙ Anterior rhinoscopy: Discharge, bleeding, crusting, polyposis
+∙ Oral examination: Dental caries, post nasal drip, palatal discolouration
+∙ Assess for contributory factors listed above
+DESIRABLE
+∙ Nasal endoscopy
 RED FLAGS FOR REFERRAL TO DISTRICT HOSPITAL
 ∙ Known diabetic/ immunocompromised
 ∙ Suspicion of complications viz. (A) Orbital involvement (Periorbital edema/ erythema, displaced globe,
 ophthalmoplegia, visual disturbance); (B) Meningitis/ altered sensorium; (C) Frontal fullness.
 ∙ Non-resolution with oral antibiotics for ten days
 ∙ Pointers of invasive fungal sinusitis (Facial hypoesthesia, facial skin/palatal/turbinate discoloration)
-CLINICAL EXAMINATION LABORATORY INVESTIGATIONS
-PRELIMINARY Desirable in non-resolving/worsening cases despite antibiotic
+LABORATORY INVESTIGATIONS
+Desirable in non-resolving/worsening cases despite antibiotic
 therapy
-∙ Anterior rhinoscopy: Discharge, bleeding, crusting, polyposis
-∙ Oral examination: Dental caries, post nasal drip, palatal discolouration
-∙ Assess for contributory factors listed above ∙ Endoscopy- for guided nasal swabs/ KOH smear
+∙ Endoscopy- for guided nasal swabs/ KOH smear
 ∙ CT PNS (for suspected complications / non-resolving cases on
 antibiotics for 14 days)
-DESIRABLE
 ∙ Screen for Diabetes / Immunodeficiency
-∙ Nasal endoscopy
 MANAGEMENT
 PHC / PRIMARY LEVEL
-Duration of treatment 7-14 days INDICATIONS OF PARENTERAL
-ANTIBIOTIC THERAPY
+Duration of treatment 7-14 days
 ∙ Oral antibiotics- Amoxycillin/ Co-amoxyclav for 7-10 days. Levofloxacin and Azithromycin can be
-opted for patients intolerant/ sensitive to penicillins. ∙ Orbital/ intracranial
-∙ Topical budesonide/ mometasone nasal spray once/twice a day for 2 weeks provides earlier complications
-symptomatic relief. ∙ Non-resolution of symptoms
-∙ Normal saline nasal washes help in clearing secretions and improved effect of topical with atleast 7 days of oral
+opted for patients intolerant/ sensitive to penicillins.
+∙ Topical budesonide/ mometasone nasal spray once/twice a day for 2 weeks provides earlier
+symptomatic relief.
+∙ Normal saline nasal washes help in clearing secretions and improved effect of topical
 medications
-antibiotics
 ∙ Topical/ oral decongestant (Oxymetazline/ pseudoephedrine) for 3-5 days relieves symptoms.
-∙ Worsening of symptoms while
 ∙ Adequate hydration and steam inhation.
-on oral antibiotics
 ∙ Antihistaminics (patients with co-existing allergy).
 DISTRICT HOSPITAL
-TERTIARY LEVEL
 • Surgical interventions to manage: Underlying anatomical conditions causing recurrent acute
-Cases of acute invasive fungal sinusitis/
 sinusitis like- DNS/ adenoid hypertrophy/ anatomical variations seen on CT
-complicated acute bacterial sinusitis
 • Ophthalmology referral for suspected intraorbital complications
-and patients with
 • Dental deferral for suspected dental origin infection.
-immunocompromised status may be
 • Invasive fungal sinusitis- start antifungal medications, control underlying
-referred for management.
 immunocompromising co-morbidity and consider debridement.
+TERTIARY LEVEL
+Cases of acute invasive fungal sinusitis/
+complicated acute bacterial sinusitis
+and patients with
+immunocompromised status may be
+referred for management.
 KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES
-CT: Computerized Tomogram DNS: Deviated Nasal Septum
+CT: Computerized Tomogram
+PHC: Primary Health Center
+DNS: Deviated Nasal Septum
+LPR: Laryngo Pharyngeal Reflux
 ABBREVIATIONS
-PHC: Primary Health Center LPR: Laryngo Pharyngeal Reflux
-REFERENCES
-1. Indian Council of Medical Research. Treatment Guidelines for Antimicrobial Use in Common Syndromes. New Delhi, India, 2017.
-2. Fokkens W, Lund V, Mullol J, et al. EPOS 2012: European Position Paper on Rhinosinusitis and Nasal Polyps 2012. Rhinol 2012;50(Suppl 23):1-298.
-3. Sharma V, Saxena RK, Sharma S, Sharma G, Dhasmana DC, Mishra KC. Comparative Efficacy and safety of various anti-microbials in patients of acute rhinosinusitis at tertiary-care hospital in Uttarakhand. Indian
-Jour Otol Head & Neck Surg, 2011, Oct ; 63 (4): 364 - 9
-4. Blomgren K, Eliander L, Hytönen M, Ylinen S, Laitio M, Virkkula P. How patients experience antral irrigation. Clin Med Insights Ear Nose Throat. 2015;8:13-7.
-October/
-2019
-This STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and are
-based on expert opinions and available scientific evidence. There may be variations in the management of an individual patient based on his/her specific condition, as decided by the
-treating physician. There will be no indemnity for direct or indirect consequences. Kindly visit our web portal (stw.icmr.org.in) for more information.
-© Indian Council of Medical Research and Department of Health Research, Ministry of Health & Family Welfare, Government of India.
+WHEN TO SUSPECT?
+Usually a sequela of viral
+infection which causes
+ciliary impairment and
+bacterial superinfection
+Diagnosis- persistence of
+nasal blockage/ nasal
+discharge and facial pain/
+hyposmia beyond 7 days
+(maximum upto 3 months)
+Recurrent acute sinusitis is episodes of acute sinusitis interspersed
+with symptom free intervals of more than 3 months in duration.
+Symptoms with duration less than 7 days are treated as viral
+upper respiratory infection.
+Invasive fungal sinusitis is suspected if in addition to above symptoms
+the following are present: facial hyposthesia, facial skin/palatal/ turbinate
+discoloration and proptosis/ diplopia/ reduced or loss of vision
+Children may present with acute febrile illness/cough
+associated with these symptoms.
+RELATED CLINICAL SCENARIOS
+∙ Consider alternate diagnosis if: Unilateral symptoms/ Bleeding/ Crusting/ Cacosmia (foul smell)
+∙ Rule out other contributory factors: Allergy/ upper alveolar dental caries/ DNS/ LPR/ smoking.
+∙ Rhinorrhoea and nasal congestion in second trimester of pregnancy is considered hormonal in etiology and is to be managed with
+saline irrigation/ drops
+ALTERNATIVE CLINICAL SCENARIOS
+r/
 
 --- Page 9 ---
-Department of Health Research
-Ministry of Health and Family Welfare, Government of India
-Standard Treatment Workflow (STW) for the Management of
-CHRONIC RHINOSINUSITIS
-ICD 10 - J32.9
-EXAMINE THE NOSE FOR NASAL POLYPI
-RULE OUT FOLLOWING
-TWO PHENOTYPES
-PRECIPITATING/
-• Chronic sinusitis with nasal polypi (CRSwNP)
-EXACERBATING CONDITIONS
-• Chronic sinusitis without nasal polypi (CRSsNP)
-• Occupational exposure
-to irritants/ pollutants
-(refer to hyperlink)
-Signs of meningitis/
-• Allergic rhinitis, aspirin
-sensitivity, asthma, Frontal intracranial
-WHEN TO SUSPECT? laryngopharyngeal swelling complications
-a. Fever with headache
-If symptoms persist for reflux, smoking
-b. Neck stiffness
-more than 12 weeks: • Adenoid hypertrophy,
-c. Photophobia
-bottle feeding, passive d. Altered sensorium
-nasal obstruction/
-smoking in children e. Vomiting
-nasal discharge and • Medications and RED Orbital symptoms
-facial pain/ reduced hormones associated a. Periorbital edema/ erythema
-sense of smell FLAG b. Displaced globe
-with nasal congestion
-c. Double or reduced vision (loss of
-(NSAIDS,
-green-red color differentiation may
-antihypertensive,
-be the first sign)
-psychotropic drugs,
-d. Ophthalmoplegia
-prolonged use of Known diabetic/ AIDS/
-topical nasal immunosuppressive
-decongestants) medications (suspect
-invasive fungal sinusitis)
-TREATMENT OF CRS
-IN ALL PATIENTS,
-• Mild/ moderate symptoms (no significant congestion/ discharge/
-ESPECIALLY IN THE
-polypi/complications)
-1. Address etiology and exacerbating factors. PRESENCE OF NASAL
-2. For allergic rhinitis, antihistamines and nasal steroid spray to be POLYPI, RULE OUT
-given.
-ALLERGY/ALLERGIC
-3. Saline nasal wash
-4. Steam inhalation RHINITIS
-5. Stretching exercises and yoga are very effective for nasal congestion 1. Consider allergen
-6. Topical (oxymetazoline/ xylometazoline) and oral decongestants are avoidance
-associated with cardiovascular risks and rebound phenomenon. 2. Skin prick test
-Hence, careful patient selection and short course treatment to be 3. Co-existing bronchial
-followed. asthma needs to be
-7. Intra nasal steroid sprays for 6-8weeks (Fluticasone proprionate/ treated
-Fluticasone furoate/ Mometasone) after discussing risk - benefit - 4. Consider AIT if indicated.
-cost issues with patient regarding steroid sprays
-If no symptomatic relief to above treatment, perform nasal endoscopy
-and consider NCCT of paranasal sinuses
-In presence of nasal purulent discharge
-1. Culture directed antibiotics to be considered HYPERLINK
-2. If culture is negative, empirical antibiotics (Amoxycillin/
-(https://www.dovemed.c
-Co-amoxyclav/ Fluoroquinolone/ Roxithromycin) to be given for at
-om/diseases-conditions/
-least 2weeks.
-airborne-irritant-induce
-3. Upper dental (particularly 1st molar) infection may cause maxillary
-d-sinusitis/)
-sinusitis which is to be treated with metronidazole.
-• In the presence of nasal polypi, initial nasal steroid spray and subsequent
-endoscopic surgery is to be planned.
-1. Short course of oral steroid (Prednisolone 0.5 mg/kg for 5 - 10 days)
-provides temporary relief in nasal obstruction in extensive polypi.
-2. Steroid therapy is not a replacement for surgery.
 Always rule out
 DNS/ nasal polypi
 in CRS, as surgical
@@ -273,65 +193,217 @@ necessary for
 complete
 resolution of
 symptoms.
+Standard Treatment Workflow (STW) for the Management of
+CHRONIC RHINOSINUSITIS
+ICD 10 - J32.9
+WHEN TO SUSPECT?
+If symptoms persist for
+more than 12 weeks:
+nasal obstruction/
+nasal discharge and
+facial pain/ reduced
+sense of smell
+EXAMINE THE NOSE FOR NASAL POLYPI
+TWO PHENOTYPES
+• Chronic sinusitis with nasal polypi (CRSwNP)
+• Chronic sinusitis without nasal polypi (CRSsNP)
+RULE OUT FOLLOWING
+PRECIPITATING/
+EXACERBATING CONDITIONS
+• Occupational exposure
+to irritants/ pollutants
+(refer to hyperlink)
+• Allergic rhinitis, aspirin
+sensitivity, asthma,
+laryngopharyngeal
+reflux, smoking
+• Adenoid hypertrophy,
+bottle feeding, passive
+smoking in children
+• Medications and
+hormones associated
+with nasal congestion
+(NSAIDS,
+antihypertensive,
+psychotropic drugs,
+prolonged use of
+topical nasal
+decongestants)
+AIT: Allergen Immuno Therapy DNS: Deviated Nasal Septum
+CT: Computerized Tomogram
 ABBREVIATIONS
-CT: Computerized Tomogram AIT: Allergen Immuno Therapy DNS: Deviated Nasal Septum
-REFERENCES
-• Fokkens W, Lund V, Mullol J, et al. EPOS 2012: European Position Paper on Rhinosinusitis and Nasal Polyps 2012. Rhinol 2012;50(Suppl 23):1-298.
-• Cain RB, Lal D. Update on the management of chronic rhinosinusitis. Infect Drug Resist. 2013;6:1-14.
-• Ah-See KL, MacKenzie JM, As-See KW. Management of chronicrhinosinusitis. BMJ. 2012;345:e7054.
-• Slovick A, Long J, Hopkins C: Updates in the management of chronic rhinosinusitis. Clin Pract. 2014;11(6):649–63. 10.2217/cpr.14.71
-This STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and are
-based on expert opinions and available scientific evidence. There may be variations in the management of an individual patient based on his/her specific condition, as decided by the
-treating physician. There will be no indemnity for direct or indirect consequences. Kindly visit our web portal (stw.icmr.org.in) for more information.
-© Indian Council of Medical Research and Department of Health Research, Ministry of Health & Family Welfare, Government of India.
-October/
-2019
+HYPERLINK
+(https://www.dovemed.c
+om/diseases-conditions/
+airborne-irritant-induce
+d-sinusitis/)
+RED
+FLAG
+Orbital symptoms
+a. Periorbital edema/ erythema
+b. Displaced globe
+c. Double or reduced vision (loss of
+green-red color differentiation may
+be the first sign)
+d. Ophthalmoplegia
+Signs of meningitis/
+intracranial
+complications
+a. Fever with headache
+b. Neck stiffness
+c. Photophobia
+d. Altered sensorium
+e. Vomiting
+Frontal
+swelling
+Known diabetic/ AIDS/
+immunosuppressive
+medications (suspect
+invasive fungal sinusitis)
+IN ALL PATIENTS,
+ESPECIALLY IN THE
+PRESENCE OF NASAL
+POLYPI, RULE OUT
+ALLERGY/ALLERGIC
+RHINITIS
+1. Consider allergen
+avoidance
+2. Skin prick test
+3. Co-existing bronchial
+asthma needs to be
+treated
+4. Consider AIT if indicated.
+• Mild/ moderate symptoms (no significant congestion/ discharge/
+polypi/complications)
+1. Address etiology and exacerbating factors.
+2. For allergic rhinitis, antihistamines and nasal steroid spray to be
+given.
+3. Saline nasal wash
+4. Steam inhalation
+5. Stretching exercises and yoga are very effective for nasal congestion
+6. Topical (oxymetazoline/ xylometazoline) and oral decongestants are
+associated with cardiovascular risks and rebound phenomenon.
+Hence, careful patient selection and short course treatment to be
+followed.
+7. Intra nasal steroid sprays for 6-8weeks (Fluticasone proprionate/
+Fluticasone furoate/ Mometasone) after discussing risk - benefit -
+cost issues with patient regarding steroid sprays
+If no symptomatic relief to above treatment, perform nasal endoscopy
+and consider NCCT of paranasal sinuses
+In presence of nasal purulent discharge
+1. Culture directed antibiotics to be considered
+2. If culture is negative, empirical antibiotics (Amoxycillin/
+Co-amoxyclav/ Fluoroquinolone/ Roxithromycin) to be given for at
+least 2weeks.
+3. Upper dental (particularly 1st molar) infection may cause maxillary
+sinusitis which is to be treated with metronidazole.
+• In the presence of nasal polypi, initial nasal steroid spray and subsequent
+endoscopic surgery is to be planned.
+1. Short course of oral steroid (Prednisolone 0.5 mg/kg for 5 - 10 days)
+provides temporary relief in nasal obstruction in extensive polypi.
+2. Steroid therapy is not a replacement for surgery.
+TREATMENT OF CRS
+r/
+Identification of
+precipitating or
+exacerbating
+factors is the key
+to successful
+treatment
+outcome.
+Ensure adherence
+to nasal saline
+washes / regular
+physical activity /
+medications.
+Educate patients
+on correct
+technique of using
+steroid nasal sprays
+and nasal irrigation.
 Prolonged use of
-Ensure adherence Educate patients
-Identification of topical nasal
-1 precipitating or 2 3 to nasal saline 4 on correct 5 decongestant beyond
-washes / regular technique of using
-exacerbating 5-7 days may cause
-physical activity / steroid nasal sprays
-factors is the key rebound congestion
-medications. and nasal irrigation.
-to successful and rhinitis
-treatment medicamentosa and to
-outcome. be strongly
+topical nasal
+decongestant beyond
+5-7 days may cause
+rebound congestion
+and rhinitis
+medicamentosa and to
+be strongly
 discouraged.
+1 2 3 4 5
 
 --- Page 10 ---
-Department of Health Research
-Ministry of Health and Family Welfare, Government of India
 Standard Treatment Workflow (STW) for the Management of
 EPISTAXIS
 ICD-10-R04.0
+KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES
+ESSENTIAL
+1. Hemoglobin level
+2. Coagulation profile
+3. Complete blood count
+DESIRABLE
+CT scan with contrast in cases with no
+obvious cause// suspected benign or
+malignant lesion
+INVESTIGATIONS
+FOLLOW UP SERVICES
+1. Continued nasal lubrication for 2 weeks with liquid
+paraffin
+2. Repeat anterior rhinoscopy/ endoscopy to
+know/confim the cause of bleeding
+3. Oral hematinics to be considered if needed
+CLINICAL
+SCENARIOS
 Acute bleeding from the
-ESSENTIAL CLINICAL EXAMINATION
 nose after physical
 trauma/ barotrauma/ nose
 picking/ physical exertion.
+Acute bleeding from the
+nose in hypertensive /
+hematological disorders.
+Acute bleeding from the
+nose without any obvious
+cause.
+Features suggestive of
+neoplasia
+. Unilateral bleeding
+. Nasal obstruction
+.Visual/orbital symptoms
+. Obvious mass lesion
+Recurrent profuse bleeding
+- Consider JNA in teenage boys
+- Aneurysmal bleeding (specially
+following trauma) to be ruled out
+by DSA
+- To be managed by appropriate
+treatment at tertiary level
+Persistent bleeding despite
+nasal packing
+Altered blood counts/ coagulation
+profile
+RED FLAG SIGNS
 ESSENTIAL
 • Local examination by anterior rhinoscopy/ endoscopy to look for
 source of bleeding (scanty/moderate).
-Acute bleeding from the
 • Little’s area bleeder/clot/congestion
-CLINICAL
-nose in hypertensive /
-SCENARIOS • Sharp septal spur
-hematological disorders.
+• Sharp septal spur
 • Congested nasal mucosa as in URTI
 • General physical examination to evaluate other systems
 (Cardiovascular/Lower Respiratory/Neurological) clinically.
-SYSTEMIC ASSESSMENT
-Acute bleeding from the
-nose without any obvious
-Screen for coagulation disorders/ anticoagulant medications/
-cause.
-hematological malignancies
-MANAGEMENT
-STEP-WISE MANAGEMENT PRINCIPLE Trotter’s
-Position
+QUALITY ASSESSMENT PARAMETERS
+1. Recurrence of episodes
+2. Improvement in hemoglobin level over a period of
+time.
+POINTS TO PONDER WHILE MANAGING EPISTAXIS
+1. Epistaxis in children is almost always anterior and from Little’s area, consequent to mucosal drying by dry air.
+2. Epistaxis in adults is often related to hypertension and arises posteriorly from the posterior end of inferior turbinate
+3. Initial non-invasive methods may suffice in a large majority of patients.
+CT: Computerized Tomograms
+URTI: Upper Respiratory Tract Infection
+JNA: Juvenile Nasopharyngeal Angiofibroma
+DSA: Digital Subtraction Angiography
+ABBREVIATIONS
+STEP-WISE MANAGEMENT PRINCIPLE
 1. Ensure patent airway/ avoid aspiration by head down/lateral positioning
 2. Restore hemodynamic stability by intravenous fluid replacement/ transfusion
 3. Control bleeding/bleeder by
@@ -347,86 +419,85 @@ in 4% xylocaine with adrenaline may be used)
 anterior ethmoidal artery).
 9. Selective embolization is an alternative to surgery
 10. Address identified etiology, if any
-INVESTIGATIONS
-Features suggestive of
-neoplasia
-ESSENTIAL
-. Unilateral bleeding
-. Nasal obstruction
-1. Hemoglobin level
-.Visual/orbital symptoms
-2. Coagulation profile Altered blood counts/ coagulation
-. Obvious mass lesion
-profile
-3. Complete blood count
-Persistent bleeding despite
-Recurrent profuse bleeding
-nasal packing
-- Consider JNA in teenage boys
-DESIRABLE - Aneurysmal bleeding (specially
-following trauma) to be ruled out
-by DSA
-CT scan with contrast in cases with no
-- To be managed by appropriate
-obvious cause// suspected benign or
-treatment at tertiary level
-malignant lesion
-RED FLAG SIGNS
-FOLLOW UP SERVICES QUALITY ASSESSMENT PARAMETERS
-1. Continued nasal lubrication for 2 weeks with liquid 1. Recurrence of episodes
-paraffin 2. Improvement in hemoglobin level over a period of
-2. Repeat anterior rhinoscopy/ endoscopy to time.
-know/confim the cause of bleeding
-3. Oral hematinics to be considered if needed
-POINTS TO PONDER WHILE MANAGING EPISTAXIS
-1. Epistaxis in children is almost always anterior and from Little’s area, consequent to mucosal drying by dry air.
-2. Epistaxis in adults is often related to hypertension and arises posteriorly from the posterior end of inferior turbinate
-3. Initial non-invasive methods may suffice in a large majority of patients.
-ABBREVIATIONS
-JNA: Juvenile Nasopharyngeal Angiofibroma CT: Computerized Tomograms
-DSA: Digital Subtraction Angiography URTI: Upper Respiratory Tract Infection
-KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES
-October/
-2019
-This STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and are
-based on expert opinions and available scientific evidence. There may be variations in the management of an individual patient based on his/her specific condition, as decided by the
-treating physician. There will be no indemnity for direct or indirect consequences. Kindly visit our web portal (stw.icmr.org.in) for more information.
-© Indian Council of Medical Research and Department of Health Research, Ministry of Health & Family Welfare, Government of India.
+MANAGEMENT
+Trotter’s
+Position
+SYSTEMIC ASSESSMENT
+Screen for coagulation disorders/ anticoagulant medications/
+hematological malignancies
+ESSENTIAL CLINICAL EXAMINATION
+r/
 
 --- Page 11 ---
-Department of Health Research
-Ministry of Health and Family Welfare, Government of India
 Standard Treatment Workflow (STW) for the
 Management of HEARING IMPAIRMENT IN
 PEDIATRIC AGE GROUP (0 - 12 YEARS)
 ICD 10 H90.5
-Disabling hearing impairment (31 or more dB HL in better ear) may affect language development and learning outcomes and
-hence needs urgent intervention
-WHEN TO SUSPECT IN CHILDREN
+KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES
+ABBREVIATIONS
 UNIVERSAL HEARING SCREENING FOR
 CONGENITAL DEAFNESS
+• Community based hearing screening:
+i. May be co-ordinated with
+immunization schedule
+ii. By primary health care workers.
+iii. Using calibrated noisemakers/
+toys
+• All children who fail preliminary
+screen to undergo detailed evaluation
+at health care facility.
+WHEN TO SUSPECT IN CHILDREN
 1. Parental concern about delayed speech, language, and
-developmental delay (refer to red flags) • Community based hearing screening:
-2. Family history of Hearing Loss (HL). i. May be co-ordinated with
-3. Exposure to ototoxic drugs/ hyperbilirubinemia requiring immunization schedule
-exchange transfusion/ Neonatal ICU stay for > 3days. ii. By primary health care workers.
-4. In-utero infections (CMV/ rubella/ syphilis/ herpes/ iii. Using calibrated noisemakers/
-toxoplasmosis) toys
+developmental delay (refer to red flags)
+2. Family history of Hearing Loss (HL).
+3. Exposure to ototoxic drugs/ hyperbilirubinemia requiring
+exchange transfusion/ Neonatal ICU stay for > 3days.
+4. In-utero infections (CMV/ rubella/ syphilis/ herpes/
+toxoplasmosis)
 5. Syndromes (NF) Or neurodegenerative disorders (Hunter
-syndrome, FA) associated with HL. • All children who fail preliminary
-6. Post-natal infection known to cause HL (Meningitis) screen to undergo detailed evaluation
-7. Head Trauma at health care facility.
+syndrome, FA) associated with HL.
+6. Post-natal infection known to cause HL (Meningitis)
+7. Head Trauma
 8. Recurrent/ persistent (>/=3 months) middle ear disease
 9. Chemo/ Radiotherapy to head and neck
+MANAGEMENT
+DIVISION OF RESPONSIBILITIES
+GUIDING PRINCIPLES
+PHC LEVEL
+• Suspect HL
+• Initial evaluation
+• Referral if initial evaluation is suggestive of HL
+• Follow up of rehabilitated/ treated patients with HL
+• Prevention of HL
+DH LEVEL
+1. Audiometric evaluation by Audiologist/ Otolaryngologist
+2. Hearing aid dispensing (mould fitting and HA programming)
+3. Rehabilitation by speech therapist
+4. Appropriate surgery for CHL
+5. Training programme for parents of hearing impaired children
+to enhance pre-school language development
+TERTIARY LEVEL
+• Surgical intervention options : Cochlear implant / BAHA (as per ADIP
+guidelines)
+• Interdisciplinary team based interventions in children with multiple
+disabilities.
+QUALITY ASSESSMENT PARAMETERS
+• Short term: Quality of amplification using
+electroacoustic objective measures and culturally
+appropriate subjective questionnaire tools
+• Long term (Desirable) : Use CBR matrix based
+measurement for ensuring holistic rehabilitation
+FOLLOW UP SERVICES
+1. Home visits by Health Worker/ASHA to ensure utilization of assistive devices and support parents to enhance language development.
+2. School visits to educate teachers and normally hearing children to include their peers with hearing disability in the school environment
+3. Home/ school visit by social worker for evaluation of social/ educational/ livelihood/ justice and empowerment domains of the child
 EVALUATION
-COMMON CAUSES OF HL
 ESSENTIAL
-1. Impacted wax
-1. Clinical examination to look for ear canal deformities, tympanic membrane and 2. Middle ear fluid assciated with
-middle ear status by otoscopy/ otoendoscopy. adenoid hypertrophy/ cold climate
-2. Age appropriate audiological/ behavioral observation tests in a soundproof room by 3. Tympanic membrane perforation
-audiologist/ ENT specialist. 4. Sensorineural Hearing loss (SNHL) due
-3. Tympanic membrane mobility test/ tympanometry. to various causes as indicated earlier
+1. Clinical examination to look for ear canal deformities, tympanic membrane and
+middle ear status by otoscopy/ otoendoscopy.
+2. Age appropriate audiological/ behavioral observation tests in a soundproof room by
+audiologist/ ENT specialist.
+3. Tympanic membrane mobility test/ tympanometry.
 RED FLAGS POINTING FOR URGENT HEARING EVALUATION
 - 6months- no head turning to the side of calling
 - 1yr- no babbling/ speech like sound production
@@ -434,85 +505,72 @@ RED FLAGS POINTING FOR URGENT HEARING EVALUATION
 - 2yrs-not pointing to pictures/ body parts when named or speaking less than 10 words
 - 3 yrs- does not understand action words or not asking for things by names or not speaking small sentences.
 - At any age- has regressed or lost previously acquired speech/ language milestones
-MANAGEMENT
-GUIDING PRINCIPLES
-CONDUCTIVE HL
-SNHL
+BAHA : Bone Anchored Hearing Aid
+CBR : Community Based Rehabilitation
+CMV : Cyto Megalo Virus
+COMMON CAUSES OF HL
+1. Impacted wax
+2. Middle ear fluid assciated with
+adenoid hypertrophy/ cold climate
+3. Tympanic membrane perforation
+4. Sensorineural Hearing loss (SNHL) due
+to various causes as indicated earlier
 Middle ear fluid (OME) may be
-Wax removal under direct associated with adenotonsillar disease Appropriate
-vision by ENT specialist which needs to be treated. Initially amplification,
-relieves hearing impairement medical treatment and surgery to be preferential seating in Screening for
-considered for OME persisting for more classroom developmental
-Appropriate surgery is to than 3months/ earlier in the presence of delay by
-be planned for tympanic speech and language delay pediatrician/
-membrane perforation psychologist
+associated with adenotonsillar disease
+which needs to be treated. Initially
+medical treatment and surgery to be
+considered for OME persisting for more
+than 3months/ earlier in the presence of
+speech and language delay
+CONDUCTIVE HL
+Wax removal under direct
+vision by ENT specialist
+relieves hearing impairement
+For non-surgical condidates/ delayed
+surgical management, amplification
+by hearing aid to be reinforced in
+bilateral CHL.
+Appropriate surgery is to
+be planned for tympanic
+membrane perforation
+Appropriate
+amplification,
+preferential seating in
+classroom
+Screening for
+developmental
+delay by
+pediatrician/
+psychologist
 Periodic evaluation
-For non-surgical condidates/ delayed for hearing aid users
-surgical management, amplification for mould fitting
-by hearing aid to be reinforced in and amplification
-bilateral CHL. settings
-DIVISION OF RESPONSIBILITIES
-PHC LEVEL DH LEVEL
-1. Audiometric evaluation by Audiologist/ Otolaryngologist
-• Suspect HL 2. Hearing aid dispensing (mould fitting and HA programming)
-• Initial evaluation 3. Rehabilitation by speech therapist
-• Referral if initial evaluation is suggestive of HL 4. Appropriate surgery for CHL
-• Follow up of rehabilitated/ treated patients with HL 5. Training programme for parents of hearing impaired children
-• Prevention of HL to enhance pre-school language development
-QUALITY ASSESSMENT PARAMETERS
-TERTIARY LEVEL
-• Short term: Quality of amplification using
-• Surgical intervention options : Cochlear implant / BAHA (as per ADIP electroacoustic objective measures and culturally
-guidelines) appropriate subjective questionnaire tools
-• Interdisciplinary team based interventions in children with multiple • Long term (Desirable) : Use CBR matrix based
-disabilities. measurement for ensuring holistic rehabilitation
-FOLLOW UP SERVICES
-1. Home visits by Health Worker/ASHA to ensure utilization of assistive devices and support parents to enhance language development.
-2. School visits to educate teachers and normally hearing children to include their peers with hearing disability in the school environment
-3. Home/ school visit by social worker for evaluation of social/ educational/ livelihood/ justice and empowerment domains of the child
-KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES
-ADIP : Assistance to disabled BAHA : Bone Anchored Hearing Aid FA : Friedreich Ataxia
-ABBREVIATIONS persons for purchase/ fitting of CBR : Community Based Rehabilitation NF : NeuroFibromatosis
-aids and appliances CMV : Cyto Megalo Virus OME : Otitis Media with Effusion
-REFERENCES
-• Indian Council of Medical Research. Audiological evaluation protocols. Task force project on prevalence and etiology of hearing impairment, New Delhi. 2015
-• Ramesh A, Jagdish C, Suman Rao PN et al. Low cost calibrated mechanical noisemaker for hearing screening in resource constrained settings. Indian Journal of Medical Research. 2012, 135: 170 - 176.
-• Rathna.B.Shetty. Manual for training parents of hearing impaired children (Kannada : Kivudu makkalige kalisuva vidhana). Parents association of deaf children. Mysore.
-• Chapal Mkhasnabis, Karen Heinicke Motsch (eds.) Towards community based inclusive development. World Health Organisation: 2010.
-• Margaret Lavina Fernandes. Guidelines to establish a community based rehabilitation program for hearing impaired children in medically underserved areas. St. John’s Medical Journal, 2018 (1), 5 : 14 - 27
-• ADIP Guidelines : http://disabilityaffairs.gov.in/content/page/adip-scheme.php
-October/
-2019
-Department of Health Research
-Ministry of Health and Family Welfare, Government of India
-October/
-2019
-This STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and are
-based on expert opinions and available scientific evidence. There may be variations in the management of an individual patient based on his/her specific condition, as decided by the
-treating physician. There will be no indemnity for direct or indirect consequences. Kindly visit our web portal (stw.icmr.org.in) for more information.
-© Indian Council of Medical Research and Department of Health Research, Ministry of Health & Family Welfare, Government of India.
+for hearing aid users
+for mould fitting
+and amplification
+settings
+SNHL
+Disabling hearing impairment (31 or more dB HL in better ear) may affect language development and learning outcomes and
+hence needs urgent intervention
+r/
+r/
 
 --- Page 12 ---
-Department of Health Research
-Ministry of Health and Family Welfare, Government of India
 Standard Treatment Workflow (STW) for the Management of
 NECK SPACE INFECTION
 ICD-10-J36, J39.0, K 12.2, J39.1
-Rapidly progressive bacterial infections which spread along facial planes and spaces of head and neck region. They may be fatal unless
-emergently treated. Most of these infections are secondary to dental infection.
-The typical presentation is with acute onset of pain and swelling in the neck with fever,
-malaise, trismus and dysphagia.
-Extension along spaces to involve multiple deep neck spaces is frequent and may
-extend to parotid space, masticator space, temporal space, visceral vascular
-CLINICAL SCENARIOS (carotid) space.
+CLINICAL SCENARIOS
 They usually present as
 • Ludwig’s angina
 (submandibular space infection)
 • Peritonsillar abscess
-Cervical space infection may spread inferiorly to the anterior mediastinum and
 • Parapharyngeal abscess
-posteriorly along prevertebral space.
 • Retropharyngeal abscess
+The typical presentation is with acute onset of pain and swelling in the neck with fever,
+malaise, trismus and dysphagia.
+Extension along spaces to involve multiple deep neck spaces is frequent and may
+extend to parotid space, masticator space, temporal space, visceral vascular
+(carotid) space.
+Cervical space infection may spread inferiorly to the anterior mediastinum and
+posteriorly along prevertebral space.
 Tubercular cold abscess involves the same anatomical spaces but would not
 display inflammatory signs or rapid progression.
 SYSTEMIC ASSESSMENT
@@ -520,25 +578,25 @@ Screen for diabetes mellitus, HIV infection, agranulocytosis and immunosuppressi
 Signs of inflammation may be less marked and disease course may be more rapidly progressive in immunocompromised patients.
 CLINICAL EXAMINATION
 • Airway assessment to rule out stridor or respiratory compromise
-RED FLAGS FOR REFERRAL TO DISTRICT HOSPITAL
 • Look for signs of dehydration
 • Monitor temperature, heart rate, respiratory rate, BP, and signs
-• Breathing difficulty
 of sepsis/ septic shock.
-• Trismus
 • Oral cavity examination to check jaw opening, condition of teeth
-• Torticollis/ neck stiffness
 and floor of mouth
-• Subcutaneous crepitus and skin discolouration
 • Oropharyngeal examination to check for inflammed medially
-or blisters suggest necrotizing fibrofascitis.
 displaced tonsil & uvula and bulge in lateral pharyngeal wall
-• Toxaemia
 • Palpation of neck for lymph nodes, cellulitis, abscess or
-• Lower cranial nerve palsy
 subcutaneous crepitus
-• Facial puffiness suggestive of venous
 • Cranial nerve examination to rule out lower cranial nerve palsies
+RED FLAGS FOR REFERRAL TO DISTRICT HOSPITAL
+• Breathing difficulty
+• Trismus
+• Torticollis/ neck stiffness
+• Subcutaneous crepitus and skin discolouration
+or blisters suggest necrotizing fibrofascitis.
+• Toxaemia
+• Lower cranial nerve palsy
+• Facial puffiness suggestive of venous
 thrombosis
 • Mediastinal extension
 INVESTIGATIONS
@@ -550,112 +608,92 @@ suggestive of retropharyngeal abscess. It may also demonstrate foreign bodies, s
 b. Ultrasound neck can suggest abscess and guide aspiration attempts.
 2. Blood: Total and differential leukocyte count, blood sugar, urea
 3. Abscess Cultures with Gram stain to direct antimicrobial therapy. Anaerobic culture, when available.
-MANAGEMENT
-PHC/PRIMARY LEVEL DISTRICT HOSPITAL
-INDICATIONS FOR I&D
-1. Cautiously assess the 1. Hospitalization: As an emergency for close watch and intensive
-airway. If found management. • Necrotizing fibrofascitis
-compromised, do 2. Airway management: In progressive disease, in view of impending • Abscess formation
-endotracheal intubation/ airway compromise, consider securing the airway early. During acute • No response to antibiotics over
-consider tracheotomy respiratory difficulty, tracheostomy should be done if intubation is 48-72 hours
-2. Immediately gain an IV difficult • Deterioration despite antibiotics
-access for hydration, broad 3. Correction of fluid and electrolyte imbalance over 24 hours
-spectrum antibiotics and 4. Antibiotics: Early and aggressive IV antibiotic therapy with a • Airway compromise or impending
-pain killers. combination of Crystalline Penicillin, Aminoglycoside and airway compromise
-3. Transfer the patient to Metronidazole or Clindamycin is preferred. • Mediastinal spread
-hospital with facility for 5. Incision and drainage: Peritonsillar abscess is drained intraorally. All • Vascular complication like venous
-surgical drainage other abscesses are drained via an external approach thrombosis
 QUALITY ASSESSMENT PARAMETERS FOLLOW UP SERVICES
-Complete resolution of infection and follow up to ensure no recurrence; Consider cold tonsillectomy for patients with history of multiple
-treatment of initial cause of infection in tooth or tonsil. episodes of tonsillar abscess
+Complete resolution of infection and follow up to ensure no recurrence;
+treatment of initial cause of infection in tooth or tonsil.
+Consider cold tonsillectomy for patients with history of multiple
+episodes of tonsillar abscess
+MANAGEMENT
+DISTRICT HOSPITAL PHC/PRIMARY LEVEL
+1. Hospitalization: As an emergency for close watch and intensive
+management.
+2. Airway management: In progressive disease, in view of impending
+airway compromise, consider securing the airway early. During acute
+respiratory difficulty, tracheostomy should be done if intubation is
+difficult
+3. Correction of fluid and electrolyte imbalance
+4. Antibiotics: Early and aggressive IV antibiotic therapy with a
+combination of Crystalline Penicillin, Aminoglycoside and
+Metronidazole or Clindamycin is preferred.
+5. Incision and drainage: Peritonsillar abscess is drained intraorally. All
+other abscesses are drained via an external approach
+1. Cautiously assess the
+airway. If found
+compromised, do
+endotracheal intubation/
+consider tracheotomy
+2. Immediately gain an IV
+access for hydration, broad
+spectrum antibiotics and
+pain killers.
+3. Transfer the patient to
+hospital with facility for
+surgical drainage
+INDICATIONS FOR I&D
+• Necrotizing fibrofascitis
+• Abscess formation
+• No response to antibiotics over
+48-72 hours
+• Deterioration despite antibiotics
+over 24 hours
+• Airway compromise or impending
+airway compromise
+• Mediastinal spread
+• Vascular complication like venous
+thrombosis
 ABBREVIATIONS
-CT – Computerized Tomography MRI – Magnetic Resonance Imaging
-REFERENCES
-1. Smith II JL, Hsu JM, Chang J (2006) Predicting deep neck space abscess using computed tomography. Am J Otolaryngol 27: 244-247.
-2. Mayor GP, Millán JMS, Martínez VA (2001) Is conservative treatment of deep neck space infections appropriate? Head And Neck 23: 126-133.
-3. Bottin R, Marioni G, Rinaldi R, Boninsegna M, Salvadori L, et al. (2003) Deep neck infection: A present day complication. A retrospective review of 83 cases. Eur Arch Otorhinolaryngol 260: 576-579.
-This STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and are
-based on expert opinions and available scientific evidence. There may be variations in the management of an individual patient based on his/her specific condition, as decided by the
-treating physician. There will be no indemnity for direct or indirect consequences. Kindly visit our web portal (stw.icmr.org.in) for more information.
-© Indian Council of Medical Research and Department of Health Research, Ministry of Health & Family Welfare, Government of India.
-October/
-2019
+r/
 
 --- Page 13 ---
-Department of Health Research
-Ministry of Health and Family Welfare, Government of India
 Standard Treatment Workflow (STW) for the Management of
 OTORRHOEA
 ICD-10-H92.10
-CLINICAL SCENARIOS
-DISEASES OF EXTERNAL EAR
-• Serous/purulent discharge with significant tenderness of external ear
-amidst edema (localized-pus: furunculosis or generalized: Acute otitis
-Fig 1
-externa denoting Staph/ Pseudomonas infection)
-Fig 2 • Thick discharge with itching usually in hot/ humid climate:
-Otomycosis (Candida- white spores; Aspergillus- black spores) [Fig 2]
-• Scanty serous discharge & itching with desquamated debris in ear
-canal Eczematous otitis externa (EAC)
-Fig 3
-FIGURES
-Fig 4A
-DISEASES OF MIDDLE EAR
-1: Furunculosis
-2: Otomycosis
-• URI with severe ear pain (manifested in children as inconsolable
-3: Resolving AOM
-crying and ear tugging), relieved with episode of mucopurulent blood
-4A: Safe CSOM (central perforation)
-Fig 4B stained otorrhoea: Resolving AOM [Fig 3]
-4B: Safe CSOM (subtotal
-perforation)
-• Mucopurulent discharge > 12 weeks : CSOM
-5A: Unsafe CSOM (cholesteatoma)
-• Active : otorrohoea in last 12 weeks
-5B: Unsafe CSOM (granulation)
-• Inactive : no otorrohoea in last 12 weeks
-6: Traumatic Perforation
-• Safe type : central perforation [Fig 4A] and total perforation [Fig 4B]
-• Unsafe type : cholesteatoma [Fig 5A] and granulation [Fig 5B]
-Fig 5A • Recurrent painless profuse mucopurulent discharge with pale
-granulations/ multiple perforations unresponsive to antibiotics:
-Tubercular otitis media should be suspected and needs biopsy
-confirmation
-Fig 5B
-• Bloody otorrhoea following Trauma: Traumatic perforation
-Fig 6 • Acute onset bloody discharge with neural deficits/ neck nodes:
-Neoplasia
-• Watery otorrhoea (may be associated with trauma) : CSF Otorrhoea
-CLINICAL EXAMINATIONS INVESTIGATIONS RED FLAGS FOR REFERRAL TO DISTRICT LEVEL
-• Otoscopy as a part of Complete • Pure tone audiometry
-• Periaural abscess or cellulitis
-ENT examination by primary • Routine hemogram including blood • High grade fever, dizziness and toxic appearance
-physician (Tele-otoscopy sugar (fasting and postprandial) • Severe headache with neck stiffness/ vomiting /
-interpreted by physician) • CT/ MRI in suspected complications altered sensorium.
-• Hearing evaluation by (refer to red flags) • Facial palsy/ Neurological defecits
-conversation/ whisper/ Tuning • Soft tissue x ray nasopharynx (To • Diabetic with severe deep seated ear pain / neural
-forks tests examine adenoid enlargement in defecits (Skull base osteomyelitis)
-• Physical trauma with bloody/ watery discharge
-• General and systemic clinical children)
-(suspected CSF leak)
-examination • Culture & sensitivity of aural secretions.
-• Suspected tuberculosis/ neoplasm
+KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES
+CT: Computerized Tomogram
+MRI: Magnetic Resonance Imaging
+EAC: External Auditory Canal
+URI: Upper Respiratory Infection
+AOM: Acute Otitis Media
+CSOM: Chronic Suppurative Otitis Media
 MANAGEMENT
-PHC / PRIMARY LEVEL DISTRICT HOSPITAL
-• Acute otitis externa: Oral Ciprofloxacin/ Amoxycillin clavulanic acid combination for 7-10 days (2 weeks • Surgical interventions except
-maximum) and analgesics. Ichthammol gycerine (1:9) packing of EAC in moderate to severe edema. Refer neurosurgical interventions (eg I&D,
-pus pointing furuncle to DH tympanoplasty, mastoidectomy)
-• Otomycosis: Cleaning and Clotrimazole ear drops • Biopsy in suspected neoplasm
-• Eczematous otitis externa: Ciprofloxacin ear drops with steroid combination. • Medical management of medical
-• AOM / Resolving AOM: Oral amoxicillin / Erythromycin / Clarithromycin for 10 days. With no response in 3 co-morbidities such as diabetes,
-days start Amoxycillin clavulanic acid combination for 10 days. Refer to DH if no resolution tuberculosis, meningismus/
-• Inactive CSOM: Referral to DH for surgery. meningitis
+CLINICAL SCENARIOS
+PHC / PRIMARY LEVEL
+• Acute otitis externa: Oral Ciprofloxacin/ Amoxycillin clavulanic acid combination for 7-10 days (2 weeks
+maximum) and analgesics. Ichthammol gycerine (1:9) packing of EAC in moderate to severe edema. Refer
+pus pointing furuncle to DH
+• Otomycosis: Cleaning and Clotrimazole ear drops
+• Eczematous otitis externa: Ciprofloxacin ear drops with steroid combination.
+• AOM / Resolving AOM: Oral amoxicillin / Erythromycin / Clarithromycin for 10 days. With no response in 3
+days start Amoxycillin clavulanic acid combination for 10 days. Refer to DH if no resolution
+• Inactive CSOM: Referral to DH for surgery.
 • Active CSOM: Ciprofloxacin ear drops with dry mopping & referral to DH for surgery. A course of oral
-antibiotics maybe prescribed in ase of persistant otorrhoea after topical antibiotics TERTIARY LEVEL
-• Traumatic perforation: Topical antibiotics for otorrhoea if any and maintain ear dry till healing complete Surgical management particularly
-• In case of suspicion of complications start intravenous Amoxycillin clavulanic acid combination and refer to of intracranial complications
-DH including neurosurgical
+antibiotics maybe prescribed in ase of persistant otorrhoea after topical antibiotics
+• Traumatic perforation: Topical antibiotics for otorrhoea if any and maintain ear dry till healing complete
+• In case of suspicion of complications start intravenous Amoxycillin clavulanic acid combination and refer to
+DH
+DISTRICT HOSPITAL
+• Surgical interventions except
+neurosurgical interventions (eg I&D,
+tympanoplasty, mastoidectomy)
+• Biopsy in suspected neoplasm
+• Medical management of medical
+co-morbidities such as diabetes,
+tuberculosis, meningismus/
+meningitis
+TERTIARY LEVEL
+Surgical management particularly
+of intracranial complications
+including neurosurgical
 interventions
 • Patient to be educated for proper technique of ear mopping, contralateral lie (10 min) following instillation of drops & avoiding water
 entry e.g ear-plugs during bathing
@@ -663,133 +701,202 @@ entry e.g ear-plugs during bathing
 breastfeeding while avoiding bottle feeding
 • Pus culture sensitivity to guide antibiotic regime in recurrent/ complicated cases
 Patient education to refrain from indigenous (oil/ hot water/ acid etc) ear treatments
-KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES
-CT: Computerized Tomogram AOM: Acute Otitis Media EAC: External Auditory Canal
+INVESTIGATIONS CLINICAL EXAMINATIONS RED FLAGS FOR REFERRAL TO DISTRICT LEVEL
+• Pure tone audiometry
+• Routine hemogram including blood
+sugar (fasting and postprandial)
+• CT/ MRI in suspected complications
+(refer to red flags)
+• Soft tissue x ray nasopharynx (To
+examine adenoid enlargement in
+children)
+• Culture & sensitivity of aural secretions.
+• Otoscopy as a part of Complete
+ENT examination by primary
+physician (Tele-otoscopy
+interpreted by physician)
+• Hearing evaluation by
+conversation/ whisper/ Tuning
+forks tests
+• General and systemic clinical
+examination
+• Periaural abscess or cellulitis
+• High grade fever, dizziness and toxic appearance
+• Severe headache with neck stiffness/ vomiting /
+altered sensorium.
+• Facial palsy/ Neurological defecits
+• Diabetic with severe deep seated ear pain / neural
+defecits (Skull base osteomyelitis)
+• Physical trauma with bloody/ watery discharge
+(suspected CSF leak)
+• Suspected tuberculosis/ neoplasm
+DISEASES OF EXTERNAL EAR
+• Serous/purulent discharge with significant tenderness of external ear
+amidst edema (localized-pus: furunculosis or generalized: Acute otitis
+externa denoting Staph/ Pseudomonas infection)
+• Thick discharge with itching usually in hot/ humid climate:
+Otomycosis (Candida- white spores; Aspergillus- black spores) [Fig 2]
+• Scanty serous discharge & itching with desquamated debris in ear
+canal Eczematous otitis externa (EAC)
+DISEASES OF MIDDLE EAR
+• URI with severe ear pain (manifested in children as inconsolable
+crying and ear tugging), relieved with episode of mucopurulent blood
+stained otorrhoea: Resolving AOM [Fig 3]
+• Mucopurulent discharge > 12 weeks : CSOM
+• Active : otorrohoea in last 12 weeks
+• Inactive : no otorrohoea in last 12 weeks
+• Safe type : central perforation [Fig 4A] and total perforation [Fig 4B]
+• Unsafe type : cholesteatoma [Fig 5A] and granulation [Fig 5B]
+• Recurrent painless profuse mucopurulent discharge with pale
+granulations/ multiple perforations unresponsive to antibiotics:
+Tubercular otitis media should be suspected and needs biopsy
+confirmation
+• Bloody otorrhoea following Trauma: Traumatic perforation
+• Acute onset bloody discharge with neural deficits/ neck nodes:
+Neoplasia
+• Watery otorrhoea (may be associated with trauma) : CSF Otorrhoea
+FIGURES
+1: Furunculosis
+2: Otomycosis
+3: Resolving AOM
+4A: Safe CSOM (central perforation)
+4B: Safe CSOM (subtotal
+perforation)
+5A: Unsafe CSOM (cholesteatoma)
+5B: Unsafe CSOM (granulation)
+6: Traumatic Perforation
+Fig 1
+Fig 2
+Fig 3
+Fig 5A
+Fig 5B
+Fig 4A
+Fig 4B
+Fig 6
 ABBREVIATIONS
-MRI: Magnetic Resonance Imaging CSOM: Chronic Suppurative Otitis Media URI: Upper Respiratory Infection
-REFERENCES
-• Otitis media (acute): antimicrobial prescribing. NICE guideline. Published: 28 March 2018. nice.org.uk/guidance/ng91
-• Primary ear and hearing care training resource, Student’s workbook: intermediate level. Chronic disease prevention and management. WHO 2006
-• Primary ear and hearing care training resource, advanced level. Chronic disease prevention and management. WHO 2006
-• Treatment Guidelines for antimicrobial use in common syndromes. ICMR. Department of Health Research. 2017
-• Sagar P, Thakar A, Samant S. Otorhinolaryngology. In Paul VK, Bagga A. eds. Ghai Essential Pediatrics, 9th ed. New Delhi: CBS Publishers & Distributors; 2019. p.357-370
-October/
-2019
-This STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and are
-based on expert opinions and available scientific evidence. There may be variations in the management of an individual patient based on his/her specific condition, as decided by the
-treating physician. There will be no indemnity for direct or indirect consequences. Kindly visit our web portal (stw.icmr.org.in) for more information.
-© Indian Council of Medical Research and Department of Health Research, Ministry of Health & Family Welfare, Government of India.
+r/
 
 --- Page 14 ---
-Department of Health Research
-Ministry of Health and Family Welfare, Government of India
 Standard Treatment Workflow (STW) for the Management of
 PHARYNGITIS AND SORE THROAT
 ICD-10-J02
+KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES
+ABBREVIATIONS
+GABHS: Group A Beta Hemolyticus Streptococcus
+GERD: Gastro Esophageal Reflux Disease
+LRTI: Lower Respiratory Tract Infection
+EB: Epstein Barr
+RADT: Rapid Antigen Detection Test
+CLINICAL SCENARIOS
+Acute pharyngitis
+may include a
+spectrum of disease
+varying from simple
+viral pharyngitis to
+dreaded neck space
+infection.
 Acute onset of throat pain with or without – Fever, tonsillo-pharyngeal exudates, odynophagia
 and tender cervical lymphadenopathy is typically seen in bacterial pharyngitis.
 Streptococcal (GABHS) pharyngitis is the commonest cause of bacterial pharyngitis
 Rhinitis, conjunctivitis, skin or mucosal rashes point towards a viral etiology.
 Pharyngitis and sore throat may be the initial symptoms in epidemics of flu
-CLINICAL SCENARIOS
 Sore throat followed by high grade fever, cough, drooling, lymphadenopathy,
-Acute pharyngitis
 breathing difficulty suggest Epiglottitis or Laryngotracheobronchitis,
-may include a
 especially in pediatric patients
-spectrum of disease
-varying from simple
-viral pharyngitis to
-dreaded neck space
-infection. An adherent membrane extending beyond the tonsillar confines with
+An adherent membrane extending beyond the tonsillar confines with
 toxaemia suggests Diphtheria
 Pharyngitis with generalized lymphadenopathy is consistent with Infectious
 Mononucleosis (IM)
-Smoking and GERD are common causes of non-infective pharyngitis
 CLINICAL EXAMINATION
-PRELIMINARY
-DESIRABLE RED FLAGS
-• Temperature chart: fever is usually absent or low-grade in viral pharyngitis
-• Check for vitals/ signs of dehydration due to compromised oral intake due to odynophagia
-Assess • Generalized
-• Complete oral and oropharyngeal examination with tongue depressor
-Centor lymphadenopathy
-• Palpate for cervical and generalized lymphadenopathy
-• Cardiac murmurs
-criteria
-• Rheumatic fever and acute glomerulonephritis are potential systemic complications of
-• Purulent
-and
-streptococcal pharyngitis productive cough
-ascertain
-• Hepatosplenomegaly can be found in IM with tachypnea
-its
-• A sandpapery scarlatiniform rash may be seen in GABHS infection whereas maculopapular suggestive of LRTI
-score
-rashes are seen with various viral infections and with IM empirically treated with penicillin • Hot potato voice
-• Unilateral tonsillar
-enlargement
-• Tonsillar
-CENTOR UNLIKELY TO HAVE LIKELY TO HAVE REQUIRE LAB TESTS TO
-CLINICAL FEATURES membrane going
-SCORE GABHS GABHS CONFIRM GABHS INFECTION
-beyond its
-Fever 1 confines
-• Agranulocyosis
-Anterior cervical
-1
-lymphadenopathy Score = 0-1 Score = 4 Score = 2-3 • Epidemic of flu
-Tonsillar exudate 1
-Absence of cough 1
 INVESTIGATIONS
-ESSENTIAL OPTIONAL DESIRABLE
-Throat swab for culture, routine hemogram including GABHS rapid antigen detection test (RADT) Lab tests to rule out EB Virus, Coxsackie virus,
-total and differential leukocyte counts and peripheral Herpes virus, fungal or Gonococcal pharyngitis
-smear to look for atypical lymphocytes (seen in IM).
 MANAGEMENT
-PHC / PRIMARY LEVEL DISTRICT HOSPITAL
+FOLLOW UP SERVICES
+DESIRABLE
+Lab tests to rule out EB Virus, Coxsackie virus,
+Herpes virus, fungal or Gonococcal pharyngitis
+ESSENTIAL
+Throat swab for culture, routine hemogram including
+total and differential leukocyte counts and peripheral
+smear to look for atypical lymphocytes (seen in IM).
+OPTIONAL
+GABHS rapid antigen detection test (RADT)
+PHC / PRIMARY LEVEL
 1. Assess the patient for signs of toxicity, epiglottitis or oropharyngeal abscess
 2. Ensure vitals/ hydration of the patient
-Management of
 3. Saltwater gargle, warm liquids, and rest may be helpful in relieving symptoms
-complication
 4. Ibuprofen or Paracetamol is recommended for analgesia
-e.g.
 5. Antibiotic therapy:
-• Deep neck
 a. Patients positive for all 4 Centor criteria to be treated with antibiotics without waiting for antigen testing or cultures
-space infection
 b. Patients with Centor score of 2&3 to be treated with antibiotics only if antigen testing or throat swab culture is positive
-• Diphtheria
 c. Patients with Centor score of only 1 not to be treated with antibiotics
-• Epiglottitis
 d. Amoxicillin (50 mg/kg/d in 2-3 doses orally) for 10 days is the first choice for GABHS infection. For patients who are
-• Croup
 sensitive for penicillin group, Erythromycin or Azithromycin is the antibiotic of choice
 6. Parenteral antibiotics (Ceftriaxone/ cefotaxime) and steroids are to be started when the airway is compromised due to suspected
 epiglottis/ Croup.
-FOLLOW UP SERVICES
+DISTRICT HOSPITAL
+Management of
+complication
+e.g.
+• Deep neck
+space infection
+• Diphtheria
+• Epiglottitis
+• Croup
 Recurrent (more than 7 episodes in previuos year or 5/year in last two years or 3/year in last 3 years) tonsillitis episodes need to be evaluated for
 tonsillectomy.
-KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES
-GABHS: Group A Beta Hemolyticus Streptococcus
-EB: Epstein Barr
-ABBREVIATIONS GERD: Gastro Esophageal Reflux Disease
-RADT: Rapid Antigen Detection Test
-LRTI: Lower Respiratory Tract Infection
-REFERENCES
-Cochrane Database Syst Rev. 21. CD004872.
-October/
-2019
-This STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and are
-based on expert opinions and available scientific evidence. There may be variations in the management of an individual patient based on his/her specific condition, as decided by the
-treating physician. There will be no indemnity for direct or indirect consequences. Kindly visit our web portal (stw.icmr.org.in) for more information.
-© Indian Council of Medical Research and Department of Health Research, Ministry of Health & Family Welfare, Government of India.
+RED FLAGS
+• Generalized
+lymphadenopathy
+• Cardiac murmurs
+• Purulent
+productive cough
+with tachypnea
+suggestive of LRTI
+• Hot potato voice
+• Unilateral tonsillar
+enlargement
+• Tonsillar
+membrane going
+beyond its
+confines
+• Agranulocyosis
+• Epidemic of flu
+PRELIMINARY
+• Temperature chart: fever is usually absent or low-grade in viral pharyngitis
+• Check for vitals/ signs of dehydration due to compromised oral intake due to odynophagia
+• Complete oral and oropharyngeal examination with tongue depressor
+• Palpate for cervical and generalized lymphadenopathy
+• Rheumatic fever and acute glomerulonephritis are potential systemic complications of
+streptococcal pharyngitis
+• Hepatosplenomegaly can be found in IM
+• A sandpapery scarlatiniform rash may be seen in GABHS infection whereas maculopapular
+rashes are seen with various viral infections and with IM empirically treated with penicillin
+DESIRABLE
+Assess
+Centor
+criteria
+and
+ascertain
+its
+score
+Score = 0-1 Score = 4 Score = 2-3
+Absence of cough
+Tonsillar exudate
+Anterior cervical
+lymphadenopathy
+Fever
+CLINICAL FEATURES
+CENTOR
+SCORE
+UNLIKELY TO HAVE
+GABHS
+LIKELY TO HAVE
+GABHS
+REQUIRE LAB TESTS TO
+CONFIRM GABHS INFECTION
+Smoking and GERD are common causes of non-infective pharyngitis
 
 --- Page 15 ---
-CONTRIBUTORS
-Department of Health Research
-Ministry of Health and Family Welfare, Government of India
 ADVISORY COMMITTEE
 Dr. Balram Bhargava, Secretary, DHR and DG, ICMR - Chairman
 Dr. Nikhil Tandon, Dept. of Endocrinology, AIIMS, New Delhi. - Vice Chairman
@@ -840,20 +947,26 @@ Prof. Sushil Kabra, Dept. ofPaediatrics, AIIMS, New Delhi.
 Prof. Vivekanand Jha, Executive Director, The George Institute for Public Health, New Delhi
 MEMBER SECRETARY
 Dr. Deepika Saraf, Scientist E, ICMR.
+CONTRIBUTORS
 
 --- Page 16 ---
-EXPERT GROUPS
 NAME AND AFFILIATED INSTITUTE ROLE
-Department of Health Research
-Ministry of Health and Family Welfare, Government of India
+EXPERT GROUPS
 ENT
-Dr. Alok Thakar, AIIMS, Delhi Chair
-Dr. Anupam Mishra, KGMC, Lucknow Co-Chair
-Dr. A Ramesh, St John’s Medical College, Bangalore Member
-Dr. Harpreet Kochar, Private Practice, Greater Noida Member
-Col Dr. B. K. Prasad, Command Hospital, Lucknow Member
-Dr. Anuja Bhargava, Ira Medical College, Lucknow Member
-Dr. Prem Sagar, AIIMS Delhi Member
+Dr. Alok Thakar, AIIMS, Delhi
+Dr. Anupam Mishra, KGMC, Lucknow
+Dr. A Ramesh, St John’s Medical College, Bangalore
+Dr. Harpreet Kochar, Private Practice, Greater Noida
+Col Dr. B. K. Prasad, Command Hospital, Lucknow
+Dr. Anuja Bhargava, Ira Medical College, Lucknow
+Dr. Prem Sagar, AIIMS Delhi
+Chair
+Co-Chair
+Member
+Member
+Member
+Member
+Member
 ADMINISTRATIVE SUPPORT
 Mr. V. K. Gauba, Jt. Secretary, Dept. of Health Research, MoHFW, Govt. of India
 Mrs. Anu Nagar, Jt. Secretary, Dept. of Health Research, MoHFW, Govt. of India
@@ -873,10 +986,8 @@ Er. Amitesh Kumar Sharma, Scientist B, ICMR, New Delhi
 Mr. Sandeep Suman, Logistics Support, ICMR, New Delhi
 
 --- Page 17 ---
-Department of Health Research
-Ministry of Health and Family Welfare, Government of India
-S T A N D A R D T R E A T M E N T
-W O R K F L O W S
-PARTNERS
 2019 EDITION
 VOLUME I
+PARTNERS
+S T A N D A R D T R E A T M E N T
+W O R K F L O W S

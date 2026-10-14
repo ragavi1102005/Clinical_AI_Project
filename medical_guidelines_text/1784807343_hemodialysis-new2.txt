@@ -1,136 +1,229 @@
 --- Page 1 ---
-Department of Health Research
-Ministry of Health and Family Welfare, Government of India
+A ROADMAP FOR SAFE, EFFECTIVE AND STANDARDIZED HEMODIALYSIS
 Standard Treatment Workflow
 HEMODIALYSIS
 ICD-11-N005.9
-A ROADMAP FOR SAFE, EFFECTIVE AND STANDARDIZED HEMODIALYSIS
-July/
-2026
-WHEN TO START HD — REMEMBER “AEIOU” RED FLAGS — STABILISE & REFER
-URGENT - stabilise & arrange emergency dialysis / refer:
+ly
+Welfare, Government of India
+ABBREVIATIONS
 • A - Acidosis: severe metabolic acidosis not responding to
-• Refractory hyperkalaemia/ECG changes - give IV calcium, insulin – dextrose,
 treatment
-salbutamol, then dialyse
 • E - Electrolytes: refractory hyperkalaemia/ECG changes.
-• Pulmonary oedema not responding to diuretics; severe acidosis/uraemic
 • I - Intoxication: a dialysable poison or drug.
-emergency
 • O - Overload: fluid overload / pulmonary oedema not
-• Air embolism, haemolysis, anaphylaxis (intradialytic emergencies)
 responding to diuretics.
-• Clotted/failing access (no thrill) or uncontrolled access bleeding; CRBSI/
-• U - Uraemia: uraemic pericarditis, encephalopathy, sepsis
-bleeding or intractable symptoms. Also refer (non-urgent):
-• Planned CKD start: for uraemic symptoms as function • Access creation / salvage & vein mapping
-declines (≈ eGFR 5–10) — not by a number alone; decide • Inadequate dialysis or repeated intradialytic hypotension; transplant
-with nephrology P S work-up
-INFRASTRUCTURE BASELINE WORKUP SHARED DECISION MAKING
-• Trained staff (nephrology nurses/technicians) • CBC, RFT, LFT; Ca, Phosphate, iPTH • Elicit goals of care
+• U - Uraemia: uraemic pericarditis, encephalopathy,
+bleeding or intractable symptoms.
+• Planned CKD start: for uraemic symptoms as function
+declines (≈ eGFR 5–10) — not by a number alone; decide
+with nephrology
+• Trained staff (nephrology nurses/technicians)
+• Water purification system for dialysate
+• Waste management (biomedical waste
+protocol)
+WHEN TO START HD — REMEMBER “AEIOU”
+INFRASTRUCTURE
+• CBC, RFT, LFT; Ca, Phosphate, iPTH
+• Hepatitis B & C and HIV status
+• Blood group
+• Others as clinically indicated
+BASELINE WORKUP
+• Elicit goals of care
 • Choose KRT modality - including conservative
-• Water purification system for dialysate • Hepatitis B & C and HIV status
 kidney management (CKM)
-• Waste management (biomedical waste • Blood group
 • If choosing HD → consider HDF and dialyser type
-protocol) • Others as clinically indicated (low- or high-flux)
-SELECTION & ACCESS A SAFE SESSION MONITOR & ADEQUACY
-Kidney failure/AEIOU indication P S Before session: weight & weight gain, BP, Monitor every 30–60 min: BP, pulse,
-breathlessness, oedema; examine access symptoms, access/circuit; keep UF rate safe
-No Yes
-P S (avoid very high UF) P S
-Plan access early- Stabilise + urgent
-Fistula First-refer for dialysis/refer AVF/Graft- look, feel thrill, listen bruit, Access pressure, circuit clotting watch
-AVF when dialysis is (temporary check redness. Catheter exit site- -post dialysis needle site bleeding T
-clean/dry, aseptic handling S T
-fore-seeable. catheter if no
-Preserve veins P S access)T Any intradialytic problem?
-Machine & circuit checks; right patient/
-No Yes
-dialyser/dialysate; hand hygiene;
-Access order: AVF > AV graft > tunnelled
-aseptic cannulation/connection S T
-catheter > temporary catheter (IJV; avoid Complete session; Manage per
-subclavian)T record UF, complications
-Start — prescription set by nephrology:
-postweight, panel →escalate if
-blood flow, dialysate, time (~4 h ×3/wk),
-Vein preservation: no IV/venipuncture/ UF to dry weight, anticoagulation S T BP; review P S severe T
-BP cuff on the fistula arm-mark
-“Save This Arm” P S
-New, severely uraemic patient → start Adequacy: track Kt/V or URR periodically
-short, gentle sessions to avoid
-- if inadequate, refer for prescription
-Start vaccination for HBV. Anemia, bone disequilibrium S T review S T
-mineral disease, nutrition, BP, glycaemia
-reviewed P S TIP- counsel on cost if needed and
-transport
+(low- or high-flux)
+SHARED DECISION MAKING
 MANAGING COMPLICATIONS
-D. Air embolism — EMERGENCY
-A. Hypotension — the commonest event
-Clamp venous line, STOP pump. Lay on left side, head-down; give
-◆ * Fall in BP ± dizziness, cramps, nausea? oxygen; resuscitate; refer now. T
-E. Haemolysis — EMERGENCY
-Stop/reduce UF · lay head-down · give saline
-Port-wine blood, chest/back pain. Stop dialysis; DO NOT return
-100–250 mL · reduce blood flow · oxygen if
-blood. Support; check K+; refer
-needed. Find cause: too-fast UF, dry weight T
-too low, cardiac, sepsis, eating, BP meds P S F. Fistula/graft problems
-No thrill / no bruit, or new pain & swelling?
-Not improving / chest pain/arrhythmia → refer T
-B. Intradialytic hypertension Possible clotted/failing access → refer urgently (salvage is time-sensitive).
-Post-needle bleeding → firm pressure; if not stopping → refer. T
+• Prepare the site properly before cannulation
+• Use the rope-ladder cannulation technique (rotate sites)
+• Ensure post-HD haemostasis (stop needle-site bleeding)
+• Wear a mask for central venous catheter (CVC) use
+VASCULAR ACCESS CARE
+• Proper use of PPE (gloves, gown,
+mask, eye protection)
+• Protocols for cleaning &
+disinfecting surfaces and
+equipment between patients
+INFECTION CONTROL
+Track and review regularly:
+• Infection rates & vaccination uptake
+• Hospitalisations, drop-outs & deaths
+• Complications (intradialytic & access)
+AUDITS
+Attend every session and control fluid - this
+matters most
+• Don’t skip sessions (risk: high K, overload)
+• Limit fluid between sessions
+• Diet: low potassium & phosphate, less salt
+• Adequate protein; binders with food
+• BP/anaemia/bone medicines as advised
+• Protect the access arm; feel thrill daily
+• Keep catheter dry & covered
+• Warning signs: breathlessness, swelling,
+bleeding, no thrill, fever → seek care
+PATIENT & CAREGIVER EDUCATION
+Access care
+• Feel the thrill daily; report loss of thrill, pain, redness
+or bleeding at once
+• Keep catheter dry & covered; aseptic handling only
+Between sessions
+• Keep to fluid & diet limits; take medicines; attend
+every session
+Infection control & monitoring
+• Clean station; no shared vials; HBsAg-positive on a
+dedicated machine.
+• Periodic viral markers, Kt/V/URR, haemoglobin,
+Ca–PO₄–PTH, dry-weight review
+INTERDIALYTIC CARE, INFECTION CONTROL & FOLLOW-UP
+Track and review regularly
+• For unstable patients, SLED or
+gentler settings reduce
+hypotension
+• If HD not available & patient can’t be
+moved: stabilise hyperkalaemia &
+overload medically (calcium,
+insulin–dextrose, salbutamol, restrict
+fluid) & refer
+• Consider acute peritoneal dialysis as
+a bridge
+HD IN ACUTE/LIMITED SETTINGS
+URGENT - stabilise & arrange emergency dialysis / refer:
+• Refractory hyperkalaemia/ECG changes - give IV calcium, insulin – dextrose,
+salbutamol, then dialyse
+• Pulmonary oedema not responding to diuretics; severe acidosis/uraemic
+emergency
+• Air embolism, haemolysis, anaphylaxis (intradialytic emergencies)
+• Clotted/failing access (no thrill) or uncontrolled access bleeding; CRBSI/
+sepsis
+Also refer (non-urgent):
+• Access creation / salvage & vein mapping
+• Inadequate dialysis or repeated intradialytic hypotension; transplant
+work-up
+RED FLAGS — STABILISE & REFER
+S P
+Access order: AVF > AV graft > tunnelled
+catheter > temporary catheter (IJV; avoid
+subclavian)
+Plan access early-
+Fistula First-refer for
+AVF when dialysis is
+fore-seeable.
+Preserve veins
+Stabilise + urgent
+dialysis/refer
+(temporary
+catheter if no
+access)
+No Yes
+Vein preservation: no IV/venipuncture/
+BP cuff on the fistula arm-mark
+“Save This Arm”
+SELECTION & ACCESS
+Start vaccination for HBV. Anemia, bone
+mineral disease, nutrition, BP, glycaemia
+reviewed
+Kidney failure/AEIOU indication S P
+Machine & circuit checks; right patient/
+dialyser/dialysate; hand hygiene;
+aseptic cannulation/connection
+Start — prescription set by nephrology:
+blood flow, dialysate, time (~4 h ×3/wk),
+UF to dry weight, anticoagulation
+AVF/Graft- look, feel thrill, listen bruit,
+check redness. Catheter exit site-
+clean/dry, aseptic handling
+A SAFE SESSION
+New, severely uraemic patient → start
+short, gentle sessions to avoid
+disequilibrium
+Before session: weight & weight gain, BP,
+breathlessness, oedema; examine access
+S T
+S T
+Any intradialytic problem?
+Adequacy: track Kt/V or URR periodically
+- if inadequate, refer for prescription
+review
+TIP- counsel on cost if needed and
+transport
+MONITOR & ADEQUACY
+Monitor every 30–60 min: BP, pulse,
+symptoms, access/circuit; keep UF rate safe
+(avoid very high UF)
+Access pressure, circuit clotting watch
+-post dialysis needle site bleeding T
+Manage per
+complications
+panel →escalate if
+severe
+Yes
+Complete session;
+record UF,
+postweight,
+BP; review
+No
+P S
+S T
+S T
+S P
+S P
+S P
+◆ * Fall in BP ± dizziness, cramps, nausea?
+Not improving / chest pain/arrhythmia → refer
 Paradoxical BP rise during/after dialysis → check
-G. Catheter bloodstream infection (CRBSI)
 fluid status & dry weight, review drug
 adherence; consider a short-acting
-Fever/rigors during or after dialysis in a catheter patient?
-antihypertensive P S
-Blood cultures (catheter + peripheral). Start empirical IV antibiotics covering
-C. Cramps/nausea/headache & disequilibrium
-gram-positive (incl. MRSA) + gram-negative per local protocol.
-Refer - catheter may need removal. S T
+antihypertensive
+Stop/reduce UF · lay head-down · give saline
+100–250 mL · reduce blood flow · oxygen if
+needed. Find cause: too-fast UF, dry weight
+too low, cardiac, sepsis, eating, BP meds S P
+S P
 Cramps/nausea/headache — usually from
-hypotension/fast UF → reduce UF, give saline. H. Bloodborne infection control — every session
+hypotension/fast UF → reduce UF, give saline.
 Disequilibrium (new severe uraemia: confusion
-Hand hygiene & gloves; no shared multidose vials/supplies; clean station
 ± seizures) → prevent with short gentle starts; if it
+occurs → slow/stop, support, refer.
+A. Hypotension — the commonest event
+B. Intradialytic hypertension
+C. Cramps/nausea/headache & disequilibrium
+S T
+S P
+T S P
+F. Fistula/graft problems
+G. Catheter bloodstream infection (CRBSI)
+H. Bloodborne infection control — every session
+D. Air embolism — EMERGENCY
+Clamp venous line, STOP pump. Lay on left side, head-down; give
+oxygen; resuscitate; refer now. T
+E. Haemolysis — EMERGENCY
+Port-wine blood, chest/back pain. Stop dialysis; DO NOT return
+blood. Support; check K+; refer
+Possible clotted/failing access → refer urgently (salvage is time-sensitive).
+Post-needle bleeding → firm pressure; if not stopping → refer.
+Blood cultures (catheter + peripheral). Start empirical IV antibiotics covering
+gram-positive (incl. MRSA) + gram-negative per local protocol.
+Refer - catheter may need removal.
+No thrill / no bruit, or new pain & swelling?
+Fever/rigors during or after dialysis in a catheter patient?
+S T
+Hand hygiene & gloves; no shared multidose vials/supplies; clean station
 between patients.
-occurs → slow/stop, support, refer. S T
 Dedicated machine / area for HBsAg-positive; safe sharps; staff HBV
-vaccination. P S
-VASCULAR ACCESS CARE INFECTION CONTROL AUDITS
-• Prepare the site properly before cannulation • Proper use of PPE (gloves, gown, Track and review regularly:
-• Use the rope-ladder cannulation technique (rotate sites) mask, eye protection) • Infection rates & vaccination uptake
-• Ensure post-HD haemostasis (stop needle-site bleeding) • Protocols for cleaning & • Hospitalisations, drop-outs & deaths
-• Wear a mask for central venous catheter (CVC) use disinfecting surfaces and • Complications (intradialytic & access)
-equipment between patients
-PATIENT & CAREGIVER EDUCATION INTERDIALYTIC CARE, INFECTION CONTROL & FOLLOW-UP HD IN ACUTE/LIMITED SETTINGS
-Attend every session and control fluid - this Access care Track and review regularly
-matters most • Feel the thrill daily; report loss of thrill, pain, redness • For unstable patients, SLED or
-• Don’t skip sessions (risk: high K, overload) or bleeding at once P S gentler settings reduce
-• Keep catheter dry & covered; aseptic handling only
-• Limit fluid between sessions hypotensionS T
-Between sessions
-• Diet: low potassium & phosphate, less salt • If HD not available & patient can’t be
-• Keep to fluid & diet limits; take medicines; attend
-• Adequate protein; binders with food moved: stabilise hyperkalaemia &
-every session P S
-• BP/anaemia/bone medicines as advised overload medically (calcium,
-Infection control & monitoring
-• Protect the access arm; feel thrill daily insulin–dextrose, salbutamol, restrict
-• Clean station; no shared vials; HBsAg-positive on a
-• Keep catheter dry & covered dedicated machine. fluid) & refer
-• Warning signs: breathlessness, swelling, • Periodic viral markers, Kt/V/URR, haemoglobin, • Consider acute peritoneal dialysis as
-bleeding, no thrill, fever → seek care Ca–PO₄–PTH, dry-weight review S T a bridgeP S
-ABBREVIATIONS
-AKI: Acute Kidney Injury HBsAg/HCV/HIV: Viral Markers P/S/T: Primary/Secondary/Tertiary
-AVF: Arteriovenous Fistula HD: Haemodialysis PD: Peritoneal Dialysis
-CKD: Chronic Kidney Disease IJV: Internal Jugular Vein SLED: Slow Low-Efficiency Dialysis
-CRBSI: Catheter-Related Bloodstream Infection KRT: Kidney Replacement Therapy UF: Ultrafiltration
-ESA: Erythropoiesis-Stimulating Agent Kt/V & URR: Adequacy Measures
-This STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and are based on expert
-opinions and available scientific evidence. There may be variations in the management of an individual patient based on his/her specific condition, as decided by the treating physician. There will be no
-indemnity for direct or indirect consequences. Kindly visit the website of ICMR for more information: (icmr.gov.in) for more information. ©Indian Council of Medical Research, Ministry of Health & Family
-Welfare, Government of India
+vaccination. S P
+AKI: Acute Kidney Injury
+AVF: Arteriovenous Fistula
+CKD: Chronic Kidney Disease
+CRBSI: Catheter-Related Bloodstream Infection
+ESA: Erythropoiesis-Stimulating Agent
+HBsAg/HCV/HIV: Viral Markers
+HD: Haemodialysis
+IJV: Internal Jugular Vein
+KRT: Kidney Replacement Therapy
+Kt/V & URR: Adequacy Measures
+P/S/T: Primary/Secondary/Tertiary
+PD: Peritoneal Dialysis
+SLED: Slow Low-Efficiency Dialysis
+UF: Ultrafiltration
+S T

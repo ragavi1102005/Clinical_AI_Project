@@ -1,130 +1,244 @@
 --- Page 1 ---
-Department of Health Research
-Ministry of Health and Family Welfare, Government of India
 Standard Treatment Workflow
 PERITONEAL DIALYSIS
 ICD-11-QB94.2
 CLEANING YOUR BLOOD, CLEARING THE WAY FOR A BETTER LIFE
-July/
-2026
-WHY & WHEN TO CONSIDER PD RED FLAGS - ACT & REFER
-• PD is as effective as haemodialysis (HD) in properly • REFER NOW - treat catheter removal as an EMERGENCY when
-selected patients. • Peritonitis not responding by ~5 days
-• Prefer PD when the patient still passes good urine • Peritonitis with exit-site / tunnel infection together
-(>200-500 mL/day-good residual kidney function). • Tunnel infection (usually needs catheter removal)
-• Often the only maintenance option (besides home HD)
-• Recurrent / relapsing peritonitis, or culture-negative & not improving
-when all HD access has failed or for home-bound
-(think TB / fungal)
-patients.
-Also refer (non-urgent):
-• Home-based therapy done by patient/caregiver after
-• Catheter insertion & structured PD training
-training-suits long travel, cost and HD slot limitation
-• Poor ultrafiltration / uraemia → prescription change
-• Counselling is the key to PD being chosen and
-• Mechanical problem or pleuro-peritoneal shunt; decision to switch to HD
-continued P S
-CLINICAL PATHWAY
-PATIENT SELECTION INSERTION & START START & MONITOR
-Kidney failure needing maintenance KRT P S PD catheter inserted S T Start PD prescription — begin with the
-lowest dextrose concentration S T
-Assess PD suitability: abdomen, home Urgent need & no HD access? (or bloody
-support, comorbidities P S effluent / adhesion risk) Serial clinical + biochemical review. Track
-weight, urine output, symptoms
-No Yes
-Any contraindication to PD?
-(optimising may take up to 4 weeks) P S
-No Yes Wait ~2 weeks for Early-start PD —
-Worsening uraemia or fluid overload
-exit-site & low volumes,
-Counsel patient & Consider HD/other (poor UF)?
-insertion supine;
-family; take KRT, or refer
-to heal, then start nephrology-led T No Yes
-informed consent nephrology to
-P S re-evaluate Peri-catheter leak at any time → rest the Continue current Refer nephrologist
-catheter 2–4 weeks S T prescription; keep for prescription
-Refer to a centre with an established PD
-monitoring P S change T
-programme for catheter insertion &
-training T
-SELECTION CHECKLIST PRE-PROCEDURE PREP HOME MONITORING SHEET
-Suitable for PD if Before insertion Patient/caregiver records daily — bring
-• Wants home therapy / lives far from a unit • Confirm modality & consent P S to every visit:
-• Willing, able caregiver or can self-perform • Choose insertion method based on • Body weight
-• Clean space, water & storage at home training & skills: Percutaneous • Ultrafiltration (UF) — fluid removed
-• Good residual urine; or HD access exhausted (Nephrologist) in naïve abdomen or each exchange
-Caution /re-evaluate if surgical method (preferred if prior • Urine output
-• Abdominal wall defect / large hernia / ostomy surgery/adhesions/reinsertion) • Blood pressure & swelling
-• Active abdominal sepsis or inflammation • Chest X-ray before insertion (fluid-overload signs)
-• Severely distorted anatomy / many adhesions • Treat constipation; empty bladder; • Effluent appearance — clear vs cloudy
-• No home support & cannot self-perform mark exit site TIP: If a lab is far, teach the family to
-INDIA Most are relative — discuss with At insertion-infection control photograph a cloudy bag and call early
-nephrology first. Most CKD here is diabetic (PD • Prophylactic IV antibiotic just — cloudy effluent = suspect peritonitis
-usually still fine — watch glucose). Screen/treat before/during - e.g. Inj. Vancomycin
-abdominal TB before starting; counsel on 1 g IV S T
-monthly cost & supply • Strict aseptic technique throughout
-MANAGING COMPLICATIONS PATIENT & CAREGIVER
-EDUCATION
-A. Peritonitis — catch early C. Tunnel infection
-Redness/swelling/tenderness over tunnel → Training is the cornerstone of
-Cloudy effluent and/or abdominal pain ± fever?
-Refer - usually needs catheter removal T successful PD.
-1. Send effluent for cell count + culture if lab D. Poor inflow/outflow Every patient/caregiver must
-available. 2. Start empirical antibiotics without Treat constipation first (common cause). Do a
-learn
-delay per local protocol - intraperitoneal (IP) quick in/out test — in 10–20 min, out 20–30
-• Hand hygiene before every
-preferred; IV if severe sepsis P S T min, most fluid returns → obstruction unlikely.
-exchange
-Abnormal / suspected → refer P S
-• Clean exchange technique
-Always examine exit site & tunnel at the same
-E. Pleuro-peritoneal shunting
-time P S • Daily exit-site care & dressing
-Poor UF + new/worsening pleural effusion →
-Re-train after
-Not better by ~5 days, recurrent, or exit/tunnel diagnose by pleural tap showing very high
-• Any peritonitis / catheter
-also infected?
-glucose (use diluted samples) → refer S T
-infection
-No Yes F. Catheter malposition/omental wrap
-• A long break from therapy
-Complete full Refer — may need Tip wandered out of pelvis or omentum • Keep the monitoring sheet
-wrapped → common cause of poor flow →
-antibiotic course; catheter removal • Spot warning signs: cloudy
-review (EMERGENCY) T usually needs surgery → refer T bag, pain, fever, exit redness
-Catheter re-insertion after removal
-B. Exit-site infection • Store fluids; know whom to
-Discharge / redness at exit site → oral antibiotics (e.g. • Removed for infection → re-insert after call
-ciprofloxacin). Not settling or tunnel involved → refer. treatment + 4-week wait (selected treated
-• Any change of caregiver
-repeat-peritonitis: same-sitting exchange —
-• Any technique error seen
-INDIA Relapsing or culture-negative peritonitis not nephrology decision).
-responding → think tuberculous or fungal • Removed for mechanical reason → can
-peritonitis → refer re-insert in the same sitting T
-DAILY CARE, INFECTION CONTROL & FOLLOW-UP PD IN ACUTE SETTINGS
-Daily catheter care A life-saving skill for AKI/CKD
-• Hand hygiene before handling the catheter; clean, dry exit-site care. patients who cannot be referred —
-• Report redness, discharge, pain or cloudy effluent early P S disasters, conflict, or unfit to
-Intercurrent illness/procedures transport
-• Do procedures on an empty abdomen (drain PD fluid first). • A stiff or soft peritoneal dialysis
-• Prophylactic antibiotics before invasive procedures that breach mucosa (dental, endoscopy)P S catheter can be placed at the
-When to switch PD → HD bedside S T
-• UF failure not fixable by prescription change; or unfavourable membrane after repeated • Use clean technique; start low
-peritonitis S T volumes and watch for leak/pain
-ABBREVIATIONS
-AKI: Acute Kidney Injury Peritoneal Dialysis S: Secondary
-CKD: Chronic Kidney Disease IV: Intravenous T: Tertiary
-HD: Haemodialysis KRT: Kidney Replacement Therapy TB: Tuberculosis
-IP: Intraperitoneal P: Primary UF: Ultrafiltration
-ISPD: International Society for PD: Peritoneal Dialysis
-REFERENCES
-1. ISPD Guidelines - International Society for Peritoneal Dialysis https://ispd.org/guidelines
-This STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and
-are based on expert opinions and available scientific evidence. There may be variations in the management of an individual patient based on his/her specific condition, as decided by
-the treating physician. There will be no indemnity for direct or indirect consequences. Kindly visit the website of ICMR for more information: (icmr.gov.in) for more information. ©Indian
+ly
 Council of Medical Research, Ministry of Health & Family Welfare, Government of India
+ABBREVIATIONS
+CLINICAL PATHWAY
+MANAGING COMPLICATIONS
+DAILY CARE, INFECTION CONTROL & FOLLOW-UP
+PATIENT & CAREGIVER
+EDUCATION
+AKI: Acute Kidney Injury
+CKD: Chronic Kidney Disease
+HD: Haemodialysis
+IP: Intraperitoneal
+ISPD: International Society for
+SELECTION CHECKLIST
+Assess PD suitability: abdomen, home
+support, comorbidities
+Any contraindication to PD?
+Refer to a centre with an established PD
+programme for catheter insertion &
+training
+Counsel patient &
+family; take
+informed consent
+Consider HD/other
+KRT, or refer
+nephrology to
+re-evaluate
+No Yes
+Training is the cornerstone of
+successful PD.
+Every patient/caregiver must
+learn
+• Hand hygiene before every
+exchange
+• Clean exchange technique
+• Daily exit-site care & dressing
+Re-train after
+• Any peritonitis / catheter
+infection
+• A long break from therapy
+• Keep the monitoring sheet
+• Spot warning signs: cloudy
+bag, pain, fever, exit redness
+• Store fluids; know whom to
+call
+• Any change of caregiver
+• Any technique error seen
+Suitable for PD if
+• Wants home therapy / lives far from a unit
+• Willing, able caregiver or can self-perform
+• Clean space, water & storage at home
+• Good residual urine; or HD access exhausted
+Caution /re-evaluate if
+• Abdominal wall defect / large hernia / ostomy
+• Active abdominal sepsis or inflammation
+• Severely distorted anatomy / many adhesions
+• No home support & cannot self-perform
+INDIA Most are relative — discuss with
+nephrology first. Most CKD here is diabetic (PD
+usually still fine — watch glucose). Screen/treat
+abdominal TB before starting; counsel on
+monthly cost & supply
+PRE-PROCEDURE PREP
+Before insertion
+• Confirm modality & consent
+• Choose insertion method based on
+training & skills: Percutaneous
+(Nephrologist) in naïve abdomen or
+surgical method (preferred if prior
+surgery/adhesions/reinsertion)
+• Chest X-ray before insertion
+• Treat constipation; empty bladder;
+mark exit site
+At insertion-infection control
+• Prophylactic IV antibiotic just
+before/during - e.g. Inj. Vancomycin
+1 g IV
+• Strict aseptic technique throughout
+Daily catheter care
+• Hand hygiene before handling the catheter; clean, dry exit-site care.
+• Report redness, discharge, pain or cloudy effluent early
+Intercurrent illness/procedures
+• Do procedures on an empty abdomen (drain PD fluid first).
+• Prophylactic antibiotics before invasive procedures that breach mucosa (dental, endoscopy)
+When to switch PD → HD
+• UF failure not fixable by prescription change; or unfavourable membrane after repeated
+peritonitis
+PD IN ACUTE SETTINGS
+A life-saving skill for AKI/CKD
+patients who cannot be referred —
+disasters, conflict, or unfit to
+transport
+• A stiff or soft peritoneal dialysis
+catheter can be placed at the
+bedside
+• Use clean technique; start low
+volumes and watch for leak/pain
+HOME MONITORING SHEET
+Patient/caregiver records daily — bring
+to every visit:
+• Body weight
+• Ultrafiltration (UF) — fluid removed
+each exchange
+• Urine output
+• Blood pressure & swelling
+(fluid-overload signs)
+• Effluent appearance — clear vs cloudy
+TIP: If a lab is far, teach the family to
+photograph a cloudy bag and call early
+— cloudy effluent = suspect peritonitis
+• PD is as effective as haemodialysis (HD) in properly
+selected patients.
+• Prefer PD when the patient still passes good urine
+(>200-500 mL/day-good residual kidney function).
+• Often the only maintenance option (besides home HD)
+when all HD access has failed or for home-bound
+patients.
+• Home-based therapy done by patient/caregiver after
+training-suits long travel, cost and HD slot limitation
+• Counselling is the key to PD being chosen and
+continued
+1. ISPD Guidelines - International Society for Peritoneal Dialysis https://ispd.org/guidelines
+WHY & WHEN TO CONSIDER PD
+• REFER NOW - treat catheter removal as an EMERGENCY when
+• Peritonitis not responding by ~5 days
+• Peritonitis with exit-site / tunnel infection together
+• Tunnel infection (usually needs catheter removal)
+• Recurrent / relapsing peritonitis, or culture-negative & not improving
+(think TB / fungal)
+Also refer (non-urgent):
+• Catheter insertion & structured PD training
+• Poor ultrafiltration / uraemia → prescription change
+• Mechanical problem or pleuro-peritoneal shunt; decision to switch to HD
+RED FLAGS - ACT & REFER
+Cloudy effluent and/or abdominal pain ± fever?
+Treat constipation first (common cause). Do a
+quick in/out test — in 10–20 min, out 20–30
+min, most fluid returns → obstruction unlikely.
+Abnormal / suspected → refer
+Poor UF + new/worsening pleural effusion →
+diagnose by pleural tap showing very high
+glucose (use diluted samples) → refer
+Always examine exit site & tunnel at the same
+time
+Not better by ~5 days, recurrent, or exit/tunnel
+also infected?
+Discharge / redness at exit site → oral antibiotics (e.g.
+ciprofloxacin). Not settling or tunnel involved → refer.
+1. Send effluent for cell count + culture if lab
+available. 2. Start empirical antibiotics without
+delay per local protocol - intraperitoneal (IP)
+preferred; IV if severe sepsis
+PATIENT SELECTION
+Kidney failure needing maintenance KRT S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+S P
+Urgent need & no HD access? (or bloody
+effluent / adhesion risk)
+Peri-catheter leak at any time → rest the
+catheter 2–4 weeks
+Wait ~2 weeks for
+exit-site &
+insertion
+to heal, then start
+Early-start PD —
+low volumes,
+supine;
+nephrology-led
+Yes
+INSERTION & START
+PD catheter inserted
+S T
+S T
+S T
+Serial clinical + biochemical review. Track
+weight, urine output, symptoms
+(optimising may take up to 4 weeks)
+START & MONITOR
+Start PD prescription — begin with the
+lowest dextrose concentration
+Worsening uraemia or fluid overload
+(poor UF)?
+Refer nephrologist
+for prescription
+change
+Yes
+Continue current
+prescription; keep
+monitoring
+No
+S T
+No
+A. Peritonitis — catch early
+B. Exit-site infection
+Redness/swelling/tenderness over tunnel →
+Refer - usually needs catheter removal
+C. Tunnel infection
+D. Poor inflow/outflow
+E. Pleuro-peritoneal shunting
+Tip wandered out of pelvis or omentum
+wrapped → common cause of poor flow →
+usually needs surgery → refer
+• Removed for infection → re-insert after
+treatment + 4-week wait (selected treated
+repeat-peritonitis: same-sitting exchange —
+nephrology decision).
+• Removed for mechanical reason → can
+re-insert in the same sitting
+F. Catheter malposition/omental wrap
+Catheter re-insertion after removal
+S P
+Yes
+Complete full
+antibiotic course;
+review
+No
+S P
+Peritoneal Dialysis
+IV: Intravenous
+KRT: Kidney Replacement Therapy
+P: Primary
+PD: Peritoneal Dialysis
+Refer — may need
+catheter removal
+(EMERGENCY) T
+S T
+INDIA Relapsing or culture-negative peritonitis not
+responding → think tuberculous or fungal
+peritonitis → refer
+S: Secondary
+T: Tertiary
+TB: Tuberculosis
+UF: Ultrafiltration

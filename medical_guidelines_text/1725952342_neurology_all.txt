@@ -1,6 +1,4 @@
 --- Page 1 ---
-Department of Health Research
-Ministry of Health and Family Welfare, Government of India
 PARTNERS
 
 --- Page 2 ---
@@ -18,8 +16,6 @@ organization.
 Printed in India
 
 --- Page 4 ---
-Department of Health Research
-Ministry of Health and Family Welfare, Government of India
 These STWs have been prepared by national experts of India with
 feasibility considerations for various levels of healthcare system in
 the country. These broad guidelines are advisory, and are based on
@@ -27,13 +23,10 @@ expert opinions and available scientific evidence. There may be
 variations in the management of an individual patient based on
 his/her specific condition, as decided by the treating physician.
 There will be no indemnity for direct or indirect consequences.
-Kindly visit our web portal (stw.icmr.org.in) for more information.
 © Indian Council of Medical Research and Department of Health
 Research, Ministry of Health & Family Welfare, Government of India.
 
 --- Page 5 ---
-Department of Health Research
-Ministry of Health and Family Welfare, Government of India
 • INTRODUCTION
 NEUROLOGY
 APPROACH TO ACUTE PARALYSIS
@@ -45,13 +38,48 @@ STROKE
 
 --- Page 6 ---
 INTRODUCTION
-Department of Health Research
-Ministry of Health and Family Welfare, Government of India
 GOAL
 To empower the primary, secondary and tertiary care physicians/ surgeons towards
 achieving the overall goal of Universal Health Coverage with disease management
 protocols and pre-defined referral mechanisms by decoding complex guidelines
 OBJECTIVES
+METHODOLOGY
+PROCESS OVERVIEW
+ADVISORY
+COMMITTEE
+STW SECRETARIAT DESIGN TEAM
+EXPERT GROUPS COMMITTEES
+EDITORIAL BOARD
+• Prevalence studies
+• Global burden of
+diseases studies
+• HBP of AB-PMJAY
+Harrison’s Textbook
+Oxford Handbook
+• Review by Editorial Board
+• Approval by Advisory
+Committee
+• Public Comments
+• 100 Meetings 650 hours
+Consultations
+(5200 person hours)
+• Participation also from
+Public Health Specialists
+Search Strategists
+Clinical Scientists
+TOPIC
+PRIORITIZATION
+DEVELOP STWS &
+CONVERT THEM
+INTO
+INFOGRAPHICS
+REVIEW OF
+CURRENT
+GUIDELINES &
+FEASIBILITY AS
+PER HEALTH
+SYSTEM
+Graphic Designers
 Primary Objective:
 To formulate clinical decision making protocols for common and serious medical/
 surgical conditions for both OPD and IPD management at primary, secondary and
@@ -60,41 +88,11 @@ services which are locally contextual
 Secondary Objective:
 To facilitate PMJAY arm of Ayushman Bharat with secondary and tertiary level
 management of all surgical and medical conditions covered under the scheme.
-METHODOLOGY
-ADVISORY
-COMMITTEE
-STW SECRETARIAT EDITORIAL BOARD DESIGN TEAM
-EXPERT GROUPS COMMITTEES
-PROCESS OVERVIEW
-• 100 Meetings 650 hours
-Consultations
-DEVELOP STWS & (5200 person hours)
-CONVERT THEM
-• Participation also from
-INTO
-Public Health Specialists
-INFOGRAPHICS
-TOPIC Search Strategists
-PRIORITIZATION
-Clinical Scientists
-Graphic Designers
-• Prevalence studies
-• Global burden of REVIEW OF • Review by Editorial Board
-CURRENT
-diseases studies • Approval by Advisory
-GUIDELINES &
-• HBP of AB-PMJAY FEASIBILITY AS Committee
-PER HEALTH • Public Comments
-SYSTEM
-Harrison’s Textbook
-Oxford Handbook
 
 --- Page 7 ---
 NEUROLOGY
 
 --- Page 8 ---
-Department of Health Research
-Ministry of Health and Family Welfare, Government of India
 Standard Treatment Workflow (STW) for the
 APPROACH TO ACUTE PARALYSIS
 ICD 10 G82, G83
@@ -114,36 +112,35 @@ Likely to be :
 tuberculosis
 ∙ Trauma
 ∙ Tumor
-WEAKNESS WEAKNESS
 ∙ Transverse myelitis
-PROXIMAL DISTAL
 ∙ Epidural abscess
 ∙ Spinal cord stroke
+KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES
+Likely to be :
+• Guillain Barre Syndrome (GBS) or
+• Hypokalemic periodic paralysis.
 Presence of Lower Motor Neuron
 (LMN) signs like wasting, absent
 reflexes and sensory impairment
-REFLEXES REFLEXES MANAGEMENT
-Likely to be :
-ABSENT PRESENT
-Acute onset peripheral neuropathy • Check pulse, BP and respiration
-(due to toxin/drug) • If retention of urine present
-then catheterize
+WEAKNESS
+PROXIMAL
+WEAKNESS
+DISTAL
 • Transfer/ refer to nearest district
-Likely to be : MANAGEMENT hospital/ medical college with
-• Guillain Barre Syndrome (GBS) or MRI facility
-• Transfer/ refer to nearest district
-• Hypokalemic periodic paralysis. • Treatment will depend on MRI
 hospital/ medical college with
-and other investigation
 NCS and EMG facilities.
-• After treatment follow up at
 • CSF for cells and biochemistry
-CHC for medications and
 • Treatment as per diagnosis
+• After treatment follow up at CHC
+for medications and
 rehabilitation
-MANAGEMENT • After treatment follow up at CHC
-• Check pulse, BP and respiration for medications and
-• Check serum K+ levels rehabilitation
+MANAGEMENT
+REFLEXES
+ABSENT
+REFLEXES
+PRESENT
+• Check pulse, BP and respiration
+• Check serum K+ levels
 • Intubate if unable to complete
 sentences, single breath count low
 and breath holding time low and
@@ -155,70 +152,217 @@ or giving IVIg and presence of
 ventilator.
 • After treatment follow up at CHC
 for medications and rehabilitation
-ADMISSION CRITERIA
+MANAGEMENT
+• Check pulse, BP and respiration
+• If retention of urine present
+then catheterize
+• Transfer/ refer to nearest district
+hospital/ medical college with
+MRI facility
+• Treatment will depend on MRI
+and other investigation
+• After treatment follow up at
+CHC for medications and
+rehabilitation
+MANAGEMENT
 If the weakness is fatigable
-If no sensory impairment and
 or
-• Any progressive weakness normal extra ocular movements
 If extra ocular movements are
-• Unable to walk
 affected
+• Check pulse, BP and respiration
+• Intubate if unable to complete
+sentences, single breath count low
+and breath holding time low and
+chest expansion poor
+• Transfer/ refer to nearest district
+hospital/ medical college with
+facility for doing NCS, plasma
+exchange or giving IVIg and
+presence of ventilator.
+• After treatment follow up at CHC for
+medications and rehabilitation
+MANAGEMENT
+If no sensory impairment and
+normal extra ocular movements
+Likely to be :
+• Myopathy (eg polymyositis)
+MANAGEMENT
+• Check pulse, BP and respiration
+• Check serum electrolytes, creatine
+kinase
+• Transfer/ refer to nearest district
+hospital/ medical college with
+facility for NCS & EMG
+• After treatment follow up at CHC
+for medications and rehabilitation
+Likely to be :
+• Myasthenia gravis or
+• Snake bite
+Likely to be :
+Acute onset peripheral neuropathy
+(due to toxin/drug)
+ADMISSION CRITERIA
+• Any progressive weakness
+• Unable to walk
 • Unable to swallow or choking while drinking
 water
 • Evidence of respiratory distress like unable
 to complete sentences, falling serial single
 breath count, respiratory rate >20 or SaO2
-levels < 95% Likely to be :
-Likely to be :
-• Persistent tachycardia >100 • Myasthenia gravis or
-• Myopathy (eg polymyositis)
-• Fever • Snake bite
+levels < 95%
+• Persistent tachycardia >100
+• Fever
 • Bowel and bladder involvement
-DISCHARGE CRITERIA MANAGEMENT MANAGEMENT
-• Check pulse, BP and respiration • Check pulse, BP and respiration
+DISCHARGE CRITERIA
 • Cause of acute paralysis established
-• Intubate if unable to complete • Check serum electrolytes, creatine
 • Progression of weakness has stopped
-sentences, single breath count low kinase
 • Able to breathe on his own
-and breath holding time low and • Transfer/ refer to nearest district
 • If present care of tracheostomy taught to
-chest expansion poor hospital/ medical college with
 care giver
-• Transfer/ refer to nearest district facility for NCS & EMG
 • If not swallowing- Ryles tube in place and
-hospital/ medical college with • After treatment follow up at CHC
 care giver has been taught feeding
-facility for doing NCS, plasma for medications and rehabilitation
 • Care of urinary catheter and constant
-exchange or giving IVIg and
 turning taught to the patient
-presence of ventilator.
 • Caregiver trained for physiotherapy at
-• After treatment follow up at CHC for
 home
-medications and rehabilitation
-KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES
-October/
-2019
-This STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and are
-based on expert opinions and available scientific evidence. There may be variations in the management of an individual patient based on his/her specific condition, as decided by the
-treating physician. There will be no indemnity for direct or indirect consequences. Kindly visit our web portal (stw.icmr.org.in) for more information.
-© Indian Council of Medical Research and Department of Health Research, Ministry of Health & Family Welfare, Government of India.
+r/
 
 --- Page 9 ---
-Department of Health Research
-Ministry of Health and Family Welfare, Government of India
+Cognitive decline in
+more than one
+domain
+No
+No dementia
+Suspected dementia
+Delirium or Depression?
+Functional decline
+Yes
+No
+Yes
+Treat
+Yes
+No
+Follow up and Re-evaluation
+Yes
+Dementia
+Typical clinical profile (age, progression, no focal signs)
+Yes
+Probable AD
+ASHA
+PHC
+CHC
+DH
+VD/ mixed dementia
+Lab investigation
+TSH, vit. B12
+No
+Other causes
+Medical college
+Tertiary level centre
 Standard Treatment Workflow (STW) for the Management of
 DEMENTIA
 ICD 10 - F02,F03,G30
-Impaired memory Anxiety Hallucinations Incontinence
 CLINICAL
-Forgetting learned
-FEATURES OF Apathy Agression Mood fluctuations
-activities
+FEATURES OF
 DEMENTIA
-Depression Sleep disturbances Personality change
+Impaired memory
+Apathy Agression
+Depression
+Mood fluctuations
+Personality change Sleep disturbances
+Hallucinations Incontinence
+FOLLOW UP OF DIAGNOSED & TREATED PATIENTS INTERVENTION MATRIX FOR DEMENTIA ACROSS PLATFORMS OF CARE
+PRIMARY HEALTH CENTRE (MEDICAL OFFICER)
+DISTRICT HOSPITAL (SPECIALIST- PHYSICIAN/
+GERIATRIC SPECIALIST/ NEUROLOGIST/
+PSYCHIATRIST)
+EVALUATION OF DEMENTIA
+MEDICATIONS RECOMMENDED FOR USE FOR ALZHIEMERS DEMENTIA
+KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES
+FOR COGNITION
+• Donepezil: 5 mg once after breakfast x 1 month, then 10 mg after breakfast to continue
+If any side effect/ not tolerating: Rivastigmine to be used start dose 1.5 mg BD / 1 month then 3
+mg BD x 1 month, then 4.5 mg BD x 1 month, then 6 mg twice after meals only x 1 month.
+• Memantine: in moderate to severe dementia 5 mg BD x 1 month, then 10 mg BD to continue.
+• Galantamine: 8 mg BD if not tolerating 1
+FOR DEPRESSION
+• Escitalopram 10 mg
+FOR AGITATION
+• Identification of
+triggers
+• Non
+pharmacological
+interventions
+History and
+examination
+Lab investigation
+TSH,Vit B12, vit D
+LFT/RFT/FBS
+Neuropsychiatry
+testing
+Optional tests
+based on clinical
+features
+CT scan/MRI
+Anxiety
+• Not responding to
+adequate dose and
+duration of
+prescribed
+medications
+• Presence of red flags
+• Diagnose dementia after detailed history
+• Screening for:
+- Treatable causes of dementia - thyroid disorders, B-12
+deficiency, subdural hemorrhage.
+- Depression.
+- Vascular risk factors
+• Lab investigations- CBC, biochemistry, liver function
+tests, hemogram, lipid profile, TFT, VDRL, vit B12 level, vit
+D level
+• Referrals for MRI/CT
+• Initiation of treatment/drugs; treatment for co-morbid
+conditions (including depression, vision, hearing deficits
+and gait problems), thyroid, arthritis.
+• Initiate therapy for vascular risk factors
+• Encourage healthy lifestyle
+• Assess for palliative care
+• Learn and share facts about dementia to provide
+immediate need to the person with severe dementia
+• Follow up and monitor for side effects of drugs/ red flags
+in patient/ signs of danger
+• Follow-up of difficult patients under the guidance of
+higher centre.
+• Careful evaluation of all the referral patients of dementia
+• Screening for treatable causes for dementia including
+normal pressure hydrocephalus, B12 deficiency,
+hypothyroidism, chronic meningitis
+• Neuroimaging CT/MRI- to rule out subdural hematoma/
+tumors/ NPH(surgically remediable causes of rapid
+cognitive decline)
+• Lab investigations- CBC, liver function tests, biochemistry,
+hemogram, lipd profile, vit D levels, TFT, VDRL, retrovirus
+after counselling (whenever feasible and high index of
+suspicion)
+• All the points mentioned in PHC to be followed if patient
+presents to a DH
+• Upward referral linkages with tertiary care and
+downward referral with PHC.
+• Encouraging patient and caregiver participation in an
+ongoing support program for them.
+• Avoid antipsychotics until necessary
+• Interaction with, training of MOs at PHC/UPHC and
+ongoing clinical support and supervision
+REASONS FOR
+REFERRAL
+RED FLAGS
+• Fever
+• Rapid progression
+• Seizures
+• Recent head
+injury
+• Alcoholism and
+falls
 IMPORTANT POINTS TO CONSIDER
 • Dementia is a complex and variable condition
 • No single test will definitively diagnose dementia
@@ -226,584 +370,702 @@ IMPORTANT POINTS TO CONSIDER
 • Assessment should aim at gathering information about changed behaviours, functional capacity, psychosocial support and medical
 comorbidities
 • History should be taken from a close caregiver, staying with the patient for a longer duration than the appearance of symptoms
-EVALUATION OF DEMENTIA
-No
-No dementia
-Cognitive decline in
-History and
-more than one
-examination
-domain
-ASHA
-Lab investigation
-Yes PHC
-Suspected dementia TSH,Vit B12, vit D
-CHC
-Yes LFT/RFT/FBS
-Treat Delirium or Depression? DH
-Yes
-No
-No Neuropsychiatry
-Functional decline Follow up and Re-evaluation
-testing
-Yes
-Medical college
-Dementia
-Tertiary level centre
-Optional tests
-No Yes
-based on clinical Typical clinical profile (age, progression, no focal signs) Probable AD
-features
-VD/ mixed dementia
-CT scan/MRI
-Lab investigation
-Other causes
-TSH, vit. B12
-FOLLOW UP OF DIAGNOSED & TREATED PATIENTS INTERVENTION MATRIX FOR DEMENTIA ACROSS PLATFORMS OF CARE
-DISTRICT HOSPITAL (SPECIALIST- PHYSICIAN/
-REASONS FOR
-PRIMARY HEALTH CENTRE (MEDICAL OFFICER)
-GERIATRIC SPECIALIST/ NEUROLOGIST/
-REFERRAL
-PSYCHIATRIST)
-• Diagnose dementia after detailed history
-• Not responding to
-• Screening for:
-adequate dose and
-• Careful evaluation of all the referral patients of dementia
-- Treatable causes of dementia - thyroid disorders, B-12
-duration of
-• Screening for treatable causes for dementia including
-deficiency, subdural hemorrhage.
-prescribed
-normal pressure hydrocephalus, B12 deficiency,
-- Depression.
-medications
-hypothyroidism, chronic meningitis
-- Vascular risk factors
-• Presence of red flags
-• Neuroimaging CT/MRI- to rule out subdural hematoma/
-• Lab investigations- CBC, biochemistry, liver function
-tumors/ NPH(surgically remediable causes of rapid
-tests, hemogram, lipid profile, TFT, VDRL, vit B12 level, vit
-cognitive decline)
-D level
-• Lab investigations- CBC, liver function tests, biochemistry,
-• Referrals for MRI/CT
-hemogram, lipd profile, vit D levels, TFT, VDRL, retrovirus
-• Initiation of treatment/drugs; treatment for co-morbid
-RED FLAGS
-after counselling (whenever feasible and high index of
-conditions (including depression, vision, hearing deficits
-suspicion)
-and gait problems), thyroid, arthritis.
-• Fever
-• All the points mentioned in PHC to be followed if patient
-• Initiate therapy for vascular risk factors
-• Rapid progression
-presents to a DH
-• Encourage healthy lifestyle
-• Seizures
-• Upward referral linkages with tertiary care and
-• Assess for palliative care
-• Recent head
-downward referral with PHC.
-• Learn and share facts about dementia to provide
-injury
-• Encouraging patient and caregiver participation in an
-immediate need to the person with severe dementia
-• Alcoholism and
-ongoing support program for them.
-• Follow up and monitor for side effects of drugs/ red flags
-falls
-• Avoid antipsychotics until necessary
-in patient/ signs of danger
-• Interaction with, training of MOs at PHC/UPHC and
-• Follow-up of difficult patients under the guidance of
-ongoing clinical support and supervision
-higher centre.
-MEDICATIONS RECOMMENDED FOR USE FOR ALZHIEMERS DEMENTIA
-FOR COGNITION
-FOR DEPRESSION FOR AGITATION
-• Donepezil: 5 mg once after breakfast x 1 month, then 10 mg after breakfast to continue
-• Escitalopram 10 mg • Identification of
-If any side effect/ not tolerating: Rivastigmine to be used start dose 1.5 mg BD / 1 month then 3
-triggers
-mg BD x 1 month, then 4.5 mg BD x 1 month, then 6 mg twice after meals only x 1 month.
-• Non
-• Memantine: in moderate to severe dementia 5 mg BD x 1 month, then 10 mg BD to continue.
-pharmacological
-• Galantamine: 8 mg BD if not tolerating 1
-interventions
-KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES
-October/
-2019
+Forgetting learned
+activities
+r/
 Folic Acid 5 mg/day to be added along with AEDs in all women of child bearing age. Polytherapy and valproate to be avoided in women with epilepsy
-This STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and are
-based on expert opinions and available scientific evidence. There may be variations in the management of an individual patient based on his/her specific condition, as decided by the
-treating physician. There will be no indemnity for direct or indirect consequences. Kindly visit our web portal (stw.icmr.org.in) for more information.
-© Indian Council of Medical Research and Department of Health Research, Ministry of Health & Family Welfare, Government of India.
 
 --- Page 10 ---
-Department of Health Research
-Ministry of Health and Family Welfare, Government of India
 Standard Treatment Workflow (STW) for the Management of
 EPILEPSY
 ICD 10 - G40
-Abnormal jerky Loss of Episodes could be single
-Episodic, few Blank
-movements consciousness/ with high risk of
-secs-mins staring
-awareness recurrence. Prolonged
+KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES
+Episodes could be single
+with high risk of
+recurrence. Prolonged
 motor convulsion of > 5
-CLINICAL
 mins with loss of
+consciousness - STATUS
+EPILEPTICUS (SE) -
+MEDICAL EMERGENCY
+CLINICAL
 FEATURES
-Sudden With or without urine/ Any other episode consciousness - STATUS
+Episodic, few
+secs-mins
+Abnormal jerky
+movements
+Loss of
+consciousness/
+awareness
+Blank
+staring
+Sudden
+drops/ falls,
+brief jerks
+With or without urine/
+stool incontinence,
+tongue bite, drooling
 Bizzare activity
-drops/ falls, stool incontinence, lasting for few mins EPILEPTICUS (SE) -
 out of context
-brief jerks tongue bite, drooling (usually<5 mins) MEDICAL EMERGENCY
-PRIMARY HEALTH CENTRE (MEDICAL OFFICER) REASONS FOR REFERRAL DISTRICT HOSPITALS
-• Clinical diagnosis of epilepsy: detailed history from an eyewitness (centres with specialists like • Careful evaluation of all
-• Differentiate between provoked seizures and epilepsy (provoked due to fever, paediatrician, referral patients, provide
-acute CNS insult, antibiotics, and metabolic causes) neurologist) specialized management
+Any other episode
+lasting for few mins
+(usually<5 mins)
+REASONS FOR REFERRAL PRIMARY HEALTH CENTRE (MEDICAL OFFICER)
+• Clinical diagnosis of epilepsy: detailed history from an eyewitness
+• Differentiate between provoked seizures and epilepsy (provoked due to fever,
+acute CNS insult, antibiotics, and metabolic causes)
 • Laboratory investigations: CBC, liver function tests, routine biochemistry,
-for patients and refer
 hemogram, lipid profile, vit D levels, TFT (whichever feasible)
-• Redflag Signs back to PHC for follow up
 • Initiation of treatment:
-• Progressive problems, rapid of management
 - Treat the patient if patient has epilepsy (2 or more episodes of unprovoked
-appearance of new symptoms • Maintain communication,
 seizures)
-• Recent injury ongoing clinical support
 - Treat a single seizure if risk of recurrence is high as in patients with focal
-• Symptoms appearing after and supervision of MOs at
 seizures,mentally retarded, neurological deficits having family history of
-alcohol binge PHC
 seizures abnormalEEG, neuroimaging
-• Status epilepticus after • Laboratory investigation
 - Anti Epileptic Drug (AED broad spectrum, low dose, start low go slow, except
-status epilepticus) stabilization - CBC, liver function
-- Emergency medical care of status epilepticus • Non response to adequate tests, antiepileptic drug
-• Treatment counselling: side effects/toxicities of drugs, red flags, importance of dose and duration of levels, routine
-adherence, maintaining treatment diary medication biochemistry,
-• Advice on prevention of seizures: regular medication, sleep 7-8 hrs, avoid excess • Serious side effects hemogram, lipid profile,
-TV/mobile/ photic stimulation, regular diet, lifestyle choices(avoid alcohol) • Neuroimaging vit D levels, TFT, CT
+status epilepticus)
+- Emergency medical care of status epilepticus
+• Treatment counselling: side effects/toxicities of drugs, red flags, importance of
+adherence, maintaining treatment diary
+• Advice on prevention of seizures: regular medication, sleep 7-8 hrs, avoid excess
+TV/mobile/ photic stimulation, regular diet, lifestyle choices(avoid alcohol)
 • Evaluate any possibility of superimposed non-epileptic seizure
-brain (when necesary)
 • Training of MLP/ANM/ASHA on epilepsy
-• Monitor side effects of
-• For excessive alcohol use, refer to ANM/MLP where psychosocial interventions are RED FLAG SIGNS
-AED
+• For excessive alcohol use, refer to ANM/MLP where psychosocial interventions are
 carried out for substance use disorders
-• Clinical Psychologist:
 • Follow up visits for treatment monitoring & difficult patients under neurologist at
-• Fever
-counselling health
 STC centre
-• Headache
-• Basic management of co-morbidities (behaviour, cognition, reproductive health, services for persons with
-• Vomiting
-bone health) epilepsy or upon referral
-• Altered Sensorium
-• Alert to signs of abuse and neglect from PHC/UPHC
-• Severe Giddiness
+• Basic management of co-morbidities (behaviour, cognition, reproductive health,
+bone health)
+• Alert to signs of abuse and neglect
 • Maintain upward referrals with paediatrician/physician at DH
+• Careful evaluation of all
+referral patients, provide
+specialized management
+for patients and refer
+back to PHC for follow up
+of management
+• Maintain communication,
+ongoing clinical support
+and supervision of MOs at
+PHC
+• Laboratory investigation
+- CBC, liver function
+tests, antiepileptic drug
+levels, routine
+biochemistry,
+hemogram, lipid profile,
+vit D levels, TFT, CT
+brain (when necesary)
+• Monitor side effects of
+AED
+• Clinical Psychologist:
+counselling health
+services for persons with
+epilepsy or upon referral
+from PHC/UPHC
+DISTRICT HOSPITALS
+(centres with specialists like
+paediatrician,
+neurologist)
+• Redflag Signs
+• Progressive problems, rapid
+appearance of new symptoms
+• Recent injury
+• Symptoms appearing after
+alcohol binge
+• Status epilepticus after
+stabilization
+• Non response to adequate
+dose and duration of
+medication
+• Serious side effects
+• Neuroimaging
+RED FLAG SIGNS
+• Fever
+• Headache
+• Vomiting
+• Altered Sensorium
+• Severe Giddiness
 • Loss of function of body
-AED– BROAD SPECTRUM (GENERALIZED SEIZURES) DOSE (MAINTENANCE: MG/D) ADVERSE EFFECTS
-Sodium Valproate (avoid in women of child Starting dose :200mg TDS Anorexia, wt gain, nausea, vomiting, tremors,
-bearing age unless non responsive to other drugs) Maintenance Dose: 600-2400 hair loss, PCOS, thrombocytopenia
-Starting dose: 25mg HS (Lower dose with VPA) Sedation, ataxia, dizziness, skin rash, SJS (lower
-Lamotrigine
-Maintenance Dose: 100-300 risk with slow titration)
-Starting dose: 250mg BD Somnolence, dizziness, cognitive slowing,
-Levetiracetam
-Maintenance Dose: 1000-3000 psychosis
-Sedation, somnolence, cognitive problems,
-Starting dose: 25mg OD
-Topiramate
-weight loss, word finding difficulty, renal
-Maintenance Dose: 100-400
-stones, seizure worsening
-AED (focal seizures)
-Sedation, dizziness, ataxia, skin rash, SJS,
-Starting dose: 100mg BD
-Carbamazepine hyponatremia, seizure worsening in some
-Maintenance dose: 400-1200
-situations
-Starting dose: 150mg BD Sedation, dizziness, ataxia, headache,
-Oxcarbazepine
-Maintenance dose: 600 to 1800 hyponateremia, skin rash
-Phenobarbitone Starting dose: 30mg HS Sedation, ataxia, depression, memory
-Can be used for generalized also Maintenance dose: 60-180 problems, hyperactivity in children, skin rash
-Ataxia, sedation, gum hyperplasia, coarsening
-Starting dose: 200mg HS
-Phenytoin of facial features, hirsutism, memory
-Maintenance dose:200-400
-problems, osteomalacia & bone loss, skin rash
-Folic Acid 5 mg/day to be added along with AEDs in all women of child bearing age. Polytherapy and valproate to be avoided in women with epilepsy
 IMPENDING SE ESTABLISHED SE REFRACTORY SE
 5 MIN 30 MIN 60 MIN 2 IV drugs fail (Benzo + IV AED)
-FIRST ABCS TO BE DONE FROM WHEN YOU SEE PATIENT SIMULTANEOUSLY WITH MEDICATION
-Out of Hospital/home : Buccal/Intranasal IMDZ with acute repititive seizures/status (0.3-0.5 mg/kg) ICU
-IV Midazolam loading 0.2 mg/kg
+Out of Hospital/home : Buccal/Intranasal IMDZ with acute repititive seizures/status (0.3-0.5 mg/kg)
 EMERGENCY ROOM
-OR CIV 0.05-0.5 mg/kg/hr
-(can go up to 2 mg/kg/hr)
 IV Lorazepam up to 0.1 mg/kg @ 2mg/min
-Taper gradually after seizure stops
 OR
-(preferably as evidenced by EEG)
 IV Midazolam 0.1-0.2 mg/kg bolus or 0.05-0.5 mg/kg/hr in CIV
 OR
-Thiopental 5-7 mg/kg IV bolus
 IV Diazepam upto 0.25-0.4 mg/kg over 2-3 min
+• Phenytoin @50 mg/min 20 mg/kg repeat
+plus 10 mg/kg if seizures do not stop in 15-20 min
+• If seizures not controlled or contra indiction (CI) to PHT
+Intravenous Valproate 25-40 mg/kg @3-6 mg/kg/min
+• If CI to above two; Phenobarbitone 20 mg/kg IV @ less than 5-60 mg/min but be
+prepared to Intubate and ventilate
+ICU
+IV Midazolam loading 0.2 mg/kg
+OR CIV 0.05-0.5 mg/kg/hr
+(can go up to 2 mg/kg/hr)
+Taper gradually after seizure stops
+(preferably as evidenced by EEG)
+Thiopental 5-7 mg/kg IV bolus
 further 50 mg until seizures controlled
 3-5 mg/kg/hr for only 48 hours
-• Phenytoin @50 mg/min 20 mg/kg repeat
 OR Propofol IV loading 2-5 mg/kg
-plus 10 mg/kg if seizures do not stop in 15-20 min
 CIV 1-15 MG/KG/HR
-• If seizures not controlled or contra indiction (CI) to PHT
 OR Pentobarbital IV upto 10 mg/kg
-Intravenous Valproate 25-40 mg/kg @3-6 mg/kg/min
 @ <0.2-0.4 mg/kg/min CIV 0.5-2 mg/kg/h
-• If CI to above two; Phenobarbitone 20 mg/kg IV @ less than 5-60 mg/min but be OR Ketamine bolus 1.5 mg/kg
-prepared to Intubate and ventilate
+OR Ketamine bolus 1.5 mg/kg
 CIV 0.01-0.05 mg/kg/h max 10mg/kg/hr * to be
 EEG Monitoring
 Levetiracetam 20-30 mg/kg IV at 5 mg/kg/min (max 3g) or
-Levetiracetam 1500-3000 mg via NGT or Super refractory
-> 24hr no control
+Levetiracetam 1500-3000 mg via NGT or
 Lacosamide 200-400 mg IV at 40-80 mg/min
 Topiramate 150-800 mg bid via NGT
 Airway, blood pressure, temperature, intravenous access, electrocardiography, CBC, glucose, electrolytes, AED levels, ABG, oximetry, tox screen, central line
 If alcoholic- thiamine & glucose, if diabetic GLUCOTEST/blood sugar & glucose IV. MUST INFORM CONSULTANT ON CALL
-KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES
-October/
-2019
-This STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and are
-based on expert opinions and available scientific evidence. There may be variations in the management of an individual patient based on his/her specific condition, as decided by the
-treating physician. There will be no indemnity for direct or indirect consequences. Kindly visit our web portal (stw.icmr.org.in) for more information.
-© Indian Council of Medical Research and Department of Health Research, Ministry of Health & Family Welfare, Government of India.
+Super refractory
+> 24hr no control
+AED– BROAD SPECTRUM (GENERALIZED SEIZURES) DOSE (MAINTENANCE: MG/D) ADVERSE EFFECTS
+Sodium Valproate (avoid in women of child
+bearing age unless non responsive to other drugs)
+Starting dose :200mg TDS
+Maintenance Dose: 600-2400
+Anorexia, wt gain, nausea, vomiting, tremors,
+hair loss, PCOS, thrombocytopenia
+Lamotrigine
+Starting dose: 25mg HS (Lower dose with VPA)
+Maintenance Dose: 100-300
+Sedation, ataxia, dizziness, skin rash, SJS (lower
+risk with slow titration)
+Levetiracetam
+Starting dose: 250mg BD
+Maintenance Dose: 1000-3000
+Somnolence, dizziness, cognitive slowing,
+psychosis
+Topiramate
+Starting dose: 25mg OD
+Maintenance Dose: 100-400
+Sedation, somnolence, cognitive problems,
+weight loss, word finding difficulty, renal
+stones, seizure worsening
+AED (focal seizures)
+Carbamazepine
+Starting dose: 100mg BD
+Maintenance dose: 400-1200
+Sedation, dizziness, ataxia, skin rash, SJS,
+hyponatremia, seizure worsening in some
+situations
+Oxcarbazepine
+Starting dose: 150mg BD
+Maintenance dose: 600 to 1800
+Sedation, dizziness, ataxia, headache,
+hyponateremia, skin rash
+Phenobarbitone
+Can be used for generalized also
+Starting dose: 30mg HS
+Maintenance dose: 60-180
+Sedation, ataxia, depression, memory
+problems, hyperactivity in children, skin rash
+Phenytoin
+Starting dose: 200mg HS
+Maintenance dose:200-400
+Ataxia, sedation, gum hyperplasia, coarsening
+of facial features, hirsutism, memory
+problems, osteomalacia & bone loss, skin rash
+Folic Acid 5 mg/day to be added along with AEDs in all women of child bearing age. Polytherapy and valproate to be avoided in women with epilepsy
+FIRST ABCS TO BE DONE FROM WHEN YOU SEE PATIENT SIMULTANEOUSLY WITH MEDICATION
+r/
 
 --- Page 11 ---
-Department of Health Research
-Ministry of Health and Family Welfare, Government of India
-Standard Treatment Workflow (STW) for the Management of
-ICD-10-G43-44
-CONTINUOUS HEADACHES • CT with CT
-• Progressive headache of acute or subacute Referred Angiogram/ MRI
-onset persisting more than 1 week to with MR angiogram
-• Possibilities: Cerebral Venous Thrombosis, higher • Lumbar puncture
-Intra Cranial Space Occupying Lesion, centre • Refer to tertiary care
-Meningitis, Brain abscess centre
-CHRONIC TENSION HEADACHE Start Amitriptyline Brain imaging
-Continuous bilateral headache for many years with (10mg HS) and if atypical
-significant insomnia and psychosomatic complaints. advice on lifestyle features exist
-MIGRAINE Frequency > 2 /month -
-Side Start prophylaxis trial for 2 months
-TREATMENT FLOWCHART
-alternating, • Propranolol 40 mg OD Brain
-LEGEND/ INDEX/ KEY
-associated • Flunarizine 10 mg OD imaging
-visual aura, Acute management if
-photo-phono • Analgesics( Paracetamol 650 mg, or there
-phobia, Indomethacin 50 mg) and are
-Type of
-nausea, • Antiemetics ( Prochlorperazine 10mg). atypical
-Headache
-relieved by Life style changes symptoms
-sleep or • Good sleep at least 6 hrs, food habit
-analgesics modification, avoiding triggers of migraine.
-Management
-at PHC
-ATYPICAL MIGRAINE Analgesics for pain • CT/ MRI with MR angiogram or CT
-Management at Hemiplegia, visual Refer to higher angiogram if required
-district hospital impairment, centre with • Migraine prophylaxis after ruling out
-vertigo imaging facility stroke and other diseases
-TRIGEMINAL AUTONOMIC CEPHALGIAS Indomethacin Refer to
-Rapid onset peri orbital and temporal (25mg TID) for tertiary care
-pain with autonomic features 7 days centre
-CLUSTER HEADACHE, PAROXYSMAL HEMICRANIAS, SHORT Refer to Refer to
-LASTING UNILATERAL NEURALGIFORM PAIN WITH tertiary tertiary
-CONJUNCTIVAL INJECTION AND TEARING SYNDOME (SUNCT) care centre care centre
-• First or worst • Headache with fever, change in • Rapid onset with strenuous exercise REASONS FOR REFERRAL
-headache of the personality, mental status, level of • Sudden onset (maximal intensity
-patient’s life consciousness occurs within seconds to minutes, • Non responding
-• Focal neurologic signs • Fever, neck stiffness or meningism thunderclap headache) headaches
-(not typical aura) • New onset of severe headache in • New headache type in a patient • Headaches with danger
-• Severe headache pregnancy or postpartum or while with malignancy or signs should be
-awakening from sleep on hormone treatment immunosuppression immediately referred and
-investigated for
-potentially dangerous
-RED FLAG SIGNS conditions
-TREATMENT OF MAJOR CATASTROPHIC HEADACHES AT TERTIARY CENTRE
-Headache with fever, Progressive
-Sudden Severe headache, Progressive personality change, headache with
-First or Worst headache of life headache altered sensorium, seizure or focal
-neck stifffness deficit
-CT with CT Angiogram/ MR venogram CT scan followed CT/MRI with
-MRI with MR angiogram by CSF study contrast
-CEREBRAL VENOUS
-SUBARACHNOID INTRACEREBRAL
-THROMBOSIS MENINGIOENCEPHALITIS BRAIN TUMORS
-HEMORRHAGE HEMORRHAGE
 Folic Acid 5 mg/day to be added along with AEDs in all women of child bearing age. Polytherapy and valproate to be avoided in women with epilepsy
-Angiogram, Stroke unit Intravenous UFH /
-Surgery,
-clipping/ admission and subcutaneous Antibiotics/
-radiation,
-coiling of neurosurgery for heparin/LMWH antivirals
-chemotherapy
-aneurysm cortical
-(to prevent hemorrhages or
-rebleed) large
-hemorrhage
-with herniation
-INDICATIONS FOR ADMISSION CRITERIA FOR DISCHARGE FOLLOW UP OF HEADACHE PATIENTS
-• Patient with unrelenting • Primary headache disorders- CAUSES OF HEADACHE TREATMENT OF HEADACHE
-headache symptomatically improved severe
-Intra cerebral hemorrhage Good control of blood pressure
-• Immunosuppressed patients episode of headache due to primary
-with continuous headache, headache disorder can be discharged
-Seizures Antiepileptic medications
-• First ever headache with
-worsening intensity, • Secondary headache disorders- Cerebral venous sinus thrombosis Follow up of anticoagulation
-• Progressive headache with secondary headache disorders with
-other systemic disease essential work up, diagnosis and Give prophylaxis for
-• Severe symptomatic primary treatment as per individual case can Migraine adequate duration of time
-headache disorders be discharged and taper after remission
-KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES
-REFERENCES
-1. Hainer BL, Matheson EM. Approach to acute headache in adults. American family physician. 2013 May 15;87(10).
-2. https://www.uptodate.com/contents/evaluation-of-headache-in-adults
+TREATMENT OF MAJOR CATASTROPHIC HEADACHES AT TERTIARY CENTRE
 ABBREVIATIONS
 CSF: Cerobrospinal Fluid, UFH: Unfractionated Heparin, LMWH: Low Molecular Weight Heparin
-October/
-2019
+KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES
+REASONS FOR REFERRAL
+• Non responding
+headaches
+• Headaches with danger
+signs should be
+immediately referred and
+investigated for
+potentially dangerous
+conditions
+FOLLOW UP OF HEADACHE PATIENTS
+Intra cerebral hemorrhage
+Seizures
+Cerebral venous sinus thrombosis
+Migraine
+CAUSES OF HEADACHE
+Good control of blood pressure
+Antiepileptic medications
+Follow up of anticoagulation
+Give prophylaxis for
+adequate duration of time
+and taper after remission
+TREATMENT OF HEADACHE
+Standard Treatment Workflow (STW) for the Management of
+ICD-10-G43-44
+CONTINUOUS HEADACHES
+• Progressive headache of acute or subacute
+onset persisting more than 1 week
+• Possibilities: Cerebral Venous Thrombosis,
+Intra Cranial Space Occupying Lesion,
+Meningitis, Brain abscess
+• CT with CT
+Angiogram/ MRI
+with MR angiogram
+• Lumbar puncture
+• Refer to tertiary care
+centre
+Referred
+to
+higher
+centre
+Progressive
+headache
+MR venogram
+CEREBRAL VENOUS
+THROMBOSIS
+Intravenous UFH /
+subcutaneous
+heparin/LMWH
+Sudden Severe headache,
+First or Worst headache of life
+CT with CT Angiogram/
+MRI with MR angiogram
+SUBARACHNOID
+HEMORRHAGE
+INTRACEREBRAL
+HEMORRHAGE
+Angiogram,
+clipping/
+coiling of
+aneurysm
+(to prevent
+rebleed)
+Stroke unit
+admission and
+neurosurgery for
+cortical
+hemorrhages or
+large
+hemorrhage
+with herniation
+Progressive
+headache with
+seizure or focal
+deficit
+CT/MRI with
+contrast
+BRAIN TUMORS
+Surgery,
+radiation,
+chemotherapy
+Headache with fever,
+personality change,
+altered sensorium,
+neck stifffness
+CT scan followed
+by CSF study
+MENINGIOENCEPHALITIS
+Antibiotics/
+antivirals
+MIGRAINE
+Side
+alternating,
+associated
+visual aura,
+photo-phono
+phobia,
+nausea,
+relieved by
+sleep or
+analgesics
+ATYPICAL MIGRAINE
+Hemiplegia, visual
+impairment,
+vertigo
+Frequency > 2 /month -
+Start prophylaxis trial for 2 months
+• Propranolol 40 mg OD
+• Flunarizine 10 mg OD
+Acute management
+• Analgesics( Paracetamol 650 mg, or
+Indomethacin 50 mg) and
+• Antiemetics ( Prochlorperazine 10mg).
+Life style changes
+• Good sleep at least 6 hrs, food habit
+modification, avoiding triggers of migraine.
+Brain
+imaging
+if
+there
+are
+atypical
+symptoms
+Analgesics for pain
+Refer to higher
+centre with
+imaging facility
+• CT/ MRI with MR angiogram or CT
+angiogram if required
+• Migraine prophylaxis after ruling out
+stroke and other diseases
+Start Amitriptyline
+(10mg HS) and
+advice on lifestyle
+Brain imaging
+if atypical
+features exist
+CHRONIC TENSION HEADACHE
+Continuous bilateral headache for many years with
+significant insomnia and psychosomatic complaints.
+Indomethacin
+(25mg TID) for
+7 days
+Refer to
+tertiary care
+centre
+TRIGEMINAL AUTONOMIC CEPHALGIAS
+Rapid onset peri orbital and temporal
+pain with autonomic features
+CLUSTER HEADACHE, PAROXYSMAL HEMICRANIAS, SHORT
+LASTING UNILATERAL NEURALGIFORM PAIN WITH
+CONJUNCTIVAL INJECTION AND TEARING SYNDOME (SUNCT)
+Refer to
+tertiary
+care centre
+Refer to
+tertiary
+care centre
+Type of
+Headache
+Management
+at PHC
+Management at
+district hospital
+TREATMENT FLOWCHART
+LEGEND/ INDEX/ KEY
+• Headache with fever, change in
+personality, mental status, level of
+consciousness
+• Fever, neck stiffness or meningism
+• New onset of severe headache in
+pregnancy or postpartum or while
+on hormone treatment
+• Rapid onset with strenuous exercise
+• Sudden onset (maximal intensity
+occurs within seconds to minutes,
+thunderclap headache)
+• New headache type in a patient
+with malignancy or
+immunosuppression
+• First or worst
+headache of the
+patient’s life
+• Focal neurologic signs
+(not typical aura)
+• Severe headache
+awakening from sleep
+RED FLAG SIGNS
+INDICATIONS FOR ADMISSION
+• Patient with unrelenting
+headache
+• Immunosuppressed patients
+with continuous headache,
+• First ever headache with
+worsening intensity,
+• Progressive headache with
+other systemic disease
+• Severe symptomatic primary
+headache disorders
+• Primary headache disorders-
+symptomatically improved severe
+episode of headache due to primary
+headache disorder can be discharged
+• Secondary headache disorders-
+secondary headache disorders with
+essential work up, diagnosis and
+treatment as per individual case can
+be discharged
+CRITERIA FOR DISCHARGE
+r/
 HEADACHE
-This STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and are
-based on expert opinions and available scientific evidence. There may be variations in the management of an individual patient based on his/her specific condition, as decided by the
-treating physician. There will be no indemnity for direct or indirect consequences. Kindly visit our web portal (stw.icmr.org.in) for more information.
-© Indian Council of Medical Research and Department of Health Research, Ministry of Health & Family Welfare, Government of India.
 
 --- Page 12 ---
-Department of Health Research
-Ministry of Health and Family Welfare, Government of India
-Standard Treatment Workflow (STW) for the Management of
-NEUROINFECTIONS
-ICD-10-G03.9
-DIFFERENTIAL
-DIAGNOSIS
-Acute onset-hours to days
-DIFFERENTIAL
-DIAGNOSIS
-Vascular-ischemic/hemorrhagic
-stroke
-SYMPTOMS
-Infections
-Alteration in sensorium
-viral/bacterial/fungal/protozoal
-meningoencephalits/brain abscess
-Metabolic encephalopathies
-Seizures/postictal state
-With/ without fever/
-headache/vomiting/seizures
 Intoxications-drugs/toxins
-AT PRIMARY CARE LEVEL
-NOT
-ESSENTIAL
-RECOMMENDED
-Check Airway/Breathing/Circulation
-• Stomach wash
-Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C • Inj Mannitol
-or hypothermia(< 36.5°C) • Inj Steroids
-Establish IV access-urgent blood for hemogram/sugar/electrolytes/malaria testing-peripheral smear/rapid CRITERIA FOR
-antigen detection REFERRAL
-Altered
-Correct hypoglycemia (blood sugar 50 mg/dl) with IV 100ml of 25% dextrose solution
-sensorium/seizures
-/focal
-If seizing- IV/IM Lorazepam 0.1 mg/kg followed by loading with Phenytoin 20 mg/kg weight at a rate of deficits/hemodyna
-50 mg/minute mic instability
-–where imaging
-When IV access not available-intra nasal or buccal Midazolam 0.2 mg/kg /intra rectal Diazepam 0.3-0.4 mg/kg and ICU
-management are
-Urgent referral to higher centres with intensive care facilities required.
-AT SECONDARY CARE LEVEL( TALUK, DISTRICT) HEADQUARTERS HOSPITAL
-ESSENTIAL DESIRABLE
-In addition to all the steps given above :
-• Neuroimaging-CT with contrast -to rule out
-Establish and maintain airway: Intubate if GCS<8, impaired airway reflexes, abnormal hemorrhage/infarcts/focal edema or lesions
-respiratory pattern, signs of raised ICP, oxygen saturation <92% despite high flow oxygen, • Blood cultures aerobic/anaerobic
-and fluid refractory shock • First dose of empirical treatment of pyogenic
-meningitis-Inj Ceftriaxone 2 g + Inj Vancomycin
-Inj Thiamine 100 mg IV
-500 mg.
-Add Inj Ampicillin 2 g if older than 50 years /
-Stomach wash/activated charcoal administration-if history or suspicion of drug overdose/
-immunocompromised along with Inj
-non corrosive poison intake
-Dexamethasone 8 mg
-• Fundus examination,CSF study to rule out
-Start treatment for cerebral malaria-first dose of IV Artesunate 2.4 mg/kg OR
-meningoencephalitis-if imaging rules out any
-Quinine 20 mg/kg bolus
-mass lesions/herniations.
-• Urgent referral to higher centres with Intensive
-Emergency CT/referral to centre with 24 hour CT facilities care facilities
-CRITERIA FOR REFERRAL
-• Altered sensorium/seizures/focal deficits/hemodynamic instability –where imaging and ICU management are required.
-• If no definite diagnosis achieved after preliminary investigations
 AT TERTIARY CARE HOSPITALS-SELECTED DISTRICT HOSPITALS/MEDICAL COLLEGES
 • Neuroimaging-MRI/CT with contrast to rule out abscess/herniations.
 If abscess-emergency neurosurgical consultation for favour of aspiration –open/stereotactic
 • Blood cultures-aerobic/anaerobic
 • CSF analysis-biocehmistry/cytology/gram staining/culture-bacterial , AFB and fungal/viral PCR/TB-PCR/fungal antigen
-Empirical antibiotic (within 30 minutes of arrival) Viral-Herpes Cerebral malaria
-• If suspecting pyogenic meningitis-Inj Ceftriaxone 2 g+ Inj simplex/Zoster Inj Artesunate 2.4 mg/kg IM or IV 3 doses
-Vancomycin 500 mg+ Inj Ampicillin 2 g if older than 50 years or 12 hours apart and then OD /
-immunocompromised+ Inj Dexamethasone 8 mg IV • Inj Acyclovir Inj Quinine 20 mg/kg IV stat followed by 10mg/kg
-• Continue empirical treatment till culture yields causative 500 mg IV TDS till patient can take orally,then
-organism,then tailor treatment as per sensitivity reports for 10-14 8 hourly for oral Artesunate+Pyrimethamine /Sulphadoxine for
-days. 10 days 3 days OR oral Quinine 10 mg/kg TDS for total 7
-• Steroids to be stopped after 48 hours,unless any other compelling days + Doxycycline 3 mg/kg OD for 7 days.
-indications-adrenal insufficiency/TBM
-COMPLICATIONS
-Raised ICP SIADH Vasculitis Hydrocephalus
-*If uncomplicated-back referral to Secondary care centre for completing treatment regimen/monitoring.
-CRITERIA FOR DISCHARGE
-Afebrile,hemodynamically stable,seizure Diagnosis and treatment plan made and Continuation of treatment with monitoring can
-free >48 hours initiated. be ensured for the prescribed duration.
 KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES
-October/
-2019
-This STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and are
-based on expert opinions and available scientific evidence. There may be variations in the management of an individual patient based on his/her specific condition, as decided by the
-treating physician. There will be no indemnity for direct or indirect consequences. Kindly visit our web portal (stw.icmr.org.in) for more information.
-© Indian Council of Medical Research and Department of Health Research, Ministry of Health & Family Welfare, Government of India.
+Standard Treatment Workflow (STW) for the Management of
+NEUROINFECTIONS
+Acute onset-hours to days
+DIFFERENTIAL
+DIAGNOSIS
+With/ without fever/
+headache/vomiting/seizures
+SYMPTOMS
+Alteration in sensorium
+Vascular-ischemic/hemorrhagic
+stroke
+Infections
+viral/bacterial/fungal/protozoal
+meningoencephalits/brain abscess
+Metabolic encephalopathies
+AT SECONDARY CARE LEVEL( TALUK, DISTRICT) HEADQUARTERS HOSPITAL
+AT PRIMARY CARE LEVEL
+ESSENTIAL
+• Stomach wash
+• Inj Mannitol
+• Inj Steroids
+When IV access not available-intra nasal or buccal Midazolam 0.2 mg/kg /intra rectal Diazepam 0.3-0.4 mg/kg
+Urgent referral to higher centres with intensive care facilities
+If seizing- IV/IM Lorazepam 0.1 mg/kg followed by loading with Phenytoin 20 mg/kg weight at a rate of
+50 mg/minute
+Correct hypoglycemia (blood sugar 50 mg/dl) with IV 100ml of 25% dextrose solution
+Establish IV access-urgent blood for hemogram/sugar/electrolytes/malaria testing-peripheral smear/rapid
+antigen detection
+Rule out circulatory shock, ongoing convulsions and hyperthermia/hyperpyrexia(core temperature > 40.5°C
+or hypothermia(< 36.5°C)
+Check Airway/Breathing/Circulation
+Empirical antibiotic (within 30 minutes of arrival)
+• If suspecting pyogenic meningitis-Inj Ceftriaxone 2 g+ Inj
+Vancomycin 500 mg+ Inj Ampicillin 2 g if older than 50 years or
+immunocompromised+ Inj Dexamethasone 8 mg IV
+• Continue empirical treatment till culture yields causative
+organism,then tailor treatment as per sensitivity reports for 10-14
+days.
+• Steroids to be stopped after 48 hours,unless any other compelling
+indications-adrenal insufficiency/TBM
+Viral-Herpes
+simplex/Zoster
+• Inj Acyclovir
+500 mg IV
+8 hourly for
+10 days
+Cerebral malaria
+Inj Artesunate 2.4 mg/kg IM or IV 3 doses
+12 hours apart and then OD /
+Inj Quinine 20 mg/kg IV stat followed by 10mg/kg
+TDS till patient can take orally,then
+oral Artesunate+Pyrimethamine /Sulphadoxine for
+3 days OR oral Quinine 10 mg/kg TDS for total 7
+days + Doxycycline 3 mg/kg OD for 7 days.
+*If uncomplicated-back referral to Secondary care centre for completing treatment regimen/monitoring.
+Seizures/postictal state
+DIFFERENTIAL
+DIAGNOSIS
+COMPLICATIONS
+Raised ICP
+ICD-10-G03.9
+Altered
+sensorium/seizures
+/focal
+deficits/hemodyna
+mic instability
+–where imaging
+and ICU
+management are
+required.
+NOT
+RECOMMENDED
+CRITERIA FOR
+REFERRAL
+SIADH Vasculitis Hydrocephalus
+Afebrile,hemodynamically stable,seizure
+free >48 hours
+Diagnosis and treatment plan made and
+initiated.
+Continuation of treatment with monitoring can
+be ensured for the prescribed duration.
+CRITERIA FOR DISCHARGE
+ESSENTIAL
+Emergency CT/referral to centre with 24 hour CT facilities
+Start treatment for cerebral malaria-first dose of IV Artesunate 2.4 mg/kg OR
+Quinine 20 mg/kg bolus
+Stomach wash/activated charcoal administration-if history or suspicion of drug overdose/
+non corrosive poison intake
+Inj Thiamine 100 mg IV
+Establish and maintain airway: Intubate if GCS<8, impaired airway reflexes, abnormal
+respiratory pattern, signs of raised ICP, oxygen saturation <92% despite high flow oxygen,
+and fluid refractory shock
+In addition to all the steps given above :
+DESIRABLE
+• Neuroimaging-CT with contrast -to rule out
+hemorrhage/infarcts/focal edema or lesions
+• Blood cultures aerobic/anaerobic
+• First dose of empirical treatment of pyogenic
+meningitis-Inj Ceftriaxone 2 g + Inj Vancomycin
+500 mg.
+Add Inj Ampicillin 2 g if older than 50 years /
+immunocompromised along with Inj
+Dexamethasone 8 mg
+• Fundus examination,CSF study to rule out
+meningoencephalitis-if imaging rules out any
+mass lesions/herniations.
+• Urgent referral to higher centres with Intensive
+care facilities
+CRITERIA FOR REFERRAL
+• Altered sensorium/seizures/focal deficits/hemodynamic instability –where imaging and ICU management are required.
+• If no definite diagnosis achieved after preliminary investigations
+r/
 
 --- Page 13 ---
-Department of Health Research
-Ministry of Health and Family Welfare, Government of India
 Standard Treatment Workflow (STW) for the Management of
 STROKE
 ICD-10-I63, I64
-SYMPTOMS
-WARNING SIGNS (BEFAST)
-• Numbness or weakness, especially on one side of
-• BALANCE : Loss of balance or
-the body
-coordination
-WHAT IS STROKE? • Loss of consciousness or altered consciousness
-• EYES : Sudden blurred or double vision/
-• Decreased vision in one or both eyes
-sudden, persistent vision trouble
+WHAT IS STROKE?
 An episode of
-• Language difficulties, either in speaking or
-neurological • FACE : Deviation at the angle of the
-dysfunction caused by understanding
-mouth
+neurological
+dysfunction caused by
 focal cerebral, spinal, or
-• Difficulty walking; loss of balance or coordination
-retinal infarction or • ARM : Arm Drift
-• Confusion or loss of memory
+retinal infarction or
 haemorrhage
-• SPEECH : Slurred speech or the inability
+SYMPTOMS
+• Numbness or weakness, especially on one side of
+the body
+• Loss of consciousness or altered consciousness
+• Decreased vision in one or both eyes
+• Language difficulties, either in speaking or
+understanding
+• Difficulty walking; loss of balance or coordination
+• Confusion or loss of memory
 • Swallowing difficulties
-to speak or understand
 • Paralysis of any part of the body, including face
-• TIME : Act fast
 • Sudden, severe headache with no known cause
-• Sudden new onset of headache or loss of
 • Neck pain
-consciousness
 • Nausea and vomiting
-• Sudden giddiness, vomiting and
-imbalance
-TYPES OF STROKE
-Transient Ischemic Attack
-Intracerebral haemorrhage
-(TIA)
-Focal collection of blood
-Ischemic stroke Subarachnoid haemorrhage Cerebral venous Transient episode of
-within the brain
-Focal cerebral, spinal, or Bleeding into the thrombosis Thrombosis of neurologic dysfunction caused
-parenchyma or ventricular
-retinal infarction subarachnoid space a cerebral venous by focal cerebral, spinal cord,
-system that is not caused by
-structure or retinal ischemia, without
-trauma
-acute infarction
-PRELIMINARY MANAGEMENT INVESTIGATIONS
 • Assess and manage ABCs
-• Initiate cardiac monitoring ESSENTIAL DESIRABLE OPTIONAL
+• Initiate cardiac monitoring
 • Maintain O2 saturation >94%
-• Establish IV access • CT Scan head • CTA • MRI/MRA
-• Determine blood glucose and treat accordingly • ECG • Echocardiogram • Holter monitoring
-• Determine time of symptom onset or last known normal, and obtain family • Blood Sugar
-contact information, preferably a cell phone • Lipids
-• Triage and RAPID TRANSFER of patient to nearest district hospital with CT • Renal parameter
+• Establish IV access
+• Determine blood glucose and treat accordingly
+• Determine time of symptom onset or last known normal, and obtain family
+contact information, preferably a cell phone
+• Triage and RAPID TRANSFER of patient to nearest district hospital with CT
 Scan facility or Stroke center with facility for thrombolysis
 • Referal hospital to be notified to handle the referred patient with stroke
-MANAGEMENT
-ISCHEMIC: * HAEMORRHAGIC:
-IV tPA (0-4.5 hrs) or • Dysphagia assessment,
-STROKE ONSET TIME: <4.5 HOURS endovascular treatment • Blood pressure/blood sugar monitoring and IV fluids.
-according to eligibility • Prevention of Pneumonia
-and availability • Prophylaxis for deep venous thrombosis etc, monitor and record ECG
-* RECOMMENDED DIAGNOSTIC STUDIES
-ALL PATIENTS SELECTED PATIENTS
-• Noncontrast brain CT or brain MRI • TT and/or ECT if it is suspected the patient is taking direct thrombin
-• Blood glucose inhibitors or direct factor Xa inhibitors
-• Oxygen saturation • Liver function tests
-• Serum electrolytes/renal function tests • Toxicology screen
-• Complete blood count, including platelet count • Blood alcohol level
-• Markers of cardiac ischemia • Pregnancy test
-• BT, CT, Prothrombin time/INR • Arterial blood gas test (if hypoxia is suspected)
-• Activated partial thromboplastin time • Chest radiography (if lung disease is suspected)
-• ECG • Lumbar puncture (if subarachnoid hemorrhage is suspected and CT
-• FLP and carotid doppler (ischemic stroke) scan is negative for blood)
+• Noncontrast brain CT or brain MRI
+• Blood glucose
+• Oxygen saturation
+• Serum electrolytes/renal function tests
+• Complete blood count, including platelet count
+• Markers of cardiac ischemia
+• BT, CT, Prothrombin time/INR
+• Activated partial thromboplastin time
+• ECG
+• FLP and carotid doppler (ischemic stroke)
+• TT and/or ECT if it is suspected the patient is taking direct thrombin
+inhibitors or direct factor Xa inhibitors
+• Liver function tests
+• Toxicology screen
+• Blood alcohol level
+• Pregnancy test
+• Arterial blood gas test (if hypoxia is suspected)
+• Chest radiography (if lung disease is suspected)
+• Lumbar puncture (if subarachnoid hemorrhage is suspected and CT
+scan is negative for blood)
 • Electroencephalogram (if seizures are suspected)
-Rapid Assessment, CODE Stroke, Blood pressure and Blood Sugar monitoring, NIHSS, Intravenous lines
-STROKE ONSET TIME: >4.5 HOURS Endovascular treatment with Mechanical thrombectomy using stent retriever (4.5 hrs to 24hrs) according to
-eligibility
-DISCHARGE PLANNING
+Ischemic stroke
+Focal cerebral, spinal, or
+retinal infarction
+Intracerebral haemorrhage
+Focal collection of blood
+within the brain
+parenchyma or ventricular
+system that is not caused by
+trauma
 SECONDARY PREVENTION
-REHABILITATION
-(checklist : drugs, diet, compliance,
 Aspirin (in ischemic stroke)
-Physiotherapy
-exercises, health education)
 Antihypertensives
-Speech Therapy
 Antidiabetics
-Occupational Therapy
-FOLLOW UP at 2nd week, 1st month, 3rd
 Lipid lowering agents
+REHABILITATION
+Physiotherapy
+Speech Therapy
+Occupational Therapy
 Vocational training
+DISCHARGE PLANNING
+(checklist : drugs, diet, compliance,
+exercises, health education)
+FOLLOW UP at 2nd week, 1st month, 3rd
 month and 6th month
+ISCHEMIC: *
+IV tPA (0-4.5 hrs) or
+endovascular treatment
+according to eligibility
+and availability
+HAEMORRHAGIC:
+• Dysphagia assessment,
+• Blood pressure/blood sugar monitoring and IV fluids.
+• Prevention of Pneumonia
+• Prophylaxis for deep venous thrombosis etc, monitor and record ECG
+Rapid Assessment, CODE Stroke, Blood pressure and Blood Sugar monitoring, NIHSS, Intravenous lines
+Endovascular treatment with Mechanical thrombectomy using stent retriever (4.5 hrs to 24hrs) according to
+eligibility
+Subarachnoid haemorrhage
+Bleeding into the
+subarachnoid space
+Cerebral venous
+thrombosis Thrombosis of
+a cerebral venous
+structure
+Transient Ischemic Attack
+(TIA)
+Transient episode of
+neurologic dysfunction caused
+by focal cerebral, spinal cord,
+or retinal ischemia, without
+acute infarction
+TYPES OF STROKE
+MANAGEMENT
+PRELIMINARY MANAGEMENT
+• CT Scan head
+• ECG
+• Blood Sugar
+• Lipids
+• Renal parameter
+• CTA
+• Echocardiogram
+* RECOMMENDED DIAGNOSTIC STUDIES
+• MRI/MRA
+• Holter monitoring
+INVESTIGATIONS
+ESSENTIAL DESIRABLE OPTIONAL
+ALL PATIENTS SELECTED PATIENTS
+STROKE ONSET TIME: <4.5 HOURS
+STROKE ONSET TIME: >4.5 HOURS
+KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES
 STROKE UNIT MANAGEMENT
 · Medical and Nursing staff : control of blood pressure; control of diabetes; swallow assessment; DVT prophylaxis; antiplatelet drugs
 · Rehabilitation staff:
 » Acute phase: basic bed mobility, transfer techniques, communication training, prevention of complications
 » Subacute and chronic phase: mobility, gait and balance training, training of activities of daily living (grooming, eating, dressing etc), bowel/bladder
 training, perceptual and cognitive rehabilitation, provision of assistive devices.
-KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES
-October/
-2019
-This STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and are
-based on expert opinions and available scientific evidence. There may be variations in the management of an individual patient based on his/her specific condition, as decided by the
-treating physician. There will be no indemnity for direct or indirect consequences. Kindly visit our web portal (stw.icmr.org.in) for more information.
-© Indian Council of Medical Research and Department of Health Research, Ministry of Health & Family Welfare, Government of India.
+WARNING SIGNS (BEFAST)
+• BALANCE : Loss of balance or
+coordination
+• EYES : Sudden blurred or double vision/
+sudden, persistent vision trouble
+• FACE : Deviation at the angle of the
+mouth
+• ARM : Arm Drift
+• SPEECH : Slurred speech or the inability
+to speak or understand
+• TIME : Act fast
+• Sudden new onset of headache or loss of
+consciousness
+• Sudden giddiness, vomiting and
+imbalance
+r/
 
 --- Page 14 ---
-CONTRIBUTORS
-Department of Health Research
-Ministry of Health and Family Welfare, Government of India
 ADVISORY COMMITTEE
 Dr. Balram Bhargava, Secretary, DHR and DG, ICMR - Chairman
 Dr. Nikhil Tandon, Dept. of Endocrinology, AIIMS, New Delhi. - Vice Chairman
@@ -854,21 +1116,29 @@ Prof. Sushil Kabra, Dept. ofPaediatrics, AIIMS, New Delhi.
 Prof. Vivekanand Jha, Executive Director, The George Institute for Public Health, New Delhi
 MEMBER SECRETARY
 Dr. Deepika Saraf, Scientist E, ICMR.
+CONTRIBUTORS
 
 --- Page 15 ---
-EXPERT GROUPS
-Department of Health Research
-Ministry of Health and Family Welfare, Government of India
 NEUROLOGY
-Dr. Jeyaraj Pandiyan, CMC, Ludhiana Chair
-Dr. Manjari Tripathi, AIIMS,New Delhi Co-Chair
-Dr. Salil Gupta, R & R Hospital, New Delhi Member
-Dr. Shefali Gulati, AIIMS,New Delhi Member
-Dr. Sylaja PN, SCTIMST, Trivandrum Member
-Dr. Vivek Nambiar, AIMS, Kochi Member
-Dr. Karamvir Goyal, Ludhiana Member
-Dr. P K Misra, Lucknow District Hospital Member
-Dr. Sapna Erat Sreedharan, SCTIMST, Trivandrum Member
+Dr. Jeyaraj Pandiyan, CMC, Ludhiana
+Dr. Manjari Tripathi, AIIMS,New Delhi
+Dr. Salil Gupta, R & R Hospital, New Delhi
+Dr. Shefali Gulati, AIIMS,New Delhi
+Dr. Sylaja PN, SCTIMST, Trivandrum
+Dr. Vivek Nambiar, AIMS, Kochi
+Dr. Karamvir Goyal, Ludhiana
+Dr. P K Misra, Lucknow District Hospital
+Dr. Sapna Erat Sreedharan, SCTIMST, Trivandrum
+Chair
+Co-Chair
+Member
+Member
+Member
+Member
+Member
+Member
+Member
+EXPERT GROUPS
 ADMINISTRATIVE SUPPORT
 Mr. V. K. Gauba, Jt. Secretary, Dept. of Health Research, MoHFW, Govt. of India
 Mrs. Anu Nagar, Jt. Secretary, Dept. of Health Research, MoHFW, Govt. of India
@@ -888,10 +1158,8 @@ Er. Amitesh Kumar Sharma, Scientist B, ICMR, New Delhi
 Mr. Sandeep Suman, Logistics Support, ICMR, New Delhi
 
 --- Page 16 ---
-Department of Health Research
-Ministry of Health and Family Welfare, Government of India
-S T A N D A R D T R E A T M E N T
-W O R K F L O W S
-PARTNERS
 2019 EDITION
 VOLUME I
+PARTNERS
+S T A N D A R D T R E A T M E N T
+W O R K F L O W S

@@ -1,6 +1,4 @@
 --- Page 1 ---
-Department of Health Research
-Ministry of Health and Family Welfare, Government of India
 Standard Treatment Workflow (STW) for the
 APPROACH TO ACUTE PARALYSIS
 ICD 10 G82, G83
@@ -21,36 +19,35 @@ Likely to be :
 tuberculosis
 ∙ Trauma
 ∙ Tumor
-WEAKNESS WEAKNESS
 ∙ Transverse myelitis
-PROXIMAL DISTAL
 ∙ Epidural abscess
 ∙ Spinal cord stroke
+KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES
+Likely to be :
+• Guillain Barre Syndrome (GBS) or
+• Hypokalemic periodic paralysis.
 Presence of Lower Motor Neuron
 (LMN) signs like wasting, absent
 reflexes and sensory impairment
-REFLEXES REFLEXES MANAGEMENT
-Likely to be :
-ABSENT PRESENT
-Acute onset peripheral neuropathy • Check pulse, BP and respiration
-(due to toxin/drug) • If retention of urine present
-then catheterize
+WEAKNESS
+PROXIMAL
+WEAKNESS
+DISTAL
 • Transfer/ refer to nearest district
-Likely to be : MANAGEMENT hospital/ medical college with
-• Guillain Barre Syndrome (GBS) or MRI facility
-• Transfer/ refer to nearest district
-• Hypokalemic periodic paralysis. • Treatment will depend on MRI
 hospital/ medical college with
-and other investigation
 NCS and EMG facilities.
-• After treatment follow up at
 • CSF for cells and biochemistry
-CHC for medications and
 • Treatment as per diagnosis
+• After treatment follow up at CHC
+for medications and
 rehabilitation
-MANAGEMENT • After treatment follow up at CHC
-• Check pulse BP and respiration for medications and
-• Check serum K+ levels rehabilitation
+MANAGEMENT
+REFLEXES
+ABSENT
+REFLEXES
+PRESENT
+• Check pulse BP and respiration
+• Check serum K+ levels
 • Intubate if unable to complete
 sentences, single breath count low
 and breath holding time low and
@@ -62,68 +59,77 @@ or giving IVIg and presence of
 ventilator.
 • After treatment follow up at CHC
 for medications and rehabilitation
-ADMISSION CRITERIA
+MANAGEMENT
+• Check pulse, BP and respiration
+• If retention of urine present
+then catheterize
+• Transfer/ refer to nearest district
+hospital/ medical college with
+MRI facility
+• Treatment will depend on MRI
+and other investigation
+• After treatment follow up at
+CHC for medications and
+rehabilitation
+MANAGEMENT
 If the weakness is fatigable
-If no sensory impairment and
 or
-• Any progressive weakness normal extra ocular movements
 If extra ocular movements are
-• Unable to walk
 affected
+• Check pulse, BP and respiration
+• Intubate if unable to complete
+sentences, single breath count low
+and breath holding time low and
+chest expansion poor
+• Transfer/ refer to nearest district
+hospital/ medical college with
+facility for doing NCS, plasma
+exchange or giving IVIg and
+presence of ventilator.
+• After treatment follow up at CHC for
+medications and rehabilitation
+MANAGEMENT
+If no sensory impairment and
+normal extra ocular movements
+Likely to be :
+• Myopathy (eg polymyositis)
+MANAGEMENT
+• Check pulse, BP and respiration
+• Check serum electrolytes, creatine
+kinase
+• Transfer/ refer to nearest district
+hospital/ medical college with
+facility for NCS & EMG
+• After treatment follow up at CHC
+for medications and rehabilitation
+Likely to be :
+• Myasthenia gravis or
+• Snake bite
+Likely to be :
+Acute onset peripheral neuropathy
+(due to toxin/drug)
+ADMISSION CRITERIA
+• Any progressive weakness
+• Unable to walk
 • Unable to swallow or choking while drinking
 water
 • Evidence of respiratory distress like unable
 to complete sentences, falling serial single
 breath count, respiratory rate >20 or SaO2
-levels < 95% Likely to be :
-Likely to be :
-• Persistent tachycardia >100 • Myasthenia gravis or
-• Myopathy (eg polymyositis)
-• Fever • Snake bite
+levels < 95%
+• Persistent tachycardia >100
+• Fever
 • Bowel and bladder involvement
-DISCHARGE CRITERIA MANAGEMENT MANAGEMENT
-• Check pulse, BP and respiration • Check pulse, BP and respiration
+DISCHARGE CRITERIA
 • Cause of acute paralysis established
-• Intubate if unable to complete • Check serum electrolytes, creatine
 • Progression of weakness has stopped
-sentences, single breath count low kinase
 • Able to breathe on his own
-and breath holding time low and • Transfer/ refer to nearest district
 • If present care of tracheostomy taught to
-chest expansion poor hospital/ medical college with
 care giver
-• Transfer/ refer to nearest district facility for NCS & EMG
 • If not swallowing- Ryles tube in place and
-hospital/ medical college with • After treatment follow up at CHC
 care giver has been taught feeding
-facility for doing NCS, plasma for medications and rehabilitation
 • Care of urinary catheter and constant
-exchange or giving IVIg and
 turning taught to the patient
-presence of ventilator.
 • Caregiver trained for physiotherapy at
-• After treatment follow up at CHC for
 home
-medications and rehabilitation
-KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES
-October/
-2019
-n
-i
-.
-g
-r
-o
-.
-r
-m
-c
-i
-.
-w
-t
-s
-This STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and are
-based on expert opinions and available scientific evidence. There may be variations in the management of an individual patient based on his/her specific condition, as decided by the
-treating physician. There will be no indemnity for direct or indirect consequences. Kindly visit our web portal (stw.icmr.org.in) for more information.
-© Indian Council of Medical Research and Department of Health Research, Ministry of Health & Family Welfare, Government of India.
+r/

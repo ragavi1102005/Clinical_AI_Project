@@ -1,6 +1,4 @@
 --- Page 1 ---
-Department of Health Research
-Ministry of Health and Family Welfare, Government of India
 PARTNERS
 
 --- Page 2 ---
@@ -18,8 +16,6 @@ organization.
 Printed in India
 
 --- Page 4 ---
-Department of Health Research
-Ministry of Health and Family Welfare, Government of India
 These STWs have been prepared by national experts of India with
 feasibility considerations for various levels of healthcare system in
 the country. These broad guidelines are advisory, and are based on
@@ -27,33 +23,65 @@ expert opinions and available scientific evidence. There may be
 variations in the management of an individual patient based on
 his/her specific condition, as decided by the treating physician.
 There will be no indemnity for direct or indirect consequences.
-Kindly visit our web portal (stw.icmr.org.in) for more information.
 © Indian Council of Medical Research and Department of Health
 Research, Ministry of Health & Family Welfare, Government of India.
 
 --- Page 5 ---
-Department of Health Research
-Ministry of Health and Family Welfare, Government of India
 • INTRODUCTION
 PSYCHIATRY
 ALCOHOL USE DISORDERS
 ANXIETY DISORDERS
 CHILDHOOD BEHAVIOURAL DISORDERS
 CHILDHOOD EMOTIONAL DISORDERS
-CHILDREN WITH DEVELOPMENTAL DISORDERS
 DEPRESSION
+CHILDREN WITH DEVELOPMENTAL DISORDERS
 PSYCHOSIS
 SOMATOFORM DISORDERS
 
 --- Page 6 ---
 INTRODUCTION
-Department of Health Research
-Ministry of Health and Family Welfare, Government of India
 GOAL
 To empower the primary, secondary and tertiary care physicians/ surgeons towards
 achieving the overall goal of Universal Health Coverage with disease management
 protocols and pre-defined referral mechanisms by decoding complex guidelines
 OBJECTIVES
+METHODOLOGY
+PROCESS OVERVIEW
+ADVISORY
+COMMITTEE
+STW SECRETARIAT DESIGN TEAM
+EXPERT GROUPS COMMITTEES
+EDITORIAL BOARD
+• Prevalence studies
+• Global burden of
+diseases studies
+• HBP of AB-PMJAY
+Harrison’s Textbook
+Oxford Handbook
+• Review by Editorial Board
+• Approval by Advisory
+Committee
+• Public Comments
+• 100 Meetings 650 hours
+Consultations
+(5200 person hours)
+• Participation also from
+Public Health Specialists
+Search Strategists
+Clinical Scientists
+TOPIC
+PRIORITIZATION
+DEVELOP STWS &
+CONVERT THEM
+INTO
+INFOGRAPHICS
+REVIEW OF
+CURRENT
+GUIDELINES &
+FEASIBILITY AS
+PER HEALTH
+SYSTEM
+Graphic Designers
 Primary Objective:
 To formulate clinical decision making protocols for common and serious medical/
 surgical conditions for both OPD and IPD management at primary, secondary and
@@ -62,114 +90,154 @@ services which are locally contextual
 Secondary Objective:
 To facilitate PMJAY arm of Ayushman Bharat with secondary and tertiary level
 management of all surgical and medical conditions covered under the scheme.
-METHODOLOGY
-ADVISORY
-COMMITTEE
-STW SECRETARIAT EDITORIAL BOARD DESIGN TEAM
-EXPERT GROUPS COMMITTEES
-PROCESS OVERVIEW
-• 100 Meetings 650 hours
-Consultations
-DEVELOP STWS & (5200 person hours)
-CONVERT THEM
-• Participation also from
-INTO
-Public Health Specialists
-INFOGRAPHICS
-TOPIC Search Strategists
-PRIORITIZATION
-Clinical Scientists
-Graphic Designers
-• Prevalence studies
-• Global burden of REVIEW OF • Review by Editorial Board
-CURRENT
-diseases studies • Approval by Advisory
-GUIDELINES &
-• HBP of AB-PMJAY FEASIBILITY AS Committee
-PER HEALTH • Public Comments
-SYSTEM
-Harrison’s Textbook
-Oxford Handbook
 
 --- Page 7 ---
 PSYCHIATRY
 
 --- Page 8 ---
-Department of Health Research
-Ministry of Health and Family Welfare, Government of India
 Standard Treatment Workflow (STW) for the Management of
 ALCOHOL USE DISORDERS
 ICD10-F10
-ASSESSMENT (DETAILED HISTORY)
-Special attention to:
-(AUDIT can be used • Age at initiation, quantity, frequency and progression (daily use and/or morning drinking)
-for screening) • Time of last alcohol use and amount
+• Age at initiation, quantity, frequency and progression (daily use and/or morning drinking)
+• Time of last alcohol use and amount
 • Binge drinking ( men: 5 drinks over 2 hours; women: 4 drinks over 2 hours)
 • Withdrawal state: insomnia, restlessness, anxiety, tremors. Use of alcohol (or
 benzodiazepines) to relieve or avoid withdrawal symptoms.
-H/ o head injury
 • Tolerance: increased doses of alcohol taken to achieve effects produced by earlier intake
 • Craving
-Appearing under
-Universal • Difficulty in controlling duration of drinking or amount of use
-influence of alcohol
+• Difficulty in controlling duration of drinking or amount of use
 • Preoccupation with alcohol use with neglect of alternative pleasures or interests
-screening for
 • Increased time spent to obtain/ take alcohol/ recover from its effects
-every patient H/ o impaired
 • Continued use despite patient being aware of evidence of harmful consequences that have
-attending any social,
 occurred
-occupational
-healthcare • Abstinence and treatment attempts in past and reasons for relapse
-functioning
-facility • Co-morbid medical illness or psychiatric illness and their treatment
+• Abstinence and treatment attempts in past and reasons for relapse
+• Co-morbid medical illness or psychiatric illness and their treatment
 • Complications:
-Daily alcohol • Physical- gastritis, peripheral neuropathy, hepatic dysfunction, accidents/injuries
-consumption • Psychosocial - loss of work, fights at home, financial, legal problems
-Drinking in large
-EXAMINATION
-quantities
-(men: 5 or more VITALS WITHDRAWAL SIGNS SIGNS OF HEPATIC DYSFUNCTION NEUROLOGICAL SIGNS
-drinks/ day;
-• BP • Tremor • Enlarged liver • Cerebellar signs
-women: 4 or
-• Pulse Rate • Sweating • Icterus • Peripheral neuropathy
-more drinks/ day) • Temperature • Tachycardia • Abdominal swelling • Confusion
+• Physical- gastritis, peripheral neuropathy, hepatic dysfunction, accidents/injuries
+• Psychosocial - loss of work, fights at home, financial, legal problems
+NEUROLOGICAL SIGNS
+• Cerebellar signs
+• Peripheral neuropathy
+• Confusion
+CT head (in case of seizure/ delirium tremens)
+ASSESSMENT (DETAILED HISTORY)
 DIAGNOSIS
+KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES
 Alcohol dependence (three of the following six criteria to be present for at least one month)
-Hazardous or Harmful use
 1) A strong desire or sense of compulsion to take alcohol
-• Involvement in risky behaviours such as
 2) Difficulty in controlling alcohol use
-binge drinking, driving under the
 3) Withdrawal state when alcohol use has stopped or been reduced or use of the alcohol (or
-influence of alcohol
 benzodiazepines) to relieve or avoid withdrawal symptoms
 4) Evidence of tolerance
-• It should have resulted in harmful
 5) Preoccupation with alcohol use
-physical or psychosocial consequences
 6) Alcohol use persisting despite clear evidence of harmful consequences
-INVESTIGATIONS
-CBC Liver function test Blood sugar Electrolytes CT head (in case of seizure/ delirium tremens)
 MANAGEMENT
-PRIMARY CARE
-• Alcohol Hazardous/ Harmful users - Brief
-Intervention* to reduce/stop consumption
-• Alcohol Dependent users – Advice to stop use
-• H/ o withdrawal
-and motivate for treatment using Brief
-seizures/
-intervention*
-hallucinations REFER TO
-• Additional psychiatric
-SECONDARY
-disorder
-CARE IF
-• Recurrent failed
+INVESTIGATIONS
+Hazardous or Harmful use
+• Involvement in risky behaviours such as
+binge drinking, driving under the
+influence of alcohol
+• It should have resulted in harmful
+physical or psychosocial consequences
+Poly-substance use
+INDICATIONS FOR ADMISSION
+Failure of outpatient treatment
+H/o withdrawal seizures/ delirium
+tremens
+Co-morbid significant medical
+illness and/or psychiatric illness
+VITALS
+• BP
+• Pulse Rate
+• Temperature
+WITHDRAWAL SIGNS
+• Tremor
+• Sweating
+• Tachycardia
+SIGNS OF HEPATIC DYSFUNCTION
+• Enlarged liver
+• Icterus
+• Abdominal swelling
+EXAMINATION
+WITHDRAWAL MANAGEMENT
+• Tab Diazepam
+(20-40mg/day in divided
+doses) based on severity
+of withdrawals.
+• Monitor and titrate dose.
+• If patient comfortable,
+reduce dose of
+medication by 10% to
+20% per day, taper
+within 7 to 10 days
+• Thiamine 100 mg OD
+• Significant liver
+dysfunction:
+Lorazepam (2 mg
+Lorazepam equal to 5
+mg Diazepam)
+CBC Liver function test Blood sugar Electrolytes
+*BRIEF INTERVENTION
+Inquire using open ended questions in a
+non-judgmental manner. Help patient to evaluate the
+risks versus the perceived benefits and to arrive at a
+decision to reduce or stop alcohol use.
+Includes (FRAMES) :
+• Feedback about alcohol related problems
+• Responsibility – acknowledging that the patient is
+responsible for making the decision about their alcohol
+use
+• Advice regarding the harms associated with continued
+use
+• Menu of alternative change options (includes identifying
+alternative activities such as hobbies, involving the
+family in treatment)
+• Empathetic attitude
+• Self efficacy - to encourage patients’ confidence that
+they can make changes in their alcohol use and lifestyle
+RELAPSE PREVENTION
+(Long term goals- abstinence and socio-occupational
+integration)
+• Disulfiram (250 mg OD)
+Pre-requisites:
+• Motivated patient
+• Patient’s written consent
+• Under supervision of family members.
+• Inform patient and family about unpleasant,
+potentially serious reaction with even small
+amounts of alcohol (flushing, headache, vomiting,
+reduction of blood pressure, arrhythmias)
+• Ability of health personnel in the area to handle a
+potential reaction
+• Relapse prevention counselling:
+• Identify cues leading to craving (like person, place,
+situation etc)
+• Develop strategies to deal with them effectively
+Universal
+screening for
+every patient
+attending any
+healthcare
+facility
+Special attention to:
+(AUDIT can be used
+for screening)
+H/ o head injury
+Appearing under
+influence of alcohol
+H/ o impaired
+social,
+occupational
+functioning
+Daily alcohol
+consumption
+Drinking in large
+quantities
+(men: 5 or more
+drinks/ day;
+women: 4 or
+more drinks/ day)
 SECONDARY CARE
-attempts at treatment
 • Treatment of withdrawal symptoms
 • Managment of withdrawal seizure
 • Inpatient management with benzodiazepines (diazepam or lorazepam)
@@ -180,72 +248,50 @@ TERTIARY CARE
 • Treatment of delirium tremens
 • R/ o head injury, hepatic encephalopathy, Wernicke’s encephalopathy
 • R/ o other causes of delirium
-• H/ o delirium
-tremens • Manage on similar lines as withdrawal seizures
-REFER TO
-• Major medical • Management in ICU setting when indicated
-TERTIARY problems
+• Manage on similar lines as withdrawal seizures
+• Management in ICU setting when indicated
 • Consult with other medical specialists (like gastroenterology or medicine for
-CARE IF • Additional substance
 hematemesis).
-use
 • Management for suicidality or violence when emergent threat
-*BRIEF INTERVENTION WITHDRAWAL MANAGEMENT RELAPSE PREVENTION
-(Long term goals- abstinence and socio-occupational
-Inquire using open ended questions in a • Tab Diazepam
-integration)
-non-judgmental manner. Help patient to evaluate the (20-40mg/day in divided
-risks versus the perceived benefits and to arrive at a doses) based on severity
-• Disulfiram (250 mg OD)
-decision to reduce or stop alcohol use. of withdrawals.
-Pre-requisites:
-Includes (FRAMES) : • Monitor and titrate dose.
-• Motivated patient
-• Feedback about alcohol related problems • If patient comfortable,
-• Patient’s written consent
-• Responsibility – acknowledging that the patient is reduce dose of
-• Under supervision of family members.
-responsible for making the decision about their alcohol medication by 10% to
-• Inform patient and family about unpleasant,
-use 20% per day, taper
-potentially serious reaction with even small
-• Advice regarding the harms associated with continued within 7 to 10 days
-amounts of alcohol (flushing, headache, vomiting,
-use • Thiamine 100 mg OD
-reduction of blood pressure, arrhythmias)
-• Menu of alternative change options (includes identifying • Significant liver
-• Ability of health personnel in the area to handle a
-alternative activities such as hobbies, involving the dysfunction:
-potential reaction
-family in treatment) Lorazepam (2 mg
-• Relapse prevention counselling:
-• Empathetic attitude Lorazepam equal to 5
-• Identify cues leading to craving (like person, place,
-• Self efficacy - to encourage patients’ confidence that mg Diazepam)
-situation etc)
-they can make changes in their alcohol use and lifestyle
-• Develop strategies to deal with them effectively
-INDICATIONS FOR ADMISSION
-H/o withdrawal seizures/ delirium Co-morbid significant medical
-Failure of outpatient treatment
-tremens illness and/or psychiatric illness Poly-substance use
-KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES
-This STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and are
-based on expert opinions and available scientific evidence. There may be variations in the management of an individual patient based on his/her specific condition, as decided by the
-treating physician. There will be no indemnity for direct or indirect consequences. Kindly visit our web portal (stw.icmr.org.in) for more information.
-© Indian Council of Medical Research and Department of Health Research, Ministry of Health & Family Welfare, Government of India.
-October/
-2019
+PRIMARY CARE
+• Alcohol Hazardous/ Harmful users - Brief
+Intervention* to reduce/stop consumption
+• Alcohol Dependent users – Advice to stop use
+and motivate for treatment using Brief
+intervention*
+• H/ o withdrawal
+seizures/
+hallucinations
+• Additional psychiatric
+disorder
+• Recurrent failed
+attempts at treatment
+• H/ o delirium
+tremens
+• Major medical
+problems
+• Additional substance
+use
+REFER TO
+SECONDARY
+CARE IF
+REFER TO
+TERTIARY
+CARE IF
+r/
 
 --- Page 9 ---
-Department of Health Research
-Ministry of Health and Family Welfare, Government of India
 Standard Treatment Workflow (STW) for the Management of
 ANXIETY DISORDERS
 ICD-10-F40-F42
+KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES
 Tension, anxiety,
 apprehension, fear,
 worrying
+Episodes of palpitations, difficulty in
+breathing, feelings of choking, light
+headededness, dizziness, fainting,
+trembling
 Sadness, lack of interest,
 uncontrolled negative
 thoughts
@@ -253,506 +299,577 @@ Unexplained physical symptoms
 like chest pain, abdominal pain,
 muscular tension, headache,
 nausea
-Episodes of palpitations, difficulty in
-breathing, feelings of choking, light
-headededness, dizziness, fainting,
-trembling
 Attacks of fear, losing
 control or going “crazy”, fear
 of dying
 Repetitive unwanted
 thoughts and
 behaviours
-DIAGNOSIS
-Panic Disorder: Recurrent unexpected
-attacks of intense fear/ anxiety along with ASSESSMENT
-Generalized Anxiety Disorder physical symptoms (palpitations, feelings of
-(GAD): Chronic feeling of tension, “choking”, trembling, chest pain feeling • Duration of anxiety
-apprehension, anxiety or worrying dizzy/faint etc.)
-• Degree of distress, and
+MANAGEMENT
+PRIMARY CARE LEVEL
+Psychoeducation
+• Reassurance
+• Explain symptoms are of anxiety/ fear and mimic
+symptoms of physical illnesses (e.g., heart attack)
+• Do not investigate excessively. Few investigations
+like ECG, ECHO maybe necessary in some patients
+• Discourage doctor shopping
+• Do not avoid triggers of panic attacks (e.g., physical
+exertion, agoraphobic situations) and fear (e.g.,
+travelling by public transport).
+• Emphasize avoidance maintains fears and phobias.
+• OCD: Educate that the unwanted thoughts are a
+part of illness, and not a reflection of character or
+hidden intentions.
+Pharmacological treatment
+• Mild illness: Spending time, reassurance, and
+psychoeducation. May not need any medications.
+• No improvement (few weeks): Escitalopram 5mg /
+day at night, with increase to 10 mg/d in a week. No
+satisfactory improvement in 4-6 weeks, may
+increase to 20 mg / day. If there is no significant
+improvement in another 4-6 weeks, refer to a
+specialist.
+• Severe and unbearable anxiety: Diazepam (5 -10
+mg) may be given at night. Do not continue for > 1
+month. Taper and stop over 2 weeks. Long-term
+treatment with benzodiazepines to be avoided
+• Escitalopram to be continued for at least 1-2 years
+after remission
+• Side-effects (sexual dysfunction, sedation, weight
+gain) : monitor and address periodically
+SECONDARY CARE LEVEL
+(DISTRICT HOSPITAL)
+• Review diagnosis and treatment
+history if there is no improvement
+with a trial of Escitalopram.
+• Check whether the patient has
+taken medication at prescribed
+dose and on a regular basis
+• Second SSRI
+(either of them for about 2-3
+months):
+• Sertraline upto 200 mg/day,
+• Fluoxetine upto 60 mg/day,
+• Paroxetine upto 50 mg/day,
+• Fluvoxamine upto 300 mg/day
+• No response to second SSRI:
+cognitive behaviour therapy (CBT)
+if trained therapists available.
+• Refer to tertiary centre if
+unsatisfactory response after
+second SSRI and / or addition of
+CBT.
+• If referral to tertiary centre is not
+feasible, psychiatrists may try
+other strategies (other than Deep
+Brain Stimulation and surgery for
+OCD) mentioned under the
+“tertiary care” at the secondary
+level itself.
+TERTIARY CENTRE (MEDICAL COLLEGE,
+REGIONAL MEDICAL CENTRE, PSYCHIATRIC
+HOSPITAL)
+• Evaluate reasons for treatment resistance like
+• Wrong diagnosis
+• Inadequate drug treatment,
+• Poor adherence to treatment
+• Inadequate CBT,
+• Presence of comorbid conditions such as
+personality disorders and organicity
+• Panic disorder: evaluate any medical
+conditions that mimic panic disorder
+(hyperthyroidism, hyperparathyroidism,
+pheochromocytoma, vestibular diseases,
+seizures, arrhythmias, etc.).
+• OCD: Trial of third SSRI or clomipramine
+• Treatment resistant OCD: inpatient treatment
+for intensive therapist-assisted daily CBT and
+for rationalization of medication regimen.
+• Other anxiety disorders: Trial of non-SSRIs
+(e.g., venlafaxine, duloxetine, pregabalin etc.)
+and tricyclic antidepressants
+• If response to medications is poor or
+unsatisfactory:
+• CBT is the preferred mode of treatment
+alone or in combination with medications.
+• Treat comorbid psychiatric disorders (e.g.,
+personality disorders)
+• Pharmacological augmenting strategies if
+antidepressants and CBT do not provide
+relief.
+Generalized Anxiety Disorder
+(GAD): Chronic feeling of tension,
+apprehension, anxiety or worrying
 about a number of events or
-impairment of
 activities that involve every day
-day-to-day functioning
 routine life circumstances (e.g., work,
-Social Phobia: Marked fear and avoidance of
-• Symptoms of
 school, health, finance, household
-social situations (e.g., interaction with
-depression
 chores etc.)
+Panic Disorder: Recurrent unexpected
+attacks of intense fear/ anxiety along with
+physical symptoms (palpitations, feelings of
+“choking”, trembling, chest pain feeling
+dizzy/faint etc.)
+Social Phobia: Marked fear and avoidance of
+social situations (e.g., interaction with
 strangers, meeting unfamiliar people,
-• Substance and alcohol
 performing in front of others)
-misuse
-• Physical disorders:
-Agoraphobia: Fear of going out thyrotoxicosis,
-of home alone, being in enclosed Obsessive-compulsive disorder (OCD): pheochromocytoma
-spaces (e.g., malls, cinemas etc.), Recurrent and persistent unwanted and hypoglycaemia
-open spaces (e.g., bridges, vast thoughts (e.g., unwanted sexual and
-• Psychosocial factors:
-playgrounds etc.), using public blasphemous thoughts, fear of harming self
-ongoing stress and
-transportation (e.g., trains, buses, or others, fear of contamination, doubts
-other issues pertaining
-planes etc.) about daily activities etc.) and repetitive
-to work, family
+Obsessive-compulsive disorder (OCD):
+Recurrent and persistent unwanted
+thoughts (e.g., unwanted sexual and
+blasphemous thoughts, fear of harming self
+or others, fear of contamination, doubts
+about daily activities etc.) and repetitive
 behaviours (e.g., excessive washing /
 cleaning, checking, ordering etc.)
-MANAGEMENT
-PRIMARY CARE LEVEL SECONDARY CARE LEVEL TERTIARY CENTRE (MEDICAL COLLEGE,
-(DISTRICT HOSPITAL) REGIONAL MEDICAL CENTRE, PSYCHIATRIC
-Psychoeducation HOSPITAL)
-• Reassurance • Review diagnosis and treatment
-• Explain symptoms are of anxiety/ fear and mimic history if there is no improvement • Evaluate reasons for treatment resistance like
-symptoms of physical illnesses (e.g., heart attack) with a trial of Escitalopram. • Wrong diagnosis
-• Do not investigate excessively. Few investigations • Check whether the patient has • Inadequate drug treatment,
-like ECG, ECHO maybe necessary in some patients taken medication at prescribed • Poor adherence to treatment
-• Discourage doctor shopping dose and on a regular basis • Inadequate CBT,
-• Do not avoid triggers of panic attacks (e.g., physical
-• Presence of comorbid conditions such as
-exertion, agoraphobic situations) and fear (e.g., • Second SSRI personality disorders and organicity
-travelling by public transport). (either of them for about 2-3
-• Emphasize avoidance maintains fears and phobias. months): • Panic disorder: evaluate any medical
-• OCD: Educate that the unwanted thoughts are a
-• Sertraline upto 200 mg/day, conditions that mimic panic disorder
-part of illness, and not a reflection of character or
-• Fluoxetine upto 60 mg/day, (hyperthyroidism, hyperparathyroidism,
-hidden intentions.
-pheochromocytoma, vestibular diseases,
-• Paroxetine upto 50 mg/day,
-seizures, arrhythmias, etc.).
-• Fluvoxamine upto 300 mg/day
-Pharmacological treatment
-• OCD: Trial of third SSRI or clomipramine
-• Mild illness: Spending time, reassurance, and
-• Treatment resistant OCD: inpatient treatment
-• No response to second SSRI:
-psychoeducation. May not need any medications.
-for intensive therapist-assisted daily CBT and
-cognitive behaviour therapy (CBT)
-• No improvement (few weeks): Escitalopram 5mg /
-for rationalization of medication regimen.
-if trained therapists available.
-day at night, with increase to 10 mg/d in a week. No
-• Other anxiety disorders: Trial of non-SSRIs
-• Refer to tertiary centre if
-satisfactory improvement in 4-6 weeks, may
-(e.g., venlafaxine, duloxetine, pregabalin etc.)
-unsatisfactory response after
-increase to 20 mg / day. If there is no significant
-and tricyclic antidepressants
-second SSRI and / or addition of
-improvement in another 4-6 weeks, refer to a
-CBT.
-specialist.
-• If response to medications is poor or
-• If referral to tertiary centre is not
-• Severe and unbearable anxiety: Diazepam (5 -10
-unsatisfactory:
-feasible, psychiatrists may try
-mg) may be given at night. Do not continue for > 1
-• CBT is the preferred mode of treatment
-other strategies (other than Deep
-month. Taper and stop over 2 weeks. Long-term
-alone or in combination with medications.
-Brain Stimulation and surgery for
-treatment with benzodiazepines to be avoided
-• Treat comorbid psychiatric disorders (e.g.,
-OCD) mentioned under the
-• Escitalopram to be continued for at least 1-2 years
-personality disorders)
-“tertiary care” at the secondary
-after remission
-• Pharmacological augmenting strategies if
-level itself.
-• Side-effects (sexual dysfunction, sedation, weight
-antidepressants and CBT do not provide
-gain) : monitor and address periodically
-relief.
-KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES
-This STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and are
-based on expert opinions and available scientific evidence. There may be variations in the management of an individual patient based on his/her specific condition, as decided by the
-treating physician. There will be no indemnity for direct or indirect consequences. Kindly visit our web portal (stw.icmr.org.in) for more information.
-© Indian Council of Medical Research and Department of Health Research, Ministry of Health & Family Welfare, Government of India.
-October/
-2019
+DIAGNOSIS
+Agoraphobia: Fear of going out
+of home alone, being in enclosed
+spaces (e.g., malls, cinemas etc.),
+open spaces (e.g., bridges, vast
+playgrounds etc.), using public
+transportation (e.g., trains, buses,
+planes etc.)
+ASSESSMENT
+• Duration of anxiety
+• Degree of distress, and
+impairment of
+day-to-day functioning
+• Symptoms of
+depression
+• Substance and alcohol
+misuse
+• Physical disorders:
+thyrotoxicosis,
+pheochromocytoma
+and hypoglycaemia
+• Psychosocial factors:
+ongoing stress and
+other issues pertaining
+to work, family
+r/
 
 --- Page 10 ---
-Department of Health Research
-Ministry of Health and Family Welfare, Government of India
-Standard Treatment Workflow (STW) for the Management of
-CHILDHOOD BEHAVIORAL DISORDERS
-ICD10- F90-98
-DIAGNOSIS
-OPPOSITIONAL DEFIANT DISORDER (ODD)
-• Doesn’t obey or listen, back-answers, rude behaviors
-• Demanding, stubborn, throws tantrums when
-demands are not met
-• Symptoms are present
-and persistent over
-CONDUCT DISORDER
-several months
-• Aggressive – angry, abusive, fights, hits or hurts
-• Attempt further
-people, bullies other children, damages articles
-classification into ADHD,
-• Stealing, lying, threatening or misbehaving with
-ODD and CD (ADHD may
-people, truant (keeps away from school without
-be present with or
-parents’ knowledge), runs away from home, bad
-without ODD and CD
-company, cruelty to animals
+KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES
 CLINICAL
-ATTENTION DEFICIT HYPERACTIVITY DISORDER (ADHD)
 PRESENTATION
-• Restless, always on the move / running, can’t sit in a
 CAUTION
-place,talkative
-• Abrupt onset
-• Can’t focus attention on a task, poor concentration,
-• Recent onset (few weeks
-gets easily distracted, disorganized, does not
-complete school work to few months)
-• Too mischievous, can’t be left alone, troubles • Sudden increase in
-people or damages things, or gets injured severity (consider another
-• Impatient, always in a hurry, can’t wait for his turn, psychiatric disorder such
-does not care for danger, acts without thinking
-as bipolar affective
-disorder, hypomanic or
-ALL 3 DISORDERS
-manic episode -> follow
-Poor or erratic school performance and / or
-the relevant STW)
-complaints about behaviour from school
 ASSESSMENT (History From Multiple Sources)
-PARENT INTERVIEW FAMILY SITUATION SCHOOLING CHILD INTERVIEW
-• Symptoms- onset, duration, • Health (including mental health) and • Attendance • Develop rapport( discuss neutral topics; avoid direct
-type(ODD, Conduct, ADHD-as wellbeing of family members • Performance tackling of misbehaviors)
-above) and severity • Cohesion, mutual understanding and • Learning • Observe:
-• Developmental problems, harmony in the family problems, - Features of ADHD (restless, fidgety, easily distracted,
-emotional disturbances and • Parenting and childrearing practices: • Classroom attention keeps shifting)
+PARENT INTERVIEW
+• Symptoms- onset, duration,
+type(ODD, Conduct, ADHD-as
+above) and severity
+• Developmental problems,
+emotional disturbances and
+stress
+• Alcohol and substance use
+/misuse
+• Impact on child and family
+FAMILY SITUATION
+• Health (including mental health) and
+wellbeing of family members
+• Cohesion, mutual understanding and
+harmony in the family
+• Parenting and childrearing practices:
+caring and disciplining, criticism, unfair
+comparison and physical punishments,
+mutual blaming of parents for child’s
+problem
+• Attendance
+• Performance
+• Learning
+problems,
+• Classroom
+behaviors
+• Recent changes
+in syllabus and/or
+school
+CHILD INTERVIEW
+• Develop rapport( discuss neutral topics; avoid direct
+tackling of misbehaviors)
+• Observe:
+- Features of ADHD (restless, fidgety, easily distracted,
+attention keeps shifting)
 - Speech and language ability, intelligence, academic
-stress caring and disciplining, criticism, unfair behaviors
 skills and mood
-• Alcohol and substance use comparison and physical punishments, • Recent changes
 • Enquire about any stress or difficulties child is facing at
-/misuse mutual blaming of parents for child’s in syllabus and/or
 home, school, and with peers and anger control
-• Impact on child and family problem school
+SCHOOLING
 MANAGEMENT
-WORK WITH FAMILY WORK WITH THE CHILD WORK WITH THE
 • PSYCHOEDUCATION
-SCHOOL
 - Explain the child’s behaviours are not intentional
-• Avoid advice
-• Feedback to school
 - Not child’s fault, do not blame the child
+- Multifactorial causes-lack of self-regulation, and adverse environment
+- Can be improved with proper management
+- Parents can directly contribute to the child’s improvement
+• Help parents deal with their own worries and stress (listening, giving space to
+ventilate, validate and empathize their difficulties, reassure)
+• Recognize and manage mental health problems such as depression and alcohol
+problem in parents
+• Parent management training*
+• Avoid advice
 • Anger management ( count
-- Multifactorial causes-lack of self-regulation, and adverse environment regarding child’s
 from 10 -1 backwards, move
-- Can be improved with proper management condition
 away from situation, deep
-- Parents can directly contribute to the child’s improvement • Teachers to give extra
 breaths, relax, self-talk to
-• Help parents deal with their own worries and stress (listening, giving space to attention, help and
 cool down)
-ventilate, validate and empathize their difficulties, reassure) support for the child
 • Children with ADHD:
-• Recognize and manage mental health problems such as depression and alcohol • Extra coaching, if
-problem in parents “stop-think-act” or “halt and
-needed in case of
-• Parent management training* proceed” technique
-learning problems
-MEDICATION (AVOID BEFORE 5 YEARS)
-*PARENT MANAGEMENT TRAINING
-• Analyse the problem behaviors and understand patterns : time of occurance, triggers, • Severe and persistant aggression:
-duration and consequencies - T. Risperidone under close supervision (starting
-• Engage with child in mutually enjoyable, pleasurable activities (playing games, dose-0.25 mg, single daily morning dose after
-discussing interesting things or doing activities together) breakfast. Based on response, increase by 0.25 mg
-• Set clear do’s and don’ts and explain to child in clear, simple, short instructions the weekly up to 1 mg single daily dose).
-consequencies (like withholding privileges following misbehavior; use star-charting Not to exceed 1 mg/day
-(contingency management) and rewards based on number of stars earned - Response + : continue 3 months f/b slow taper
-• In children with ADHD, develop clear daily routines, supervise activities and appreciate - Response - : 4 weeks trial, then refer
-on completion of taks - Monitor adverse effects: weight gain,
-• Limit screen time/ monitor use of electronic devices extra-pyramidal symptoms (EPS)
+“stop-think-act” or “halt and
+proceed” technique
+• Severe and persistant aggression:
+- T. Risperidone under close supervision (starting
+dose-0.25 mg, single daily morning dose after
+breakfast. Based on response, increase by 0.25 mg
+weekly up to 1 mg single daily dose).
+Not to exceed 1 mg/day
+- Response + : continue 3 months f/b slow taper
+- Response - : 4 weeks trial, then refer
+- Monitor adverse effects: weight gain,
+extra-pyramidal symptoms (EPS)
 [if EPS : add I mg Trihexyphenidyl OD morning]
-• Dos • Don’ts
 • Severe hyperactivity and impulsivety:
-– Consistency in enforcing rules – Bribe
 - T. Clonidine (starting dose-25 µg single daily
-– Catch the child being good and praise – False promises and threats
 dose before sleep, increase by 25 µg weekly up
-– Ignore negative behaviours – Harsh punishments
 to100 µg per day in 2-3 divided doses
-– Child can be put in a boring place till he/ – Excessive criticism and blaming
 - Monitor BP and drowsiness
-she becomes quiet for a few minutes especially in front of others
 - Advise against sudden discontinuation
-(time-out) – Unfair comparison
-– Encourage age appropriate responsibilities – Yielding to unreasonable demands
-REASONS FOR REFERRAL
-Severe, complicated presentation Lack of response to treatment Severe aggression Highly dysfunctional family Alcohol and substance abuse
-SECONDARY CARE (DISTRICT HOSPITAL) TERTIARY CARE (MEDICAL COLLEGE / REGIONAL REFERRAL CENTRE)
-• Review and reassess diagnosis (clinical evaluation • Evaluate and manage severe behavior disorders – severe ADHD, ODD, and CD, if necessary on
-using Rutter’s multi-axial system) and all the short-term inpatient basis
-pointers given above • Multi-modal management with clear individualized plan
-• If failed trial of Clonidine/ Moderate ADHD: • Trial of Methylphenidate in moderate / severe ADHD under expert supervision
-T. Atomoxetine (starting dose-10 mg single daily • Recognize and treat comorbid disorders such as bipolar disorder, substance use disorder, and
-morning dose after breakfast. Increase up to internalizing disorders and manage
-1mg/ kg/day under close supervision). • Pharmacological management of older children / adolescents with severe aggression /
-Monitor adverse effects and response impulsivity with Risperidone and/or Lithium
-• Systematic parent management training / • Family therapy for dysfunctional / discordant families, contributing to child’s condition
-behavioral management and individual therapy • Management of children in difficult circumstances with mental health issues (children in need of
-(as given above) care and protection; children in conflict with law)
-REFERENCES
+MEDICATION (AVOID BEFORE 5 YEARS)
+• Feedback to school
+regarding child’s
+condition
+• Teachers to give extra
+attention, help and
+support for the child
+• Extra coaching, if
+needed in case of
+learning problems
 • World Health Organization. mhGAP intervention Guide–Version 2.0 for mental, neurological and substance user disorders in non-specialized health settings. Geneva: WHO. 2016.
 • Pliszka S, AACAP Work Group on Quality Issues. Practice parameter for the assessment and treatment of children and adolescents with attention-deficit/hyperactivity disorder. Journal of the American
 Academy of Child & Adolescent Psychiatry. 2007 Jul 1;46(7):894-921.
 • Steiner H, Remsing L. Practice parameter for the assessment and treatment of children and adolescents with oppositional defiant disorder. Journal of the American Academy of Child & Adolescent Psychiatry.
 2007 Jan 1;46(1):126-41.
-KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES
-This STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and are
-based on expert opinions and available scientific evidence. There may be variations in the management of an individual patient based on his/her specific condition, as decided by the
-treating physician. There will be no indemnity for direct or indirect consequences. Kindly visit our web portal (stw.icmr.org.in) for more information.
-© Indian Council of Medical Research and Department of Health Research, Ministry of Health & Family Welfare, Government of India.
-October/
-2019
+WORK WITH THE
+SCHOOL
+WORK WITH THE CHILD WORK WITH FAMILY
+*PARENT MANAGEMENT TRAINING
+• Dos
+– Consistency in enforcing rules
+– Catch the child being good and praise
+– Ignore negative behaviours
+– Child can be put in a boring place till he/
+she becomes quiet for a few minutes
+(time-out)
+– Encourage age appropriate responsibilities
+• Don’ts
+– Bribe
+– False promises and threats
+– Harsh punishments
+– Excessive criticism and blaming
+especially in front of others
+– Unfair comparison
+– Yielding to unreasonable demands
+• Abrupt onset
+• Recent onset (few weeks
+to few months)
+• Sudden increase in
+severity (consider another
+psychiatric disorder such
+as bipolar affective
+disorder, hypomanic or
+manic episode -> follow
+the relevant STW)
+Lack of response to treatment Severe aggression Highly dysfunctional family
+SECONDARY CARE (DISTRICT HOSPITAL)
+• Evaluate and manage severe behavior disorders – severe ADHD, ODD, and CD, if necessary on
+short-term inpatient basis
+• Multi-modal management with clear individualized plan
+• Trial of Methylphenidate in moderate / severe ADHD under expert supervision
+• Recognize and treat comorbid disorders such as bipolar disorder, substance use disorder, and
+internalizing disorders and manage
+• Pharmacological management of older children / adolescents with severe aggression /
+impulsivity with Risperidone and/or Lithium
+• Family therapy for dysfunctional / discordant families, contributing to child’s condition
+• Management of children in difficult circumstances with mental health issues (children in need of
+care and protection; children in conflict with law)
+• Review and reassess diagnosis (clinical evaluation
+using Rutter’s multi-axial system) and all the
+pointers given above
+• If failed trial of Clonidine/ Moderate ADHD:
+T. Atomoxetine (starting dose-10 mg single daily
+morning dose after breakfast. Increase up to
+1mg/ kg/day under close supervision).
+Monitor adverse effects and response
+• Systematic parent management training /
+behavioral management and individual therapy
+(as given above)
+TERTIARY CARE (MEDICAL COLLEGE / REGIONAL REFERRAL CENTRE)
+Standard Treatment Workflow (STW) for the Management of
+CHILDHOOD BEHAVIORAL DISORDERS
+ICD10- F90-98
+DIAGNOSIS
+Severe, complicated presentation
+REASONS FOR REFERRAL
+OPPOSITIONAL DEFIANT DISORDER (ODD)
+• Doesn’t obey or listen, back-answers, rude behaviors
+• Demanding, stubborn, throws tantrums when
+demands are not met
+CONDUCT DISORDER
+• Aggressive – angry, abusive, fights, hits or hurts
+people, bullies other children, damages articles
+• Stealing, lying, threatening or misbehaving with
+people, truant (keeps away from school without
+parents’ knowledge), runs away from home, bad
+company, cruelty to animals
+ATTENTION DEFICIT HYPERACTIVITY DISORDER (ADHD)
+• Restless, always on the move / running, can’t sit in a
+place,talkative
+• Can’t focus attention on a task, poor concentration,
+gets easily distracted, disorganized, does not
+complete school work
+• Too mischievous, can’t be left alone, troubles
+people or damages things, or gets injured
+• Impatient, always in a hurry, can’t wait for his turn,
+does not care for danger, acts without thinking
+ALL 3 DISORDERS
+Poor or erratic school performance and / or
+complaints about behaviour from school
+• Symptoms are present
+and persistent over
+several months
+• Attempt further
+classification into ADHD,
+ODD and CD (ADHD may
+be present with or
+without ODD and CD
+r/
 
 --- Page 11 ---
-Department of Health Research
-Ministry of Health and Family Welfare, Government of India
+CLINICAL
+PRESENTATION -
+Recent Onset
+Behavioral
+Changes
 Standard Treatment Workflow (STW) for the Management of
 CHILDHOOD EMOTIONAL DISORDERS
-DIAGNOSIS
-SOMATIC (PHYSICALLY UNEXPLAINED) SYMPTOMS
-• Weakness and tiredness
-• Persistent symptoms of
-• Aches and pains
-emotional disturbance
-• Headache for several weeks,
-• Non-epileptic attacks of fainting significantly affecting
-• Chest pain and stomach pain the child’s life
-• Hyperventilation- often triggered by stress or distress • Unexplained by medical
-condition such as
-SYMPTOMS OF DEPRESSION hypothyroidism
-• Loss of interest in usual activities • Depression and anxiety
-• Recent deterioration in school performance symptoms can co-occur
-• Depression more
-• Wanting to be alone, withdrawn, not interacting
-common in
-with people
-CLINICAL adolescents, may have
-• Looks unhappy, “off mood”, crying for trivial or no
-PRESENTATION - features similar to adult
-reason, irritable, sensitive to any criticism
-Recent Onset onset depression
-• Decreased sleep, loss of appetite and weight loss
-Behavioral
-• Talking about death and dying, self harm (eg.
-Changes
-self-cutting) or suicidal attempt
+KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES
 CAUTION
 • Assessment of suicidal risk
-SYMPTOMS OF ANXIETY
 and a plan of action is
-• Always worrying, tense
 important in children with
-• Exam tension, performance anxiety, worries about emotional disorders,
-marks and ranks especially depression (refer
-?
+emotional disorders,
+especially depression (refer
 to appropriate STW)
-• Excessive fear and avoidance of some objects or
 • Elicit h/o hypomania/mania
-situations (insects, animals, ghosts)
 in children with moderate
-• Reluctance or refusal to go to school
 to severe depression
-• Very shy, avoids social situations, scared of talking or (consider diagnosis of
-interacting with strangers, bipolar disorder)
+(consider diagnosis of
+bipolar disorder)
 • Physical conditions can
-• Clinging to mother, scared of being separated from
 cause similar symptoms
-mother
 (anemia and thyroid
 disturbance)
 ASSESSMENT
-PARENT INTERVIEW AND HISTORY TAKING CHILD INTERVIEW PHYSICAL EXAMINATION
-• Onset, duration, severity and full range of • Develop rapport (Rule out)
-• Ask subjective distress (low mood, irritability, sadness, lack of
+• Onset, duration, severity and full range of
 symptoms
-enjoyment of activities, worries, fears, tensions, autonomic • Post-viral syndrome
 • Home environment, family life and
-symptoms) • Recurrent attacks of
 relationships, parenting practices and
-• Stressful events (loss, death in the family, separation, frightening malaria
 stressors
-experiences, traumatic abusive or shocking events, humiliating • Chronic infections, chronic
 • Information (from paretns and school) about
-experiences, bullying in school, academic stress) and interpersonal physical illness, anaemia,
 school performance, behavior, school refusal,
-difficulties
-PCOD or thyroid
 bullying experiences, peer relations and any
-• Explore parent-child relations and interactions and any undue
-disturbance
 recent change
+PARENT INTERVIEW AND HISTORY TAKING
+• Develop rapport
+• Ask subjective distress (low mood, irritability, sadness, lack of
+enjoyment of activities, worries, fears, tensions, autonomic
+symptoms)
+• Stressful events (loss, death in the family, separation, frightening
+experiences, traumatic abusive or shocking events, humiliating
+experiences, bullying in school, academic stress) and interpersonal
+difficulties
+• Explore parent-child relations and interactions and any undue
 punishment or criticism
+CHILD INTERVIEW
+• Post-viral syndrome
+• Recurrent attacks of
+malaria
+• Chronic infections, chronic
+physical illness, anaemia,
+PCOD or thyroid
+disturbance
+PHYSICAL EXAMINATION
 MANAGEMENT
-WORK WITH PARENTS WORK WITH THE CHILD WORK WITH SCHOOL
-• PSYCHOEDUCATION: • Psycho-education of the child- explain they are • Give feedback to the school about
-- Child is emotionally disturbed and not able to suffering from an emotional problem and it is not their child’s condition and stress, need
-function well fault and they will get better with proper treatment for support, encouragement and
-- Not the child’s fault • Anxiety management and emotional regulation skills school’s cooperation.
-- Avoid undue criticism, over expectation, unfair - Muscle relaxation • If school refusal, graded return to
-comparison, scolding and punishment - Deep breathing exercises school: encourage child to return
-- Parents’ support, encouragement and - Praanaayaama / yoga to school gradually with the
-understanding is important - Substituting distressing thoughts with more support of family and cooperation
-• Counsel about suicidal risk in depression and to be comforting thoughts of school (e.g. initially for a few
-alert to pointers to suicidality • Counsel the child to confide any distressing thoughts, minutes in school compound,
-• Evaluation and management of the mental health including thoughts of death and dying later for 1 period in school and
-issues in parents • Encourage the child to gradually return to the usual moving on to longer duration
-• Discuss about specific steps to reduce undue stress life and activities in a step-by step manner with
-the child is facing parental support and encouragement
-MEDICATION (MODERATE CASE OF DEPRESSION OR ANXIETY IN ADOLESCENTS)
-• Frequent expression of suicidal ideation/
+WORK WITH PARENTS
+• PSYCHOEDUCATION:
+- Child is emotionally disturbed and not able to
+function well
+- Not the child’s fault
+- Avoid undue criticism, over expectation, unfair
+comparison, scolding and punishment
+- Parents’ support, encouragement and
+understanding is important
+• Counsel about suicidal risk in depression and to be
+alert to pointers to suicidality
+• Evaluation and management of the mental health
+issues in parents
+• Discuss about specific steps to reduce undue stress
+the child is facing
+• Psycho-education of the child- explain they are
+suffering from an emotional problem and it is not their
+fault and they will get better with proper treatment
+• Anxiety management and emotional regulation skills
+- Muscle relaxation
+- Deep breathing exercises
+- Praanaayaama / yoga
+- Substituting distressing thoughts with more
+comforting thoughts
+• Counsel the child to confide any distressing thoughts,
+including thoughts of death and dying
+• Encourage the child to gradually return to the usual
+life and activities in a step-by step manner with
+parental support and encouragement
+WORK WITH THE CHILD WORK WITH SCHOOL
+• Give feedback to the school about
+child’s condition and stress, need
+for support, encouragement and
+school’s cooperation.
+• If school refusal, graded return to
+school: encourage child to return
+to school gradually with the
+support of family and cooperation
+of school (e.g. initially for a few
+minutes in school compound,
+later for 1 period in school and
+moving on to longer duration
 • Tab Fluoxetine - start at 10 mg OD morning, increase to 20 mg OD after 2
-attempted suicide / self-harm behavior
 weeks depending on response
-such as self-cutting
-• Inform adverse effects: behavioral activation (marked restlessness and REASONS FOR
-• Severe symptoms
-irritability), onset of hypomanic symptoms, and worsening of suicidal ideas. REFERRAL
-• Complicated picture, or features of
+• Inform adverse effects: behavioral activation (marked restlessness and
+irritability), onset of hypomanic symptoms, and worsening of suicidal ideas.
 Stop drug if they are troublesome
-obsessive compulsive disorder (OCD)
 • Avoid benzodiazepines (except as temporary measure for few weeks in
-• No response to interventions in 4-6 weeks
 severe anxiety attacks or panic attacks - Clonazepam 0.25- 1 mg /day)
-SECONDARY CARE (DISTRICT HOSPITAL) TERTIARY CARE (MEDICAL COLLEGE / REGIONAL REFERRAL
-• Review and reassess diagnosis through detailed clinical examination using Rutter’s CENTRE)
-multi-axial system • Thorough diagnostic evaluation
-• Review the treatment received and plan multi-modal treatment. • Manage severe mental disorders – psychoses, recurrent
-• Reconsider medications, and augmentation strategies mood disorders, adolescents with severe depression, &
-• Review child’s and family’s awareness of the illness and do psycho-education treatment resistant cases, persistent suicidality,
-• Ascertain the presence of psychosocial factors : disturbed home environment, recurrent self-cutting, if necessary in inpatient setting
-parent-child relationships and severe stressors • Family therapy for dysfunctional / discordant families
-• Screen parents for mental health problems and manage accordingly contributing to child’s condition
-• Individual therapy focussing on identifying and challenging negative thoughts, • Cognitive behavior therapy for older children with
-anxiety management and coping with stress, helping them face difficult situations severe OCD, depression, and anxiety disorders
-in small steps, improving interpersonal relationships • ECT on case to case basis (older adolescents with
-• Parent counselling to address family issues, communication and interaction severe depression, mania, psychosis or catatonia
-patterns unresponsive to adequate pharmacological
-• Collaborate with school wherever necessary (get school report; explain problem in management)
-simple terms, and suggest ways by which school can help) • Appropriate psycho-social steps if there is abuse,
-• Recognize and manage less common problems such as obsessive compulsive maltreatment or neglect
-disorder, psychoses and bipolar disorders • Neurology referral in suspected cases of epilepsy and
-• Manage adolescents with mild / moderate suicidal risk organicity
+MEDICATION (MODERATE CASE OF DEPRESSION OR ANXIETY IN ADOLESCENTS)
+SECONDARY CARE (DISTRICT HOSPITAL)
+• Review and reassess diagnosis through detailed clinical examination using Rutter’s
+multi-axial system
+• Review the treatment received and plan multi-modal treatment.
+• Reconsider medications, and augmentation strategies
+• Review child’s and family’s awareness of the illness and do psycho-education
+• Ascertain the presence of psychosocial factors : disturbed home environment,
+parent-child relationships and severe stressors
+• Screen parents for mental health problems and manage accordingly
+• Individual therapy focussing on identifying and challenging negative thoughts,
+anxiety management and coping with stress, helping them face difficult situations
+in small steps, improving interpersonal relationships
+• Parent counselling to address family issues, communication and interaction
+patterns
+• Collaborate with school wherever necessary (get school report; explain problem in
+simple terms, and suggest ways by which school can help)
+• Recognize and manage less common problems such as obsessive compulsive
+disorder, psychoses and bipolar disorders
+• Manage adolescents with mild / moderate suicidal risk
+TERTIARY CARE (MEDICAL COLLEGE / REGIONAL REFERRAL
+CENTRE)
+• Thorough diagnostic evaluation
+• Manage severe mental disorders – psychoses, recurrent
+mood disorders, adolescents with severe depression, &
+treatment resistant cases, persistent suicidality,
+recurrent self-cutting, if necessary in inpatient setting
+• Family therapy for dysfunctional / discordant families
+contributing to child’s condition
+• Cognitive behavior therapy for older children with
+severe OCD, depression, and anxiety disorders
+• ECT on case to case basis (older adolescents with
+severe depression, mania, psychosis or catatonia
+unresponsive to adequate pharmacological
+management)
+• Appropriate psycho-social steps if there is abuse,
+maltreatment or neglect
+• Neurology referral in suspected cases of epilepsy and
+organicity
+(Rule out)
 KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES
-This STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and are
-bas T e h d i s o S n T e W xp h e a rt s o b p e i e n n io p n r s e p an a d re a d v b a y il a n b a l t e io s n c a ie l n e t x ifi p c e r e t v s i o d f e I n n cKd eEi . a ET w hPe i t rAh e f mHea aIsGy i b bHi e l i tTv yHa c rRi o a nEti sSo iHd n e sO r i aLn tD i t o h nFe sO m fRo a r n Iv aNa g rVi e oAm uSs e Il n eVt v Eo e l f sP a oRn f Oi h n eCd aEiv lDt i h dUc u aRa r l eE p Ss a y t s ie te n m t b in as t e h d e o c n o u h n is t / r h y e . K r s in p d e l c y i fi v c is c it o t n h d e i t w io e n b , s a it s e d o e f c D id H e R d f b o y r the
-more information: https://dhr.gov.in/
-treating physician. There will be no indemnity for direct or indirect consequences. Kindly visit our web portal (stw.icmr.org.in) for more information.
-© Department of Health Research, Ministry of Health & Family Welfare, Government of India.
-© Indian Council of Medical Research and Department of Health Research, Ministry of Health & Family Welfare, Government of India.
-October/
-2019
+SOMATIC (PHYSICALLY UNEXPLAINED) SYMPTOMS
+• Weakness and tiredness
+• Aches and pains
+• Headache
+• Non-epileptic attacks of fainting
+• Chest pain and stomach pain
+• Hyperventilation- often triggered by stress or distress
+SYMPTOMS OF DEPRESSION
+• Loss of interest in usual activities
+• Recent deterioration in school performance
+• Wanting to be alone, withdrawn, not interacting
+with people
+• Looks unhappy, “off mood”, crying for trivial or no
+reason, irritable, sensitive to any criticism
+• Decreased sleep, loss of appetite and weight loss
+• Talking about death and dying, self harm (eg.
+self-cutting) or suicidal attempt
+SYMPTOMS OF ANXIETY
+• Always worrying, tense
+• Exam tension, performance anxiety, worries about
+marks and ranks
+• Excessive fear and avoidance of some objects or
+situations (insects, animals, ghosts)
+• Reluctance or refusal to go to school
+• Very shy, avoids social situations, scared of talking or
+interacting with strangers,
+• Clinging to mother, scared of being separated from
+mother
+• Frequent expression of suicidal ideation/
+attempted suicide / self-harm behavior
+such as self-cutting
+• Severe symptoms
+• Complicated picture, or features of
+obsessive compulsive disorder (OCD)
+• No response to interventions in 4-6 weeks
+REASONS FOR
+REFERRAL
+DIAGNOSIS
+• Persistent symptoms of
+emotional disturbance
+for several weeks,
+significantly affecting
+the child’s life
+• Unexplained by medical
+condition such as
+hypothyroidism
+• Depression and anxiety
+symptoms can co-occur
+• Depression more
+common in
+adolescents, may have
+features similar to adult
+onset depression
+r/
 
 --- Page 12 ---
-Department of Health Research
-Ministry of Health and Family Welfare, Government of India
 Standard Treatment Workflow (STW) for the Management of
 CHILDREN WITH DEVELOPMENTAL PROBLEMS
 ICD10-F70-89
-DIAGNOSIS
-Specific speech delay – Only
-lagging in speech with normal
-Intellectual disability intelligence, hearing and
-Slow in development / (mental retardation)* - non-verbal communication
-delayed milestones of global developmental
-development delay + impairment
-Autism Spectrum Disorder
-compared to peers in
-(ASD) marked impairment in
-intellectual functioning
-CLINICAL Poor speech,
-verbal and non-verbal social
-and adaptive skills
-PRESENTATION self-care, learning interactions (being solitary or
-and memory
-“in his own world”, poor
-response to name call and poor
-Specific Learning
-Less intelligent eye-to-eye contact) and
-Disorder (SLD)- Average
-compared to other stereotyped behaviors *in
-intelligence with poor
-children children under 5 years, avoid
-academic skills (reading,
-diagnosis of ID, name it as
-writing, spelling and
-global developmental delay
-maths inspite of
-and start intervention
-adequate schooling)
-ASSESSMENT
-DETAILED DEVELOPMENTAL PHYSICAL EXAMINATION: BEHAVIOURAL PROBLEMS: OTHERS:
-ASSESSMENT: • Height and weight, • Hyperactive • Family situation
-• Assess if child is lagging behind • Head circumference, • Impulsive behaviors • Parents’ awareness of
-in developmental attainments • Vision and hearing • Sleeping and feeding problems the child’s problems
-compared to same-age children • Any noticeable physical anomalies • Aggression • Quality of attention
-• Ask mother to estimate the (club-foot) or unusual facial appearance and care being given
-mental age of child • Motor abnormalities (stiffness / spasticity or EMOTIONAL PROBLEMS: to the child,
-• Ascertain if delay is global (all weakness of limbs, unsteady gait) • Excessive crying • Past consultations and
-milestones) or restricted to one • Any other problems (heart murmurs, • Irritability treatment
-area (motor or speech) organomegaly) • Shyness and fears educational history
-MANAGEMENT
-PSYCHO-EDUCATION OF PARENTS EARLY INTERVENTION / SENSORY-MOTOR STIMULATION FOR HOME-BASED PARENT MEDIATED SKILLS TRAINING
-YOUNG CHILDREN – UNDER 3 YEARS
-• Normal – reassure parents • Create opportunities for the child to learn with • Develop and maintain regular, stimulating daily
-• Mild delay (“at risk”) – early interset and attention routines
-intervention and follow-up •Engaging and spending time with child in activities • Teach parent to teach child : simple imitation,
-• Explain causation due to some • Offer appreciation pointing, pretend-play; self-help skills (eating,
-damage to brain before, during or • Engage the child to use eyes and ears (different toilet training, bathing, dressing), doing simple
-after birth types of sounds and sights), touch (eg., tickling, household chores (washing utensils, helping in
-• No medication can improve stroking, gentle massaging), movements (gentle cleaning house), social skills – skills of interaction,
-intelligence movement of limbs, gentle bouncing, range of simple academic skills, simple vocational skills,
-Teaching and training to improve movement exercises) and improving hand functions helping in kitchen under supervision,
-skills and gaining independence (taking, holding, giving, pushing, pulling) self-protection
-• Systematic, persistent and repetitive • Use play materials–rattles, paper balls, rubber balls, • Find current level of adaptive abilities of the child
-training as per the child’s ability clay, soft dough, water play, soap bubbles, and choose a target skill
-• Treatment of associated problems vegetables. • Tell and show how to do things (modelling),
-(vitamin or mineral deficiency or • Parallel vocalization to improve utterances (making make the tasks simpler, break activities in simple
-epilepsy, ADHD, vision/ hearing the same sound as the child immediately). steps and teach one step at a time, notice and
-issues,) – refer to appropriate STW • Improve conceptual skills by classifying, arranging, praise even minor efforts and improvements
-• Avoid overprotection, sorting, and recognizing and naming activities (for (rewarding or reinforcing), using hand-on-hand
-overindulgence and eg., vegetable sorting, grain sorting, arranging techniques (keeping your hand on the child’s
-understimulation vessels by their size and shape) hand and making them do the activity)
-EDUCATION AND TRAINING SOCIAL WELFARE / LIAISON MEASURES
-• Liaise with schools and ensure child attends school that is most appropriate • IQ testing and certification for social welfare benefits
-• Assist in enrolment to special school • Help parents to link with other agencies/ services that deal with
-• Consider training in vocational skills (informal and formal) for older adolescents such children such as CBR programs or parent associations
-• Severe or multiple developmental
-• Co-occuring severe behavioral or
-problems
-emotional problems
-• History of regression ( loss of acquired
-REASONS
-• Suspected case of ASD
-skills)
-FOR • Suspected SLD
-• Definite family history of
-REFERRAL • Genetic counselling
-developmental problems (h/o similar
-• Speech therapy or physiotherapy
-problem in the sibling)
 SECONDARY CARE (DISTRICT HOSPITAL)
+TERTIARY CARE (MEDICAL COLLEGE / REGIONAL REFERRAL CENTRE)
+ASSESSMENT
+DETAILED DEVELOPMENTAL
+ASSESSMENT:
+• Assess if child is lagging behind
+in developmental attainments
+compared to same-age children
+• Ask mother to estimate the
+mental age of child
+• Ascertain if delay is global (all
+milestones) or restricted to one
+area (motor or speech)
+SOCIAL WELFARE / LIAISON MEASURES
+• IQ testing and certification for social welfare benefits
+• Help parents to link with other agencies/ services that deal with
+such children such as CBR programs or parent associations
 • Psychological testing for ID, SLD and diagnosis of ASD
 • Basic management of ASD – home-based parent-mediated training in social, communicative, and self-help skills
 • Appropriate management of behavior problems with medication / psychosocial or behavioral intervention (see relevant STW’s)
 • Help parents access relevant services such as District Early intervention centres (DEIC’s), parent organizations, and benefits
-TERTIARY CARE (MEDICAL COLLEGE / REGIONAL REFERRAL CENTRE)
 • Evaluate and manage children with severe IDD, ASD, multiple disabilities, and those with severe comorbid disorders such as ADHD, aggression,
 bipolar disorder, and psychotic disorders through multi-disciplinary approach
 • Investigate for the cause – review tests already done; imaging, genetic tests, metabolic tests (as per requirement) ;arrange for genetic counselling
@@ -761,390 +878,760 @@ bipolar disorder, and psychotic disorders through multi-disciplinary approach
 • Assessment and management for SLD – psychoeducation of the child and parents, liaison with school, teaching basic remediation techniques to
 parents, helping parents access relevant organizations, issue of exemption certificates, and decisions about further schooling such as open
 schooling
-REFERENCES
 • World Health Organization. mhGAP intervention Guide–Version 2.0 for mental, neurological and substance user disorders in non-specialized health settings. Geneva: WHO.
 2016.
 • Szymanski L, King BH. Practice parameters for the assessment and treatment of children, adolescents, and adults with mental retardation and comorbid mental disorders.
 Journal of the American Academy of Child & Adolescent Psychiatry. 1999 Dec 1;38(12):5S-31S.
 • Girimaji SC.(2008) Clinical Practice Guidelines for the Diagnosis and Management of Children With Mental Retardation. Retrieved from
 www.indianjpsychiatry.org/cpg/cpg2008/CPG-CAP_05.pdf
+MANAGEMENT
+PSYCHO-EDUCATION OF PARENTS
+• Normal – reassure parents
+• Mild delay (“at risk”) – early
+intervention and follow-up
+• Explain causation due to some
+damage to brain before, during or
+after birth
+• No medication can improve
+intelligence
+Teaching and training to improve
+skills and gaining independence
+• Systematic, persistent and repetitive
+training as per the child’s ability
+• Treatment of associated problems
+(vitamin or mineral deficiency or
+epilepsy, ADHD, vision/ hearing
+issues,) – refer to appropriate STW
+• Avoid overprotection,
+overindulgence and
+understimulation
+EARLY INTERVENTION / SENSORY-MOTOR STIMULATION FOR
+YOUNG CHILDREN – UNDER 3 YEARS
+• Create opportunities for the child to learn with
+interset and attention
+•Engaging and spending time with child in activities
+• Offer appreciation
+• Engage the child to use eyes and ears (different
+types of sounds and sights), touch (eg., tickling,
+stroking, gentle massaging), movements (gentle
+movement of limbs, gentle bouncing, range of
+movement exercises) and improving hand functions
+(taking, holding, giving, pushing, pulling)
+• Use play materials–rattles, paper balls, rubber balls,
+clay, soft dough, water play, soap bubbles,
+vegetables.
+• Parallel vocalization to improve utterances (making
+the same sound as the child immediately).
+• Improve conceptual skills by classifying, arranging,
+sorting, and recognizing and naming activities (for
+eg., vegetable sorting, grain sorting, arranging
+vessels by their size and shape)
+HOME-BASED PARENT MEDIATED SKILLS TRAINING
+• Develop and maintain regular, stimulating daily
+routines
+• Teach parent to teach child : simple imitation,
+pointing, pretend-play; self-help skills (eating,
+toilet training, bathing, dressing), doing simple
+household chores (washing utensils, helping in
+cleaning house), social skills – skills of interaction,
+simple academic skills, simple vocational skills,
+helping in kitchen under supervision,
+self-protection
+• Find current level of adaptive abilities of the child
+and choose a target skill
+• Tell and show how to do things (modelling),
+make the tasks simpler, break activities in simple
+steps and teach one step at a time, notice and
+praise even minor efforts and improvements
+(rewarding or reinforcing), using hand-on-hand
+techniques (keeping your hand on the child’s
+hand and making them do the activity)
+EDUCATION AND TRAINING
+• Liaise with schools and ensure child attends school that is most appropriate
+• Assist in enrolment to special school
+• Consider training in vocational skills (informal and formal) for older adolescents
+REASONS
+FOR
+REFERRAL
+• Severe or multiple developmental
+problems
+• History of regression ( loss of acquired
+skills)
+• Definite family history of
+developmental problems (h/o similar
+problem in the sibling)
+CLINICAL
+PRESENTATION
+PHYSICAL EXAMINATION:
+• Height and weight,
+• Head circumference,
+• Vision and hearing
+• Any noticeable physical anomalies
+(club-foot) or unusual facial appearance
+• Motor abnormalities (stiffness / spasticity or
+weakness of limbs, unsteady gait)
+• Any other problems (heart murmurs,
+organomegaly)
+BEHAVIOURAL PROBLEMS:
+• Hyperactive
+• Impulsive behaviors
+• Sleeping and feeding problems
+• Aggression
+EMOTIONAL PROBLEMS:
+• Excessive crying
+• Irritability
+• Shyness and fears
+OTHERS:
+• Family situation
+• Parents’ awareness of
+the child’s problems
+• Quality of attention
+and care being given
+to the child,
+• Past consultations and
+treatment
+educational history
+DIAGNOSIS
+• Co-occuring severe behavioral or
+emotional problems
+• Suspected case of ASD
+• Suspected SLD
+• Genetic counselling
+• Speech therapy or physiotherapy
 KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES
-TThis STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and
-are based on expert opinions and available scientific evidence. There may be variations in the management of an individual patient based on his/her specific condition, as decided by
-the treating physician. There will be no indemnity for direct or indirect consequences. Kindly visit our web portal (stw.icmr.org.in) for more information.
-© Indian Council of Medical Research and Department of Health Research, Ministry of Health & Family Welfare, Government of India.
-October/
-2019
+T
+r/
 
 --- Page 13 ---
-Department of Health Research
-Ministry of Health and Family Welfare, Government of India
+1 1
 Standard Treatment Workflow (STW) for the Management of
 DEPRESSION
 ICD10-F45
-CORE SYMPTOMS CLINICAL ASSESSMENT
-Assessment
-Depressed Loss of Easy Cognition
-11 21 31 of
-mood interest fatigability/ • Hopelessness (about future)
-Depressive
-and diminished • Helplessness (about others)
-Cognition
-• Worthlessness (about self)
-enjoyment activity
-Assess
-ADDITIONAL SYMPTOMS
-Assessment of Suicide Risk friend
-• Reduced concentration and attention • Suicidal thoughts and
-• Reduced self-esteem and self-confidence • Suicidal idea family
-• Ideas of guilt and unworthiness • Suicidal intent support
-• Immediate risk for attempt
-• Bleak and pessimistic views of the future
-CLINICAL • Ideas or acts of self-harm or suicide
-DIAGNOSIS OF • Disturbed sleep
-INVESTIGATION
-• Diminished appetite
+CLINICAL
+DIAGNOSIS OF
 DEPRESSION
-• Haemogram
+CORE SYMPTOMS
+ADDITIONAL SYMPTOMS
+• Reduced concentration and attention
+• Reduced self-esteem and self-confidence
+• Ideas of guilt and unworthiness
+• Bleak and pessimistic views of the future
+• Ideas or acts of self-harm or suicide
+• Disturbed sleep
+• Diminished appetite
 To make a diagnosis of depression,
-• Thyroid function tests
 symptoms must present for at least 2 weeks.
-• Electro Cardiogram
-Severity of Core Additional • Electrolytes (Sodium)
-depression symptoms symptoms • Rule out secondary medical cause of depression
-Mild
-2 2 or more
-? depression
-• Rule out use of anticancer drugs
-Moderate
-2 3 or more (Cyclophoshamide) / anti retroviral drugs
-depression
-(Efavirenz, Zidovudine)/ Antibiotics (Dapsone ,
-Severe
-depression 3 4 or more Ethambutol)/ Anabolic Steroids/ Propanolol
-• Rule out associated comorbid medical condition –
-Diabetes, Stroke, Epilepsy, Cancer, Coronary Artery
-Rule out Bipolar Disorder / Grief / Adjustment
-Disorder Disease and Auto Immune disorder
-AT PRIMARY CARE
-MILD DEPRESSION MODERATE / SEVERE DEPRESSION
-• Advise Behavioral Activation to patients
-• Tab Escitalopram 10 mg-20 mg /day or
-• Practicing activity monitoring - write down your activities / rate your depression / schedule activities that
-Cap. Fluoxetine 20mg -40mg /day
-make you feel good / make a to do list/ set clear and specific goals
-• Tab. Clonazepam 0.25mg – 0.5mg /day for
-• Focusing on your value categories – make time for your family / friends / set clear goals at work / contribute
-sleep disturbance / anxiety symptoms
-to community
-and consider taper and stop after 2
-• Reccomend yoga & mediatation
-weeks.
-• Handling daily task - monitor sleep /diet and practice good personal hygiene
-• Supportive psychotherapy / Brief Counselling • If patient responds to SSRI in 2 to 4
-• Validate the problems and ensure frequent follow-up weeks, then continue treatment for 6 to 9
-• If no improvement in 4 to 6 weeks, consider pharmacotherapy months and taper and stop
-REFERRAL TO SECONDARY CARE BROAD MANAGEMENT PLANS AT SECONDARY CARE
-• Difficulty in making diagnosis • Selective Serotonin Reuptake Inhibiters (SSRI) are • Confirm Diagnosis and Suicide risk
-• No improvement after 4 to 6 usually first choice (watch for GI bleed and drug assessment
-interaction) • Assess for other Medical
+Cognition
+• Hopelessness (about future)
+• Helplessness (about others)
+• Worthlessness (about self)
+Assessment of Suicide Risk
+• Suicidal thoughts
+• Suicidal idea
+• Suicidal intent
+• Immediate risk for attempt
+REFERRAL TO SECONDARY CARE
+• Difficulty in making diagnosis
+• No improvement after 4 to 6
 weeks of treatment with first
-• Improvement starts in in 2nd week and expect Comorbidities
 line medications
-adequate response by 6 weeks • Investigations – Haemoglobin,Thyroid
 • Depression in special
-• Duration of treatment typically lasts 6-9 months Function Test, Electrocardiogram
 population: Elderly /
-and Gradual tapering of medication advised for first • Non Responder - Switch over to SNRI
 Pregnancy / Lactation /
-episode (Venlafaxine 75 – 150 mg, Mirtazapine
-Children / Adolescents • Restart SSRI , In case of resurgence and recurrence 30 mg) or TCA (Amitriptyline 75 -
-• Comorbid medical illness / of depressive symptoms 225mg / Imipramine 75 -225mg)
-Substance use • Observe for switch / activation with Antidepressants • Cognitive Behavioral Therapy /
-• Suicidal risk assessment • Watch for risk of overdose with TCA (Amitriptyline / Problem Solving Therapy
-Imipramine) and Mirtazapine • Add on Yoga Therapy / Meditation
-REFERRAL TO TERTIARY CARE SPECIAL POPULATION AT TERTIARY CARE
-• No improvement in 2nd • Pregnancy / Lactation period - • Reconfirm Diagnosis
-line treatment Pre Conception counselling and • Assess other psychiatric comorbidities
-• Immediate risk for preferred drug is • Partial Responder - Optimise the SNRI /TCA or Augment
-suicidal attempt / Tab. Sertraline 50 mg – use with Tab. Lithium 300 to 600mg /per day or Tab. Thyroxine
-thought lowest possible dose 25 - 50 ug per day.
-• Needing intense • Elderly - • Non Responder – Add Tab. Sertraline 100mg or
-counselling/ Tab. Escitalopram 10 -20 mg or Tab. Bupropion 300mg to existing Venlafaxine 150mg / Tab.
-psychotherapy Tab. Sertraline 100 mg Mirtazapine 30mg / Amitriptyline 225mg / Imipramine
-• Co Morbid Substance - (monitor for hyponatremia) 225mg.
-Cannabis / Poly • Avoid TCAs like Amitriptyline / • Add on Electro Convulsive Therapy for Catatonia / Suicidality
-substance Imipramine in Elderly (due to • Add on Cognitive Behavioural Therapy/ Inter Personal
-anticholinergic side effects) Therapy / Problem Solving Therapy
-• Adolescents- Cap. Fluoxetine • Add on low dose antipsychotic treatment (Risperidone 2 -4
-20 -40 mg /day ( observe for mg / Tab. Olanzapine 5 – 10 mg) for psychotic symptoms
-switch / activation/ suicidality)
-REFERENCES
+Children / Adolescents
+• Comorbid medical illness /
+Substance use
+• Suicidal risk assessment
+• Selective Serotonin Reuptake Inhibiters (SSRI) are
+usually first choice (watch for GI bleed and drug
+interaction)
+• Improvement starts in in 2nd week and expect
+adequate response by 6 weeks
+• Duration of treatment typically lasts 6-9 months
+and Gradual tapering of medication advised for first
+episode
+• Restart SSRI , In case of resurgence and recurrence
+of depressive symptoms
+• Observe for switch / activation with Antidepressants
+• Watch for risk of overdose with TCA (Amitriptyline /
+Imipramine) and Mirtazapine
+• Confirm Diagnosis and Suicide risk
+assessment
+• Assess for other Medical
+Comorbidities
+• Investigations – Haemoglobin,Thyroid
+Function Test, Electrocardiogram
+• Non Responder - Switch over to SNRI
+(Venlafaxine 75 – 150 mg, Mirtazapine
+30 mg) or TCA (Amitriptyline 75 -
+225mg / Imipramine 75 -225mg)
+• Cognitive Behavioral Therapy /
+Problem Solving Therapy
+• Add on Yoga Therapy / Meditation
 • Avasthi A, Grover S. Clinical practice guidelines for management of depression in elderly. Indian J Psychiatry 2018;60, Suppl S3:341-62
 • mhGAP Intervention Guide - Version 2.0 for mental, neurological and substance use disorders in non-specialized health settings. World Health Organisation, 2016
+INVESTIGATION
+• Haemogram
+• Thyroid function tests
+• Electro Cardiogram
+• Electrolytes (Sodium)
+• Rule out secondary medical cause of depression
+• Rule out use of anticancer drugs
+(Cyclophoshamide) / anti retroviral drugs
+(Efavirenz, Zidovudine)/ Antibiotics (Dapsone ,
+Ethambutol)/ Anabolic Steroids/ Propanolol
+• Rule out associated comorbid medical condition –
+Diabetes, Stroke, Epilepsy, Cancer, Coronary Artery
+Disease and Auto Immune disorder
+AT PRIMARY CARE
+MILD DEPRESSION
+• Advise Behavioral Activation to patients
+• Practicing activity monitoring - write down your activities / rate your depression / schedule activities that
+make you feel good / make a to do list/ set clear and specific goals
+• Focusing on your value categories – make time for your family / friends / set clear goals at work / contribute
+to community
+• Reccomend yoga & mediatation
+• Handling daily task - monitor sleep /diet and practice good personal hygiene
+• Supportive psychotherapy / Brief Counselling
+• Validate the problems and ensure frequent follow-up
+• If no improvement in 4 to 6 weeks, consider pharmacotherapy
+MODERATE / SEVERE DEPRESSION
+• Tab Escitalopram 10 mg-20 mg /day or
+Cap. Fluoxetine 20mg -40mg /day
+• Tab. Clonazepam 0.25mg – 0.5mg /day for
+sleep disturbance / anxiety symptoms
+and consider taper and stop after 2
+weeks.
+• If patient responds to SSRI in 2 to 4
+weeks, then continue treatment for 6 to 9
+months and taper and stop
+BROAD MANAGEMENT PLANS AT SECONDARY CARE
+• No improvement in 2nd
+line treatment
+• Immediate risk for
+suicidal attempt /
+thought
+• Needing intense
+counselling/
+psychotherapy
+• Co Morbid Substance -
+Cannabis / Poly
+substance
+• Pregnancy / Lactation period -
+Pre Conception counselling and
+preferred drug is
+Tab. Sertraline 50 mg – use
+lowest possible dose
+• Elderly -
+Tab. Escitalopram 10 -20 mg or
+Tab. Sertraline 100 mg
+(monitor for hyponatremia)
+• Avoid TCAs like Amitriptyline /
+Imipramine in Elderly (due to
+anticholinergic side effects)
+• Adolescents- Cap. Fluoxetine
+20 -40 mg /day ( observe for
+switch / activation/ suicidality)
+• Reconfirm Diagnosis
+• Assess other psychiatric comorbidities
+• Partial Responder - Optimise the SNRI /TCA or Augment
+with Tab. Lithium 300 to 600mg /per day or Tab. Thyroxine
+25 - 50 ug per day.
+• Non Responder – Add Tab. Sertraline 100mg or
+Tab. Bupropion 300mg to existing Venlafaxine 150mg / Tab.
+Mirtazapine 30mg / Amitriptyline 225mg / Imipramine
+225mg.
+• Add on Electro Convulsive Therapy for Catatonia / Suicidality
+• Add on Cognitive Behavioural Therapy/ Inter Personal
+Therapy / Problem Solving Therapy
+• Add on low dose antipsychotic treatment (Risperidone 2 -4
+mg / Tab. Olanzapine 5 – 10 mg) for psychotic symptoms
+REFERRAL TO TERTIARY CARE SPECIAL POPULATION AT TERTIARY CARE
 KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES
-This STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory,
-and are based on expert opinions and available scientific evidence. There may be variations in the management of an individual patient based on his/her specific condition, as
-decided by the treating physician. There will be no indemnity for direct or indirect consequences. Kindly visit our web portal (stw.icmr.org.in) for more information.
-© Indian Council of Medical Research and Department of Health Research, Ministry of Health & Family Welfare, Government of India.
-October/
-2019
+Assessment
+of
+Depressive
+Cognition
+Assess
+friend
+and
+family
+support
+Depressed
+mood
+Loss of
+interest
+and
+enjoyment
+Easy
+fatigability/
+diminished
+activity
+1 2 3
+CLINICAL ASSESSMENT
+r/
 
 --- Page 14 ---
-Department of Health Research
-Ministry of Health and Family Welfare, Government of India
 Standard Treatment Workflow (STW) for the Management of
 PSYCHOSIS
 ICD10-F20-29
-Presence of
-Hallucinations
-delusions
-(talking, Disorganized Social and
-(suspiciousness
-DIAGNOSIS smiling or behaviour & occupational
-and fear without
-laughing to poor self-care dysfunction
-? obvious
-self)
-explanation)
-PRIMARY CARE LEVEL
-WELLNESS CENTERS PHC
-Identify, educate and refer to PHC INITIATE TREATMENT: FOLLOW UP: REASONS FOR REFERRAL TO TALUK / DISTRICT LEVEL:
-If immediate threat to self/ others, • T. Risperidone • 2 weeks after initial contact: Check for changes • Diagnostic confusion / suspicion of
-refer to Taluk / District center 2mg HSx1 week f/b in symptoms and adverse effects (excess sleep, organic condition
-3 – 4 mg HS + extrapyramidal symptoms (EPS), tiredness) • Substantial risk of harm to self or others
-FOLLOW-UP AND REHABILITATION: Trihexyphenidyl adjust the dose of risperidone and THP and catatonic symptoms
-• Monitor & manage challenges in (THP) 2mg(morning) accordingly; address questions if any; advise • Comorbid substance use,
-treatment continuation • Psychoeducation: gradual return to work/school; give specific depression/anxiety, intellectual disability
-• If unsatisfactory outcome despite - medical model of follow-up date; liaise with wellness center for • Poor symptom-control or functioning
-regular treatment: psychosis ensuring continuity of care despite regular treatment or poor
-- Liaise with higher centers for - address • Once in 1 – 2 months: Check for symptoms, treatment adherence
-optimal outcome misconceptions & functioning and adverse effects (EPS, • Significant adverse effects: weight-gain,
-- Liaise with social welfare build hope weight-gain, menstrual/sexual dysfunction); metabolic adverse effects, tardive
-department for disability - inform about adjust the dose of Risperidone (range: 2 – 8 dyskinesia
-certification & welfare benefits if possible adverse mg/day) and THP (range 2 – 6 mg/day); liaise • Questions regarding marriage, pregnancy,
-continued poor outcomes effects of with wellness center for ensuring continuity of sexual dysfunction
-medications care
-SECONDARY CARE (TALUK/DISTRICT HOSPITALS) #
-INDICATION Intolerance Poor
-Diagnostic Poor response Comorbid Challenging Rehabilitation
-FOR REFERRAL confusion to Risperidone to adherence to conditions situations needs Pregnancy
-FROM PHC Risperidone treatment
-MANAGEMENT Clarify Positive symptoms: Follow • Assessment • Depression/ • Suicidality: • Assess disability & counsel • Proactively
-diagnosis; Follow algorithm algorithm of factors anxiety: -Inpatient about welfare benefits address
 #Encourage
-neuroimaging causing poor Brief care, sexual and
 follow up in
-if organicity is Negative adherence & psychological -Crisis • Rehabilitation endocrine
 primary care
-suspected symptoms: specific intervention; management, counseling problems
 after
-• Rule out or manage manage- consider SSRIs* -Management - Family intervention for when
 addressing
-depression/ anxiety ment • Substance of expressed emotions and relevant
 referral issues
-and extrapyramidal • Consider use: comorbidity; attitudes & behaviors • Educate
 * Watch for
-symptoms; depot anti- Detoxification -Consider ECT interfering with about risk of
 adverse
-• Family counseling if psychotics and brief functioning obstetric
 effects as
-understimulated/ • Liaise with interventions • Violence: - Brief interventions for outcomes,
 SSRIs may
-over-protected primary care (see SUD -Verbal cognitive & social-skill risk of
 increase
-• Consider for assertive module) de-escalation deficits relapse &
 serum levels
-less-sedating follow up • -IV sedation, - Address vocational/ risk of
 of
-antipsychotics and Developmenta -Brief educational challenges psychosis in
 antipsychotics
-adding SSRIs* l disabilities: inpatient care involving governmental/ the
-Behavioral non-governmental offspring
-TERTIARY CARE CENTERS
-INTERVENTION CONTEXT IN WHICH USEFUL
+Identify, educate and refer to PHC
+If immediate threat to self/ others,
+refer to Taluk / District center
+FOLLOW-UP AND REHABILITATION:
+• Monitor & manage challenges in
+treatment continuation
+• If unsatisfactory outcome despite
+regular treatment:
+- Liaise with higher centers for
+optimal outcome
+- Liaise with social welfare
+department for disability
+certification & welfare benefits if
+continued poor outcomes
+FOLLOW UP:
+• 2 weeks after initial contact: Check for changes
+in symptoms and adverse effects (excess sleep,
+extrapyramidal symptoms (EPS), tiredness)
+adjust the dose of risperidone and THP
+accordingly; address questions if any; advise
+gradual return to work/school; give specific
+follow-up date; liaise with wellness center for
+ensuring continuity of care
+• Once in 1 – 2 months: Check for symptoms,
+functioning and adverse effects (EPS,
+weight-gain, menstrual/sexual dysfunction);
+adjust the dose of Risperidone (range: 2 – 8
+mg/day) and THP (range 2 – 6 mg/day); liaise
+with wellness center for ensuring continuity of
+care
+REASONS FOR REFERRAL TO TALUK / DISTRICT LEVEL:
+• Diagnostic confusion / suspicion of
+organic condition
+• Substantial risk of harm to self or others
+and catatonic symptoms
+• Comorbid substance use,
+depression/anxiety, intellectual disability
+• Poor symptom-control or functioning
+despite regular treatment or poor
+treatment adherence
+• Significant adverse effects: weight-gain,
+metabolic adverse effects, tardive
+dyskinesia
+• Questions regarding marriage, pregnancy,
+sexual dysfunction
+INITIATE TREATMENT:
+• T. Risperidone
+2mg HSx1 week f/b
+3 – 4 mg HS +
+Trihexyphenidyl
+(THP) 2mg(morning)
+• Psychoeducation:
+- medical model of
+psychosis
+- address
+misconceptions &
+build hope
+- inform about
+possible adverse
+effects of
+medications
+DIAGNOSIS
+Social and
+occupational
+dysfunction
 Referral to tertiary care if
-Psychoeducation Poor adherence; high family expressed emotions
-Family therapy High family expressed emotions; family discord
-Cognitive remediation Poor neuro and social cognitive functions
-1. Diagnostic confusion:
-Depression, anxiety, obsessions, persistent
-Cognitive behavior therapy
-Inpatient observation for clarification
-psychotic symptoms
-of history, thorough neurological /
-Social skills training Poor social skills
-mental status examination,
-diagnostic psychometry, brain CT Vocational rehabilitation and Poor occupational functioning, challenges in
-Scan or MRI, neurology consultation supported education studying or getting / pursuing gainful occupation
-and urine toxicology screen Day care with interventions including Negative symptoms, poor socio-occupational
-vocational training, recreational functioning, combination of other symptoms
-activities, living-skill training, etc. listed in the table
-2. Poor outcome:
-+Following psychosocial Hazardous use of substance or substance use
-Interventions for substance-use
-interventions may be offered in disorder
-isolation or in combination Pre-pregnancy, pregnancy and post-partum
-depending on the context in advise and interventions Pre-pregnancy,
-Pregnancy – puerperium services
-inpatient, outpatient or pregnancy and post-partum advise and
-day-boarding settings interventions
+Hallucinations
+(talking,
+smiling or
+laughing to
+self)
+Disorganized
+behaviour &
+poor self-care
+WELLNESS CENTERS
+MANAGEMENT
+PHC
+PRIMARY CARE LEVEL
+SECONDARY CARE (TALUK/DISTRICT HOSPITALS) #
+TERTIARY CARE CENTERS
 ALGORITHM FOR CHOOSING ANTIPSYCHOTIC MEDICATION (AP) FOR TREATMENT OF SCHIZOPHRENIA
-Good response without
-intolerable side effects At any point, consider electroconvulsive
+KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES
+Clarify
+diagnosis;
+neuroimaging
+if organicity is
+suspected
+Positive symptoms:
+Follow algorithm
+Negative
+symptoms:
+• Rule out or manage
+depression/ anxiety
+and extrapyramidal
+symptoms;
+• Family counseling if
+understimulated/
+over-protected
+• Consider
+less-sedating
+antipsychotics and
+adding SSRIs*
+Follow
+algorithm
+• Assessment
+of factors
+causing poor
+adherence &
+specific
+manage-
+ment
+• Consider
+depot anti-
+psychotics
+• Liaise with
+primary care
+for assertive
+follow up
+• Depression/
+anxiety:
+Brief
+psychological
+intervention;
+consider SSRIs*
+• Substance
+use:
+Detoxification
+and brief
+interventions
+(see SUD
+module)
+Developmenta
+l disabilities:
+Behavioral
+• Suicidality:
+-Inpatient
+care,
+-Crisis
+management,
+-Management
+of
+comorbidity;
+-Consider ECT
+• Violence:
+-Verbal
+de-escalation
+-IV sedation,
+-Brief
+inpatient care
+• Assess disability & counsel
+about welfare benefits
+• Rehabilitation
+counseling
+- Family intervention for
+expressed emotions and
+attitudes & behaviors
+interfering with
+functioning
+- Brief interventions for
+cognitive & social-skill
+deficits
+- Address vocational/
+educational challenges
+involving governmental/
+non-governmental
+• Proactively
+address
+sexual and
+endocrine
+problems
+when
+relevant
+• Educate
+about risk of
+obstetric
+outcomes,
+risk of
+relapse &
+risk of
+psychosis in
+the
+offspring
+INDICATION
+FOR REFERRAL
+FROM PHC
+Diagnostic
+confusion
+Poor response
+to Risperidone
+Intolerance
+to
+Risperidone
+Poor
+adherence to
+treatment
+Comorbid
+conditions
+Challenging
+situations
+Rehabilitation
+needs Pregnancy
+1. Diagnostic confusion:
+Inpatient observation for clarification
+of history, thorough neurological /
+mental status examination,
+diagnostic psychometry, brain CT
+Scan or MRI, neurology consultation
+and urine toxicology screen
+2. Poor outcome:
++Following psychosocial
+interventions may be offered in
+isolation or in combination
+depending on the context in
+inpatient, outpatient or
+day-boarding settings
+INTERVENTION CONTEXT IN WHICH USEFUL
+Poor adherence; high family expressed emotions Psychoeducation
+Family therapy
+Cognitive remediation
+Cognitive behavior therapy
+Social skills training
+Vocational rehabilitation and
+supported education
+Day care with interventions including
+vocational training, recreational
+activities, living-skill training, etc.
+Interventions for substance-use
+High family expressed emotions; family discord
+Poor neuro and social cognitive functions
+Depression, anxiety, obsessions, persistent
+psychotic symptoms
+Poor social skills
+Poor occupational functioning, challenges in
+studying or getting / pursuing gainful occupation
+Negative symptoms, poor socio-occupational
+functioning, combination of other symptoms
+listed in the table
+Hazardous use of substance or substance use
+disorder
+Pregnancy – puerperium services
+Pre-pregnancy, pregnancy and post-partum
+advise and interventions Pre-pregnancy,
+pregnancy and post-partum advise and
+interventions
+Presence of
+delusions
+(suspiciousness
+and fear without
+obvious
+explanation)
+Risperidone*
 Stabilization phase: For 6 months: same
-Risperidone* therapy if:
 dose of AP;
+Maintenance phase: Attempt to reduce
+dose to minimum possible dose.
+1st episode: About 2 years.
+1+ episodes: indefinite period
+Investigate for
+medical/
+neurological
+causes of
+non-response and
+treat them
+No cause
+found or poor
+response
+despite
+treatment of
+the cause
+Good response without
+intolerable side effects
+Intolerable side effects
+or inadequate effect
+Intolerable side effects
+or inadequate effect
+Inadequate effect
+for 2+ APs
+Choose different AP*#^
+CLOZAPINE
+At any point, consider electroconvulsive
+therapy if:
 1. Serious suicidal risk
 2. Catatonia not responding to Lorazepam
-Maintenance phase: Attempt to reduce
 3. Refusal of food / fluids
-Intolerable side effects
-dose to minimum possible dose.
 4. Severe aggression / violence
-or inadequate effect
-1st episode: About 2 years.
 5. Refractory / intolerance to clozapine
-1+ episodes: indefinite period
-Choose different AP*#^ Investigate for No cause
-medical/ found or poor
-neurological response * Treat with adequate dose as shown in table-1 for 6 – 8
-Intolerable side effects Inadequate effect
-causes of despite weeks to assess efficacy
-or inadequate effect for 2+ APs
+* Treat with adequate dose as shown in table-1 for 6 – 8
+weeks to assess efficacy
 #While choosing alternative AP, consider adverse effect
-non-response and treatment of
 profile and cost
-treat them the cause
 ^ At any point, if there is medication non-adherence,
 consider long-acting preparations in addition to other
 measures for managing non-adherence
-CLOZAPINE
-KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES
-This STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and
-are based on expert opinions and available scientific evidence. There may be variations in the management of an individual patient based on his/her specific condition, as decided by
-the treating physician. There will be no indemnity for direct or indirect consequences. Kindly visit our web portal (stw.icmr.org.in) for more information.
-© Indian Council of Medical Research and Department of Health Research, Ministry of Health & Family Welfare, Government of India.
-October/
-2019
+r/
 
 --- Page 15 ---
-Department of Health Research
-Ministry of Health and Family Welfare, Government of India
 Standard Treatment Workflow (STW) for the Management of
 SOMATOFORM DISORDER (SD)
 ICD10-F45
-CHALLENGES FACED BY THE DOCTOR
-Repeated subjective experience
-of physical symptoms which are
-not explained by any
-∙ Repeated request for
-recognizable physical disease
-investigations – despite negative
-findings and reassurance
-Bodily complaints are often
-∙ Doctor shopping and not
-the most common reason for
-SOMATIZATION satisfied with repeated
-consultation with health
-reassurance
-DISORDER/ professionals
+KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES
+MANAGEMENT
+DIAGNOSTIC CRITERIA
+DIAGNOSTIC CRITERIA
+PRIMARY CARE
+∙ Detailed physical examination
+∙ Management of anemia and nutritional deficiencies
+∙ Avoid irrational use of pain medications
+∙ Low dose of antidepressant medications – Amitriptyline 12.5 mg to 50
+mg (max) night dose
+∙ Explain that onset of medication effect will take 2-3 weeks
+∙ Validate the somatic symptoms
+∙ Advise to engage in routine activities, physical exercise and relaxation
+techniques like deep breathing
+∙ Discuss with family members that the symptom, distress and
+disability are genuine
+∙ Strengthen supports
+∙ Regular follow up
+1. No improvement in 2nd line
+treatment
+2. High suicidal risk
+3. Needing intense counselling/
+psychotherapy
+4. Difficult patients
+A. One or more somatic symptoms that are distressing or result in significant disruption of
+daily life.
+B. Excessive thoughts, feelings, or behaviours related to the somatic symptoms or associated
+health concerns as manifested by at least one of the following:
+1. Disproportionate and persistent thoughts about the seriousness of one’s symptoms
+2. Persistently high level of anxiety about health or symptoms
+3. Excessive time and energy devoted to these symptoms or health concerns
+C. Although only one somatic symptom may not be continuously present, the state of
+being symptomatic is persistent (typically more than 6 months)
+A persistent course is characterized by severe symptoms, marked impairment, and long
+duration (more than 6 months)
+Severity:
+Mild – only one of the symptoms specified in criterion B is fulfilled
+Moderate – Two or more of the symptoms specified in criterion B is fulfilled
+Severe – Two or more of the symptoms specified in criterion B are fulfilled, plus there are multiple
+somatic symptoms (or one very severe somatic symptom)
+Following list include the commonest
+symptoms
+1. Pain symptoms at multiple sites (such as
+abdominal, back, chest, dysmenorrhea,
+dysuria, extremity, head, joint, rectal) is often
+present
+2. Gastrointestinal sensations (pain, belching,
+regurgitation, vomiting, nausea)
+3. Abnormal skin sensations (itching, burning,
+tingling, numbness, soreness) and
+blotchiness
+4. Sexual and menstrual complaints
+(ejaculatory or erectile dysfunction,
+hyperemesis of pregnancy, irregular menses,
+menorrhagia, sexual indifference) are also
+common
+INITIAL ASSESSMENT
+∙ Detailed clinical examination – to rule out any medical illnesses
+which might explain the symptoms
+∙ Complete history of the onset of all symptoms, exacerbating and
+relieving factors
+∙ Assessment for any other psychiatric illness such as depression or
+anxiety disorders
+PSYCHOSOCIAL ASSESSMENT
+∙ Encourage to talk about psychosocial stressors if any
+∙ Individual factors – poor copying skills, anxiety, life events, health anxiety,
+medical illnesses
+∙ Family related factors – Substance use in family, interpersonal relationship
+with family, financial status
+∙ Environmental factors – support system, peer relationship, work environment
+SOMATIZATION
+DISORDER/
 MEDICALLY
 UNEXPLAINED
 SYMPTOMS
-Pain at Fatigue and Significant distress and
-multiple sites exhaustion impairment
+Repeated subjective experience
+of physical symptoms which are
+not explained by any
+recognizable physical disease
+Bodily complaints are often
+the most common reason for
+consultation with health
+professionals
+∙ Repeated request for
+investigations – despite negative
+findings and reassurance
+∙ Doctor shopping and not
+satisfied with repeated
+reassurance
+CHALLENGES FACED BY THE DOCTOR
 PRESENTION
 TO A
 DOCTOR
-Functional disturbance of Focus of patient is on symptom relief
-different organ systems rather than cause of illness
-DIAGNOSTIC CRITERIA
-INITIAL ASSESSMENT PSYCHOSOCIAL ASSESSMENT
-∙ Detailed clinical examination – to rule out any medical illnesses ∙ Encourage to talk about psychosocial stressors if any
-which might explain the symptoms ∙ Individual factors – poor copying skills, anxiety, life events, health anxiety,
-∙ Complete history of the onset of all symptoms, exacerbating and medical illnesses
-relieving factors ∙ Family related factors – Substance use in family, interpersonal relationship
-∙ Assessment for any other psychiatric illness such as depression or with family, financial status
-anxiety disorders ∙ Environmental factors – support system, peer relationship, work environment
-DIAGNOSTIC CRITERIA
-A. One or more somatic symptoms that are distressing or result in significant disruption of
-Following list include the commonest
-daily life.
-symptoms
-B. Excessive thoughts, feelings, or behaviours related to the somatic symptoms or associated 1. Pain symptoms at multiple sites (such as
-health concerns as manifested by at least one of the following: abdominal, back, chest, dysmenorrhea,
-1. Disproportionate and persistent thoughts about the seriousness of one’s symptoms dysuria, extremity, head, joint, rectal) is often
-2. Persistently high level of anxiety about health or symptoms present
-3. Excessive time and energy devoted to these symptoms or health concerns 2. Gastrointestinal sensations (pain, belching,
-C. Although only one somatic symptom may not be continuously present, the state of regurgitation, vomiting, nausea)
-being symptomatic is persistent (typically more than 6 months) 3. Abnormal skin sensations (itching, burning,
-A persistent course is characterized by severe symptoms, marked impairment, and long tingling, numbness, soreness) and
-duration (more than 6 months) blotchiness
-Severity: 4. Sexual and menstrual complaints
-Mild – only one of the symptoms specified in criterion B is fulfilled (ejaculatory or erectile dysfunction,
-Moderate – Two or more of the symptoms specified in criterion B is fulfilled hyperemesis of pregnancy, irregular menses,
-menorrhagia, sexual indifference) are also
-Severe – Two or more of the symptoms specified in criterion B are fulfilled, plus there are multiple
-common
-somatic symptoms (or one very severe somatic symptom)
-MANAGEMENT
-PRIMARY CARE 1. Difficulty in making diagnosis
-∙ Detailed physical examination 2. No improvement after 4 weeks of
+Pain at
+multiple sites
+Functional disturbance of
+different organ systems
+Fatigue and
+exhaustion
+Significant distress and
+impairment
+Focus of patient is on symptom relief
+rather than cause of illness
 REFER TO
-∙ Management of anemia and nutritional deficiencies treatment with first line medications
-∙ Avoid irrational use of pain medications SECONDARY 3. Comorbid medical illness
-∙ Low dose of antidepressant medications – Amitriptyline 12.5 mg to 50 CARE IF 4. Suicidal risk
-mg (max) night dose 5. Comorbid psychiatric illness
-∙ Explain that onset of medication effect will take 2-3 weeks
-∙ Validate the somatic symptoms
-∙ Advise to engage in routine activities, physical exercise and relaxation SECONDARY CARE
-techniques like deep breathing ∙ Investigations – to rule out any medical illnesses that
-∙ Discuss with family members that the symptom, distress and might explain the symptoms
-disability are genuine ∙ Complete history with behavioural observation
-∙ Strengthen supports ∙ Use 2nd line medications – SSRIs (Escitalopram 10-20 mg,
-∙ Regular follow up Sertraline 50-100 mg, Fluoxetine 20 mg) and SNRIs
+SECONDARY
+CARE IF
+REFER TO
+TERTIARY
+CARE IF
+1. Difficulty in making diagnosis
+2. No improvement after 4 weeks of
+treatment with first line medications
+3. Comorbid medical illness
+4. Suicidal risk
+5. Comorbid psychiatric illness
+SECONDARY CARE
+∙ Investigations – to rule out any medical illnesses that
+might explain the symptoms
+∙ Complete history with behavioural observation
+∙ Use 2nd line medications – SSRIs (Escitalopram 10-20 mg,
+Sertraline 50-100 mg, Fluoxetine 20 mg) and SNRIs
 (Venlafaxine 75 – 150 mg, Duloxetine 30- 60 mg)
 ∙ Combination of two psychotropic medications (might be
-TERTIARY CARE required if poor response to single medication)
-∙ Inpatient care if needed ∙ Brief counselling
-∙ Combination of two psychotropic medications (when required) ∙ Psycho education – focusing on relationship between
-∙ Add on second and third line medications – Duloxetine, Mirtazapine, stress and physical symptoms
-anticonvulsants ( Lamotrigine, Pregabalin). Use of Gabapentin, ∙ Relaxation training, regular exercise, yoga and meditation
+required if poor response to single medication)
+∙ Brief counselling
+∙ Psycho education – focusing on relationship between
+stress and physical symptoms
+∙ Relaxation training, regular exercise, yoga and meditation
+TERTIARY CARE
+∙ Inpatient care if needed
+∙ Combination of two psychotropic medications (when required)
+∙ Add on second and third line medications – Duloxetine, Mirtazapine,
+anticonvulsants ( Lamotrigine, Pregabalin). Use of Gabapentin,
 Carbamazepine if chronic pain symptom predominates
 ∙ Structured Cognitive Behavioural Therapy, Cognitive restructuring,
-1. No improvement in 2nd line
 Mindfulness and acceptance based approach
-treatment
 ∙ Use of alternative medicine approach – Yoga
-2. High suicidal risk REFER TO
 ∙ Collaborative approach – involve Physician, Neurology team and Pain
-3. Needing intense counselling/ TERTIARY
 Clinic referral (where indicated)
-psychotherapy CARE IF
 ∙ Vocational rehabilitation if needed
-4. Difficult patients
 ∙ Physical therapies – guided exercise and physiotherapy
-REFERENCES
-∙ Desai G & Chaturvedi SK. Medically Unexplained Somatic Symptoms & Chronic Pain – assessment & management. A primer for Healthcare professionals. 1st Edition 2017. Paras medical publisher, Hyderabad,
-India.
-∙ World Health Organization. ((cid:31)2017)(cid:31). mhGAP training manuals for the mhGAP intervention guide for mental, neurological and substance use disorders in non-specialized health settings - version 2.0 ((cid:31)for field
-testing)(cid:31). World Health Organization. http://www.who.int/iris/handle/10665/259161.
-∙ Agarwal V, Srivastava C & Sitholey P. Clinical Practice Guidelines for the Management of Paediatric Somatoform disorders. Indian Psychiatric Society – Practice guidelines 2018.
-∙ Guidance for health professionals on medically unexplained symptoms (MUS) - https://www.rcpsych.ac.uk/pdf/CHECKED%20MUS%20Guidance_A4_4pp_6.pdf
-∙ Jacob KS. A simple protocol to manage patients with unexplained somatic symptoms in medical practice. Natl. Med. J. India. 2004; 17: 326-8
-KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES
-This STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and are
-based on expert opinions and available scientific evidence. There may be variations in the management of an individual patient based on his/her specific condition, as decided by the
-treating physician. There will be no indemnity for direct or indirect consequences. Kindly visit our web portal (stw.icmr.org.in) for more information.
-© Indian Council of Medical Research and Department of Health Research, Ministry of Health & Family Welfare, Government of India.
-October/
-2019
+r/
 
 --- Page 16 ---
-CONTRIBUTORS
-Department of Health Research
-Ministry of Health and Family Welfare, Government of India
 ADVISORY COMMITTEE
 Dr. Balram Bhargava, Secretary, DHR and DG, ICMR - Chairman
 Dr. Nikhil Tandon, Dept. of Endocrinology, AIIMS, New Delhi. - Vice Chairman
@@ -1195,24 +1682,33 @@ Prof. Sushil Kabra, Dept. ofPaediatrics, AIIMS, New Delhi.
 Prof. Vivekanand Jha, Executive Director, The George Institute for Public Health, New Delhi
 MEMBER SECRETARY
 Dr. Deepika Saraf, Scientist E, ICMR.
+CONTRIBUTORS
 
 --- Page 17 ---
-EXPERT GROUPS
 NAME AND AFFILIATED INSTITUTE ROLE
-Department of Health Research
-Ministry of Health and Family Welfare, Government of India
+EXPERT GROUPS
 PSYCHIATRY
 Dr. BN Gangadhar, Director, NIMHANS Member
-Dr. Pratap Sharan, AIIMS, New Delihi. Co-Chair
-Dr. Jagadisha Thirthalli, NIMHANS, Bengaluru Member
-Dr. Subho Chakrabarti, PGIMER, Chandigarh Member
-Dr. Prabha Chandra, NIMHANS, Bengaluru Member
-Dr. Janardhan Reddy, NIMHANS, Bengaluru Member
-Dr. Anju Dhawan, AIIMS, New Delhi Member
-Dr. Satish Girimaji, NIMHANS, Bangalore Member
-Dr. L Vijayakumar, Sneha, Chennai Member
-Dr. KS Jacob, CMC, Vellore Member
-Dr. Rajesh Sagar, AIIMS, New Delhi. Member
+Co-Chair
+Member
+Member
+Member
+Member
+Member
+Member
+Member
+Dr. Pratap Sharan, AIIMS, New Delihi.
+Dr. Jagadisha Thirthalli, NIMHANS, Bengaluru
+Dr. Subho Chakrabarti, PGIMER, Chandigarh
+Dr. Prabha Chandra, NIMHANS, Bengaluru
+Dr. Janardhan Reddy, NIMHANS, Bengaluru
+Dr. Anju Dhawan, AIIMS, New Delhi
+Dr. Satish Girimaji, NIMHANS, Bangalore
+Dr. L Vijayakumar, Sneha, Chennai
+Dr. KS Jacob, CMC, Vellore
+Dr. Rajesh Sagar, AIIMS, New Delhi.
+Member
+Member
 ADMINISTRATIVE SUPPORT
 Mr. V. K. Gauba, Jt. Secretary, Dept. of Health Research, MoHFW, Govt. of India
 Mrs. Anu Nagar, Jt. Secretary, Dept. of Health Research, MoHFW, Govt. of India
@@ -1232,10 +1728,8 @@ Er. Amitesh Kumar Sharma, Scientist B, ICMR, New Delhi
 Mr. Sandeep Suman, Logistics Support, ICMR, New Delhi
 
 --- Page 18 ---
-Department of Health Research
-Ministry of Health and Family Welfare, Government of India
-S T A N D A R D T R E A T M E N T
-W O R K F L O W S
-PARTNERS
 2019 EDITION
 VOLUME I
+PARTNERS
+S T A N D A R D T R E A T M E N T
+W O R K F L O W S

@@ -1,158 +1,202 @@
 --- Page 1 ---
-Department of Health Research
-Ministry of Health and Family Welfare, Government of India
 Standard Treatment Workflow (STW) for the Management of
 EPILEPSY
 ICD 10 - G40
-Abnormal jerky Loss of Episodes could be single
-Episodic, few Blank
-movements consciousness/ with high risk of
-secs-mins staring
-awareness recurrence. Prolonged
+KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES
+Episodes could be single
+with high risk of
+recurrence. Prolonged
 motor convulsion of > 5
-CLINICAL
 mins with loss of
+consciousness - STATUS
+EPILEPTICUS (SE) -
+MEDICAL EMERGENCY
+CLINICAL
 FEATURES
-Sudden With or without urine/ Any other episode consciousness - STATUS
+Episodic, few
+secs-mins
+Abnormal jerky
+movements
+Loss of
+consciousness/
+awareness
+Blank
+staring
+Sudden
+drops/ falls,
+brief jerks
+With or without urine/
+stool incontinence,
+tongue bite, drooling
 Bizzare activity
-drops/ falls, stool incontinence, lasting for few mins EPILEPTICUS (SE) -
 out of context
-brief jerks tongue bite, drooling (usually<5 mins) MEDICAL EMERGENCY
-PRIMARY HEALTH CENTRE (MEDICAL OFFICER) REASONS FOR REFERRAL DISTRICT HOSPITALS
-• Clinical diagnosis of epilepsy: detailed history from an eyewitness (centres with specialists like • Careful evaluation of all
-• Differentiate between provoked seizures and epilepsy (provoked due to fever, paediatrician, referral patients, provide
-acute CNS insult, antibiotics, and metabolic causes) neurologist) specialized management
+Any other episode
+lasting for few mins
+(usually<5 mins)
+REASONS FOR REFERRAL PRIMARY HEALTH CENTRE (MEDICAL OFFICER)
+• Clinical diagnosis of epilepsy: detailed history from an eyewitness
+• Differentiate between provoked seizures and epilepsy (provoked due to fever,
+acute CNS insult, antibiotics, and metabolic causes)
 • Laboratory investigations: CBC, liver function tests, routine biochemistry,
-for patients and refer
 hemogram, lipd profile, vit D levels, TFT (whichever feasible)
-• Redflag Signs back to PHC for follow up
 • Initiation of treatment:
-• Progressive problems, rapid of management
 - Treat the patient if patient has epilepsy (2 or more episodes of unprovoked
-appearance of new symptoms • Maintain communication,
 seizures)
-• Recent injury ongoing clinical support - Treat a single seizure if risk of recurrence is high as in patients with focal
-• Symptoms appearing after and supervision of MOs at
+- Treat a single seizure if risk of recurrence is high as in patients with focal
 seizures,mentally retarded, neurological deficits having family history of
-alcohol binge PHC
 seizures abnormalEEG, neuroimaging
-• Status epilepticus after • Laboratory investigation
 - Anti Epileptic Drug (AED broad spectrum, low dose, start low go slow, except
-status epilepticus) stabilization - CBC, liver function
-- Emergency medical care of status epilepticus • Non response to adequate tests, antiepileptic drug
-• Treatment counselling: side effects/toxicities of drugs, red flags, importance of dose and duration of levels, routine
-adherence, maintaining treatment diary medication biochemistry,
-• Advice on prevention of seizures: regular medication, sleep 7-8 hrs, avoid excess • Serious side effects hemogram, lipid profile,
-TV/mobile/ photic stimulation, regular diet, lifestyle choices(avoid alcohol) • Neuroimaging vit D levels, TFT, CT
+status epilepticus)
+- Emergency medical care of status epilepticus
+• Treatment counselling: side effects/toxicities of drugs, red flags, importance of
+adherence, maintaining treatment diary
+• Advice on prevention of seizures: regular medication, sleep 7-8 hrs, avoid excess
+TV/mobile/ photic stimulation, regular diet, lifestyle choices(avoid alcohol)
 • Evaluate any possibility of superimposed non-epileptic seizure
-brain (when necesary)
 • Training of MLP/ANM/ASHA on epilepsy
-• Monitor side effects of
-• For excessive alcohol use, refer to ANM/MLP where psychosocial interventions are RED FLAG SIGNS
-AED
+• For excessive alcohol use, refer to ANM/MLP where psychosocial interventions are
 carried out for substance use disorders
-• Clinical Psychologist:
 • Follow up visits for treatment monitoring & difficult patients under neurologist at
-o Fever
-counselling health
 STC centre
-o Headache
-• Basic management of co-morbidities (behaviour, cognition, reproductive health, services for persons with
-o Vomiting
-bone health) epilepsy or upon referral
-o Altered Sensorium
-• Alert to signs of abuse and neglect from PHC/UPHC
-o Severe Giddiness
+• Basic management of co-morbidities (behaviour, cognition, reproductive health,
+bone health)
+• Alert to signs of abuse and neglect
 • Maintain upward referrals with paediatrician/physician at DH
+• Careful evaluation of all
+referral patients, provide
+specialized management
+for patients and refer
+back to PHC for follow up
+of management
+• Maintain communication,
+ongoing clinical support
+and supervision of MOs at
+PHC
+• Laboratory investigation
+- CBC, liver function
+tests, antiepileptic drug
+levels, routine
+biochemistry,
+hemogram, lipid profile,
+vit D levels, TFT, CT
+brain (when necesary)
+• Monitor side effects of
+AED
+• Clinical Psychologist:
+counselling health
+services for persons with
+epilepsy or upon referral
+from PHC/UPHC
+DISTRICT HOSPITALS
+(centres with specialists like
+paediatrician,
+neurologist)
+• Redflag Signs
+• Progressive problems, rapid
+appearance of new symptoms
+• Recent injury
+• Symptoms appearing after
+alcohol binge
+• Status epilepticus after
+stabilization
+• Non response to adequate
+dose and duration of
+medication
+• Serious side effects
+• Neuroimaging
+RED FLAG SIGNS
+o Fever
+o Headache
+o Vomiting
+o Altered Sensorium
+o Severe Giddiness
 o Loss of function of body
-AED– BROAD SPECTRUM (GENERALIZED SEIZURES) DOSE (MAINTENANCE: MG/D) ADVERSE EFFECTS
-Sodium Valproate (avoid in women of child Starting dose :200mg TDS Anorexia, wt gain, nausea, vomiting, tremors,
-bearing age unless non responsive to other drugs) Maintenance Dose: 600-2400 hair loss, PCOS, thrombocytopenia
-Starting dose: 25mg HS (Lower dose with VPA) Sedation, ataxia, dizziness, skin rash, SJS (lower
-Lamotrigine
-Maintenance Dose: 100-300 risk with slow titration)
-Starting dose: 250mg BD Somnolence, dizziness, cognitive slowing,
-Levetiracetam
-Maintenance Dose: 1000-3000 psychosis
-Sedation, somnolence, cognitive problems,
-Starting dose: 25mg OD
-Topiramate
-weight loss, word finding difficulty, renal
-Maintenance Dose: 100-400
-stones, seizure worsening
-AED (focal seizures)
-Sedation, dizziness, ataxia, skin rash, SJS,
-Starting dose: 100mg BD
-Carbamazepine hyponatremia, seizure worsening in some
-Maintenance dose: 400-1200
-situations
-Starting dose: 150mg BD Sedation, dizziness, ataxia, headache,
-Oxcarbazepine
-Maintenance dose: 600 to 1800 hyponateremia, skin rash
-Phenobarbitone Starting dose: 30mg HS Sedation, ataxia, depression, memory
-Can be used for generalized also Maintenance dose: 60-180 problems, hyperactivity in children, skin rash
-Ataxia, sedation, gum hyperplasia, coarsening
-Starting dose: 200mg HS
-Phenytoin of facial features, hirsutism, memory
-Maintenance dose:200-400
-problems, osteomalacia & bone loss, skin rash
-Folic Acid 5 mg/day to be added along with AEDs in all women of child bearing age. Polytherapy and valproate to be avoided in women with epilepsy
 IMPENDING SE ESTABLISHED SE REFRACTORY SE
 5 MIN 30 MIN 60 MIN 2 IV drugs fail (Benzo + IV AED)
-FIRST ABCS TO BE DONE FROM WHEN YOU SEE PATIENT SIMULTANEOUSLY WITH MEDICATION
-Out of Hospital/home : Buccal/Intranasal IMDZ with acute repititive seizures/status (0.3-0.5 mg/kg) ICU
-IV Midazolam loading 0.2 mg/kg
+Out of Hospital/home : Buccal/Intranasal IMDZ with acute repititive seizures/status (0.3-0.5 mg/kg)
 EMERGENCY ROOM
-OR CIV 0.05-0.5 mg/kg/hr
-(can go up to 2 mg/kg/hr)
 IV Lorazepam up to 0.1 mg/kg @ 2mg/min
-Taper gradually after seizure stops
 OR
-(preferably as evidenced by EEG)
 IV Midazolam 0.1-0.2 mg/kg bolus or 0.05-0.5 mg/kg/hr in CIV
 OR
-Thiopental 5-7 mg/kg IV bolus
 IV Diazepam upto 0.25-0.4 mg/kg over 2-3 min
+• Phenytoin @50 mg/min 20 mg/kg repeat
+plus 10 mg/kg if seizures do not stop in 15-20 min
+• If seizures not controlled or contra indiction (CI) to PHT
+Intravenous Valproate 25-40 mg/kg @3-6 mg/kg/min
+• If CI to above two; Phenobarbitone 20 mg/kg IV @ less than 5-60 mg/min but be
+prepared to Intubate and ventilate
+ICU
+IV Midazolam loading 0.2 mg/kg
+OR CIV 0.05-0.5 mg/kg/hr
+(can go up to 2 mg/kg/hr)
+Taper gradually after seizure stops
+(preferably as evidenced by EEG)
+Thiopental 5-7 mg/kg IV bolus
 further 50 mg until seizures controlled
 3-5 mg/kg/hr for only 48 hours
-• Phenytoin @50 mg/min 20 mg/kg repeat
 OR Propofol IV loading 2-5 mg/kg
-plus 10 mg/kg if seizures do not stop in 15-20 min
 CIV 1-15 MG/KG/HR
-• If seizures not controlled or contra indiction (CI) to PHT
 OR Pentobarbital IV upto 10 mg/kg
-Intravenous Valproate 25-40 mg/kg @3-6 mg/kg/min
 @ <0.2-0.4 mg/kg/min CIV 0.5-2 mg/kg/h
-• If CI to above two; Phenobarbitone 20 mg/kg IV @ less than 5-60 mg/min but be OR Ketamine bolus 1.5 mg/kg
-prepared to Intubate and ventilate
+OR Ketamine bolus 1.5 mg/kg
 CIV 0.01-0.05 mg/kg/h max 10mg/kg/hr * to be
 EEG Monitoring
 Levetiracetam 20-30 mg/kg IV at 5 mg/kg/min (max 3g) or
-Levetiracetam 1500-3000 mg via NGT or Super refractory
-> 24hr no control
+Levetiracetam 1500-3000 mg via NGT or
 Lacosamide 200-400 mg IV at 40-80 mg/min
 Topiramate 150-800 mg bid via NGT
 Airway, blood pressure, temperature, intravenous access, electrocardiography, CBC, glucose, electrolytes, AED levels, ABG, oximetry, tox screen, central line
 If alcoholic- thiamine & glucose, if diabetic GLUCOTEST/blood sugar & glucose IV. MUST INFORM CONSULTANT ON CALL
-KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES
-October/
-2019
-n
-i
-.
-g
-r
-o
-.
-r
-m
-c
-i
-.
-w
-t
-s
-This STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and are
-based on expert opinions and available scientific evidence. There may be variations in the management of an individual patient based on his/her specific condition, as decided by the
-treating physician. There will be no indemnity for direct or indirect consequences. Kindly visit our web portal (stw.icmr.org.in) for more information.
-© Indian Council of Medical Research and Department of Health Research, Ministry of Health & Family Welfare, Government of India.
+Super refractory
+> 24hr no control
+AED– BROAD SPECTRUM (GENERALIZED SEIZURES) DOSE (MAINTENANCE: MG/D) ADVERSE EFFECTS
+Sodium Valproate (avoid in women of child
+bearing age unless non responsive to other drugs)
+Starting dose :200mg TDS
+Maintenance Dose: 600-2400
+Anorexia, wt gain, nausea, vomiting, tremors,
+hair loss, PCOS, thrombocytopenia
+Lamotrigine
+Starting dose: 25mg HS (Lower dose with VPA)
+Maintenance Dose: 100-300
+Sedation, ataxia, dizziness, skin rash, SJS (lower
+risk with slow titration)
+Levetiracetam
+Starting dose: 250mg BD
+Maintenance Dose: 1000-3000
+Somnolence, dizziness, cognitive slowing,
+psychosis
+Topiramate
+Starting dose: 25mg OD
+Maintenance Dose: 100-400
+Sedation, somnolence, cognitive problems,
+weight loss, word finding difficulty, renal
+stones, seizure worsening
+AED (focal seizures)
+Carbamazepine
+Starting dose: 100mg BD
+Maintenance dose: 400-1200
+Sedation, dizziness, ataxia, skin rash, SJS,
+hyponatremia, seizure worsening in some
+situations
+Oxcarbazepine
+Starting dose: 150mg BD
+Maintenance dose: 600 to 1800
+Sedation, dizziness, ataxia, headache,
+hyponateremia, skin rash
+Phenobarbitone
+Can be used for generalized also
+Starting dose: 30mg HS
+Maintenance dose: 60-180
+Sedation, ataxia, depression, memory
+problems, hyperactivity in children, skin rash
+Phenytoin
+Starting dose: 200mg HS
+Maintenance dose:200-400
+Ataxia, sedation, gum hyperplasia, coarsening
+of facial features, hirsutism, memory
+problems, osteomalacia & bone loss, skin rash
+Folic Acid 5 mg/day to be added along with AEDs in all women of child bearing age. Polytherapy and valproate to be avoided in women with epilepsy
+FIRST ABCS TO BE DONE FROM WHEN YOU SEE PATIENT SIMULTANEOUSLY WITH MEDICATION
+r/

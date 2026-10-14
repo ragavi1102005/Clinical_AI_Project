@@ -1,35 +1,75 @@
 --- Page 1 ---
-Department of Health Research
-Ministry of Health and Family Welfare, Government of India
 Standard Treatment Workflow (STW) for the Management of
 EPISTAXIS
 ICD-10-R04.0
+KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES
+ESSENTIAL
+1. Hemoglobin level
+2. Coagulation profile
+3. Complete blood count
+DESIRABLE
+CT scan with contrast in cases with no
+obvious cause// suspected benign or
+malignant lesion
+INVESTIGATIONS
+FOLLOW UP SERVICES
+1. Continued nasal lubrication for 2 weeks with liquid
+paraffin
+2. Repeat anterior rhinoscopy/ endoscopy to
+know/confim the cause of bleeding
+3. Oral hematinics to be considered if needed
+CLINICAL
+SCENARIOS
 Acute bleeding from the
-ESSENTIAL CLINICAL EXAMINATION
 nose after physical
 trauma/ barotrauma/ nose
 picking/ physical exertion.
+Acute bleeding from the
+nose in hypertensive /
+hematological disorders.
+Acute bleeding from the
+nose without any obvious
+cause.
+Features suggestive of
+neoplasia
+. Unilateral bleeding
+. Nasal obstruction
+.Visual/orbital symptoms
+. Obvious mass lesion
+Recurrent profuse bleeding
+- Consider JNA in teenage boys
+- Aneurysmal bleeding (specially
+following trauma) to be ruled out by
+DSA
+- To be managed by appropriate
+treatment at tertiary level(cid:31)
+Persistent bleeding despite
+nasal packing
+Altered blood counts/ coagualtion
+profile
+RED FLAG SIGNS
 ESSENTIAL
 • Local examination by anterior rhinoscopy/ endoscopy to look for
 source of bleeding (scanty/moderate).
-Acute bleeding from the
 • Little’s area bleeder/clot/congestion
-CLINICAL
-nose in hypertensive /
-SCENARIOS • Sharp septal spur
-hematological disorders.
+• Sharp septal spur
 • Congested nasal mucosa as in URTI
 • General physical examination to evaluate other systems
 (Cardiovascular/Lower Respiratory/Neurological) clinically.
-SYSTEMIC ASSESSMENT
-Acute bleeding from the
-nose without any obvious
-Screen for coagulation disorders/ anticoagulant medications/
-cause.
-hematological malignancies
-MANAGEMENT
-STEP-WISE MANAGEMENT PRINCIPLE Trotter’s
-Position
+QUALITY ASSESSMENT PARAMETERS
+1. Recurrence of episodes
+2. Improvement in hemoglobin level over a period of
+time.
+POINTS TO PONDER WHILE MANAGING EPISTAXIS
+1. Epistaxis in children is almost always anterior and from Little’s area, consequent to mucosal drying by dry air.
+2. Epistaxis in adults is often related to hypertension and arises posteriorly from the posterior end of inferior turbinate
+3. Initial non-invasive methods may suffice in a large majority of patients.
+CT: Computerized Tomograms
+URTI: Upper Respiratory Tract Infection
+JNA: Juvenile Nasopharyngeal Angiofibroma
+DSA: Digital Subtraction Angiography
+ABBREVIATIONS
+STEP-WISE MANAGEMENT PRINCIPLE
 1. Ensure patent airway/ avoid aspiration by head down/lateral positioning
 2. Restore hemodynamic stability by intravenous fluid replacement/ transfusion
 3. Control bleeding/bleeder by
@@ -45,63 +85,10 @@ in 4% xylocaine with adrenaline may be used)
 anterior ethmoidal artery).
 9. Selective embolization is an alternative to surgery
 10. Address identified etiology, if any
-INVESTIGATIONS
-Features suggestive of
-neoplasia
-ESSENTIAL
-. Unilateral bleeding
-. Nasal obstruction
-1. Hemoglobin level
-.Visual/orbital symptoms
-2. Coagulation profile Altered blood counts/ coagualtion
-. Obvious mass lesion
-profile
-3. Complete blood count
-Persistent bleeding despite
-Recurrent profuse bleeding
-nasal packing
-- Consider JNA in teenage boys
-DESIRABLE - Aneurysmal bleeding (specially
-following trauma) to be ruled out by
-DSA
-CT scan with contrast in cases with no
-- To be managed by appropriate
-obvious cause// suspected benign or
-treatment at tertiary level(cid:31)
-malignant lesion
-RED FLAG SIGNS
-FOLLOW UP SERVICES QUALITY ASSESSMENT PARAMETERS
-1. Continued nasal lubrication for 2 weeks with liquid 1. Recurrence of episodes
-paraffin 2. Improvement in hemoglobin level over a period of
-2. Repeat anterior rhinoscopy/ endoscopy to time.
-know/confim the cause of bleeding
-3. Oral hematinics to be considered if needed
-POINTS TO PONDER WHILE MANAGING EPISTAXIS
-1. Epistaxis in children is almost always anterior and from Little’s area, consequent to mucosal drying by dry air.
-2. Epistaxis in adults is often related to hypertension and arises posteriorly from the posterior end of inferior turbinate
-3. Initial non-invasive methods may suffice in a large majority of patients.
-ABBREVIATIONS
-JNA: Juvenile Nasopharyngeal Angiofibroma CT: Computerized Tomograms
-DSA: Digital Subtraction Angiography URTI: Upper Respiratory Tract Infection
-KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES
-October/
-2019
-n
-i
-.
-g
-r
-o
-.
-r
-m
-c
-i
-.
-w
-t
-s
-This STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and are
-based on expert opinions and available scientific evidence. There may be variations in the management of an individual patient based on his/her specific condition, as decided by the
-treating physician. There will be no indemnity for direct or indirect consequences. Kindly visit our web portal (stw.icmr.org.in) for more information.
-© Indian Council of Medical Research and Department of Health Research, Ministry of Health & Family Welfare, Government of India.
+MANAGEMENT
+Trotter’s
+Position
+SYSTEMIC ASSESSMENT
+Screen for coagulation disorders/ anticoagulant medications/
+hematological malignancies
+ESSENTIAL CLINICAL EXAMINATION

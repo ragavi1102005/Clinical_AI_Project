@@ -1,141 +1,220 @@
 --- Page 1 ---
-Department of Health Research
-Ministry of Health and Family Welfare, Government of India
-Standard Treatment Workflow (STW)
-URINARY TRACT INFECTIONS
-ICD-11-GC08
-TYPES OF UTI WHEN NOT TO DO URINE CULTURE MANAGEMENT
-UNCOMPLICATED UTI All uncomplicated UTIs PRIMARY CARE/SECONDARY CARE TREATMENT
-Infection confined to urinary Asymtomatic urinary catheters HISTORY • Nitrofurantoin 100 mg
-bladder in afebrile patients • Confirm diagnosis PO BD for 5 - 7 days
-• At least 3 symptoms - dysuria, • Exclude complicated • Trimethoprim
-HIGH RISK GROUP FOR
-UTI sulphamethoxazole DS
+TYPES OF UTI
+UNCOMPLICATED UTI
+Infection confined to urinary
+bladder in afebrile patients
+• At least 3 symptoms - dysuria,
 frequency, urgency, suprapubic
-COMPLICATED UTI
-• Look out for high risk PO tablet BD for 3 -5
 pain
-UTI in presence of: groups days
 OR
-• Stones EXAMINATION • Fosfomycin 3 gm
-• If less than three symptoms: • Urinary tract obstruction • Temperature
-single dose, either
-◦ Dipstick +ve for leukocyte • Congenital anomalies of urinary • Blood pressure, Pulse empty stomach after
-esterase and nitrite OR tract • Respiratory rate dinner and passing
-◦ >10 WBC /HPF in centrifuged • Immunosuppression/ • Renal Angle/costoverte- urine
-sample OR immunocompromised individual bral tenderness • Norfloxacin 400 BD or
-• Perineal tenderness
-◦ Urine culture with 105/ml colony • Pregnant individuals Levofloxacin 250 BD
-• Look for red flag signs
-count in mid stream urine • Chronic kidney disease PO for 5 days
-culture • Recent urological
-SYMPTOMATIC TREATMENT
-instrumentation/procedure
-• Drink Plenty of water
+• If less than three symptoms:
+◦ Dipstick +ve for leukocyte
+esterase and nitrite OR
+◦ >10 WBC /HPF in centrifuged
+sample OR
+◦ Urine culture with 105/ml colony
+count in mid stream urine
+culture
 COMPLICATED UTI/PYELONEPHRITIS
-• Urine alkalizer recommended eg citrate based
 Infection extending beyond bladder
-solutions
 or associated with systemic illness.
-• Avoid if patient on nitrofurantoin
-• Fever • Phenazopyridine 200mg tid for 2 days
-• Flank pain • Paracetamol for pain
+• Fever
+• Flank pain
 • Features of sepsis- chills, rigors,
 hemodynamic instability
-• Costovertebral angle tenderness • Complicated UTI
-• Perineal pain and tenderness • Presence of red flag signs
+• Costovertebral angle tenderness
+• Perineal pain and tenderness
+WHEN NOT TO DO URINE CULTURE
+All uncomplicated UTIs
+Asymtomatic urinary catheters
+HIGH RISK GROUP FOR
+COMPLICATED UTI
+UTI in presence of:
+• Stones
+• Urinary tract obstruction
+• Congenital anomalies of urinary
+tract
+• Immunosuppression/
+immunocompromised individual
+• Pregnant individuals
+• Chronic kidney disease
+• Recent urological
+instrumentation/procedure
+• Drink Plenty of water
+• Urine alkalizer recommended eg citrate based
+solutions
+• Avoid if patient on nitrofurantoin
+• Phenazopyridine 200mg tid for 2 days
+• Paracetamol for pain
+MANAGEMENT
+PRIMARY CARE/SECONDARY CARE
+HISTORY
+• Confirm diagnosis
+• Exclude complicated
+UTI
+• Look out for high risk
+groups
+EXAMINATION
+• Temperature
+• Blood pressure, Pulse
+• Respiratory rate
+• Renal Angle/costoverte-
+bral tenderness
+• Perineal tenderness
+• Look for red flag signs
+• Complicated UTI
+• Presence of red flag signs
+• Send for culture
+• Imaging necessary
+• Urology services if obstruction
+• Rx
+◦ Complicated UTI
+◦ Pregnancy UTI
+SYMPTOMATIC TREATMENT
 TERTIARY LEVEL
-• Send for culture • Rx
-• Imaging necessary ◦ Complicated UTI
-• Urology services if obstruction ◦ Pregnancy UTI
-COMPLICATED UTI PREGNANCY UTI CAUTI PROSTATITIS RECURRENT UTI
-• Screening urine • Do not perform • UTI symptoms+ • Uncomplicated RUTI
-culture in first urine pelvic pain/ fever
-Post coital voiding and
-antenatal visit analysis/culture in • Digital rectal exam-
-post coital antibiotic
-• Asymptomatic asymptomatic tender prostate
-bacteriuria/ patients • Urine culture
-Single dose
-Uncomplicated UTI: • Remove urinary • Empirical treatment
-cephalexin 250/
-◦ Nitrofurantoin 100 catheters as soon similar to Co-trimoxazole
-mg PO BD for 5
-as possible complicatead UTI (400/80)
-days • Replace latex • Adjust treatment as /Nitrofurantoin 100 mg
-OR
-coated every 3-4 per culture report
-◦ Amox/Clav 625 PO LONG TERM
-weeks or Silicone • Duration of
-TDS or Cephalexin PROPHYLAXIS
-catheter every 12 treatment 2-4
-500 mg PO QID • Low dose
-weeks weeks
-OR nitrofurantoin 50
-• Symptomatic • Urology evaluation ◦ TMP/SMX DS Tab mgX 6 months
-CAUTI: features of desirable
-PO BD for 5 days • Single strength
-Complicated UTI Septran SS/
-• Repeat urine culture ◦ Change Co-trimoxazole
-after treatment not catheter (400/80) x 6
-essential ◦ Rx as months
-• Cephalexin 250mg
-• Recurrent UTI complicated
-• Vaginal estrogen
-antibiotic prophylaxis UTI
-cream in post
-till term
-• No role of routine
-menopausal
-◦ Nitrofurantoin 50 antibiotic
-Complicated RUTI
-mg or Cephalexin
-prophylaxis for
-• Urology referral
-250 mg at bed
-prevention • Cystoscopy
-time
-• Urodynamics
-CHILDREN
 ASYMPTOMATIC BACTERIURIA
-• No symptoms of UTI SYMPTOMS
-and Urine culture • Neonates and Infants < 1yr- Fever,vomiting,
-with > 100000 diarrhoea, jaundice, Poor urinary stream
-CFU/ml - Older children same as adults
-• No treatment TREATMENT
-required - Infants <3months as upper UTI (PN) with
-IV antibiotics
+• No symptoms of UTI
+and Urine culture
+with > 100000
+CFU/ml
+• No treatment
+required
 • Treatment indicated
-- Older children
 ◦ Pregnancy
-• Upper UTI- IV antibiotics
 ◦ Planned urological
-gentamicin, amikacin, ceftriaxone
 procedure
-• Lower UTI- oral cefixime, ofloxacin, ciprofloxacin,
+• UTI symptoms+
+pelvic pain/ fever
+• Digital rectal exam-
+tender prostate
+• Urine culture
+• Empirical treatment
+similar to
+complicatead UTI
+• Adjust treatment as
+per culture report
+• Duration of
+treatment 2-4
+weeks
+• Urology evaluation
+desirable
+• Screening urine
+culture in first
+antenatal visit
+• Asymptomatic
+bacteriuria/
+Uncomplicated UTI:
+◦ Nitrofurantoin 100
+mg PO BD for 5
+days
+OR
+◦ Amox/Clav 625 PO
+TDS or Cephalexin
+500 mg PO QID
+OR
+◦ TMP/SMX DS Tab
+PO BD for 5 days
+• Repeat urine culture
+after treatment not
+essential
+• Recurrent UTI
+antibiotic prophylaxis
+till term
+◦ Nitrofurantoin 50
+mg or Cephalexin
+250 mg at bed
+time
+• Uncomplicated RUTI
+Post coital voiding and
+post coital antibiotic
+Single dose
+cephalexin 250/
+Co-trimoxazole
+(400/80)
+/Nitrofurantoin 100 mg
+LONG TERM
+PROPHYLAXIS
+• Low dose
+nitrofurantoin 50
+mgX 6 months
+• Single strength
+Septran SS/
+Co-trimoxazole
+(400/80) x 6
+months
+• Cephalexin 250mg
+• Vaginal estrogen
+cream in post
+menopausal
+Complicated RUTI
+• Urology referral
+• Cystoscopy
+• Urodynamics
 • Trautner BW, Cortés-Penfield NW, Gupta K, Hirsch EB, Horstman M, Moran GJ, Colgan R, O'Horo JC, Ashraf MS, Connolly S. Clinical
 Practice Guideline by Infectious Diseases Society of America (IDSA): 2025 Guideline on Management and Treatment of Complicated
 Urinary Tract Infections: Selection of Antibiotic Therapy for Complicated UTI. Clin Infect Dis. 2025 Dec 19;ciaf460. doi:
 10.1093/cid/ciaf460
 • Meena J, Bagga A, Hari P. Management of Urinary Tract Infections and Vesicoureteric Reflux: Key Updates from Revised Indian
 Society of Pediatric Nephrology Guidelines 2023. Indian J Nephrol. 2024;34:442-7. doi: 10.25259/ijn_546_23
-July/
-2026
-RED FLAG SIGNS
-.
-• Fever > 100 F
-• Chill and rigors
-• Tachycardia
-• Tachypnea
-WHEN TO REFER
-• Hypotension
-• Costovertebral tenderness • Recurrent UTI
-• UTI after recent
-• Obtundation
-instrumentation
-◦ Prostatitis
-◦ Recurrent UTI
-◦ Non-resolving UTI
+• Do not perform
+urine
+analysis/culture in
+asymptomatic
+patients
+• Remove urinary
+catheters as soon
+as possible
+• Replace latex
+coated every 3-4
+weeks or Silicone
+catheter every 12
+weeks
+• Symptomatic
+CAUTI: features of
+Complicated UTI
+◦ Change
+catheter
+◦ Rx as
+complicated
+UTI
+• No role of routine
+antibiotic
+prophylaxis for
+prevention
+COMPLICATED UTI
+CHILDREN
+PREGNANCY UTI CAUTI PROSTATITIS RECURRENT UTI
+SYMPTOMS
+• Neonates and Infants < 1yr- Fever,vomiting,
+diarrhoea, jaundice, Poor urinary stream
+- Older children same as adults
+TREATMENT
+- Infants <3months as upper UTI (PN) with
+IV antibiotics
+- Older children
+• Upper UTI- IV antibiotics
+gentamicin, amikacin, ceftriaxone
+• Lower UTI- oral cefixime, ofloxacin, ciprofloxacin,
+TREATMENT
+• Nitrofurantoin 100 mg
+PO BD for 5 - 7 days
+• Trimethoprim
+sulphamethoxazole DS
+PO tablet BD for 3 -5
+days
+• Fosfomycin 3 gm
+single dose, either
+empty stomach after
+dinner and passing
+urine
+• Norfloxacin 400 BD or
+Levofloxacin 250 BD
+PO for 5 days
+Standard Treatment Workflow (STW)
+URINARY TRACT INFECTIONS
+ICD-11-GC08
+ly
+UTI IS A CLINICAL DIAGNOSIS - DO NOT CULTURE ROUTINELY
 Empiric Therapy:
 • Urine c/s
 • Blood culture
@@ -164,6 +243,18 @@ IV every 8 hr
 • Adjust as per culture sensitivity
 report and local sensitivity
 patterns
+RED FLAG SIGNS
+• Fever > 100 F
+• Chill and rigors
+• Tachycardia
+• Tachypnea
+• Hypotension
+• Costovertebral tenderness
+• Obtundation
+• Recurrent UTI
+• UTI after recent
+instrumentation
+WHEN TO REFER
 amoxyclav
 • Duration of Rx
 - Upper UTI- 10-14 days
@@ -175,13 +266,14 @@ OR VUR
 • Further imaging- DMSA+/- MCUG if abnormal
 USG, recurrent UTI
 ABBREVIATIONS
-CAKUT: Congenital Anomalies of the Kidney and Urinary Tract) MCUG: Micturating Cystourethrogram
-CAUTI: Catheter-Associated Urinary Tract Infection USG: Ultrasonography
-DMSA: Dimercaptosuccinic Acid VUR: Vesicoureteral Reflux
-HPF: High-Power Field WBC: White Blood Cells
-REFERENCES
-UTI IS A CLINICAL DIAGNOSIS - DO NOT CULTURE ROUTINELY
-This STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and
-are based on expert opinions and available scientific evidence. There may be variations in the management of an individual patient based on his/her specific condition, as decided by
-the treating physician. There will be no indemnity for direct or indirect consequences. Kindly visit our web portal (stw.icmr.org.in) for more information.
-© Indian Council of Medical Research and Department of Health Research, Ministry of Health & Family Welfare, Government of India.
+◦ Prostatitis
+◦ Recurrent UTI
+◦ Non-resolving UTI
+CAKUT: Congenital Anomalies of the Kidney and Urinary Tract)
+CAUTI: Catheter-Associated Urinary Tract Infection
+DMSA: Dimercaptosuccinic Acid
+HPF: High-Power Field
+MCUG: Micturating Cystourethrogram
+USG: Ultrasonography
+VUR: Vesicoureteral Reflux
+WBC: White Blood Cells
