@@ -247,7 +247,7 @@ VSD -PS, Tricuspid atresia with VSD
 Hemodynamic approach to CHDs
 Duct dependent systemic circulation (Critical AS,
 HLHS Severe Interrupted aortic arch)
-Hypotension/shock (cid:224)entricular dysfunction
+Hypotension/shock Ventricular dysfunction
 Arrhythmia with hemodynamic compromise
 Decreased pulmonary blood flow (duct
 dependent pulmonary circulation):
@@ -258,12 +258,12 @@ Increased PBF & high PA pressure:
 Transposition
 Pulmonary plethora: L -> R shunt
 With cyanosis/desaturation - CCHD with
-Heart failure increased pulmonary blood flow (P(cid:32)F)
+Heart failure increased pulmonary blood flow (PBF)
 With severe desaturation and pulmonary venous
 hypertension: Obstructed TAPVC
 Intravenous/Intraosseous access and
 fluid resuscitation 10 ml per kg of
-isotonic fluid, (ma(cid:628) 40 ml per kg until
+isotonic fluid, (max 40 ml per kg until
 perfusion improves or hepatomegaly
 develops).
 Manage Hypothermia, Hypoglycemia,
@@ -311,7 +311,7 @@ Cyanosis (<SpO
 <95%)
 Rule out TAPVC
 SpO
-(cid:1726) 80(cid:1743)(cid:1617)
+80%?
 Early Paediatric
 Cardiology
 Consultation & Echo
@@ -344,9 +344,9 @@ cardiology
 evaluation
 (within hours)
 SpO
-(cid:1726)80(cid:1743) On
+80% On
 serial monitoring
-Chest (cid:230)-ray S/O
+Chest X-ray S/O
 whiteout lung/
 Ground glass
 appearance
@@ -365,24 +365,24 @@ congenital heart
 disease likely
 ASK/LOOK/FEEL CATEGORY INTERPRETATION
 Does the baby have decreased Activity and feeding Decreased activity is a common presentation of
-activity and feeds poorly(cid:1617) heart failure/shock in neonates
-Is the baby cyanotic(cid:1617) Pulse Cyanosis/Desaturation Look for bluish discolouration of fingers and
+activity and feeds poorly? heart failure/shock in neonates
+Is the baby cyanotic? Pulse Cyanosis/Desaturation Look for bluish discolouration of fingers and
 Oximetry screen tongue. If extremities are blue, to rule out
 peripheral cyanosis- warm the baby and re check
 Is there any evident respiratory Respiration Chest indrawing/grunting/use of accessory
-distress or Tachypnoea(cid:1617) muscles/RR more than 60 per minute
+distress or Tachypnoea? muscles/RR more than 60 per minute
 Does the baby have Inappropriate Heart Rate Normal awake new born 100-180 normal sleeping
-Tachycardia/(cid:32)radycardia new born 80-160
-Is the baby in shock(cid:1617) Perfusion Peripheries cold and clammy OR Cardiac
+Tachycardia/Bradycardia new born 80-160
+Is the baby in shock? Perfusion Peripheries cold and clammy OR Cardiac
 resynchronization therapy(CRT) > 3 seconds, core -
 peripheral temperature difference more than 2 degrees even after
-warming/e(cid:628)ternal temperature is controlled/
+warming/external temperature is controlled/
 appropriate correction of ambient temperature
 is done
-Is the baby in heart failure(cid:1617) Heart Failure Look for Tachypnoea, Tachycardia, Tender
+Is the baby in heart failure? Heart Failure Look for Tachypnoea, Tachycardia, Tender
 Hepatomegaly
 Is the baby sucking from the Feeding Normal: sucking vigorously, no suck rest suck breast
-breast normally(cid:1617) cycle, no breathlessness/ forehead sweating
+breast normally? cycle, no breathlessness/ forehead sweating
 while feeding, no prolonged feeding times
 AS: Aortic Stenosis L->R: Left to Right PV: Pulmonary Valve TV: Tricuspid Valve
 AV: Aortic Valve MV: Mitral Valve TAPVC: Total anomalous pulmonary VSD: Ventricular Septal
@@ -398,7 +398,7 @@ CRITICAL HEART DISEASE IN THE NEWBORN
 ICD-10-P09.5
 UNIVERSAL PULSE OXIMETRY SCREENING IS RECOMMENDED (REF 2)
 Measurement 1
-Pulse o(cid:628)imetry on right arm and 1 foot around 24 hours of age (or earlier, if being discharged)
+Pulse oximetry on right arm and 1 foot around 24 hours of age (or earlier, if being discharged)
 Measurement 2
 Pulse oximetry on right arm and 1 foot 1 hour after measurement 1
 Fail
@@ -408,9 +408,9 @@ Action: Do not repeat pulse
 oximetry screening, refer for
 immediate assessment
 Fail
-a) Pulse o(cid:628)imetry of 94(cid:1743) or less in either the right arm or foot
+a) Pulse oximetry of 94% or less in either the right arm or foot
 or
-b) A difference of 4(cid:1743) or more between the right arm and foot
+b) A difference of 4% or more between the right arm and foot
 Action: Do not repeat pulse oximetry screening, refer for
 immediate assessment
 Pass
@@ -419,9 +419,9 @@ foot and a difference of 3% or less between the 2
 Action: Do not repeat pulse oximetry
 screening, provide normal newborn care
 Retest
-a) Pulse o(cid:628)imetry of 90(cid:1743) to 94(cid:1743) in either
+a) Pulse oximetry of 90% to 94% in either
 the right arm or foot or
-b) A difference of 4(cid:1743) or more between
+b) A difference of 4% or more between
 the right arm and foot
 Action: Repeat pulse oximetry
 measurements
@@ -440,7 +440,7 @@ CXR showing cardiomegaly, a
 case of dilated cardiomyopathy
 Tachycardiomyopathy is suggested by
 abnormal P waves (inverted in II, III and
-a(cid:220)F) additional clues are fixed and rapid
+aVF) additional clues are fixed and rapid
 heart rates
 HEART FAILURE MIMICS
 Neonate
@@ -561,18 +561,18 @@ disease (RHD)
 coronary
 arteriopathy
 • Idiopathic PAH
-(cid:30)ate(cid:461)ory (cid:175)peci(cid:730)c (cid:30)on(cid:427)itions
-Shunt lesions (cid:224)SD, PDA, AP window, A(cid:224)CD, TGA,
-Truncus, TAP(cid:224)C
+Category Specific Conditions
+Shunt lesions VSD, PDA, AP window, AVCD, TGA,
+Truncus, TAPVC
 Obstructive lesions Critical AS, PS, coarctation/aortic
 interruption
-Regurgitant lesions Congenital- A(cid:224) canal defect,
+Regurgitant lesions Congenital- AV canal defect,
 Ebsteins anomaly
-Ac(cid:567)uired- RHD, IE, post-operative
+Acquired- RHD, IE, post-operative
 Primary Myocardial Dilated cardiomyopathy, Inborn
 dysfunction errors of metabolism, muscular
 dystrophy, drug induced
-(cid:30)ate(cid:461)ory (cid:175)peci(cid:730)c (cid:30)on(cid:427)itions
+Category Specific Conditions
 Inflammatory Myocarditis and other
 immunoinflammatory conditions
 Abnormal rate/rhythm Tachycardiomyopathy, bradycardia,
@@ -582,7 +582,7 @@ pulmonary artery, Coronary artery
 occlusion from other causes
 Post- cardiac surgery Variety of causes (cardiopulmonary
 bypass, Myocardial preservation etc.)
-Abnormal homeostasis Hypo(cid:628)ia, hypocalcemia,
+Abnormal homeostasis Hypoxia, hypocalcemia,
 hypoglycemia, sepsis, hypothermia
 SIGNS
 Standard Treatment Workflow (STW)
@@ -599,11 +599,11 @@ Diagnosis of treatable causes of heart
 failure such as persistent
 tachyarrhythmia, ALCAPA and,
 hypocalcemia. Other specific causes
-such as Pompe(cid:1660)s disease, specific
+such as Pompes disease, specific
 forms of cardiac muscle involvement
 in muscular dystrophy have ECG
 manifestations
-(cid:45)chocar(cid:427)io(cid:461)ram
+Echocardiogram
 Critically important to accurate
 diagnosis and tailoring response to
 therapy
@@ -622,53 +622,53 @@ levels
 sensorium
 
 --- Page 5 ---
-(cid:85)notropes shou(cid:499)(cid:427) (cid:419)e physio(cid:499)o(cid:461)ica(cid:499)(cid:499)y appropriate(cid:1562)
-• Avoid vasodilators in presence of fi(cid:628)ed outflow obstruction (AS); use vasodilators for regurgitant lesions, pump
+Inotropes should be physiologically appropriate:
+• Avoid vasodilators in presence of fixed outflow obstruction (AS); use vasodilators for regurgitant lesions, pump
 failure and large shunts
-• Avoid using very high doses for sustained periods (Preferably adrenaline (cid:1726) 0.1; dopamine or dobutamine (cid:1726) 15
+• Avoid using very high doses for sustained periods (Preferably adrenaline 0.1; dopamine or dobutamine 15
 mcg/g/min)
 Correct the underlying cause
 Reduce associated morbidity and mortality
 Improve functional status and quality of life
 Is there
-Hypotension(cid:1617), Tachycardia(cid:1617), Respiratory Distress(cid:1617)
+Hypotension?, Tachycardia?, Respiratory Distress?
 Low Risk
 PEDIATRIC HEART FAILURE IS BEST MANAGED IN CONSULTATION WITH A PEDIATRIC CARDIOLOGIST
-This STW has been prepared by national e(cid:628)perts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and are based on e(cid:628)pert
+This STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and are based on expert
 opinions and available scientific evidence. There may be variations in the management of an individual patient based on his/her specific condition, as decided by the treating physician. There will be no
-indemnity for direct or indirect conse(cid:567)uences. Kindly visit the website of ICMR for more information: (icmr.gov.in) for more information. (cid:1776)Indian Council of Medical Research, Ministry of Health (cid:1773) Family
+indemnity for direct or indirect consequences. Kindly visit the website of ICMR for more information: (icmr.gov.in) for more information. Indian Council of Medical Research, Ministry of Health & Family
 Welfare, Government of India.
 10.1161/CIRCRESAHA.116.308996. PMID: 28302743; PMCID: PMC5391045.
 Standard Treatment Workflow (STW)
 PEDIATRIC HEART FAILURE
 (Continued)
 ABBREVATIONS
-(cid:45)ssentia(cid:499) (cid:419)(cid:499)oo(cid:427) tests to (cid:419)e per(cid:460)orme(cid:427) in a(cid:499)(cid:499) Utility
+Essential blood tests to be performed in all Utility
 Complete blood count; CRP Identifying Sepsis, Anemia
 Electrolytes and urea, creatinine Elevated urea, creatinine may indicate decompensated HF or may result from
 medication side effects. Electrolyte imbalance is a common association of HF and
 diuretic use. Hypocalcemia can cause ventricular dysfunction leading to HF
-Liver function test Elevated bilirubin, liver en(cid:639)ymes and prolonged prothrombin time points towards
+Liver function test Elevated bilirubin, liver enzymes and prolonged prothrombin time points towards
 congestive hepatopathy. Hypoalbuminemia points to chronic HF and poor nutrition
-(cid:129)ptiona(cid:499) tests to (cid:419)e (cid:427)eci(cid:427)e(cid:427) (cid:419)ase(cid:427) on c(cid:499)inica(cid:499) situation
+Optional tests to be decided based on clinical situation
 Arterial blood gas with lactate Lactic acidosis- as a marker of tissue perfusion and helps monitor response to
 treatment; It is also elevated in specific inborn errors of metabolism
 Thyroid function test Thyroid hormone imbalance could be a primary cause or may lead to worsening of
 symptoms
-(cid:32)rain Natriuretic Peptide ((cid:32)NP) It helps differentiate HF from respiratory disease. (cid:200)seful in monitoring response to
+Brain Natriuretic Peptide (BNP) It helps differentiate HF from respiratory disease. Useful in monitoring response to
 therapy
-Cardiac en(cid:639)ymes (troponin I, T, CKM(cid:32)) and In suspected cases of myocarditis
+Cardiac enzymes (troponin I, T, CKMB) and In suspected cases of myocarditis
 Viral Panel
-(cid:116)ana(cid:461)ement (cid:71)oa(cid:499)s
-• (cid:70)(cid:499)ui(cid:427) restriction
+Management Goals
+• Fluid restriction
 ◦ In acute HF with lung congestion,
 peripheral edema despite diuretics
 and in presence of hyponatremia
-• (cid:167)est an(cid:427) restriction o(cid:460) activity
+• Rest and restriction of activity
 ◦ Activity as tolerated for older children
 with chronic compensated HF
-• (cid:30)orrection o(cid:460) Anaemia
-◦ Hematinics; (cid:32)lood transfusion only for
+• Correction of Anaemia
+◦ Hematinics; Blood transfusion only for
 severe anemia (Hb < 7gm/dl)
 • Nutrition
 ◦ NG feeds for infants in acute severe HF.
@@ -678,13 +678,13 @@ ml/kg/day. (thickening of feeds or by
 adding coconut oil/medium chain
 triglyceride). In older children increase
 protein content of diet while
-optimi(cid:639)ing the fat and carbohydrate
-intake. Supplement Ca and (cid:224)it D3;
+optimizing the fat and carbohydrate
+intake. Supplement Ca and Vit D3;
 ◦ Dietary restriction of sodium is
 generally not recommended in
 children unless there is severe edema
 unresponsive to diuretic therapy
-• (cid:175)upp(cid:499)ementary o(cid:619)y(cid:461)en
+• Supplementary oxygen
 ◦ May be necessary when there is
 respiratory distress but must be used
 with caution in L-R shunts and
@@ -699,83 +699,71 @@ ACE inhibitor,
 blockers
 BNP
 Normal Na,
-(cid:200)rea and
+Urea and
 Creatinine
-Admit in IC(cid:200); I/(cid:224)
+Admit in ICU; I/V
 Loop diuretic,
-Inotrope/(cid:224)asodilator;
+Inotrope/Vasodilator;
 ? non invasive PPV
 Adequate tissue
-perfusion: (cid:200)rine
+perfusion: Urine
 output, Warm
-e(cid:628)tremities, normal
+extremities, normal
 lactates
 Admit in ward;
 Loop diuretics
 Are symptoms
 improved in 2-3
 days
-(cid:1765)
-(cid:1765) (cid:1765) (cid:1765)
-(cid:1765)
-(cid:1765) (cid:1765)
-(cid:1765) (cid:1765) (cid:1765) (cid:1765)
-(cid:1765)
-(cid:1765)
-(cid:1765)
-(cid:1765) (cid:1765)
-(cid:1765) (cid:32)NP,
+BNP,
 Na,
-(cid:200)rea and
+Urea and
 Creatinine
 Low Risk High-Risk
 Wean off in
 2-3 days
-(cid:224)entilate,
+Ventilate,
 Epinephrine
 Intermediate
 Consider
 advanced
 circulatory
 support
-(cid:1765)
-(cid:1765)
-(cid:1765)
-Yes (cid:175)ome(cid:614)hat No
+Yes Somewhat No
 Yes Yes
 Yes No
 No
 improvement
 No
-A(cid:30)(cid:45)(cid:85)(cid:1562) Angiotensin Converting En(cid:639)yme Inhibitor
-A(cid:106)(cid:30)A(cid:164)A(cid:1562) Anomalous Origin of Left Coronary Artery from
+ACEI: Angiotensin Converting Enzyme Inhibitor
+ALCAPA: Anomalous Origin of Left Coronary Artery from
 Pulmonary Artery
-A(cid:164) (cid:221)in(cid:427)o(cid:614)(cid:1562) Aorto-Pulmonary Window
-A(cid:175)(cid:1562) Aortic Stenosis
-A(cid:220)(cid:30)(cid:37)(cid:1562) Atrio-Ventricular Canal Defect
-A(cid:220)(cid:30)(cid:37)(cid:1562) Atrio-Ventricular Canal Defect
-(cid:30)oA(cid:1562) Coarctation of the Aorta
-(cid:30)(cid:103)(cid:116)(cid:29)(cid:1562) Creatine Kinase Myoglobin Binding
-(cid:30)(cid:167)(cid:164)(cid:1562) C-reactive Protein
-(cid:37)(cid:30)(cid:116)(cid:1562) Dilated Cardiomyopathy
-(cid:79)(cid:70)(cid:1562) Heart Failure
-(cid:79)(cid:106)(cid:79)(cid:1562) Hypoplastic Left Heart
-(cid:79)(cid:167)(cid:1562) Heart Rate
-IE(cid:1562) Infective Endocarditis
-(cid:101)(cid:220)(cid:164)(cid:1562) Jugular Venous Pressure
-(cid:103)(cid:37)(cid:1562) Kawasaki Disease
-(cid:106)(cid:220)(cid:1562) Left Ventricle
-(cid:116)(cid:167)(cid:1562) Mitral Regurgitation
-(cid:118)(cid:71)(cid:1562) Naso-Gastric
-(cid:164)A(cid:79)(cid:1562) Pulmonary Arterial Hypertension
-(cid:189)A(cid:164)(cid:220)(cid:30)(cid:1562) Total Anomalous Pulmonary Venous Connection
-(cid:164)(cid:37)A(cid:1562) Patent Ductus Arteriosus
-(cid:164)(cid:164)(cid:220)(cid:1562) Positive Pressure Ventilation
-(cid:164)(cid:175)(cid:1562) Pulmonary Stenosis
-(cid:167)(cid:79)(cid:37)(cid:1562) Rheumatic Heart Disease
-(cid:167)(cid:167)(cid:1562) Respiratory Rate
-(cid:189)(cid:71)A(cid:1562) Transposition of Great Arteries
-(cid:220)(cid:175)(cid:37)(cid:1562) Ventricular Septal Defect
+AP Window: Aorto-Pulmonary Window
+AS: Aortic Stenosis
+AVCD: Atrio-Ventricular Canal Defect
+AVCD: Atrio-Ventricular Canal Defect
+CoA: Coarctation of the Aorta
+CKMB: Creatine Kinase Myoglobin Binding
+CRP: C-reactive Protein
+DCM: Dilated Cardiomyopathy
+HF: Heart Failure
+HLH: Hypoplastic Left Heart
+HR: Heart Rate
+IE: Infective Endocarditis
+JVP: Jugular Venous Pressure
+KD: Kawasaki Disease
+LV: Left Ventricle
+MR: Mitral Regurgitation
+NG: Naso-Gastric
+PAH: Pulmonary Arterial Hypertension
+TAPVC: Total Anomalous Pulmonary Venous Connection
+PDA: Patent Ductus Arteriosus
+PPV: Positive Pressure Ventilation
+PS: Pulmonary Stenosis
+RHD: Rheumatic Heart Disease
+RR: Respiratory Rate
+TGA: Transposition of Great Arteries
+VSD: Ventricular Septal Defect
 ly
 
 --- Page 6 ---
@@ -798,7 +786,7 @@ microscopy
 • Echocardio-
 gram
 1. McCrindle BW, Rowley AH, Newburger JW, Burns JC, Bolger AF, Gewitz M, Baker AL, Jackson MA, Takahashi M, Shah PB, Kobayashi T, Wu MH, Saji TT, Pahl E; American Heart Association Rheumatic Fever, Endocarditis, and Kawasaki Disease Committee of the Council on
-Cardiovascular Disease in the (cid:231)oung; Council on Cardiovascular and Stroke Nursing; Council on Cardiovascular Surgery and Anesthesia; and Council on Epidemiology and Prevention. Diagnosis, Treatment, and Long-Term Management of Kawasaki Disease: A Scientific
+Cardiovascular Disease in the Young; Council on Cardiovascular and Stroke Nursing; Council on Cardiovascular Surgery and Anesthesia; and Council on Epidemiology and Prevention. Diagnosis, Treatment, and Long-Term Management of Kawasaki Disease: A Scientific
 Statement for Health Professionals From the American Heart Association. Circulation. 2017 Apr 25;135(17):e927-e999. doi: 10.1161/CIR.0000000000000484. Epub 2017 Mar 29. Erratum in: Circulation. 2019 Jul 30;140(5):e181-e184. doi: 10.1161/CIR.0000000000000703. PMID: 28356445.
 MANAGEMENT
 CBC: Complete Blood Count KD: Kawasaki Disease LV: Left Ventricle SJS: Stevens-Johnson Syndrome
@@ -847,7 +835,7 @@ WHEN NOT TO CONSIDER KD?
 lymphadenopathy
 • Splenomegaly
 DRUGS DOSE DURATION
-I(cid:224)IG 2g/kg I(cid:224) Single dose
+IVIG 2g/kg IV Single dose
 (second infusion)
 Pulse methyl Intravenously (10-30 3-5 days
 prednisolone mg/kg/day)
@@ -856,16 +844,16 @@ Oral prednisolone 2mg/kg Till CRP is
 in tapering doses normal, then
 taper over 2-3
 weeks
-Infli(cid:628)imab 5mg/kg I(cid:224) over Single dose
+Infliximab 5mg/kg IV over Single dose
 3-4 hours
 CORONARY ARTERY DRUG DURATION
-No involvement Aspirin(cid:1606) 3-5 mg/kg/day 6-8 weeks
-Only dilatation Aspirin(cid:1606) 3-5 mg/kg/day 6-8 weeks
-Small aneurysm Aspirin(cid:1606) 3-5 mg/kg/day
-Medium Aspirin(cid:1606) 3-5 mg/kg/day Till aneurysm
-aneurysm (cid:1719) Clopidogrel 0.2-1mg/kg/day resolves
+No involvement Aspirin 3-5 mg/kg/day 6-8 weeks
+Only dilatation Aspirin 3-5 mg/kg/day 6-8 weeks
+Small aneurysm Aspirin 3-5 mg/kg/day
+Medium Aspirin 3-5 mg/kg/day Till aneurysm
+aneurysm + Clopidogrel 0.2-1mg/kg/day resolves
 (Consult pediatric
-Giant aneurysm Aspirin(cid:1606) 3-5 mg/kg/day cardiologist)
+Giant aneurysm Aspirin 3-5 mg/kg/day cardiologist)
 + Anticoagulation
 (Warfarin: 0.2 mg/kg/day
 loading, then 0.1mg/kg/day
@@ -873,7 +861,7 @@ or LMWH 1mg/kg/day)
 Positive
 ECHOCARDIOGRAM:
 Any one of the below-
-• RCA or LAD (cid:241) score: ≥ 2.5
+• RCA or LAD Z score: ≥ 2.5
 • Coronary artery
 aneurysm
 • ≥ 3 of the following:
@@ -910,8 +898,8 @@ ECHOCARDIOGRAPHY - TO BE DONE BY A PAEDIATRIC CARDIOLOGIST
 Z-SCORE CLASSIFICATION
 < 2 Normal
 2-2.5 Only dilatation
-≥ 2.5 to (cid:1726) 5 Small aneurysm
-≥ 5 to (cid:1726) 10 Medium aneurysm
+≥ 2.5 to 5 Small aneurysm
+≥ 5 to 10 Medium aneurysm
 ≥ 10 Giant aneurysm
 INFECTIONS
 Viral: Measles, Adenovirus, Enterovirus, EBV,
@@ -925,14 +913,14 @@ TSS, SSSS, Drug hypersensitivity reaction, SJS
 ≥ 4 signs: CLASSICAL KD
 Investigations
 Treatment
-Fever ( ≥ 5 days) (cid:1773) (cid:1726) 4 signs: OR
+Fever ( ≥ 5 days) & 4 signs: OR
 Infants with fever (≥ 7 days)
 Consider INCOMPLETE KD
 Refer to a District Hospital/
 Tertiary Pediatric Hospital
 Reassess Patient characteristics
-CRP (cid:1726) 3 mg/dL
-ESR(cid:1726) 40 mm/hr
+CRP 3 mg/dL
+ESR 40 mm/hr
 Serial clinical and lab
 re-evaluation if fever persists
 ECHO if peeling develops
@@ -944,8 +932,8 @@ lakhs (> 7 days of
 fever)
 • Albumin ≤ 3 g/dL
 • Elevated SGPT
-• W(cid:32)C ≥ 15,000/mm3
-• (cid:200)rine > 10 W(cid:32)C/hpf
+• WBC ≥ 15,000/mm3
+• Urine > 10 WBC/hpf
 or
 • Positive
 Echocardiogram
@@ -959,12 +947,12 @@ EXCLUDE OTHER COMMON
 DISEASES WITH SIMILAR FINDINGS
 LONG TERM THROMBOPROPHYLAXIS FOR CORONARY ARTERY INVOLVEMENT TREATMENT OPTIONS FOR IVIG RESISTANCE (PERSISTENT OR
 RECRUDESCENT FEVER 36 HOURS AFTER THERAPY WITH IVIG)
-• Intravenous Immunoglobulin-I(cid:224)IG (2g/kg) as a single
+• Intravenous Immunoglobulin-IVIG (2g/kg) as a single
 infusion over 10-12 hours
-• Aspirin 80-100 mg/kg/day in 4 divided doses (cid:1643)till child
+• Aspirin 80-100 mg/kg/day in 4 divided doses till child
 is afebrile or 48 to 72 hrs after cessation of fever
 Aspirin: 3-5 mg/kg/day for 6 to 8 weeks
-(cid:1606)If patient is intolerant/resistant to Aspirin - use Clopidogrel
+If patient is intolerant/resistant to Aspirin - use Clopidogrel
 OTHER CLINICAL FINDINGS
 GIT: Diarrhea, vomiting,
 abdominal pain
@@ -983,12 +971,12 @@ Erythema & Lip cracking
 Strawberry tongue and/or Diffuse erythema of oral &
 pharyngeal mucosa
 B. Changes in extremities:
-(cid:45)rythema of palms, soles
+Erythema of palms, soles
 Dorsal edema of hands & feet
 Periungual peeling of fingers, toes (2nd & 3rd week)
 C. Polymorphous exanthem:
 Rash – maculopapular or erythema multiforme-like
-D. Eyes: (cid:29)ilateral con(cid:492)unctival in(cid:492)ection without exudate
+D. Eyes: Bilateral conjunctival injection without exudate
 E. Cervical lymphadenopathy (>1.5cm diameter) - mostly
 unilateral
 Any child with fever for more than 5 days should be evaluated for KD
@@ -1042,9 +1030,9 @@ septal defect(AVSD)
 especially feeble lower limb pulses
 INVESTIGATIONS
 Essential
-• (cid:230)-ray Chest, Echo
-• ECG - To watch for une(cid:628)pected abnormal a(cid:628)is, rate, rhythm and (cid:170)RS comple(cid:628)
-• C(cid:32)C, Electrolytes - Depending on clinical conditions and specific clinical circumstances
+• X-ray Chest, Echo
+• ECG - To watch for unexpected abnormal axis, rate, rhythm and QRS complex
+• CBC, Electrolytes - Depending on clinical conditions and specific clinical circumstances
 Timely referral to higher centre with
 pediatric cardiac facility
 • Shunt lesions are confirmed by
@@ -1059,7 +1047,7 @@ contains 10 mg/ml. So can be given as 0.1
 ml/kg/dose twice or thrice daily
 • Add Spironolactone if Furosemide is
 administered more frequently than once daily
-• Digo(cid:628)in: 5 microgram/kg/dose twice daily. Oral
+• Digoxin: 5 microgram/kg/dose twice daily. Oral
 preparation contains 50 microgram/ml. So
 can be given as 0.1 ml/kg/dose twice daily
 General Advice
@@ -1068,10 +1056,10 @@ maintaining hygiene to prevent infections
 • Promoting breastfeeding if tolerated. If
 breastfeeding is difficult then teach
 gavage/spoon feeding, preferably with
-e(cid:628)pressed breast milk
-• (cid:200)se top milk in case of reduced breastmilk
+expressed breast milk
+• Use top milk in case of reduced breastmilk
 output. Average volume intake should be
-appro(cid:628)imately 120 mL/kg/day
+approximately 120 mL/kg/day
 • Include energy dense weaning foods in those
 beyond 6 months of age
 • Continue vaccination as per Indian Academy
@@ -1112,15 +1100,15 @@ COMMON LEFT TO RIGHT SHUNT LESIONS
 MANAGEMENT
 Harrison sulcus
 Precordial bulge (left side)
-1. Khadilkar (cid:224), (cid:231)adav S, Agrawal K, Tamboli S, et al. Revised IAP Growth Charts for Height, Weight and (cid:32)ody Mass Inde(cid:628) for 5 to 18-year-old Indian Children. Indian
-Pediatr 2015;52:(cid:1688)47-55
-2. Sa(cid:628)ena A, Relan J, Agarwal R, Awasthy N, A(cid:639)ad S, Chakrabarty M, Dagar KS, Devagourou (cid:224), Dharan (cid:32)S, Gupta SK, Iyer KS, Jayranganath M, Joshi R, Kannan (cid:32),
-Katewa A, Kohli (cid:224), Kothari SS, Krishnamoorthy KM, Kulkarni S, Kumar RM, Kumar RK, Maheshwari S, Manohar K, Marwah A, Mishra S, Mohanty SR, Murthy KS,
-Rao KN, Suresh P(cid:224), Radhakrishnan S, Ra(cid:500)ashekar P, Ramakrishnan S, Rao N, Rao SG, Chinnaswamy Reddy HM, Sharma R, Shivaprakash K, Subramanyan R,
-Kumar RS, Talwar S, Tomar M, (cid:224)erma S, (cid:224)i(cid:500)aykumar R. Indian guidelines for indications and timing of intervention for common congenital heart diseases:
+1. Khadilkar V, Yadav S, Agrawal K, Tamboli S, et al. Revised IAP Growth Charts for Height, Weight and Body Mass Index for 5 to 18-year-old Indian Children. Indian
+Pediatr 2015;52:47-55
+2. Saxena A, Relan J, Agarwal R, Awasthy N, Azad S, Chakrabarty M, Dagar KS, Devagourou V, Dharan BS, Gupta SK, Iyer KS, Jayranganath M, Joshi R, Kannan B,
+Katewa A, Kohli V, Kothari SS, Krishnamoorthy KM, Kulkarni S, Kumar RM, Kumar RK, Maheshwari S, Manohar K, Marwah A, Mishra S, Mohanty SR, Murthy KS,
+Rao KN, Suresh PV, Radhakrishnan S, Rajashekar P, Ramakrishnan S, Rao N, Rao SG, Chinnaswamy Reddy HM, Sharma R, Shivaprakash K, Subramanyan R,
+Kumar RS, Talwar S, Tomar M, Verma S, Vijaykumar R. Indian guidelines for indications and timing of intervention for common congenital heart diseases:
 Revised and updated consensus statement of the Working group on management of congenital heart diseases. Ann Pediatr Cardiol. 2019
-Sep-Dec;12(3):254-286. doi: 10.4103/apc.APC(cid:1623)32(cid:1623)19. PMID: 31516283; PMCID: PMC6716301.
-3. Kumar RK, Prabhu S, Jain S, (cid:224)enkatesh S, Ahmed (cid:241). IAP Speciality series on Pediatric Cardiology. Jaypee Publishers, 2022, 3rd Ed: 267-320
+Sep-Dec;12(3):254-286. doi: 10.4103/apc.APC_32_19. PMID: 31516283; PMCID: PMC6716301.
+3. Kumar RK, Prabhu S, Jain S, Venkatesh S, Ahmed Z. IAP Speciality series on Pediatric Cardiology. Jaypee Publishers, 2022, 3rd Ed: 267-320
 ly
 Ventricular Septal Defect Patent Ductus Arteriosus
 
@@ -1143,11 +1131,11 @@ children but potentially serious
 KEY QUESTIONS
 • Is there hemodynamic instability?
 • Can the heart rate be explained by
-clinical condition (Fever etc.)(cid:1688)
+clinical condition (Fever etc.)
 • Is the arrhythmia incessant or
-episodic(cid:1617)(cid:1688)
+episodic?
 • Is there an underlying structural
-heart disease(cid:1617)(cid:1688)
+heart disease?
 • Is this a re-entrant arrhythmia or
 does it involve an automatic focus?
 • Tachycardia out of proportion to clinical
@@ -1173,7 +1161,7 @@ ectopic atrial tachycardia
 Re-entrant
 supraventricular
 tachycardia
-(cid:37)e(cid:730)(cid:419)ri(cid:499)(cid:499)ation
+Defibrillation
 Saline
 bolus, fast
 push
@@ -1188,12 +1176,6 @@ children
 Undiluted
 5-10
 cc
-(cid:1765)
-(cid:1765) (cid:1765)
-(cid:1765)
-(cid:1765)
-(cid:1765)
-(cid:1765) (cid:1765)
 Obtaining ECG during arrhythmia is of great value as it enables precise diagnosis and treatment. All efforts must be made to
 document the tachyarrhythmia and it’s response to treatment
 Adenosine administration
@@ -1202,8 +1184,8 @@ EAT: Ectopic Atrial Tachycardia SVT: Supraventricular Tachycardia VT: Ventricula
 10.4103/0974-2700.66525. PMID: 20930969; PMCID: PMC2938490.
 2. Mani Ram Krishna, Rhythm disorders in children, in Kumar RK, Prabhu SS, Jain S, Venkatesh S, Ahamed Z, IAP Specialty Textbook of Pediatric Cardiology,
 Jaypee brothers, New Delhi, India, 3rd edition, 2021, pp 922-952
-(cid:189)achyarrhythmia
-su(cid:461)(cid:461)este(cid:427) (cid:419)y(cid:1562)
+Tachyarrhythmia
+suggested by:
 • Fixed rates often >220 -age
 • Tachycardia not explained
 by clinical condition
@@ -1214,15 +1196,15 @@ rhythm or dissociated)
 • Adenosine administration
 with ECG record is often
 diagnostic
-(cid:175)inus tachycar(cid:427)ia
-su(cid:461)(cid:461)este(cid:427) (cid:419)y(cid:1562)
+Sinus tachycardia
+suggested by:
 • Heart rates <220 -age
 • Subtle variations in
 rates
 • Associated
 fever/systemic illness
 other conditions
-• (cid:32)ronchodilators/
+• Bronchodilators/
 Adrenaline
 nebulization
 • Normal p prior to
@@ -1230,8 +1212,8 @@ every QRS
 REGULAR TACHYCARDIA
 Adenosine
 • Proximal access
-• Connect three-way to I/(cid:224) port
-• Adenosine 100-200 mcg/Kg rapid I/(cid:224) push followed
+• Connect three-way to I/V port
+• Adenosine 100-200 mcg/Kg rapid I/V push followed
 immediately by 5-10 ml saline bolus
 • Always record Electrocardiogram (ECG) during
 administration
@@ -1253,11 +1235,11 @@ Uncommon
 Distressed
 In shock
 Poor perfusion; pulse not felt
-(cid:129)(cid:419)tain
+Obtain
 1. 12 lead ECG; Limb leads alone if child does not cooperate (If ECG machine is
 unavailable, a video recording of the monitor must be obtained)
-2. Reliable I/(cid:224) access; Pro(cid:628)imal sites preferred
-(cid:79)emo(cid:427)ynamic (cid:175)ta(cid:419)i(cid:499)ity
+2. Reliable I/V access; Proximal sites preferred
+Hemodynamic Stability
 Defibrillation
 2 J./Kg
 Synchronized

@@ -19,7 +19,24 @@ import shutil
 
 import pdfplumber
 
-MIN_PAGE_CHARS = 200  # pages shorter than this are probably images/blank -> warn
+MIN_PAGE_CHARS = 200
+
+# ---------------------------------------------------------------------------------------------
+# FIX FOR "(cid:123)" GARBAGE (2024 orthopaedics / paediatric-cardiology PDFs)
+# These PDFs embed a font with NO unicode table, so pdfplumber can only print glyph ids such as
+# "(cid:168)" instead of letters (mostly CAPITAL letters, k, z, fl, fi, digits and bullets).
+# This table maps the glyph ids back to real characters (learned by comparing the PDF glyphs with
+# an OCR of the same pages). Any id not in the table is removed instead of polluting the index.
+# ---------------------------------------------------------------------------------------------
+CID_MAP = {29: 'B', 30: 'C', 32: 'B', 33: 'C', 37: 'D', 40: 'D', 45: 'E', 48: 'E', 70: 'F', 71: 'G', 73: 'F', 74: 'G', 79: 'H', 82: 'H', 85: 'I', 88: 'I', 101: 'J', 103: 'K', 104: 'J', 106: 'L', 107: 'K', 110: 'L', 116: 'M', 118: 'N', 120: 'M', 122: 'N', 129: 'O', 133: 'O', 164: 'P', 167: 'R', 168: 'P', 170: 'Q', 175: 'S', 179: 'S', 189: 'T', 200: 'U', 220: 'V', 221: 'W', 224: 'V', 225: 'W', 230: 'X', 231: 'Y', 241: 'Z', 419: 'b', 420: 'c', 427: 'd', 460: 'f', 461: 'g', 469: 'h', 492: 'j', 495: 'k', 499: 'l', 500: 'j', 504: 'k', 508: 'm', 521: 'o', 540: 'd', 556: 'p', 559: 'r', 567: 'q', 581: 't', 589: 'u', 613: 'v', 614: 'w', 619: 'x', 620: 'y', 628: 'x', 630: 'z', 639: 'z', 730: 'fi', 738: 'fl', 1471: '1', 1486: '0', 1487: '1', 1488: '2', 1489: '3', 1490: '4', 1491: '5', 1492: '6', 1493: '7', 1494: '8', 1495: '9', 1562: ':', 1573: '/', 1581: '(', 1582: ')', 1593: '-', 1595: '-', 1610: ':', 1617: '?', 1621: ';', 1623: '_', 1646: '-', 1681: '>', 1716: '•', 1719: '+', 1743: '%', 1773: '&'}
+CID_RE = re.compile(r"\(cid:(\d+)\)")
+
+
+def decode_cids(text: str) -> str:
+    text = CID_RE.sub(lambda m: CID_MAP.get(int(m.group(1)), ""), text)
+    return text.replace("•", "•")
+
+  # pages shorter than this are probably images/blank -> warn
 
 
 def drop_references(text: str) -> str:
@@ -67,8 +84,8 @@ def clean_page_text(text: str) -> str:
 
 
 def extract_page_text(page) -> str:
-    flow = page.extract_text(use_text_flow=True) or ""
-    std = page.extract_text() or ""
+    flow = decode_cids(page.extract_text(use_text_flow=True) or "")
+    std = decode_cids(page.extract_text() or "")
     chosen = flow if len(flow) >= 0.8 * len(std) else std   # safety fallback
     return clean_page_text(chosen)
 

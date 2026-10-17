@@ -17,9 +17,13 @@ from src.ner import ClinicalNER
 from src.rag import HybridRetriever, DOMAIN_EXPANSION
 from src.summarizer import available_backend, summarize
 
-st.set_page_config(page_title="Clinical RAG Assistant", layout="wide")
+st.set_page_config(page_title="Clinical RAG Assistant", layout="wide", initial_sidebar_state="collapsed")
 
 BULLET = re.compile(r"^[∙•·▪●○]\s*")
+NO_SAMPLE = "- type your own -"
+DEPT_LABEL = {"ent": "ENT - Otolaryngology", "cardiology": "Cardiovascular / Pulmonary",
+              "hypertension": "Cardiovascular (Hypertension)", "psychiatry": "Psychiatry / Psychology",
+              "orthopaedics": "Orthopedic", "nephrology": "Nephrology", "neurology": "Neurology"}
 
 
 @st.cache_resource
@@ -38,6 +42,9 @@ def page_to_markdown(text: str) -> str:
     items = []
     for ln in (l.strip() for l in text.split("\n")):
         if not ln:
+            continue
+        if ln.isupper() and len(ln) > 3 and items and items[-1].isupper() and len(items[-1]) > 3:
+            items[-1] += " · " + ln          # consecutive table headings -> one line instead of 8 separate headings
             continue
         starts_new = (not items) or BULLET.match(ln) or (ln.isupper() and len(ln) > 3)
         if starts_new:
@@ -58,38 +65,38 @@ def page_to_markdown(text: str) -> str:
 
 ner, retriever = load_models()
 
-# ------------------------------------------------------------------ sidebar
-st.sidebar.header("Settings")
-top_k = st.sidebar.slider("Guidelines to retrieve", 1, 3, 2)
-backend = available_backend()
-use_llm = st.sidebar.checkbox(
-    "Generate AI summary (LLM)",
-    value=backend is not None,
-    disabled=backend is None,
-    help="Needs ANTHROPIC_API_KEY or LOCAL_LLM=1. See src/summarizer.py.",
-)
-if backend is None:
-    st.sidebar.caption("LLM summary is off: no backend configured.")
-else:
-    st.sidebar.caption(f"LLM backend: {backend}")
-
-samples = load_samples()
-default_text, choice = "", "- type your own -"
-if samples is not None:
-    labels = [f"{r.sample_id}. {r.expected_domain}" for r in samples.itertuples()]
-    choice = st.sidebar.selectbox("Load a demo sample", ["- type your own -"] + labels)
-    if choice != "- type your own -":
-        default_text = samples.iloc[labels.index(choice)]["clinical_text"]
-
 # ------------------------------------------------------------------ main page
 st.title("🏥 Clinical Decision Support — ICMR Treatment Guideline Retrieval")
 st.caption("Enter a patient's clinical description to get the predicted specialty, extracted clinical "
            "entities, and the matching ICMR Standard Treatment Workflow.")
 
+# optional: pick a ready-made demo case (needs demo_test_samples.csv in the same folder as app.py)
+samples = load_samples()
+default_text, choice = "", NO_SAMPLE
+if samples is not None:
+    label_col = "expected_guideline" if "expected_guideline" in samples.columns else "expected_domain"
+    labels = [f"{r.sample_id}. {str(getattr(r, label_col))[:70]}" for r in samples.itertuples()]
+    choice = st.selectbox("Load a demo sample (optional)", [NO_SAMPLE] + labels)
+    if choice != NO_SAMPLE:
+        default_text = samples.iloc[labels.index(choice)]["clinical_text"]
+
 clinical_text = st.text_area(
     "Patient Clinical Description", value=default_text, height=150, key=f"text_{choice}",
     placeholder="e.g. Patient presents with severe acute rhinosinusitis, facial pain, and nasal obstruction...",
 )
+
+opt_left, opt_right = st.columns(2)
+with opt_left:
+    top_k = st.slider("Number of guidelines to retrieve", 1, 3, 2)
+with opt_right:
+    backend = available_backend()
+    if backend:
+        use_llm = st.checkbox(f"Generate AI summary (LLM backend: {backend})", value=True)
+    else:
+        use_llm = False
+        st.markdown("**AI summary:** off")
+        st.caption("No LLM is connected, so the app runs in retrieval-only mode. "
+                   "To switch it on, see the instructions at the top of src/summarizer.py.")
 
 if st.button("Analyze", type="primary"):
     if not clinical_text.strip():
@@ -100,12 +107,20 @@ if st.button("Analyze", type="primary"):
         raw_specialty = predict_specialty(clinical_text)
         domain = map_specialty_to_domain(raw_specialty)
         entities = ner.extract_entities(clinical_text)
-        results = retriever.retrieve(clinical_text, entities=entities, domain=domain, top_k=top_k)
+        # no domain boost: the classifier is trained on long MTSamples notes and often mislabels short
+        # queries, and a wrong boost pushed the right guideline down. Retrieval decides the guideline.
+        results = retriever.retrieve(clinical_text, entities=entities, domain=None, top_k=top_k)
 
     col1, col2 = st.columns(2)
     with col1:
         st.subheader("🩺 Predicted Specialty")
-        st.info(raw_specialty)
+        dept = DEPT_LABEL.get(results[0]["domain"], raw_specialty) if results else raw_specialty
+        st.info(dept)
+        if map_specialty_to_domain(raw_specialty) == (results[0]["domain"] if results else None):
+            st.caption("Text classifier agrees with the retrieved guideline.")
+        else:
+            st.caption(f"Department taken from the best-matching ICMR guideline. "
+                       f"Text classifier alone predicted: {raw_specialty}")
     with col2:
         st.subheader("🔑 Extracted Clinical Entities")
         st.write(", ".join(entities) if entities else "No entities found.")
@@ -114,19 +129,12 @@ if st.button("Analyze", type="primary"):
         st.warning("No relevant guidelines found.")
         st.stop()
 
-    expected = set(DOMAIN_EXPANSION.get(domain, [domain]))
-    if results[0]["domain"] not in expected:
-        st.warning(
-            f"The best-matching guideline is from **{results[0]['domain']}**, but the classifier predicted "
-            f"**{raw_specialty}**. The retrieval is driven by the clinical text, so please verify the specialty."
-        )
-
     if use_llm:
         with st.spinner("Writing summary from the retrieved guideline..."):
             summary = summarize(clinical_text, entities, results)
         st.subheader("🧾 AI Summary (generated only from the guideline text below)")
         if summary and summary["text"]:
-            st.success(summary["text"])
+            (st.warning if summary["text"].startswith("No matching guideline") else st.success)(summary["text"])
             st.caption("AI-generated rewording of the retrieved ICMR text. Always verify against the source guideline below.")
         elif summary:
             st.error(f"LLM summary failed ({summary['error']}). The retrieved guideline is shown below.")

@@ -34,20 +34,20 @@ Presentation:
 • Pain, swelling, deformity at the ankle
 PHYSICAL EXAM
 Inspect
-(cid:402) (cid:110)oo(cid:504) circumferentially to(cid:1688)rule(cid:1646)out an open fracture
+Look circumferentially torule-out an open fracture
 Palpate
-(cid:402) Tenderness at the ankle
-(cid:402) Rule out compartment syndrome(cid:1688)when pain (cid:1719) on
+Tenderness at the ankle
+Rule out compartment syndromewhen pain + on
 passive stretching of toes
 Assess
-(cid:402) Any differences in pulse examination between
+Any differences in pulse examination between
 extremities – Suspected vascular injury
-(cid:402) Inability to move toes actively – Suspected
+Inability to move toes actively – Suspected
 Tendon injury/nerve injury
-(cid:402) Dislocated ankle
+Dislocated ankle
 RADIOGRAPHS
 WEBERS CLASSIFICATION
-• A(cid:168) (cid:224)iew (up to (cid:504)nee (cid:500)oint to loo(cid:504) for high fibula fractures)
+• AP View (up to knee joint to look for high fibula fractures)
 • Lateral View
 • Mortise view
 • Stress views - Weight-bearing and external rotation
@@ -56,7 +56,7 @@ CT SCAN (DESIRABLE)
 • Detailed assessment of fracture patho-anatomy
 ◦ To look for suspected posterior malleolar fracture
 ◦ To look for impaction
-• (cid:168)reoperative planning for operative approaches and fixation techni(cid:567)ues
+• Preoperative planning for operative approaches and fixation techniques
 4 main fracture types based on mechanism of injury
 ATLS management
 Limb elevation/ice packs/splintage
@@ -71,7 +71,7 @@ Convert to cast and
 keep for 6 weeks
 Plan approach after CT assessment
 Dual approach
-Try to fix (cid:1643) (cid:1488) malleoli ((cid:110)(cid:120) (cid:1719) (cid:168)(cid:120)/(cid:120)(cid:120) (cid:1719) (cid:168)(cid:120)) from a single approach as
+Try to fix 2 malleoli (LM + PM/MM + PM) from a single approach as
 per surgeon comfort, third malleolus by another approach
 Non weight bearing mobilisation and exercises should be initiated
 early. Hip, knee, toes ROM during cast application and ankle ROM after
@@ -117,52 +117,52 @@ medial clear space
 syndesmotic joint
 IMPLANT OPTIONS
 Choice of implant is related to
-(cid:402) Fracture pattern
-(cid:402) Degree of displacement
-(cid:402) Familiarity of surgeon
+Fracture pattern
+Degree of displacement
+Familiarity of surgeon
 Fibula (Lateral malleolus)
-(cid:402) Anti-glide plating
-(cid:402) Anatomical locking plates
-(cid:402) Screw/K-wire/TENS
+Anti-glide plating
+Anatomical locking plates
+Screw/K-wire/TENS
 Medial Malleolus
-(cid:402) Screws – ensure proximity to
+Screws – ensure proximity to
 strong bone tibia plafond
-(cid:402) Tension band wiring
-(cid:402) Anti-glide plating (SAD injury)
+Tension band wiring
+Anti-glide plating (SAD injury)
 Posterior malleolus
-(cid:402) Cancellous cannulated screws
-(cid:402) Buttress plating
+Cancellous cannulated screws
+Buttress plating
 Syndesmosis
-(cid:402) Screws
-(cid:402) Tightrope
-An(cid:495)(cid:499)e s(cid:556)anning E(cid:619)(cid:1593)(cid:730)(cid:619) (cid:1595) (cid:460)(cid:521)(cid:559)
+Screws
+Tightrope
+Ankle spanning Ex-fix - for
 temporary splintage
 Open fractures
 Waiting for soft tissues to
 settle until definitive surgery
-• (cid:88)f final fixation not possible
+• If final fixation not possible
 • Complex fracture dislocation
 • Vascular repair warranted
 • Multi-system injury
 • Tendon injury
 • B/K Slab/Cast for stable
 syndesmotic/infrasyndesmotic injuries
-• (cid:133)pen reduction internal fixation for
+• Open reduction internal fixation for
 simple fractures
 LAUGE HANSEN CLASSIFICATION
 • Stop the bleed
 • Debride for open fracture
 • Fasciotomy if warranted for impending
 compartment syndrome
-• (cid:48)xternal fixator application
+• External fixator application
 • CT scan for detailed assessment
 Dual approach
-(cid:73)ix simple fracture first
-((cid:200)sually fibula)
+Fix simple fracture first
+(Usually fibula)
 Fix the second fracture (MM)
 check syndesmotic stability
 If unstable – Fix with screws
-((cid:1488) preferable)/tightrope
+(2 preferable)/tightrope
 Single approach
 MM-Antero-
 medial with screws
@@ -180,18 +180,18 @@ No Yes
 • Simple fracture
 • HDU/ICU management for
 multi-system injury
-• (cid:73)asciotomy if re(cid:567)uired
+• Fasciotomy if required
 • Vascular repair
-(cid:73)inal fixation once swelling subsides/
+Final fixation once swelling subsides/
 blisters resolve/patient physiologically fit
-1. (cid:120)einberg (cid:48)(cid:74), Agel (cid:104), Roberts (cid:33)(cid:179), (cid:107)aram (cid:120)(cid:40), (cid:107)ellam (cid:104)(cid:73). (cid:73)racture and (cid:40)islocation (cid:33)lassification (cid:33)ompendium(cid:1646)(cid:1488)(cid:1486)(cid:1487)(cid:1494). (cid:104) (cid:133)rthop Trauma. (cid:1488)(cid:1486)(cid:1487)(cid:1494) (cid:104)an(cid:1621)(cid:1489)(cid:1488) (cid:179)uppl (cid:1487)(cid:1610)(cid:179)(cid:1487)(cid:1646)(cid:179)(cid:1487)(cid:1493)(cid:1486). doi(cid:1610) (cid:1487)(cid:1486).(cid:1487)(cid:1486)(cid:1495)(cid:1493)/(cid:32)(cid:133)T.(cid:1486)(cid:1486)(cid:1486)(cid:1486)(cid:1486)(cid:1486)(cid:1486)(cid:1486)(cid:1486)(cid:1486)(cid:1486)(cid:1486)(cid:1487)(cid:1486)(cid:1492)(cid:1489). (cid:168)(cid:120)(cid:88)(cid:40)(cid:1610) (cid:1488)(cid:1495)(cid:1488)(cid:1491)(cid:1492)(cid:1495)(cid:1490)(cid:1491).
-(cid:1488). (cid:110)A(cid:200)(cid:74)(cid:48)(cid:1646)(cid:82)A(cid:122)(cid:179)(cid:48)(cid:122) (cid:122). (cid:73)ractures of the an(cid:504)le. (cid:88)(cid:88). (cid:33)ombined experimental(cid:1646)surgical and experimental(cid:1646)roentgenologic investigations. Arch (cid:179)urg ((cid:1487)(cid:1495)(cid:1488)(cid:1486)). (cid:1487)(cid:1495)(cid:1491)(cid:1486) (cid:120)ay(cid:1621)(cid:1492)(cid:1486)((cid:1491))(cid:1610)(cid:1495)(cid:1491)(cid:1493)(cid:1646)(cid:1494)(cid:1491). (cid:168)(cid:120)(cid:88)(cid:40)(cid:1610) (cid:1487)(cid:1491)(cid:1490)(cid:1487)(cid:1487)(cid:1489)(cid:1487)(cid:1495).
-(cid:1489). (cid:179)tringfellow T(cid:40), (cid:225)alters (cid:179)T, (cid:122)ash (cid:225), Ahluwalia R(cid:1621) (cid:168)osterior (cid:120)alleolus (cid:179)tudy (cid:74)roup. (cid:120)anagement of posterior malleolus fractures(cid:1610) A multicentre cohort study in the (cid:200)nited (cid:107)ingdom. (cid:73)oot An(cid:504)le (cid:179)urg. (cid:1488)(cid:1486)(cid:1488)(cid:1487)
-Aug(cid:1621)(cid:1488)(cid:1493)((cid:1492))(cid:1610)(cid:1492)(cid:1488)(cid:1495)(cid:1646)(cid:1492)(cid:1489)(cid:1491). doi(cid:1610) (cid:1487)(cid:1486).(cid:1487)(cid:1486)(cid:1487)(cid:1492)/(cid:500).fas.(cid:1488)(cid:1486)(cid:1488)(cid:1486).(cid:1486)(cid:1494).(cid:1486)(cid:1486)(cid:1489). (cid:48)pub (cid:1488)(cid:1486)(cid:1488)(cid:1486) Aug (cid:1489)(cid:1487). (cid:168)(cid:120)(cid:88)(cid:40)(cid:1610) (cid:1489)(cid:1488)(cid:1494)(cid:1493)(cid:1494)(cid:1493)(cid:1488)(cid:1488).
-4.(cid:225)ire (cid:104), (cid:82)ermena (cid:179), (cid:179)lane (cid:224)(cid:82). An(cid:504)le (cid:73)ractures. (cid:1488)(cid:1486)(cid:1488)(cid:1489) Aug (cid:1494). (cid:88)n(cid:1610) (cid:179)tat(cid:168)earls (cid:1632)(cid:88)nternet(cid:1633). Treasure (cid:88)sland ((cid:73)(cid:110))(cid:1610) (cid:179)tat(cid:168)earls (cid:168)ublishing(cid:1621) (cid:1488)(cid:1486)(cid:1488)(cid:1490) (cid:104)an(cid:1643). (cid:168)(cid:120)(cid:88)(cid:40)(cid:1610) (cid:1489)(cid:1487)(cid:1487)(cid:1495)(cid:1490)(cid:1490)(cid:1492)(cid:1490)
+1. Meinberg EG, Agel J, Roberts CS, Karam MD, Kellam JF. Fracture and Dislocation Classification Compendium-2018. J Orthop Trauma. 2018 Jan;32 Suppl 1:S1-S170. doi: 10.1097/BOT.0000000000001063. PMID: 29256945.
+2. LAUGE-HANSEN N. Fractures of the ankle. II. Combined experimental-surgical and experimental-roentgenologic investigations. Arch Surg (1920). 1950 May;60(5):957-85. PMID: 15411319.
+3. Stringfellow TD, Walters ST, Nash W, Ahluwalia R; Posterior Malleolus Study Group. Management of posterior malleolus fractures: A multicentre cohort study in the United Kingdom. Foot Ankle Surg. 2021
+Aug;27(6):629-635. doi: 10.1016/j.fas.2020.08.003. Epub 2020 Aug 31. PMID: 32878722.
+4.Wire J, Hermena S, Slane VH. Ankle Fractures. 2023 Aug 8. In: StatPearls Internet. Treasure Island (FL): StatPearls Publishing; 2024 Jan. PMID: 31194464
 Bimalleolar
 fractures
-AP(cid:1610) Antero(cid:1646)posterior ICU: Intensive Care Unit PM: Posterior Malleolus SAD: Supination Addiction
+AP: Antero-posterior ICU: Intensive Care Unit PM: Posterior Malleolus SAD: Supination Addiction
 ATLS: Advanced Trauma Life Support LM: Lateral malleolus ROM: Range of Motion TENS: Titanium Elastic Nail System
 HDU: High Dependency Unit MM: Medial Malleolar RTA: Road Traffic Accident
 SUPINATION ADDUCTION
@@ -206,10 +206,10 @@ fracture
 Isolated
 Medial/Lateral
 malleolar fractures
-(cid:133)pen reduction (cid:1773) internal fixation after (cid:33)T scan
-(cid:133)pen reduction internal fixation should be
+Open reduction & internal fixation after CT scan
+Open reduction internal fixation should be
 performed only after appearance of “wrinkle sign”
-Assess need for external fixator (cid:1643) (cid:179)(cid:504)in condition/
+Assess need for external fixator Skin condition/
 swelling/blisters/compartment syndrome
 X-Ray
 No dislocation Ankle dislocated
@@ -224,13 +224,13 @@ DISTAL FEMUR FRACTURES
 ICD-10-S72.402A
 ABBREVIATIONS
 AP: Antero-posterior ICU: Intensive Care Unit OTA: Orthopaedic Trauma Association
-ATLS: Advanced Trauma Life Support ORIF: Open Reduction and Internal Fixation RTA(cid:1610) Road Traffic Accident
+ATLS: Advanced Trauma Life Support ORIF: Open Reduction and Internal Fixation RTA: Road Traffic Accident
 HDU: High Dependency Unit
 DEFINITION
-A(cid:1688)brea(cid:504) in the metaphyseal(cid:1646)
+Abreak in the metaphyseal-
 diaphyseal junction of the
 femur and/or involving
-articular surface of the (cid:504)nee
+articular surface of the knee
 MECHANISM OF INJURY
 • High-energy trauma in
 young patients (RTA)
@@ -238,27 +238,27 @@ young patients (RTA)
 fracture in elderly
 RADIOGRAPHS
 • AP View
-• (cid:110)ateral (cid:224)iew (cid:1646) (cid:110)oo(cid:504) for coronal
+• Lateral View - Look for coronal
 plane fractures (Hoffa’s fracture)
 CT SCANS
 • Detailed assessment of fracture
 pathoanatomy - intra-articular and
 Hoffa component especially(Type B
-(cid:1773) (cid:33)).(cid:40)esirable (cid:1646)(cid:1489)(cid:40) Reconstruction.
+& C).Desirable -3D Reconstruction.
 • Preoperative planning for operative
-approaches and fixation techni(cid:567)ues
+approaches and fixation techniques
 GOALS OF TREATMENT
 1. Restore articular congruity in intra-articular
 fractures
 2. Reconstruction of extra-articular component
-(cid:1489). (cid:110)ength, alignment and rotation should be
-clinically and (cid:738)ouroscopically confirmed before
+3. Length, alignment and rotation should be
+clinically and flouroscopically confirmed before
 final fixation
 A. Airway and cervical spine
 B. Breathing and ventilation
 C. Circulation and
 Hemmorhage control
-D. (cid:40)isability and
+D. Disability and
 Neurological status
 E. Exposure and
 Environment control
@@ -267,21 +267,21 @@ Fasciotomy and external
 fixator application
 Management of patient as per ATLS protocols
 Presentation:
-• (cid:168)ain, swelling, deformity above the (cid:504)nee (cid:500)oint
+• Pain, swelling, deformity above the knee joint
 Physical Exam
 • Inspect
-◦ (cid:110)oo(cid:504) circumferentially to(cid:1688)rule(cid:1646)out an open fracture
+◦ Look circumferentially torule-out an open fracture
 • Palpate
 ◦ Tenderness at the distal thigh
-◦ Rule out compartment syndrome(cid:1688)when pain on
+◦ Rule out compartment syndromewhen pain on
 passive stretching of toes
 • Assess
-◦ Any differences in pulse between extremities (cid:1646)
+◦ Any differences in pulse between extremities -
 vascular injury
-◦ (cid:110)oo(cid:504) for associated in(cid:500)uries (especially (cid:738)oating (cid:504)nee)
+◦ Look for associated injuries (especially floating knee)
 ATLS Management
-(cid:110)imb (cid:179)plintage/(cid:88)ce pac(cid:504)s/elevation
-(cid:230)(cid:1646)Ray if possible
+Limb Splintage/Ice packs/elevation
+X-Ray if possible
 a r
 At primary centre
 t e
@@ -292,7 +292,7 @@ t i a
 r y
 Refer to secondary centre
 Refer to tertiary centre
-(cid:73)inal fixation once swelling subsides/blisters resolve/patient physiologically fit
+Final fixation once swelling subsides/blisters resolve/patient physiologically fit
 Distal femur
 fracture
 • Vascular injury
@@ -318,21 +318,18 @@ Condylar Screw System. J Orthop Trauma. 2016 Jan;30(1):e1-6. doi: 10.1097/BOT.00
 10.1097/BOT.0000000000001510. PMID: 31259799.
 9.Sanders R, Swiontkowski M, Rosen H, Helfet D. Double-plating of comminuted, unstable fractures of the distal part of the femur. J Bone Joint Surg Am. 1991 Mar;73(3):341-6. PMID: 2002071.
 • HDU/ICU management for multi-system injury
-• (cid:73)asciotomy if re(cid:567)uired
+• Fasciotomy if required
 • Vascular repair
-• (cid:88)f final fixation not possible
+• If final fixation not possible
 • Geriatric patient/Osteoporotic
 • Periprosthetic fracture
 • Multi-system/Vascular injury
-• Active bleed (cid:1646) sterile dressing and compression
+• Active bleed - sterile dressing and compression
 bandage
 • Suspected compartment syndrome
 • Open fracture- sterile dressing
 INVESTIGATIONS
 ly
-This (cid:179)T(cid:225) has been prepared by national experts of (cid:88)ndia with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and
-are based on expert opinions and available scientific evidence. There may be variations in the management of an individual patient based on his/her specific condition, as decided by
-the treating physician. There will be no indemnity for direct or indirect conse(cid:567)uences. (cid:107)indly visit the website of (cid:88)(cid:33)(cid:120)R for more information(cid:1610) (icmr.gov.in) for more information. ©Indian
 Council of Medical Research, Ministry of Health & Family Welfare, Government of India.
 Type A: extra-articular fracture
 • A1: Simple
@@ -352,40 +349,40 @@ metaphyseal
 multi-fragmentary
 • C3: Articular multi-
 fragmentary
-• (cid:179)top the bleed
-• (cid:40)ebride for open fracture
+• Stop the bleed
+• Debride for open fracture
 • Fasciotomy if warranted for impending
 compartment syndrome
-• (cid:48)xternal fixator application
-• (cid:133)pen reduction internal fixation for simple
+• External fixator application
+• Open reduction internal fixation for simple
 fractures
 CLASSIFICATION
 Type A
 Anterolateral
 approach
 Geriatric patients/
-(cid:133)steoporotic bone
+Osteoporotic bone
 Nail Plate or Dual plate
 constructs needed
 Retrograde nailing/
-(cid:133)R(cid:88)(cid:73) with (cid:110)oc(cid:504)ing
+ORIF with Locking
 plate, Blade plate
-and (cid:179)liding barrel
+and Sliding barrel
 condylar plate
-(cid:133)R(cid:88)(cid:73) with loc(cid:504)ed
+ORIF with locked
 plate/Condylar
 Buttress Plating
 Rigid anatomic fixation
 of intra-articular
 fractures
-(cid:168)lacement of void filler
-(cid:1643) bone graft substitute
+Placement of void filler
+bone graft substitute
 Single approach-
 anterolateral,
 medial/ lateral
 parapatellar,
-(cid:179)washbuc(cid:504)ler,
-(cid:74)erdy(cid:1660)s tubercle
+Swashbuckler,
+Gerdys tubercle
 osteotomy approach
 Anterolateral/
 Medial approach
@@ -397,7 +394,7 @@ nailing
 Type A within
 4cm from joint
 B1 and B2 fractures
-(cid:133)R(cid:88)(cid:73) with buttress (cid:168)late (cid:1719)/(cid:1646)
+ORIF with buttress Plate +/-
 Screws (Anterior to posterior/
 Posterior to anterior)
 Lateral/medial approach
@@ -406,11 +403,11 @@ OR
 Midline parapatellar approach
 for visualisation and fixation
 with A to P screws
-(cid:32)(cid:1489) fractures A1 and >7cm
+B3 fractures A1 and >7cm
 from joint
 Type C
-Assess need for external fixator (cid:1643) (cid:179)(cid:504)in condition/swelling/blisters/compartment syndrome
-AO(cid:1573)OTA C(cid:499)assi(cid:730)(cid:420)a(cid:581)i(cid:521)n (cid:521)(cid:460) Dis(cid:581)a(cid:499) (cid:70)e(cid:508)(cid:589)(cid:559) (cid:70)(cid:559)a(cid:420)(cid:581)(cid:589)(cid:559)es
+Assess need for external fixator Skin condition/swelling/blisters/compartment syndrome
+AO/OTA Classification of Distal Femur Fractures
 MANAGEMENT
 TIMELY INTERVENTION AS PER RESOURCE SETTING
 
@@ -419,16 +416,16 @@ Standard Treatment Workflow (STW)
 FRACTURE DISTAL END RADIUS
 ICD-10-S62
 RISK FACTORS
-(cid:1716) (cid:168)ain over distal radius
-(cid:1716) (cid:179)welling and ecchymosis
-(cid:1716) (cid:40)eformity (cid:1646) commonly (cid:40)inner for(cid:504)
+• Pain over distal radius
+• Swelling and ecchymosis
+• Deformity - commonly Dinner fork
 or spade
-(cid:1716) (cid:168)ainful restriction of wrist motion
+• Painful restriction of wrist motion
 PRESENTATION
-(cid:1716) (cid:179)welling and ecchymosis
-(cid:1716) (cid:40)eformity
-(cid:1716) Tenderness
-(cid:1716) (cid:110)imited active and
+• Swelling and ecchymosis
+• Deformity
+• Tenderness
+• Limited active and
 passive wrist motion
 EXAMINATION
 FOLLOW UP
@@ -437,116 +434,116 @@ MANAGEMENT
 TRY INITIAL CLOSED REDUCTION IN ALL DISPLACED RADIUS FRACTURES
 KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES
 Refer to higher centre after:
-(cid:1487). Ade(cid:567)uate analgesia
-(cid:1488). (cid:88)mmobilisation of the limb
-∙ (cid:33)onservatively treated fractures are managed for (cid:1490)(cid:1646)(cid:1492) wee(cid:504)s in cast
-∙ To chec(cid:504) for fracture displacement, angulation subsidence and fracture healing, serial images are
-necessary at (cid:1487) wee(cid:504) and (cid:1488) wee(cid:504)s follow up
-∙ (cid:88)f fracture displaces in follow up, may re(cid:567)uire re(cid:1646)reduction/surgery
-∙ (cid:48)xercises should be initiated early ((cid:179)houlder, elbow and finger R(cid:133)(cid:120) during cast application and wrist
-R(cid:133)(cid:120) after removal of plaster)
-1. (cid:225)u (cid:104)(cid:33), (cid:179)tric(cid:504)land (cid:33)(cid:40), (cid:33)hambers (cid:104)(cid:179). (cid:225)rist (cid:73)ractures and (cid:133)steoporosis. (cid:133)rthop (cid:33)lin (cid:122)orth Am. (cid:1488)(cid:1486)(cid:1487)(cid:1495) Apr(cid:1621)(cid:1491)(cid:1486)((cid:1488))(cid:1610)(cid:1488)(cid:1487)(cid:1487)(cid:1646)(cid:1488)(cid:1488)(cid:1487). doi(cid:1610) (cid:1487)(cid:1486).(cid:1487)(cid:1486)(cid:1487)(cid:1492)/(cid:500).ocl.(cid:1488)(cid:1486)(cid:1487)(cid:1494).(cid:1487)(cid:1486).(cid:1486)(cid:1486)(cid:1490). (cid:168)(cid:120)(cid:88)(cid:40)(cid:1610)
-(cid:1489)(cid:1486)(cid:1494)(cid:1491)(cid:1486)(cid:1486)(cid:1493)(cid:1495).
-2. (cid:179)hapiro (cid:110)(cid:120), (cid:107)amal R(cid:122)(cid:1621) (cid:120)anagement of (cid:40)istal Radius (cid:73)ractures (cid:225)or(cid:504) (cid:74)roup(cid:1621) (cid:122)onvoting (cid:33)linical (cid:33)ontributor(cid:1621) (cid:122)onvoting (cid:133)versight (cid:33)hairs(cid:1621) (cid:179)taff of the
-American Academy of (cid:133)rthopaedic (cid:179)urgeons and the American (cid:179)ociety for (cid:179)urgery of the (cid:82)and. (cid:40)istal Radius (cid:73)racture (cid:33)linical (cid:168)ractice
-(cid:74)uidelines(cid:1646)(cid:200)pdates and (cid:33)linical (cid:88)mplications. (cid:104) (cid:82)and (cid:179)urg Am. (cid:1488)(cid:1486)(cid:1488)(cid:1487) (cid:179)ep(cid:1621)(cid:1490)(cid:1492)((cid:1495))(cid:1610)(cid:1494)(cid:1486)(cid:1493)(cid:1646)(cid:1494)(cid:1487)(cid:1487). doi(cid:1610) (cid:1487)(cid:1486).(cid:1487)(cid:1486)(cid:1487)(cid:1492)/(cid:500).(cid:500)hsa.(cid:1488)(cid:1486)(cid:1488)(cid:1487).(cid:1486)(cid:1493).(cid:1486)(cid:1487)(cid:1490). (cid:48)pub (cid:1488)(cid:1486)(cid:1488)(cid:1487) Aug (cid:1495). (cid:168)(cid:120)(cid:88)(cid:40)(cid:1610) (cid:1489)(cid:1490)(cid:1489)(cid:1494)(cid:1490)(cid:1492)(cid:1490)(cid:1488).
-3. (cid:133)ldrini (cid:110)(cid:120), (cid:73)eltri (cid:168), Albanese (cid:104), (cid:110)ucchina (cid:179), (cid:73)ilardo (cid:74), (cid:33)andrian (cid:33). (cid:224)olar loc(cid:504)ing plate vs cast immobili(cid:639)ation for distal radius fractures(cid:1610) a systematic review
-and meta(cid:1646)analysis. (cid:48)(cid:73)(cid:133)RT (cid:133)pen Rev. (cid:1488)(cid:1486)(cid:1488)(cid:1488) (cid:179)ep (cid:1487)(cid:1495)(cid:1621)(cid:1493)((cid:1495))(cid:1610)(cid:1492)(cid:1490)(cid:1490)(cid:1646)(cid:1492)(cid:1491)(cid:1488). doi(cid:1610) (cid:1487)(cid:1486).(cid:1487)(cid:1491)(cid:1489)(cid:1486)/(cid:48)(cid:133)R(cid:1646)(cid:1488)(cid:1488)(cid:1646)(cid:1486)(cid:1486)(cid:1488)(cid:1488). (cid:168)(cid:120)(cid:88)(cid:40)(cid:1610) (cid:1489)(cid:1492)(cid:1487)(cid:1488)(cid:1491)(cid:1486)(cid:1487)(cid:1488)(cid:1621) (cid:168)(cid:120)(cid:33)(cid:88)(cid:40)(cid:1610) (cid:168)(cid:120)(cid:33)(cid:1495)(cid:1492)(cid:1488)(cid:1490)(cid:1490)(cid:1494)(cid:1489).
-(cid:1490). (cid:179)anderson (cid:120), (cid:120)ohr (cid:32), Abraham (cid:120)(cid:107). The (cid:48)mergent (cid:48)valuation and Treatment of (cid:82)and and (cid:225)rist (cid:88)n(cid:500)uries(cid:1610) An (cid:200)pdate. (cid:48)merg (cid:120)ed (cid:33)lin (cid:122)orth Am. (cid:1488)(cid:1486)(cid:1488)(cid:1486)
-(cid:73)eb(cid:1621)(cid:1489)(cid:1494)((cid:1487))(cid:1610)(cid:1492)(cid:1487)(cid:1646)(cid:1493)(cid:1495). doi(cid:1610) (cid:1487)(cid:1486).(cid:1487)(cid:1486)(cid:1487)(cid:1492)/(cid:500).emc.(cid:1488)(cid:1486)(cid:1487)(cid:1495).(cid:1486)(cid:1495).(cid:1486)(cid:1486)(cid:1490). (cid:168)(cid:120)(cid:88)(cid:40)(cid:1610) (cid:1489)(cid:1487)(cid:1493)(cid:1491)(cid:1493)(cid:1488)(cid:1491)(cid:1491).
-(cid:1491). (cid:110)iao (cid:104)(cid:33)(cid:231), (cid:33)hong A(cid:107)(cid:179). (cid:168)ediatric (cid:82)and and (cid:225)rist (cid:73)ractures. (cid:33)lin (cid:168)last (cid:179)urg. (cid:1488)(cid:1486)(cid:1487)(cid:1495) (cid:104)ul(cid:1621)(cid:1490)(cid:1492)((cid:1489))(cid:1610)(cid:1490)(cid:1488)(cid:1491)(cid:1646)(cid:1490)(cid:1489)(cid:1492). doi(cid:1610) (cid:1487)(cid:1486).(cid:1487)(cid:1486)(cid:1487)(cid:1492)/(cid:500).cps.(cid:1488)(cid:1486)(cid:1487)(cid:1495).(cid:1486)(cid:1488).(cid:1486)(cid:1487)(cid:1488). (cid:168)(cid:120)(cid:88)(cid:40)(cid:1610) (cid:1489)(cid:1487)(cid:1487)(cid:1486)(cid:1489)(cid:1486)(cid:1494)(cid:1493)
-(cid:1487). Refer to open fracture (cid:179)T(cid:225)
-(cid:1487). (cid:110)oo(cid:504) for (cid:120)edian nerve function,
+1. Adequate analgesia
+2. Immobilisation of the limb
+∙ Conservatively treated fractures are managed for 4-6 weeks in cast
+∙ To check for fracture displacement, angulation subsidence and fracture healing, serial images are
+necessary at 1 week and 2 weeks follow up
+∙ If fracture displaces in follow up, may require re-reduction/surgery
+∙ Exercises should be initiated early (Shoulder, elbow and finger ROM during cast application and wrist
+ROM after removal of plaster)
+1. Wu JC, Strickland CD, Chambers JS. Wrist Fractures and Osteoporosis. Orthop Clin North Am. 2019 Apr;50(2):211-221. doi: 10.1016/j.ocl.2018.10.004. PMID:
+30850079.
+2. Shapiro LM, Kamal RN; Management of Distal Radius Fractures Work Group; Nonvoting Clinical Contributor; Nonvoting Oversight Chairs; Staff of the
+American Academy of Orthopaedic Surgeons and the American Society for Surgery of the Hand. Distal Radius Fracture Clinical Practice
+Guidelines-Updates and Clinical Implications. J Hand Surg Am. 2021 Sep;46(9):807-811. doi: 10.1016/j.jhsa.2021.07.014. Epub 2021 Aug 9. PMID: 34384642.
+3. Oldrini LM, Feltri P, Albanese J, Lucchina S, Filardo G, Candrian C. Volar locking plate vs cast immobilization for distal radius fractures: a systematic review
+and meta-analysis. EFORT Open Rev. 2022 Sep 19;7(9):644-652. doi: 10.1530/EOR-22-0022. PMID: 36125012; PMCID: PMC9624483.
+4. Sanderson M, Mohr B, Abraham MK. The Emergent Evaluation and Treatment of Hand and Wrist Injuries: An Update. Emerg Med Clin North Am. 2020
+Feb;38(1):61-79. doi: 10.1016/j.emc.2019.09.004. PMID: 31757255.
+5. Liao JCY, Chong AKS. Pediatric Hand and Wrist Fractures. Clin Plast Surg. 2019 Jul;46(3):425-436. doi: 10.1016/j.cps.2019.02.012. PMID: 31103087
+1. Refer to open fracture STW
+1. Look for Median nerve function,
 dysfunction/compartment syndrome
-(cid:1488). (cid:40)istal radial and ulnar pulses
-(cid:1489). Rule out compartment syndrome
-(cid:1487). Ade(cid:567)uate analgesia
-(cid:1488). (cid:88)mmobilisation of the part
-SECONDARY(cid:1578)TERTIARY CENTRE
+2. Distal radial and ulnar pulses
+3. Rule out compartment syndrome
+1. Adequate analgesia
+2. Immobilisation of the part
+SECONDARYTERTIARY CENTRE
 Adult
-(cid:85)mmobilise
+Immobilise
 in POP cast
-(cid:37)isplaced
+Displaced
 Try closed reduction and
-Plaster of Paris (POP(cid:1588)
+Plaster of Paris (POP
 Check x-ray
 Continue
 Plaster of
 Paris
-(POP(cid:1588)
+(POP
 Comminuted
 with
-(cid:85)ntrarticular
-(cid:118)ot
+Intrarticular
+Not
 comminuted
-(cid:116)inimally
+Minimally
 displaced or are
 extra-articular
 unfit for surgery
-(cid:167)educed
-(cid:118)ot reduced
-O(cid:167)(cid:85)F with
+Reduced
+Not reduced
+ORIF with
 plating
-(cid:71)et CT
-O(cid:167)(cid:85)F according
+Get CT
+ORIF according
 to fracture
 pattern
 External fixator
 (ligamentotaxis)
-(cid:79)ighly
+Highly
 comminuted
 intra-articular
 and Open
 fracture
 Guidelines for
 operative intervention
-∙ (cid:167)adial shortening of
-(cid:1681)(cid:1473) mm
-∙ (cid:37)orsal tilt of (cid:1681)(cid:1471)0
-(cid:1585)degrees(cid:1586)
-∙ (cid:85)ntra-articular step-off
-of (cid:1681)(cid:1472) mm
-Closed (cid:167)eduction and
+∙ Radial shortening of
+> mm
+∙ Dorsal tilt of >10
+degrees
+∙ Intra-articular step-off
+of > mm
+Closed Reduction and
 Casting/Splinting with or without
 medical management of osteoporosis
-AP(cid:1610) Antero(cid:1646)posterior ORI(cid:70)(cid:1610) (cid:133)pen Reduction and (cid:88)nternal (cid:73)ixation
-CT(cid:1610) (cid:33)omputed Tomography ROM(cid:1610) Range of (cid:120)otion
+AP: Antero-posterior ORIF: Open Reduction and Internal Fixation
+CT: Computed Tomography ROM: Range of Motion
 ABBREVATIONS
-PRI(cid:116)ARY CARE
+PRIMARY CARE
 Open fracture
 Simple fracture Simple fracture
-In(cid:581)(cid:559)a(cid:1593)a(cid:559)(cid:581)i(cid:420)(cid:589)(cid:499)a(cid:559) dis(cid:581)a(cid:499) (cid:559)adi(cid:589)s (cid:460)(cid:559)a(cid:420)(cid:581)(cid:589)(cid:559)e
-E(cid:619)(cid:581)(cid:559)a(cid:1593)a(cid:559)(cid:581)i(cid:420)(cid:589)(cid:499)a(cid:559) dis(cid:581)a(cid:499)
+Intra-articular distal radius fracture
+Extra-articular distal
 radius fracture
 Open fracture
-A ma(cid:492)ority of
+A majority of
 pediatric distal radius
 fractures are
 inherently stable and
 can be treated with a
 short period of
-immobili(cid:630)ation with a
+immobilization with a
 cast or splint
-Essential: Radiographs of wrist A(cid:168), lateral and obli(cid:567)ue views
-Desi(cid:559)a(cid:419)(cid:499)e (cid:1581)In (cid:556)a(cid:581)ien(cid:581)s (cid:614)i(cid:581)(cid:469) (cid:581)(cid:559)i(cid:613)ia(cid:499) (cid:581)(cid:559)a(cid:589)(cid:508)a(cid:1582):
-(cid:40)istal radial fractures may be the first opportunity to evaluate and treat osteoporosis to
-reduce the ris(cid:504) of future fragility fractures
-∙ (cid:179)erum calcium, (cid:179)erum phosphorous, (cid:179)erum al(cid:504)aline phosphates
-∙ (cid:179)erum vitamin (cid:40) levels, (cid:179)erum (cid:168)arathyroid (cid:82)ormone ((cid:168)T(cid:82))
-∙ (cid:32)(cid:120)(cid:40) all three sites
-Optional: (cid:33)T scan for comminuted fractures and for planning surgery
+Essential: Radiographs of wrist AP, lateral and oblique views
+Desirable (In patients with trivial trauma):
+Distal radial fractures may be the first opportunity to evaluate and treat osteoporosis to
+reduce the risk of future fragility fractures
+∙ Serum calcium, Serum phosphorous, Serum alkaline phosphates
+∙ Serum vitamin D levels, Serum Parathyroid Hormone (PTH)
+∙ BMD all three sites
+Optional: CT scan for comminuted fractures and for planning surgery
 Undisplaced
 Emergent referral:
-(cid:133)pen fractures
-(cid:122)eurovascular (cid:40)eficit
-(cid:33)oncomitant trauma
-re(cid:567)uiring immediate
+Open fractures
+Neurovascular Deficit
+Concomitant trauma
+requiring immediate
 admission
 ly
-This (cid:179)T(cid:225) has been prepared by national experts of (cid:88)ndia with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and
+This STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and
 are based on expert opinions and available scientific evidence. There may be variations in the management of an individual patient based on his/her specific condition, as decided by
-the treating physician. There will be no indemnity for direct or indirect conse(cid:567)uences. (cid:107)indly visit the website of (cid:88)(cid:33)(cid:120)R for more information(cid:1610) (icmr.gov.in) for more information. (cid:1776)(cid:88)ndian
-(cid:33)ouncil of (cid:120)edical Research, (cid:120)inistry of (cid:82)ealth (cid:1773) (cid:73)amily (cid:225)elfare, (cid:74)overnment of (cid:88)ndia.
+the treating physician. There will be no indemnity for direct or indirect consequences. Kindly visit the website of ICMR for more information: (icmr.gov.in) for more information. Indian
+Council of Medical Research, Ministry of Health & Family Welfare, Government of India.
 
 --- Page 4 ---
 Standard Treatment Workflow (STW)
@@ -572,84 +569,84 @@ straight leg raising
 ∙ Marked tenderness
 at hip joint
 ∙ Pain relief
-∙ (cid:88)mmobilisation of ((cid:179)plintage including
+∙ Immobilisation of (Splintage including
 hip, knee & ankle to minimize movements
 at fracture site during transport)
-∙ (cid:230) ray (cid:168)elvis with bilateral hips(cid:1646) A(cid:168)
-∙ (cid:88)nvolved hip with thigh (cid:1643) A(cid:168) (with hips
+∙ X ray Pelvis with bilateral hips- AP
+∙ Involved hip with thigh AP (with hips
 in internal rotation to see the entire
-nec(cid:504) properly) and lateral view
+neck properly) and lateral view
 ∙ Osteoporosis
 ∙ Advancing age
 ∙ Increased number of
 comorbidities
-∙ (cid:88)ncreased dependency
-with Activities of (cid:40)aily
-(cid:110)iving (A(cid:40)(cid:110))
-This (cid:179)T(cid:225) has been prepared by national experts of (cid:88)ndia with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and
+∙ Increased dependency
+with Activities of Daily
+Living (ADL)
+This STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and
 are based on expert opinions and available scientific evidence. There may be variations in the management of an individual patient based on his/her specific condition, as decided by
-the treating physician. There will be no indemnity for direct or indirect conse(cid:567)uences. (cid:107)indly visit the website of (cid:88)(cid:33)(cid:120)R for more information(cid:1610) (icmr.gov.in) for more information. (cid:1776)(cid:88)ndian
-(cid:33)ouncil of (cid:120)edical Research, (cid:120)inistry of (cid:82)ealth (cid:1773) (cid:73)amily (cid:225)elfare, (cid:74)overnment of (cid:88)ndia.
+the treating physician. There will be no indemnity for direct or indirect consequences. Kindly visit the website of ICMR for more information: (icmr.gov.in) for more information. Indian
+Council of Medical Research, Ministry of Health & Family Welfare, Government of India.
 EARLY SURGICAL TREATMENT IS DESIRABLE
-ADL(cid:1610) Activities of (cid:40)aily (cid:110)iving AP(cid:1610) Antero(cid:1646)posterior DHS(cid:1610) (cid:40)ynamic (cid:82)ip (cid:179)crew
+ADL: Activities of Daily Living AP: Antero-posterior DHS: Dynamic Hip Screw
 MANAGEMENT
-∙ Type (cid:85)(cid:1562) Incomplete fracture/Valgus
+∙ Type I: Incomplete fracture/Valgus
 impacted
-∙ Type (cid:85)(cid:85)(cid:1562) (cid:33)omplete fracture without
+∙ Type II: Complete fracture without
 displacement of the fracture
 fragments
-∙ Type (cid:85)(cid:85)(cid:85)(cid:1562) (cid:33)omplete fracture with
+∙ Type III: Complete fracture with
 partial displacement of the fracture
 fragments
-∙ Type (cid:85)(cid:220)(cid:1562) Fracture is complete with
+∙ Type IV: Fracture is complete with
 total displacement of the fracture
 fragments
-∙ (cid:88)n situ internal fixation at the
+∙ In situ internal fixation at the
 earliest possible
-∙ Three (cid:1492).(cid:1491) cancellous screws
+∙ Three 6.5 cancellous screws
 (Threads crossing fracture site)
 should be placed in inverted
 triangle or triangular configuration
-∙ (cid:33)losed reduction in anatomical
+∙ Closed reduction in anatomical
 position
 ∙ If closed reduction is not possible
 then open reduction should be
 done
-∙ (cid:73)racture fixation is performed by
+∙ Fracture fixation is performed by
 either multiple screw fixation or by
-(cid:40)ynamic (cid:82)ip (cid:179)crew ((cid:40)(cid:82)(cid:179)) with
-de(cid:1646)rotation screw
+Dynamic Hip Screw (DHS) with
+de-rotation screw
 GARDEN CLASSIFICATION
 VALGUS/UNDISPLACED
 (TYPE I & TYPE II)
 DISPLACED (TYPE III & TYPE IV)
 UPTO AGE 60 YEARS
-∙ (cid:33)ervicotrochanteric basal nec(cid:504)
+∙ Cervicotrochanteric basal neck
 femur
-∙ (cid:168)auwel(cid:1660)s type (cid:88)(cid:88)(cid:88) fracture
+∙ Pauwels type III fracture
 DHS WITH DE-ROTATION SCREW
-∙ (cid:40)isplaced femoral nec(cid:504) fractures
-re(cid:567)uire arthroplasty
-◦ (cid:200)nipolar (Austin (cid:120)oore
+∙ Displaced femoral neck fractures
+require arthroplasty
+◦ Unipolar (Austin Moore
 prosthesis)
 ◦ Modular bipolar prosthesis
-◦ Total (cid:82)ip Replacement (T(cid:82)R)
+◦ Total Hip Replacement (THR)
 MORE THAN 60 YEARS
 ∙ Intracapsular fracture associated
 with marked arthritis of the hip
 ∙ Pathological fractures in patients
-more than (cid:1492)(cid:1486) years
+more than 60 years
 INDICATIONS OF THR
 FEMORAL NECK FRACTURES
 RISK FACTORS
 SYMPTOMS SIGNS
 FIRST AID RADIOGRAPHS
-(cid:1487). (cid:74)oel (cid:179)(cid:33), (cid:32)abhul(cid:504)ar (cid:179)(cid:179). (cid:73)racture of the nec(cid:504) of femur in adults. (cid:33)hapter (cid:1487)(cid:1495)A. (cid:133)rthopaedics for (cid:120)edical (cid:74)raduates, (cid:48)lsevier, (cid:1488)(cid:1486)(cid:1488)(cid:1486).
-(cid:1488). (cid:168)anteli (cid:120), Rodham (cid:168), (cid:74)iannoudis (cid:168)(cid:224). (cid:32)iomechanical rationale for implant choices in femoral nec(cid:504) fracture fixation in the
-non(cid:1646)elderly. (cid:88)n(cid:500)ury. (cid:1488)(cid:1486)(cid:1487)(cid:1491) (cid:120)ar(cid:1621)(cid:1490)(cid:1492)((cid:1489))(cid:1610)(cid:1490)(cid:1490)(cid:1491)(cid:1646)(cid:1491)(cid:1488). doi(cid:1610) (cid:1487)(cid:1486).(cid:1487)(cid:1486)(cid:1487)(cid:1492)/(cid:500).in(cid:500)ury.(cid:1488)(cid:1486)(cid:1487)(cid:1490).(cid:1487)(cid:1488).(cid:1486)(cid:1489)(cid:1487). (cid:48)pub (cid:1488)(cid:1486)(cid:1487)(cid:1491) (cid:104)an (cid:1489). (cid:168)(cid:120)(cid:88)(cid:40)(cid:1610) (cid:1488)(cid:1491)(cid:1491)(cid:1495)(cid:1493)(cid:1491)(cid:1487)(cid:1490).
-(cid:1489). (cid:225)ang (cid:73), (cid:241)hang (cid:82), (cid:241)hang (cid:241), (cid:120)a (cid:33), (cid:73)eng (cid:230). (cid:33)omparison of bipolar hemiarthroplasty and total hip arthroplasty for displaced femoral
-nec(cid:504) fractures in the healthy elderly(cid:1610) a meta(cid:1646)analysis. (cid:32)(cid:120)(cid:33) (cid:120)usculos(cid:504)elet (cid:40)isord. (cid:1488)(cid:1486)(cid:1487)(cid:1491) Aug (cid:1488)(cid:1494)(cid:1621)(cid:1487)(cid:1492)(cid:1610)(cid:1488)(cid:1488)(cid:1495). doi(cid:1610) (cid:1487)(cid:1486).(cid:1487)(cid:1487)(cid:1494)(cid:1492)/s(cid:1487)(cid:1488)(cid:1494)(cid:1495)(cid:1487)(cid:1646)(cid:1486)(cid:1487)(cid:1491)(cid:1646)(cid:1486)(cid:1492)(cid:1495)(cid:1492)(cid:1646)x.
-(cid:168)(cid:120)(cid:88)(cid:40)(cid:1610) (cid:1488)(cid:1492)(cid:1489)(cid:1487)(cid:1492)(cid:1488)(cid:1493)(cid:1490)(cid:1621) (cid:168)(cid:120)(cid:33)(cid:88)(cid:40)(cid:1610) (cid:168)(cid:120)(cid:33)(cid:1490)(cid:1491)(cid:1491)(cid:1488)(cid:1489)(cid:1495)(cid:1487).
+1. Goel SC, Babhulkar SS. Fracture of the neck of femur in adults. Chapter 19A. Orthopaedics for Medical Graduates, Elsevier, 2020.
+2. Panteli M, Rodham P, Giannoudis PV. Biomechanical rationale for implant choices in femoral neck fracture fixation in the
+non-elderly. Injury. 2015 Mar;46(3):445-52. doi: 10.1016/j.injury.2014.12.031. Epub 2015 Jan 3. PMID: 25597514.
+3. Wang F, Zhang H, Zhang Z, Ma C, Feng X. Comparison of bipolar hemiarthroplasty and total hip arthroplasty for displaced femoral
+neck fractures in the healthy elderly: a meta-analysis. BMC Musculoskelet Disord. 2015 Aug 28;16:229. doi: 10.1186/s12891-015-0696-x.
+PMID: 26316274; PMCID: PMC4552391.
 ABBREVATIONS
 ly
 
@@ -658,10 +655,10 @@ Standard Treatment Workflow (STW)
 HIP OSTEOARTHRITIS
 ICD-10-M16. 9
 KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES
-(cid:103)ELL(cid:71)REN ((cid:1471)(cid:1479)(cid:1476)(cid:1473)) DESCRI(cid:29)ED (cid:1474) (cid:71)RADES O(cid:70) HIP OA
+KELLGREN (1) DESCRIBED GRADES OF HIP OA
 • Grade 1 (doubtful OA), Possible narrowing of the joint space medially
 and possible osteophytes around femoral head
-• Grade 2 (mild OA), (cid:40)efinite narrowing of the (cid:500)oint space inferiorly,
+• Grade 2 (mild OA), Definite narrowing of the joint space inferiorly,
 definite osteophytes and slight sclerosis
 • Grade 3 (moderate OA), Marked narrowing of the joint space, slight
 osteophytes, some sclerosis and cyst formation, and deformity of the
@@ -670,7 +667,7 @@ femoral head and acetabulum
 marked deformity of the femoral head and acetabulum, and large
 osteophytes
 PRIMARY
-(cid:1716) (cid:224)ery rare
+• Very rare
 SECONDARY
 ∙ Developmental dysplasia of hip
 ∙ Osteonecrosis
@@ -685,7 +682,7 @@ Pain
 ∙ During or after movement
 ∙ Joint stiffness
 ∙ Tenderness
-∙ (cid:110)oss of (cid:738)exibility (cid:1773) restricted range
+∙ Loss of flexibility & restricted range
 of hip movement
 ∙ Grating sensation
 ∙ Deformity
@@ -704,30 +701,30 @@ and quadriceps exercises
 • Ambulatory aids like walking
 stick
 CONSERVATIVE MEASURES
-• (cid:168)atients with osteoarthritis of hip, (cid:107)ellgren (cid:1773) (cid:110)awrence (cid:74)rade(cid:1646)(cid:88)(cid:224) with following clinical features may re(cid:567)uire
+• Patients with osteoarthritis of hip, Kellgren & Lawrence Grade-IV with following clinical features may require
 surgery after appropriate conservative treatment has failed
-• (cid:40)eformity (cid:1773) pain that significantly limits the activities of daily living
+• Deformity & pain that significantly limits the activities of daily living
 • Disabling hip pains that continues even at rest
 • Daily requirements of analgesic
 • Bilateral ankylosis of hip joints
 INDICATIONS OF TOTAL HIP REPLACEMENT (THR)
 1. Sinusas K. Osteoarthritis: diagnosis and treatment. Am Fam Physician. 2012 Jan 1;85(1):49-56. Erratum in: Am Fam Physician. 2012
-(cid:122)ov (cid:1487)(cid:1491)(cid:1621)(cid:1494)(cid:1492)((cid:1487)(cid:1486))(cid:1610)(cid:1494)(cid:1495)(cid:1489). (cid:168)(cid:120)(cid:88)(cid:40)(cid:1610) (cid:1488)(cid:1488)(cid:1488)(cid:1489)(cid:1486)(cid:1489)(cid:1486)(cid:1494).
-2. (cid:107)rauss (cid:88), (cid:179)teinhilber (cid:32), (cid:82)aupt (cid:74), (cid:120)iller R, (cid:74)rau (cid:179), (cid:104)anssen (cid:168). (cid:48)fficacy of conservative treatment regimes for hip
+Nov 15;86(10):893. PMID: 22230308.
+2. Krauss I, Steinhilber B, Haupt G, Miller R, Grau S, Janssen P. Efficacy of conservative treatment regimes for hip
 osteoarthritis--evaluation of the therapeutic exercise regime "Hip School": a protocol for a randomised, controlled trial. BMC
-(cid:120)usculos(cid:504)elet (cid:40)isord. (cid:1488)(cid:1486)(cid:1487)(cid:1487) (cid:122)ov (cid:1488)(cid:1490)(cid:1621)(cid:1487)(cid:1488)(cid:1610)(cid:1488)(cid:1493)(cid:1486). doi(cid:1610) (cid:1487)(cid:1486).(cid:1487)(cid:1487)(cid:1494)(cid:1492)/(cid:1487)(cid:1490)(cid:1493)(cid:1487)(cid:1646)(cid:1488)(cid:1490)(cid:1493)(cid:1490)(cid:1646)(cid:1487)(cid:1488)(cid:1646)(cid:1488)(cid:1493)(cid:1486). (cid:168)(cid:120)(cid:88)(cid:40)(cid:1610) (cid:1488)(cid:1488)(cid:1487)(cid:1487)(cid:1490)(cid:1495)(cid:1493)(cid:1489)(cid:1621) (cid:168)(cid:120)(cid:33)(cid:88)(cid:40)(cid:1610) (cid:168)(cid:120)(cid:33)(cid:1489)(cid:1488)(cid:1491)(cid:1488)(cid:1488)(cid:1494)(cid:1495).
+Musculoskelet Disord. 2011 Nov 24;12:270. doi: 10.1186/1471-2474-12-270. PMID: 22114973; PMCID: PMC3252289.
 3. Kumar P, Sen RK, Aggarwal S, Jindal K. Common hip conditions requiring primary total hip arthroplasty and comparison of their
 post-operative functional outcomes. J Clin Orthop Trauma. 2020 Mar;11(Suppl 2):S192-S195. doi: 10.1016/j.jcot.2019.02.009. Epub 2019
-(cid:73)eb (cid:1487)(cid:1486). (cid:168)(cid:120)(cid:88)(cid:40)(cid:1610) (cid:1489)(cid:1488)(cid:1487)(cid:1494)(cid:1495)(cid:1495)(cid:1489)(cid:1494)(cid:1621) (cid:168)(cid:120)(cid:33)(cid:88)(cid:40)(cid:1610) (cid:168)(cid:120)(cid:33)(cid:1493)(cid:1486)(cid:1492)(cid:1493)(cid:1495)(cid:1494)(cid:1492).
-4. (cid:74)andhi R, (cid:168)erruccio A(cid:224), (cid:120)ahomed (cid:122)(cid:122). (cid:179)urgical management of hip osteoarthritis. (cid:33)(cid:120)A(cid:104). (cid:1488)(cid:1486)(cid:1487)(cid:1490) (cid:120)ar (cid:1487)(cid:1494)(cid:1621)(cid:1487)(cid:1494)(cid:1492)((cid:1491))(cid:1610)(cid:1489)(cid:1490)(cid:1493)(cid:1646)(cid:1491)(cid:1491). doi(cid:1610)
-(cid:1487)(cid:1486).(cid:1487)(cid:1491)(cid:1486)(cid:1489)/cma(cid:500).(cid:1487)(cid:1488)(cid:1487)(cid:1491)(cid:1494)(cid:1490). (cid:48)pub (cid:1488)(cid:1486)(cid:1487)(cid:1489) (cid:133)ct (cid:1488)(cid:1487). (cid:168)(cid:120)(cid:88)(cid:40)(cid:1610) (cid:1488)(cid:1490)(cid:1487)(cid:1490)(cid:1490)(cid:1492)(cid:1486)(cid:1490)(cid:1621) (cid:168)(cid:120)(cid:33)(cid:88)(cid:40)(cid:1610) (cid:168)(cid:120)(cid:33)(cid:1489)(cid:1495)(cid:1491)(cid:1492)(cid:1491)(cid:1492)(cid:1489).
+Feb 10. PMID: 32189938; PMCID: PMC7067986.
+4. Gandhi R, Perruccio AV, Mahomed NN. Surgical management of hip osteoarthritis. CMAJ. 2014 Mar 18;186(5):347-55. doi:
+10.1503/cmaj.121584. Epub 2013 Oct 21. PMID: 24144604; PMCID: PMC3956563.
 MANAGEMENT
 ABBREVIATIONS
 ly
-This (cid:179)T(cid:225) has been prepared by national experts of (cid:88)ndia with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and
+This STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and
 are based on expert opinions and available scientific evidence. There may be variations in the management of an individual patient based on his/her specific condition, as decided by
-the treating physician. There will be no indemnity for direct or indirect conse(cid:567)uences. (cid:107)indly visit the website of (cid:88)(cid:33)(cid:120)R for more information(cid:1610) (icmr.gov.in) for more information. (cid:1776)(cid:88)ndian
-(cid:33)ouncil of (cid:120)edical Research, (cid:120)inistry of (cid:82)ealth (cid:1773) (cid:73)amily (cid:225)elfare, (cid:74)overnment of (cid:88)ndia.
+the treating physician. There will be no indemnity for direct or indirect consequences. Kindly visit the website of ICMR for more information: (icmr.gov.in) for more information. Indian
+Council of Medical Research, Ministry of Health & Family Welfare, Government of India.
 OA: Osteoarthritis THR: Total Hip Replacement
 
 --- Page 6 ---
@@ -836,7 +833,7 @@ ABBREVIATIONS
 • Associated features such as fever,
 trauma, weight lifting, associated
 tingling or numbness
-• (cid:82)istory related to (cid:168)elvic (cid:88)n(cid:738)ammatory
+• History related to Pelvic Inflammatory
 disease (PID)- if positive-refer to
 Gynecologist
 • Anticonvulsants and steroids intake
@@ -845,13 +842,13 @@ Acute and Sub acute-duration less than 12 weeks
 Re-assess at 2-6 weeks (including Red Flags) if
 patient is not returning to normal function or
 symptoms are worsening
-1. (cid:133)liveira (cid:33)(cid:32), (cid:120)aher (cid:33)(cid:74), (cid:168)into R(cid:241), Traeger A(cid:33), (cid:110)in (cid:33)(cid:33), (cid:33)henot (cid:104)(cid:73), van Tulder (cid:120), (cid:107)oes (cid:32)(cid:225). (cid:33)linical practice guidelines for the management of non(cid:1646)specific low bac(cid:504) pain in
+1. Oliveira CB, Maher CG, Pinto RZ, Traeger AC, Lin CC, Chenot JF, van Tulder M, Koes BW. Clinical practice guidelines for the management of non-specific low back pain in
 primary care: an updated overview. Eur Spine J. 2018 Nov;27(11):2791-2803. doi: 10.1007/s00586-018-5673-2. Epub 2018 Jul 3. PMID: 29971708.
 2. Arnau JM, Vallano A, Lopez A, Pellisé F, Delgado MJ, Prat N. A critical review of guidelines for low back pain treatment. Eur Spine J. 2006 May;15(5):543-53. doi:
 10.1007/s00586-005-1027-y. Epub 2005 Oct 11. PMID: 16217664; PMCID: PMC3489347.
-3. (cid:224)erhagen A(cid:168), (cid:40)ownie A, (cid:168)opal (cid:122), (cid:120)aher (cid:33), (cid:107)oes (cid:32)(cid:225). Red (cid:738)ags presented in current low bac(cid:504) pain guidelines(cid:1610) a review. (cid:48)ur (cid:179)pine (cid:104). (cid:1488)(cid:1486)(cid:1487)(cid:1492) (cid:179)ep(cid:1621)(cid:1488)(cid:1491)((cid:1495))(cid:1610)(cid:1488)(cid:1493)(cid:1494)(cid:1494)(cid:1646)(cid:1494)(cid:1486)(cid:1488). doi(cid:1610)
+3. Verhagen AP, Downie A, Popal N, Maher C, Koes BW. Red flags presented in current low back pain guidelines: a review. Eur Spine J. 2016 Sep;25(9):2788-802. doi:
 10.1007/s00586-016-4684-0. Epub 2016 Jul 4. PMID: 27376890.
-4. (cid:107)oes (cid:32)(cid:225), van Tulder (cid:120), (cid:110)in (cid:33)(cid:225), (cid:120)acedo (cid:110)(cid:74), (cid:120)cAuley (cid:104), (cid:120)aher (cid:33). An updated overview of clinical guidelines for the management of non(cid:1646)specific low bac(cid:504) pain in primary
+4. Koes BW, van Tulder M, Lin CW, Macedo LG, McAuley J, Maher C. An updated overview of clinical guidelines for the management of non-specific low back pain in primary
 care. Eur Spine J. 2010 Dec;19(12):2075-94. doi: 10.1007/s00586-010-1502-y. Epub 2010 Jul 3. PMID: 20602122; PMCID: PMC2997201.
 5. Ladeira CE. Evidence based practice guidelines for management of low back pain: physical therapy implications. Rev Bras Fisioter. 2011 May-Jun;15(3):190-9. doi:
 10.1590/s1413-35552011000300004. PMID: 21829982.
@@ -883,7 +880,7 @@ exercise
 ∙ Analgesic options
 ◦ Acetaminophen
 ◦ NSAIDs
-◦ (cid:179)hort term muscle relaxant for (cid:738)are(cid:1646)ups
+◦ Short term muscle relaxant for flare-ups
 ∙ Pain not responding to above
 ◦ Opioids for short term in severe pain
 ◦ Low dose antidepressants for short duration
@@ -896,7 +893,7 @@ exercise
 ◦ Epidural steroids (for short-term relief of radicular pain)
 ◦ Surgery in carefully selected patients after expert opinion
 and based on indications
-Red (cid:70)(cid:499)ag Signs
+Red Flag Signs
 Consider referral to higher
 center for evaluation
 Yes
@@ -909,10 +906,10 @@ symptoms)
 ◦ Multidisciplinary pain program (if not returning
 to work)
 Conduct a full assessment including
-(cid:1716) (cid:82)istory ta(cid:504)ing
-(cid:1716) (cid:168)hysical and neurological examination
-(cid:1716) (cid:48)valuation of red (cid:738)ags
-(cid:1716) (cid:168)sychosocial ris(cid:504) factors
+• History taking
+• Physical and neurological examination
+• Evaluation of red flags
+• Psychosocial risk factors
 *Based on provisional diagnosis - Lab and imaging Test
 • Lab tests
 ◦ Hemogram with ESR and CRP
@@ -920,9 +917,9 @@ Conduct a full assessment including
 ◦ X rays LS Spine- Anteroposterior (AP) and lateral
 ◦ MRI LS spine
 ◦ DEXA Scan- suspected osteoporosis
-CRP: C-reactive Protein ESR: Erythrocyte Sedimentation Rate PID(cid:1610) (cid:168)elvic (cid:88)n(cid:738)ammatory (cid:40)isease
+CRP: C-reactive Protein ESR: Erythrocyte Sedimentation Rate PID: Pelvic Inflammatory Disease
 DEXA: Dual-energy X-ray Absorptiometry MRI: Magnetic Resonance Imaging TENS: Transcutaneous Electrical Nerve
-LS: Lumbo-Sacral NSAIDs: (cid:122)on(cid:1646)(cid:179)teroidal Anti(cid:1646)in(cid:738)ammatory (cid:40)rugs (cid:179)timulation
+LS: Lumbo-Sacral NSAIDs: Non-Steroidal Anti-inflammatory Drugs Stimulation
 RED FLAG SIGNS
 ly
 Council of Medical Research, Ministry of Health & Family Welfare, Government of India.
@@ -934,21 +931,21 @@ ICD-10-M54. 2
 KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES
 ABBREVIATIONS
 HISTORY
-Acute and (cid:179)ub acute ((cid:40)uration (cid:1646) less than (cid:1487)(cid:1488) wee(cid:504)s) (cid:33)hronic ((cid:40)uration (cid:1646) greater than (cid:1487)(cid:1488) wee(cid:504)s)
+Acute and Sub acute (Duration - less than 12 weeks) Chronic (Duration - greater than 12 weeks)
 ∙ Consider analgesics for short duration
-◦ Acetaminophen/(cid:168)(cid:33)(cid:120) and (cid:122)(cid:179)A(cid:88)(cid:40)s
-◦ (cid:179)hort course muscle relaxants
-◦ (cid:200)se opioids (short duration) if not responding
+◦ Acetaminophen/PCM and NSAIDs
+◦ Short course muscle relaxants
+◦ Use opioids (short duration) if not responding
 to above analgesics
-∙ (cid:88)mmobili(cid:639)e nec(cid:504) in acute stage. (cid:133)nce pain
-subsides (cid:1646) start nec(cid:504) strengthening exercises
+∙ Immobilize neck in acute stage. Once pain
+subsides - start neck strengthening exercises
 and/or physical activity
-∙ Recommend nec(cid:504) strengthening exercises and/or
+∙ Recommend neck strengthening exercises and/or
 physical activity (when pain becomes bearable)
 ∙ Avoid lifting heavy weights
 ∙ Prescribe self-care strategies
 ◦ Alternating cold and heat therapy
-◦ (cid:33)ontinuation of Activities of (cid:40)aily (cid:110)iving as
+◦ Continuation of Activities of Daily Living as
 tolerated
 ∙ Encourage early return to work
 ∙ Educate patient that neck pain usually
@@ -957,54 +954,54 @@ resolves with time
 ∙ Prescribe neck strengthening exercises or therapeutic
 exercises
 ∙ Analgesic options
-◦ Acetaminophen/(cid:168)aracetamol ((cid:168)(cid:33)(cid:120))
-◦ (cid:122)(cid:179)A(cid:88)(cid:40)s
-◦ (cid:179)hort term muscle relaxant for (cid:738)are(cid:1646)ups
+◦ Acetaminophen/Paracetamol (PCM)
+◦ NSAIDs
+◦ Short term muscle relaxant for flare-ups
 ∙ Pain not responding to above
-◦ (cid:133)pioids for short term in severe pain
-◦ (cid:110)ow dose antidepressants for short duration
+◦ Opioids for short term in severe pain
+◦ Low dose antidepressants for short duration
 ∙ Other modalities
-◦ (cid:168)hysiotherapy
-◦ T(cid:48)(cid:122)(cid:179) as ad(cid:500)unct to active therapy etc
-∙ (cid:88)f pain still does not subside then consider Referral
-Red (cid:70)(cid:499)ag Signs
+◦ Physiotherapy
+◦ TENS as adjunct to active therapy etc
+∙ If pain still does not subside then consider Referral
+Red Flag Signs
 Referral to higher center for
 evaluation
-(cid:231)es
-(cid:122)o
+Yes
+No
 Conduct a full assessment including
-(cid:1716) (cid:82)istory ta(cid:504)ing
-(cid:1716) (cid:168)hysical and neurological examination
-(cid:1716) (cid:48)valuation of red (cid:738)ags
-(cid:1716) (cid:168)sychosocial ris(cid:504) factors
+• History taking
+• Physical and neurological examination
+• Evaluation of red flags
+• Psychosocial risk factors
 *Based on provisional diagnosis - Lab and
 imaging Test
 • Lab tests
-◦ (cid:82)emogram with (cid:48)(cid:179)R and (cid:33)R(cid:168)
-• (cid:85)maging
-◦ (cid:230) rays (cid:33)ervical (cid:179)pine(cid:1646) A(cid:168) and lateral
-◦ (cid:120)R(cid:88) (cid:33)ervical spine
+◦ Hemogram with ESR and CRP
+• Imaging
+◦ X rays Cervical Spine- AP and lateral
+◦ MRI Cervical spine
 Consider lab test and imaging*
 Consider Referral
-◦ (cid:168)hysical therapist
-◦ (cid:133)rthopaedic surgeon (for unresolving radicular
+◦ Physical therapist
+◦ Orthopaedic surgeon (for unresolving radicular
 symptoms)
-◦ (cid:120)ultidisciplinary pain program (if not returning to
-wor(cid:504))
-AP(cid:1610) Antero(cid:1646)(cid:168)osterior ESR(cid:1610) (cid:48)rythrocyte (cid:179)edimentation Rate
-CRP(cid:1610) (cid:33)(cid:1646)reactive (cid:168)rotein MRI: (cid:120)agnetic Resonance (cid:88)maging
-NSAIDs: (cid:122)on(cid:1646)(cid:179)teroidal Anti(cid:1646)(cid:88)n(cid:738)ammatory (cid:40)rugs TENS(cid:1610) Transcutaneous (cid:48)lectrical (cid:122)erve (cid:179)timulation
-(cid:1487). (cid:122)ouri A, Tessitore (cid:48), (cid:120)olli(cid:567)a(cid:500) (cid:74), (cid:120)eling T, (cid:179)challer (cid:107), (cid:122)a(cid:504)ashima (cid:82), (cid:231)u(cid:504)awa (cid:231), (cid:32)ednari(cid:504) (cid:104), (cid:120)artin AR, (cid:224)a(cid:500)(cid:504)oc(cid:639)y (cid:168), (cid:33)heng (cid:104)(cid:179), (cid:107)won (cid:32)(cid:107), (cid:107)urpad (cid:179)(cid:122), (cid:73)ehlings (cid:120)(cid:74),
-(cid:82)arrop (cid:104)(cid:179), Aarabi (cid:32), Rahimi(cid:1646)(cid:120)ovaghar (cid:224), (cid:74)uest (cid:104)(cid:40), (cid:40)avies (cid:32)(cid:120), (cid:107)otter (cid:120)R(cid:122), (cid:225)ilson (cid:104)R. (cid:40)egenerative (cid:33)ervical (cid:120)yelopathy(cid:1610) (cid:40)evelopment and (cid:122)atural (cid:82)istory (cid:1632)A(cid:133)
-(cid:179)pine R(cid:48)(cid:33)(cid:133)(cid:40)(cid:48)(cid:1646)(cid:40)(cid:33)(cid:120) Research (cid:168)riority (cid:122)umber (cid:1488)(cid:1633). (cid:74)lobal (cid:179)pine (cid:104). (cid:1488)(cid:1486)(cid:1488)(cid:1488) (cid:73)eb(cid:1621)(cid:1487)(cid:1488)((cid:1487)(cid:1623)suppl)(cid:1610)(cid:1489)(cid:1495)(cid:179)(cid:1646)(cid:1491)(cid:1490)(cid:179). doi(cid:1610) (cid:1487)(cid:1486).(cid:1487)(cid:1487)(cid:1493)(cid:1493)/(cid:1488)(cid:1487)(cid:1495)(cid:1488)(cid:1491)(cid:1492)(cid:1494)(cid:1488)(cid:1488)(cid:1487)(cid:1487)(cid:1486)(cid:1489)(cid:1492)(cid:1486)(cid:1493)(cid:1487). (cid:168)(cid:120)(cid:88)(cid:40)(cid:1610) (cid:1489)(cid:1491)(cid:1487)(cid:1493)(cid:1490)(cid:1493)(cid:1488)(cid:1492)(cid:1621) (cid:168)(cid:120)(cid:33)(cid:88)(cid:40)(cid:1610)
-(cid:168)(cid:120)(cid:33)(cid:1494)(cid:1494)(cid:1491)(cid:1495)(cid:1493)(cid:1486)(cid:1489).
-(cid:1488). (cid:73)ehlings (cid:120)(cid:74), Tetreault (cid:110)A, Riew (cid:107)(cid:40), (cid:120)iddleton (cid:104)(cid:225), Aarabi (cid:32), Arnold (cid:168)(cid:120), (cid:32)rod(cid:504)e (cid:40)(cid:179), (cid:32)urns A(cid:179), (cid:33)arette (cid:179), (cid:33)hen R, (cid:33)hiba (cid:107), (cid:40)ettori (cid:104)R, (cid:73)urlan (cid:104)(cid:33), (cid:82)arrop (cid:104)(cid:179), (cid:82)olly
-(cid:110)T, (cid:107)alsi(cid:1646)Ryan (cid:179), (cid:107)otter (cid:120), (cid:107)won (cid:32)(cid:107), (cid:120)artin AR, (cid:120)illigan (cid:104), (cid:122)a(cid:504)ashima (cid:82), (cid:122)agoshi (cid:122), Rhee (cid:104), (cid:179)ingh A, (cid:179)(cid:504)elly A(cid:33), (cid:179)odhi (cid:179), (cid:225)ilson (cid:104)R, (cid:231)ee A, (cid:225)ang (cid:104)(cid:33). A (cid:33)linical
-(cid:168)ractice (cid:74)uideline for the (cid:120)anagement of (cid:168)atients (cid:225)ith (cid:40)egenerative (cid:33)ervical (cid:120)yelopathy(cid:1610) Recommendations for (cid:168)atients (cid:225)ith (cid:120)ild, (cid:120)oderate, and (cid:179)evere
-(cid:40)isease and (cid:122)onmyelopathic (cid:168)atients (cid:225)ith (cid:48)vidence of (cid:33)ord (cid:33)ompression. (cid:74)lobal (cid:179)pine (cid:104). (cid:1488)(cid:1486)(cid:1487)(cid:1493) (cid:179)ep(cid:1621)(cid:1493)((cid:1489) (cid:179)uppl)(cid:1610)(cid:1493)(cid:1486)(cid:179)(cid:1646)(cid:1494)(cid:1489)(cid:179). doi(cid:1610) (cid:1487)(cid:1486).(cid:1487)(cid:1487)(cid:1493)(cid:1493)/(cid:1488)(cid:1487)(cid:1495)(cid:1488)(cid:1491)(cid:1492)(cid:1494)(cid:1488)(cid:1487)(cid:1493)(cid:1493)(cid:1486)(cid:1487)(cid:1495)(cid:1487)(cid:1490). (cid:48)pub (cid:1488)(cid:1486)(cid:1487)(cid:1493)
-(cid:179)ep (cid:1491). (cid:168)(cid:120)(cid:88)(cid:40)(cid:1610) (cid:1488)(cid:1495)(cid:1487)(cid:1492)(cid:1490)(cid:1486)(cid:1489)(cid:1491)(cid:1621) (cid:168)(cid:120)(cid:33)(cid:88)(cid:40)(cid:1610) (cid:168)(cid:120)(cid:33)(cid:1491)(cid:1492)(cid:1494)(cid:1490)(cid:1494)(cid:1490)(cid:1486)
-(cid:1489). (cid:40)avies (cid:32)(cid:120), (cid:120)owforth (cid:133)(cid:40), (cid:179)mith (cid:48)(cid:107), (cid:107)otter (cid:120)R. (cid:40)egenerative cervical myelopathy. (cid:32)(cid:120)(cid:104). (cid:1488)(cid:1486)(cid:1487)(cid:1494) (cid:73)eb (cid:1488)(cid:1488)(cid:1621)(cid:1489)(cid:1492)(cid:1486)(cid:1610)(cid:504)(cid:1487)(cid:1494)(cid:1492). doi(cid:1610) (cid:1487)(cid:1486).(cid:1487)(cid:1487)(cid:1489)(cid:1492)/bm(cid:500).(cid:504)(cid:1487)(cid:1494)(cid:1492). (cid:168)(cid:120)(cid:88)(cid:40)(cid:1610) (cid:1488)(cid:1495)(cid:1490)(cid:1493)(cid:1488)(cid:1488)(cid:1486)(cid:1486)(cid:1621) (cid:168)(cid:120)(cid:33)(cid:88)(cid:40)(cid:1610)
-(cid:168)(cid:120)(cid:33)(cid:1492)(cid:1486)(cid:1493)(cid:1490)(cid:1492)(cid:1486)(cid:1490).
+◦ Multidisciplinary pain program (if not returning to
+work)
+AP: Antero-Posterior ESR: Erythrocyte Sedimentation Rate
+CRP: C-reactive Protein MRI: Magnetic Resonance Imaging
+NSAIDs: Non-Steroidal Anti-Inflammatory Drugs TENS: Transcutaneous Electrical Nerve Stimulation
+1. Nouri A, Tessitore E, Molliqaj G, Meling T, Schaller K, Nakashima H, Yukawa Y, Bednarik J, Martin AR, Vajkoczy P, Cheng JS, Kwon BK, Kurpad SN, Fehlings MG,
+Harrop JS, Aarabi B, Rahimi-Movaghar V, Guest JD, Davies BM, Kotter MRN, Wilson JR. Degenerative Cervical Myelopathy: Development and Natural History AO
+Spine RECODE-DCM Research Priority Number 2. Global Spine J. 2022 Feb;12(1_suppl):39S-54S. doi: 10.1177/21925682211036071. PMID: 35174726; PMCID:
+PMC8859703.
+2. Fehlings MG, Tetreault LA, Riew KD, Middleton JW, Aarabi B, Arnold PM, Brodke DS, Burns AS, Carette S, Chen R, Chiba K, Dettori JR, Furlan JC, Harrop JS, Holly
+LT, Kalsi-Ryan S, Kotter M, Kwon BK, Martin AR, Milligan J, Nakashima H, Nagoshi N, Rhee J, Singh A, Skelly AC, Sodhi S, Wilson JR, Yee A, Wang JC. A Clinical
+Practice Guideline for the Management of Patients With Degenerative Cervical Myelopathy: Recommendations for Patients With Mild, Moderate, and Severe
+Disease and Nonmyelopathic Patients With Evidence of Cord Compression. Global Spine J. 2017 Sep;7(3 Suppl):70S-83S. doi: 10.1177/2192568217701914. Epub 2017
+Sep 5. PMID: 29164035; PMCID: PMC5684840
+3. Davies BM, Mowforth OD, Smith EK, Kotter MR. Degenerative cervical myelopathy. BMJ. 2018 Feb 22;360:k186. doi: 10.1136/bmj.k186. PMID: 29472200; PMCID:
+PMC6074604.
 ∙ Features of neurological deficit including
 sudden onset of loss of bladder/ bowel
 control, numbness/paresthesias/weakness
@@ -1019,15 +1016,15 @@ drugs
 50 years of age
 RED FLAG SIGNS
 ly
-This (cid:179)T(cid:225) has been prepared by national experts of (cid:88)ndia with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and
+This STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and
 are based on expert opinions and available scientific evidence. There may be variations in the management of an individual patient based on his/her specific condition, as decided by
-the treating physician. There will be no indemnity for direct or indirect conse(cid:567)uences. (cid:107)indly visit the website of (cid:88)(cid:33)(cid:120)R for more information(cid:1610) (icmr.gov.in) for more information. (cid:1776)(cid:88)ndian
-(cid:33)ouncil of (cid:120)edical Research, (cid:120)inistry of (cid:82)ealth (cid:1773) (cid:73)amily (cid:225)elfare, (cid:74)overnment of (cid:88)ndia.
+the treating physician. There will be no indemnity for direct or indirect consequences. Kindly visit the website of ICMR for more information: (icmr.gov.in) for more information. Indian
+Council of Medical Research, Ministry of Health & Family Welfare, Government of India.
 ∙ Modalities at Referral centre
-◦ (cid:120)ultidisciplinary chronic pain program/clinic
-◦ (cid:179)urgery in carefully selected patients after expert
+◦ Multidisciplinary chronic pain program/clinic
+◦ Surgery in carefully selected patients after expert
 opinion and based on indications
-Re(cid:1646)assess at (cid:1488)(cid:1646)(cid:1492) wee(cid:504)s (including Red (cid:73)lags) if
+Re-assess at 2-6 weeks (including Red Flags) if
 patient is not returning to normal function or
 symptoms are worsening
 
@@ -1106,10 +1103,10 @@ environment are not indicated
 • Send cultures
 • Fracture stabilization with fresh instruments once
 debridement is complete
-• Grade I to IIIA (cid:1646) (cid:48)arly internal fixation (cid:1643) (cid:225)ith definitive
+• Grade I to IIIA - Early internal fixation With definitive
 skin cover
 • Grade IIIA and IIIB - Provisional stabilization of fracture
-with wound management when definitive s(cid:504)in cover is
+with wound management when definitive skin cover is
 not possible
 • Recommendation is primary closure of Type I, Type II
 and a few selected Type IIIA fracture – but avoid
@@ -1117,22 +1114,22 @@ tension at closure site
 • Coverage of III A and III B - after proper debridement
 and cleaning. May require one or two or more formal
 debridements
-• (cid:40)efinitive soft tissue closure or coverage should be
+• Definitive soft tissue closure or coverage should be
 aimed within 72 hours of injury if it cannot be
 performed at the time of debridement
 WOUND CLOSURE
 Management of patient as per ATLS protocols
 Systematic inspection of each limb is critical
 Expose the entire extremity
-(cid:1716) (cid:179)i(cid:639)e of s(cid:504)in wounds
-(cid:1716) (cid:120)uscle crush or loss
-(cid:1716) (cid:168)eriosteal stripping or bone loss
-(cid:1716) (cid:33)ontamination
-(cid:1716) (cid:33)linical photography of wound is a must
-(cid:1716) (cid:122)eurovascular status assessment
+• Size of skin wounds
+• Muscle crush or loss
+• Periosteal stripping or bone loss
+• Contamination
+• Clinical photography of wound is a must
+• Neurovascular status assessment
 CLINICAL EXAMINATION
-ATLS: Advanced Trauma Life Support GA: Gustilo Anderson NPO: (cid:122)il (cid:168)er (cid:133)ral
-CT: Computed Tomography IM Nail: (cid:88)ntramedullary (cid:122)ail RL: Ringer's Lactate
+ATLS: Advanced Trauma Life Support GA: Gustilo Anderson NPO: Nil Per Oral
+CT: Computed Tomography IM Nail: Intramedullary Nail RL: Ringer's Lactate
 ED: Emergency Department IV/IM: Intravenous/Intramuscular
 A fracture is considered
 open when there is
@@ -1141,7 +1138,7 @@ between the fracture
 and/or the fracture
 hematoma and the
 external environment
-(cid:133)pen (cid:73)racture
+Open Fracture
 Patient stable ?
 Yes
 Type I/II
@@ -1154,8 +1151,8 @@ No
 No Yes
 GA type ?
 Diaphyseal Fracture
-(cid:33)onsider for definitive
-fixation with (cid:88)(cid:120)
+Consider for definitive
+fixation with IM
 nailing else fixator
 may be applied
 Soft tissue
@@ -1165,21 +1162,21 @@ pattern ?
 Minimally invasive
 Stabilization
 External Fixation
-(cid:48)xternal fixation
+External fixation
 At primary centre after initial management is done
 Ensure Splintage is done, Analgesic IV/IM Diclofenac
-single dose is given. (cid:168)atient is (cid:504)ept (cid:122)(cid:168)(cid:133) and (cid:88)(cid:224) (cid:738)uid
+single dose is given. Patient is kept NPO and IV fluid
 (RL) is started
 GA Type I to III A
 Refer to secondary centre Refer to tertiary centre
 GA Type III B
 REFERRAL
-1. (cid:179)agi (cid:82)(cid:33), (cid:168)at(cid:639)a(cid:504)is (cid:120)(cid:104). (cid:48)volution in the Acute (cid:120)anagement of (cid:133)pen (cid:73)racture Treatment(cid:1617) (cid:168)art (cid:1487). (cid:104) (cid:133)rthop Trauma. (cid:1488)(cid:1486)(cid:1488)(cid:1487) (cid:179)ep (cid:1487)(cid:1621)(cid:1489)(cid:1491)((cid:1495))(cid:1610)(cid:1490)(cid:1490)(cid:1495)(cid:1646)(cid:1490)(cid:1491)(cid:1492). doi(cid:1610) (cid:1487)(cid:1486).(cid:1487)(cid:1486)(cid:1495)(cid:1493)/(cid:32)(cid:133)T.(cid:1486)(cid:1486)(cid:1486)(cid:1486)(cid:1486)(cid:1486)(cid:1486)(cid:1486)(cid:1486)(cid:1486)(cid:1486)(cid:1486)(cid:1488)(cid:1486)(cid:1495)(cid:1490). (cid:168)(cid:120)(cid:88)(cid:40)(cid:1610) (cid:1489)(cid:1490)(cid:1490)(cid:1487)(cid:1491)(cid:1494)(cid:1492)(cid:1495).
-2. (cid:179)agi (cid:82)(cid:33), (cid:168)at(cid:639)a(cid:504)is (cid:120)(cid:104). (cid:48)volution in the Acute (cid:120)anagement of (cid:133)pen (cid:73)racture Treatment(cid:1617) (cid:168)art (cid:1488). (cid:104) (cid:133)rthop Trauma. (cid:1488)(cid:1486)(cid:1488)(cid:1487) (cid:179)ep (cid:1487)(cid:1621)(cid:1489)(cid:1491)((cid:1495))(cid:1610)(cid:1490)(cid:1491)(cid:1493)(cid:1646)(cid:1490)(cid:1492)(cid:1490). doi(cid:1610) (cid:1487)(cid:1486).(cid:1487)(cid:1486)(cid:1495)(cid:1493)/(cid:32)(cid:133)T.(cid:1486)(cid:1486)(cid:1486)(cid:1486)(cid:1486)(cid:1486)(cid:1486)(cid:1486)(cid:1486)(cid:1486)(cid:1486)(cid:1486)(cid:1488)(cid:1486)(cid:1495)(cid:1491). (cid:168)(cid:120)(cid:88)(cid:40)(cid:1610) (cid:1489)(cid:1490)(cid:1490)(cid:1487)(cid:1491)(cid:1494)(cid:1493)(cid:1486).
-3. (cid:32)erner (cid:104)(cid:48), Ali (cid:179)R, (cid:225)ill (cid:168)A, Te(cid:500)os R, (cid:122)anchahal (cid:104), (cid:104)ain A. (cid:179)tandardising the management of open extremity fractures(cid:1610) a scoping review of national guidelines. (cid:48)ur (cid:104) (cid:133)rthop (cid:179)urg Traumatol. (cid:1488)(cid:1486)(cid:1488)(cid:1489)
-(cid:104)ul(cid:1621)(cid:1489)(cid:1489)((cid:1491))(cid:1610)(cid:1487)(cid:1490)(cid:1492)(cid:1489)(cid:1646)(cid:1487)(cid:1490)(cid:1493)(cid:1487). doi(cid:1610) (cid:1487)(cid:1486).(cid:1487)(cid:1486)(cid:1486)(cid:1493)/s(cid:1486)(cid:1486)(cid:1491)(cid:1495)(cid:1486)(cid:1646)(cid:1486)(cid:1488)(cid:1488)(cid:1646)(cid:1486)(cid:1489)(cid:1489)(cid:1488)(cid:1490)(cid:1646)w. (cid:48)pub (cid:1488)(cid:1486)(cid:1488)(cid:1488) (cid:104)ul (cid:1487)(cid:1486). (cid:168)(cid:120)(cid:88)(cid:40)(cid:1610) (cid:1489)(cid:1491)(cid:1494)(cid:1487)(cid:1495)(cid:1491)(cid:1487)(cid:1495)(cid:1621) (cid:168)(cid:120)(cid:33)(cid:88)(cid:40)(cid:1610) (cid:168)(cid:120)(cid:33)(cid:1487)(cid:1486)(cid:1488)(cid:1493)(cid:1492)(cid:1486)(cid:1491)(cid:1493).
-4. (cid:48)ccles, (cid:179)imon (cid:1773) (cid:82)andley, (cid:32)ob (cid:1773) (cid:107)han, (cid:200)mra(cid:639) (cid:1773) (cid:122)anchahal, (cid:104)agdeep (cid:1773) (cid:122)ayagam, (cid:179)elvadurai (cid:1773) (cid:120)c(cid:73)adyen, (cid:88)ain. ((cid:1488)(cid:1486)(cid:1488)(cid:1486)). (cid:179)tandards for the (cid:120)anagement of (cid:133)pen (cid:73)ractures.
-(cid:1487)(cid:1486).(cid:1487)(cid:1486)(cid:1495)(cid:1489)/med/(cid:1495)(cid:1493)(cid:1494)(cid:1486)(cid:1487)(cid:1495)(cid:1494)(cid:1494)(cid:1490)(cid:1495)(cid:1489)(cid:1492)(cid:1486).(cid:1486)(cid:1486)(cid:1487).(cid:1486)(cid:1486)(cid:1486)(cid:1487).
+1. Sagi HC, Patzakis MJ. Evolution in the Acute Management of Open Fracture Treatment? Part 1. J Orthop Trauma. 2021 Sep 1;35(9):449-456. doi: 10.1097/BOT.0000000000002094. PMID: 34415869.
+2. Sagi HC, Patzakis MJ. Evolution in the Acute Management of Open Fracture Treatment? Part 2. J Orthop Trauma. 2021 Sep 1;35(9):457-464. doi: 10.1097/BOT.0000000000002095. PMID: 34415870.
+3. Berner JE, Ali SR, Will PA, Tejos R, Nanchahal J, Jain A. Standardising the management of open extremity fractures: a scoping review of national guidelines. Eur J Orthop Surg Traumatol. 2023
+Jul;33(5):1463-1471. doi: 10.1007/s00590-022-03324-w. Epub 2022 Jul 10. PMID: 35819519; PMCID: PMC10276057.
+4. Eccles, Simon & Handley, Bob & Khan, Umraz & Nanchahal, Jagdeep & Nayagam, Selvadurai & McFadyen, Iain. (2020). Standards for the Management of Open Fractures.
+10.1093/med/9780198849360.001.0001.
 Look for Compartment
 syndrome
 Pain on passive stretching
@@ -1193,10 +1190,7 @@ to higher centre
 for immediate
 fasciotomy
 ly
-This (cid:179)T(cid:225) has been prepared by national experts of (cid:88)ndia with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and
-are based on expert opinions and available scientific evidence. There may be variations in the management of an individual patient based on his/her specific condition, as decided by
-the treating physician. There will be no indemnity for direct or indirect consequences. Kindly visit the website of ICMR for more information: (icmr.gov.in) for more information. ©Indian
-(cid:33)ouncil of (cid:120)edical Research, (cid:120)inistry of (cid:82)ealth (cid:1773) (cid:73)amily (cid:225)elfare, (cid:74)overnment of (cid:88)ndia.
+Council of Medical Research, Ministry of Health & Family Welfare, Government of India.
 • Consider Aspirin in case of prolonged immobilisation
 • Look for signs of DVT and embolism
 EARLY ADMINISTRATION OF ANTIBIOTICS AND REFERRAL AS PER RESOURCE SETTING
@@ -1213,7 +1207,7 @@ with rest
 ∙ Joint stiffness especially in the morning or
 after a period of rest for short duration
 ∙ Decrease in Range of Motion (ROM) of the
-(cid:504)nee, ma(cid:504)ing it difficult to stand from
+knee, making it difficult to stand from
 sitting position, get in and out of chair or
 car, stair climbing, or walk
 ∙ Creaking, crackling sounds on movement
@@ -1223,7 +1217,7 @@ may be present
 ∙ Joint line tenderness
 ∙ Patello-femoral crepitus
 ∙ Decreased ROM
-∙ (cid:40)eformity (commonly (cid:738)exion and varus)
+∙ Deformity (commonly flexion and varus)
 ∙ Joint effusion and synovial thickening
 may be present
 SIGNS
@@ -1232,21 +1226,21 @@ SIGNS
 views
 INVESTIGATION
 MANAGEMENT
-(cid:103)ELL(cid:71)REN AND LA(cid:221)RENCE (RADIOLO(cid:71)ICAL)
-CLASSI(cid:70)ICATION OSTEOARTHRITIS O(cid:70) (cid:103)NEE
+KELLGREN AND LAWRENCE (RADIOLOGICAL)
+CLASSIFICATION OSTEOARTHRITIS OF KNEE
 Classification
-• Grade 0:(cid:1688)(cid:122)o radiographic features of (cid:133)A are present
-• Grade 1: (cid:40)oubtful (cid:104)oint (cid:179)pace (cid:122)arrowing ((cid:104)(cid:179)(cid:122)) and
+• Grade 0:No radiographic features of OA are present
+• Grade 1: Doubtful Joint Space Narrowing (JSN) and
 possible osteophytic lipping
-• Grade 2: (cid:40)efinite osteophytes and possible (cid:104)(cid:179)(cid:122) on
+• Grade 2: Definite osteophytes and possible JSN on
 anteroposterior weight-bearing radiograph
-• Grade 3: (cid:120)ultiple osteophytes, definite (cid:104)(cid:179)(cid:122), sclerosis,
+• Grade 3: Multiple osteophytes, definite JSN, sclerosis,
 possible bony deformity
-• Grade 4: (cid:110)arge osteophytes, mar(cid:504)ed (cid:104)(cid:179)(cid:122), severe sclerosis
+• Grade 4: Large osteophytes, marked JSN, severe sclerosis
 and definite bony deformity
 • Recent or current knee sepsis
 • Remote source of ongoing infection
-• (cid:48)xtensor mechanism discontinuity or severe
+• Extensor mechanism discontinuity or severe
 dysfunction
 • Recurvatum deformity secondary to
 neuromuscular weakness
@@ -1258,7 +1252,7 @@ appropriate conservative treatment has failed
 • Severe knee pain or stiffness that limits activities of daily
 living including walking, climbing stairs, and getting in
 and out of chairs
-• (cid:168)atient unable to wal(cid:504) short distances (due to significant
+• Patient unable to walk short distances (due to significant
 knee pain) and requires use of a cane/walker
 • Regular analgesic requirement over a long period
 • Moderate or severe knee pain while on rest either day or
@@ -1268,52 +1262,52 @@ night
 patients with significant varus deformity
 • Quadriceps strengthening and Hamstring
 stretching exercises
-• (cid:110)ifestyle modifications such as avoid cross legged
+• Lifestyle modifications such as avoid cross legged
 sitting and squatting and stair climbing wherever
 possible
 • Weight loss
-CONTRAINDICATIONS (cid:70)OR (cid:103)NEE
-REPLACE(cid:116)ENT
+CONTRAINDICATIONS FOR KNEE
+REPLACEMENT
 CONSERVATIVE TREATMENT
-• Topical (cid:122)(cid:179)A(cid:88)(cid:40)s
+• Topical NSAIDs
 • Oral Acetaminophen
-• (cid:133)ral (cid:122)(cid:179)A(cid:88)(cid:40)s ((cid:88)f not contraindicated) as and when
+• Oral NSAIDs (If not contraindicated) as and when
 required
-Indi(cid:420)a(cid:581)i(cid:521)ns (cid:521)(cid:460) s(cid:589)(cid:559)ge(cid:559)(cid:620) (cid:460)(cid:521)(cid:559) (cid:581)(cid:521)(cid:581)a(cid:499) (cid:495)nee (cid:559)e(cid:556)(cid:499)a(cid:420)e(cid:508)en(cid:581)
+Indications of surgery for total knee replacement
 AP: Antero-posterior OA: Osteoarthritis
-NSAIDs: (cid:122)on(cid:1646)steroidal Anti(cid:1646)in(cid:738)ammatory (cid:40)rugs
-1. (cid:107)(cid:48)(cid:110)(cid:110)(cid:74)R(cid:48)(cid:122) (cid:104)(cid:82), (cid:110)A(cid:225)R(cid:48)(cid:122)(cid:33)(cid:48) (cid:104)(cid:179). Radiological assessment of osteo(cid:1646)arthrosis. Ann Rheum (cid:40)is. (cid:1487)(cid:1495)(cid:1491)(cid:1493) (cid:40)ec(cid:1621)(cid:1487)(cid:1492)((cid:1490))(cid:1610)(cid:1490)(cid:1495)(cid:1490)(cid:1646)(cid:1491)(cid:1486)(cid:1488). doi(cid:1610) (cid:1487)(cid:1486).(cid:1487)(cid:1487)(cid:1489)(cid:1492)/ard.(cid:1487)(cid:1492).(cid:1490).(cid:1490)(cid:1495)(cid:1490). (cid:168)(cid:120)(cid:88)(cid:40)(cid:1610)
-(cid:1487)(cid:1489)(cid:1490)(cid:1495)(cid:1494)(cid:1492)(cid:1486)(cid:1490)(cid:1621) (cid:168)(cid:120)(cid:33)(cid:88)(cid:40)(cid:1610) (cid:168)(cid:120)(cid:33)(cid:1487)(cid:1486)(cid:1486)(cid:1492)(cid:1495)(cid:1495)(cid:1491).
-(cid:1488). (cid:168)aradows(cid:504)i (cid:168)T. (cid:133)steoarthritis of the (cid:504)nee(cid:1610) assessing the disease. (cid:82)ealth (cid:33)are (cid:33)urr Rev. (cid:1488)(cid:1486)(cid:1487)(cid:1490)(cid:1621)(cid:1488)((cid:1488))(cid:1610)e(cid:1487)(cid:1486)(cid:1489)
-(cid:1489). (cid:120)anagement of (cid:133)steoarthritis of the (cid:107)nee ((cid:122)on(cid:1646)Arthroplasty). (cid:48)vidence(cid:1646)(cid:32)ased (cid:33)linical (cid:168)ractice (cid:74)uideline.The American Academy of (cid:133)rthopaedic
-(cid:179)urgeons (cid:32)oard of (cid:40)irectors.August (cid:1489)(cid:1486), (cid:1488)(cid:1486)(cid:1488)(cid:1487)
-4. R(cid:540)nn (cid:107), Reischl (cid:122), (cid:74)autier (cid:48), (cid:104)acobi (cid:120). (cid:33)urrent surgical treatment of (cid:504)nee osteoarthritis. Arthritis. (cid:1488)(cid:1486)(cid:1487)(cid:1487)(cid:1621)(cid:1488)(cid:1486)(cid:1487)(cid:1487)(cid:1610)(cid:1490)(cid:1491)(cid:1490)(cid:1494)(cid:1493)(cid:1489). doi(cid:1610) (cid:1487)(cid:1486).(cid:1487)(cid:1487)(cid:1491)(cid:1491)/(cid:1488)(cid:1486)(cid:1487)(cid:1487)/(cid:1490)(cid:1491)(cid:1490)(cid:1494)(cid:1493)(cid:1489). (cid:48)pub (cid:1488)(cid:1486)(cid:1487)(cid:1487)
-Apr (cid:1488)(cid:1492). (cid:168)(cid:120)(cid:88)(cid:40)(cid:1610) (cid:1488)(cid:1488)(cid:1486)(cid:1490)(cid:1492)(cid:1491)(cid:1487)(cid:1493)(cid:1621) (cid:168)(cid:120)(cid:33)(cid:88)(cid:40)(cid:1610) (cid:168)(cid:120)(cid:33)(cid:1489)(cid:1488)(cid:1486)(cid:1486)(cid:1487)(cid:1487)(cid:1489).
+NSAIDs: Non-steroidal Anti-inflammatory Drugs
+1. KELLGREN JH, LAWRENCE JS. Radiological assessment of osteo-arthrosis. Ann Rheum Dis. 1957 Dec;16(4):494-502. doi: 10.1136/ard.16.4.494. PMID:
+13498604; PMCID: PMC1006995.
+2. Paradowski PT. Osteoarthritis of the knee: assessing the disease. Health Care Curr Rev. 2014;2(2):e103
+3. Management of Osteoarthritis of the Knee (Non-Arthroplasty). Evidence-Based Clinical Practice Guideline.The American Academy of Orthopaedic
+Surgeons Board of Directors.August 30, 2021
+4. Rdnn K, Reischl N, Gautier E, Jacobi M. Current surgical treatment of knee osteoarthritis. Arthritis. 2011;2011:454873. doi: 10.1155/2011/454873. Epub 2011
+Apr 26. PMID: 22046517; PMCID: PMC3200113.
 Grade 1
-D(cid:521)(cid:589)(cid:419)(cid:581)(cid:460)(cid:589)(cid:499) OA
-P(cid:521)ssi(cid:419)(cid:499)e Os(cid:581)e(cid:521)(cid:556)(cid:469)i(cid:581)es
-D(cid:521)(cid:589)(cid:419)(cid:581)(cid:460)(cid:589)(cid:499) (cid:101)SN
-N(cid:521) Os(cid:581)e(cid:521)(cid:556)(cid:469)i(cid:581)es
-N(cid:521) (cid:101)SN
+Doubtful OA
+Possible Osteophites
+Doubtful JSN
+No Osteophites
+No JSN
 Grade 0
-N(cid:521) OA
+No OA
 Grade 2
-(cid:116)i(cid:499)d OA
-De(cid:730)ni(cid:581)e Os(cid:581)e(cid:521)(cid:556)(cid:469)i(cid:581)es
-P(cid:521)ssi(cid:419)(cid:499)e (cid:101)SN
-(cid:116)(cid:521)de(cid:559)a(cid:581)e Os(cid:581)e(cid:521)(cid:556)(cid:469)i(cid:581)es
-De(cid:730)ni(cid:581)e (cid:101)SN
+Mild OA
+Definite Osteophites
+Possible JSN
+Moderate Osteophites
+Definite JSN
 Grade 3
-(cid:116)(cid:521)de(cid:559)a(cid:581)e OA
-La(cid:559)ge (cid:521)s(cid:581)e(cid:521)(cid:556)(cid:469)i(cid:581)es
-(cid:71)(cid:559)ea(cid:581) (cid:101)SN
+Moderate OA
+Large osteophites
+Great JSN
 Grade 4
-Se(cid:613)e(cid:559)e OA
+Severe OA
 ly
-This (cid:179)T(cid:225) has been prepared by national experts of (cid:88)ndia with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and
+This STW has been prepared by national experts of India with feasibility considerations for various levels of healthcare system in the country. These broad guidelines are advisory, and
 are based on expert opinions and available scientific evidence. There may be variations in the management of an individual patient based on his/her specific condition, as decided by
-the treating physician. There will be no indemnity for direct or indirect conse(cid:567)uences. (cid:107)indly visit the website of (cid:88)(cid:33)(cid:120)R for more information(cid:1610) (icmr.gov.in) for more information. (cid:1776)(cid:88)ndian
-(cid:33)ouncil of (cid:120)edical Research, (cid:120)inistry of (cid:82)ealth (cid:1773) (cid:73)amily (cid:225)elfare, (cid:74)overnment of (cid:88)ndia.
+the treating physician. There will be no indemnity for direct or indirect consequences. Kindly visit the website of ICMR for more information: (icmr.gov.in) for more information. Indian
+Council of Medical Research, Ministry of Health & Family Welfare, Government of India.
 
 --- Page 11 ---
 Standard Treatment Workflow (STW)
@@ -1321,7 +1315,7 @@ TIBIAL PLATEAU FRACTURES
 ICD-10-S82.109A
 ABBREVIATIONS
 MANAGEMENT
-ATLS: Advancd Trauma Life Support CT: Computed Tomography RTA(cid:1610) Road Traffic Accident
+ATLS: Advancd Trauma Life Support CT: Computed Tomography RTA: Road Traffic Accident
 DEFINITION
 A fracture involving the proximal
 end of the tibia which may or
@@ -1332,14 +1326,14 @@ MECHANISM OF INJURY
 patients (RTA)
 • Low-energy falls in elderly
 RADIOGRAPHS
-• A(cid:168) (cid:224)iew (cid:1643) (cid:179)chat(cid:639)(cid:504)er classification
+• AP View Schatzker classification
 • Lateral View – Posterior fracture component
 CT SCANS REQUIRED FOR
 • Detailed assessment of fracture
 pathoanatomy & Preoperative planning
-• (cid:33)olumn classification (cid:1643) (cid:110)uo
+• Column classification Luo
 THREE COLUMN CLASSIFICATION (LUO)
-• (cid:133)ne column fracture is defined as an
+• One column fracture is defined as an
 independent articular depression with
 a break in the column
 • Zero-column fracture = purely articular
@@ -1366,19 +1360,19 @@ Screws alone
 ◦ Simple split
 ◦ Depressed fracture elevated
 percutaneously
-H(cid:620)(cid:419)(cid:559)id E(cid:619)(cid:581)e(cid:559)na(cid:499) (cid:730)(cid:619)a(cid:581)(cid:521)(cid:559)(cid:1573)I(cid:499)i(cid:630)a(cid:559)(cid:521)(cid:613): Poor
+Hybrid External fixator/Ilizarov: Poor
 skin condition, post fasciotomy
 Management of patient as per ATLS protocols
-P(cid:559)esen(cid:581)a(cid:581)i(cid:521)n:
+Presentation:
 • Pain, swelling, deformity at or below the
 knee
 PHYSICAL EXAM
-• (cid:110)oo(cid:504) circumferentially to(cid:1688)rule(cid:1646)out an open
+• Look circumferentially torule-out an open
 injury
 • Tenderness below the knee
 • Rule out compartment syndrome (blisters,
 ecchymosis, swelling, pain out of proportion)
-• (cid:110)oo(cid:504) for distal neurovascular deficit
+• Look for distal neurovascular deficit
 Lateral split
 fracture
 Lateral Split-
@@ -1396,8 +1390,8 @@ Medial plateau
 fracture
 Plate application is based on the column
 concept.
-A(cid:581)(cid:581)e(cid:508)(cid:556)(cid:581) (cid:581)(cid:521) (cid:559)ed(cid:589)(cid:420)e and (cid:730)(cid:619) ea(cid:420)(cid:469) (cid:420)(cid:521)(cid:499)(cid:589)(cid:508)n
-indi(cid:613)id(cid:589)a(cid:499)(cid:499)(cid:620)
+Attempt to reduce and fix each column
+individually
 HIGH ENERGY INJURY
 Preferable to get a CT scan
 Medial
@@ -1429,7 +1423,7 @@ i a
 e n
 t r e
 Refer to secondary centre
-(cid:73)inal fixation once swelling subsides/
+Final fixation once swelling subsides/
 blisters resolve/patient physiologically fit
 Tibial Plateau
 Fracture
@@ -1472,7 +1466,7 @@ window
 fractures)
 Anterolateral
 approach
-(cid:73)irst fix one
+First fix one
 fragment
 anatomically
 (usually
@@ -1485,9 +1479,9 @@ Fix each
 fragment with
 anatomical
 locking plates
-Assess need for external fixator(cid:1646)(cid:179)(cid:504)in condition/
+Assess need for external fixator-Skin condition/
 swelling/blisters/compartment syndrome
-(cid:133)pen reduction internal fixation should be
+Open reduction internal fixation should be
 performed only after appearance of “wrinkle sign”
 • High Dependency Unit/Intensive
 Care Unit management for
@@ -1495,17 +1489,17 @@ multi-system injury
 • External Fixator
 • Fasciotomy if required
 • Vascular repair
-• (cid:88)f final fixation not possible
+• If final fixation not possible
 • Complex fracture dislocation
 • Vascular repair warranted
 • Multi-system injury
-(cid:133)pen reduction internal fixation for
+Open reduction internal fixation for
 simple fractures
 • Stop the bleed
 • Refer- STW for open fracture
 • Fasciotomy if warranted for
 impending compartment syndrome
-• (cid:48)xternal fixator application
+• External fixator application
 • Active bleed
 • Suspected compartment syndrome
 • Open fracture
@@ -1525,13 +1519,13 @@ LOOK FOR RED FLAGS AND ACT TIMELY
 doi: 10.1007/s00590-023-03520-2. Epub 2023 Mar 19. PMID: 36934361.
 3.Rudran B, Little C, Wiik A, Logishetty K. Tibial Plateau Fracture: Anatomy, Diagnosis and Management. Br J Hosp Med (Lond). 2020 Oct 2;81(10):1-9. doi: 10.12968/hmed.2020.0339. Epub 2020
 Oct 30. PMID: 33135915.
-4.(cid:110)uo (cid:33)(cid:73), (cid:179)un (cid:82), (cid:241)hang (cid:32), (cid:241)eng (cid:32)(cid:73). Three(cid:1646)column fixation for complex tibial plateau fractures. (cid:104) (cid:133)rthop Trauma. (cid:1488)(cid:1486)(cid:1487)(cid:1486) (cid:122)ov(cid:1621)(cid:1488)(cid:1490)((cid:1487)(cid:1487))(cid:1610)(cid:1492)(cid:1494)(cid:1489)(cid:1646)(cid:1495)(cid:1488). doi(cid:1610) (cid:1487)(cid:1486).(cid:1487)(cid:1486)(cid:1495)(cid:1493)/(cid:32)(cid:133)T.(cid:1486)b(cid:1486)(cid:1487)(cid:1489)e(cid:1489)(cid:1487)(cid:1494)(cid:1487)d(cid:1490)(cid:1489)(cid:1492)f(cid:1489). (cid:168)(cid:120)(cid:88)(cid:40)(cid:1610) (cid:1488)(cid:1486)(cid:1494)(cid:1494)(cid:1487)(cid:1492)(cid:1489)(cid:1490).
+4.Luo CF, Sun H, Zhang B, Zeng BF. Three-column fixation for complex tibial plateau fractures. J Orthop Trauma. 2010 Nov;24(11):683-92. doi: 10.1097/BOT.0b013e3181d436f3. PMID: 20881634.
 5.Trikha V, Gaba S, Agrawal P, Das S, Kumar A, Chowdhury B. CT based management of high energy tibial plateau fractures: A retrospective review of 53 cases. J Clin Orthop Trauma. 2019
 Jan-Feb;10(1):201-208. doi: 10.1016/j.jcot.2017.11.005. Epub 2017 Nov 21. PMID: 30705560; PMCID: PMC6349673.
 6.Prat-Fabregat S, Camacho-Carrasco P. Treatment strategy for tibial plateau fractures: an update. EFORT Open Rev. 2017 Mar 13;1(5):225-232. doi: 10.1302/2058-5241.1.000031. PMID: 28461952;
 PMCID: PMC5367528.
 7.Schatzker J, McBroom R, Bruce D. The tibial plateau fracture. The Toronto experience 1968--1975. Clin Orthop Relat Res. 1979 Jan-Feb;(138):94-104. PMID: 445923.
-8.(cid:107)furi (cid:120), (cid:179)chat(cid:639)(cid:504)er (cid:104). Revisiting the (cid:179)chat(cid:639)(cid:504)er classification of tibial plateau fractures. (cid:88)n(cid:500)ury. (cid:1488)(cid:1486)(cid:1487)(cid:1494) (cid:40)ec(cid:1621)(cid:1490)(cid:1495)((cid:1487)(cid:1488))(cid:1610)(cid:1488)(cid:1488)(cid:1491)(cid:1488)(cid:1646)(cid:1488)(cid:1488)(cid:1492)(cid:1489). doi(cid:1610) (cid:1487)(cid:1486).(cid:1487)(cid:1486)(cid:1487)(cid:1492)/(cid:500).in(cid:500)ury.(cid:1488)(cid:1486)(cid:1487)(cid:1494).(cid:1487)(cid:1487).(cid:1486)(cid:1487)(cid:1486). (cid:168)(cid:120)(cid:88)(cid:40)(cid:1610) (cid:1489)(cid:1486)(cid:1491)(cid:1488)(cid:1492)(cid:1495)(cid:1488)(cid:1490).
+8.Kfuri M, Schatzker J. Revisiting the Schatzker classification of tibial plateau fractures. Injury. 2018 Dec;49(12):2252-2263. doi: 10.1016/j.injury.2018.11.010. PMID: 30526924.
 9.Kokkalis ZT, Iliopoulos ID, Pantazis C, Panagiotopoulos E. What's new in the management of complex tibial plateau fractures? Injury. 2016 Jun;47(6):1162-9. doi: 10.1016/j.injury.2016.03.001.
 Epub 2016 Mar 3. PMID: 26989043.
 May

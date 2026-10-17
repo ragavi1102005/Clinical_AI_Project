@@ -41,6 +41,7 @@ DOMAIN_RULES = [
     ("orthopaedics", ("ortho",)),
     ("psychiatry",   ("psych",)),
 ]
+NEPHRO_SUBSTRINGS = ("kidney", "dialysis", "glomerul", "nephro", "renal")
 ENT_TOKENS = {"ent", "otolaryngology"}   # matched as WHOLE tokens only (see infer_domain)
 
 
@@ -57,10 +58,52 @@ def infer_domain(file_path: Path) -> str:
     tokens = re.findall(r"[a-z]+", f"{file_path.parent.name} {file_path.stem}".lower())
     if any(t in ENT_TOKENS for t in tokens):
         return "ent"
+    # kidney guidelines have run-together names ("hemodialysis", "acutekidneyinjury", "uti"), so use substrings
+    stem = file_path.stem.lower()
+    if "uti" in tokens or any(k in stem for k in NEPHRO_SUBSTRINGS):
+        return "nephrology"
     for domain, prefixes in DOMAIN_RULES:
         if any(t.startswith(p) for t in tokens for p in prefixes):
             return domain
     return "general"
+
+
+# --------------------------------------------------------------------------- noise removal
+STRONG = re.compile(r"doi:|PMID|PMCID|Epub|Erratum|accessed online|\bet al\b", re.I)
+MONTHS = r"(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)"
+JOURNAL = re.compile(rf"\b(?:19|20)\d\d;\s?\d|\b(?:19|20)\d\d\s+{MONTHS}\b|\b[A-Z][a-z]+ J\. ")
+AUTHOR = re.compile(r"\b[A-Z][a-z'\-]+ [A-Z]{1,3}\b[,;.]")
+NUM_START = re.compile(r"^\s*\d{1,2}\s*[.)]\s*[A-Z]")
+YEAR = re.compile(r"\b(?:19|20)\d\d\b")
+ABBR_KEY = r"[A-Z][A-Za-z0-9/\-]*[A-Z0-9][A-Za-z0-9/\-]*"          # at least two capitals: AP, ESR, NSAIDs, HFrEF
+ABBR_FIRST = re.compile(rf"^{ABBR_KEY}:\s+[A-Z]")
+ABBR_ANY = re.compile(rf"(?<!\w){ABBR_KEY}:\s+[A-Z]")
+BANNERS = re.compile(r"^(REFERENCES?|ABBREVIATIONS?|ABBREVATIONS?|KEEP A HIGH THRESHOLD FOR INVASIVE PROCEDURES|"
+                     r"(January|February|March|April|May|June|July|August|September|October|November|December)/?\s*\d{4})$", re.I)
+
+
+def _ref_like(ln: str) -> bool:
+    return bool(STRONG.search(ln) or JOURNAL.search(ln) or len(AUTHOR.findall(ln)) >= 3
+                or (NUM_START.match(ln) and YEAR.search(ln)))
+
+
+def strip_noise(text: str) -> str:
+    """Line-level removal of literature references, abbreviation lists and banner/heading leftovers.
+    (Text-flow extraction scatters these anywhere on the page, so we cannot rely on a 'REFERENCES' heading.)"""
+    lines = [l for l in text.split("\n") if not BANNERS.match(l.strip())]
+    flag = [_ref_like(l) for l in lines]
+    for _ in range(2):          # a title/wrapped line sandwiched between reference lines is part of the reference
+        for k, l in enumerate(lines):
+            if not flag[k] and any(flag[max(0, k - 2):k]) and any(flag[k + 1:k + 3]):
+                flag[k] = True
+    keep = []
+    for k, l in enumerate(lines):
+        if flag[k]:
+            continue
+        if ABBR_FIRST.match(l.strip()) or len(ABBR_ANY.findall(l)) >= 2:
+            continue
+        keep.append(l)
+    return "\n".join(keep)
 
 
 def word_set(text: str) -> set:
@@ -71,14 +114,49 @@ def jaccard(a: set, b: set) -> float:
     return len(a & b) / len(a | b) if a and b else 0.0
 
 
-def extract_title(page_text: str, fallback: str) -> str:
-    m = re.search(r"Management of\s*\n\s*([^\n]+)", page_text)
-    if m:
-        return m.group(1).strip().title()
-    for ln in page_text.split("\n")[:8]:
-        if ln.isupper() and len(ln) > 6 and not ln.startswith("---"):
-            return ln.strip().title()
-    return fallback
+def is_clinical_page(page_text: str) -> bool:
+    """True for real guideline sheets. Covers, tables of contents, introductions and committee lists
+    carry neither the 'Standard Treatment Workflow (STW)' title line nor an ICD code."""
+    return bool(re.search(r"Standard Treatment Workflow \(STW\)", page_text)) or bool(re.search(r"\bICD[- ]?\d", page_text))
+
+
+def _nice_title(text: str) -> str:
+    out = []
+    for w in text.split():
+        core = w.strip("()")
+        out.append(w if (w.startswith("(") and core.isupper() and len(core) <= 4) else w.title())   # keep "(SD)"
+    return " ".join(out)
+
+
+def title_and_continued(page_text: str, fallback: str):
+    """
+    Finds the guideline title wherever the 'Standard Treatment Workflow (STW)' line sits on the page
+    (text-flow order does not always put it first) and reads the capitalised lines that follow it.
+    Also reports whether the sheet is a '(Continued)' second page.
+    """
+    lines = [l.strip() for l in page_text.split("\n") if l.strip()]
+    for i, ln in enumerate(lines):
+        if "Standard Treatment Workflow (STW)" in ln:
+            parts, continued = [], False
+            for nxt in lines[i + 1:i + 5]:
+                if re.match(r"^\(?continued\)?$", nxt, re.IGNORECASE):
+                    continued = True
+                    break
+                if re.match(r"^ICD", nxt):
+                    break
+                if parts and not re.search(r"\b(IN|OF|AND|FOR|WITH|THE|OR|TO|&)$", parts[-1]):
+                    break                      # title is complete; next caps line is a banner, not part of it
+                if nxt.isupper() or re.match(r"^Management of\b", nxt):
+                    parts.append(nxt)
+                else:
+                    break
+            title = re.sub(r"^Management of\s+", "", " ".join(parts), flags=re.IGNORECASE).strip()
+            if title:
+                return _nice_title(title), continued
+    for ln in lines[:8]:
+        if ln.isupper() and len(ln) > 6:
+            return _nice_title(ln), False
+    return fallback, False
 
 
 def parse_pages(raw_text: str):
@@ -122,6 +200,15 @@ def chunk_page(text: str, max_chars: int = CHUNK_MAX_CHARS):
                     cur = f"{cur} {s}".strip()
             if cur:
                 pieces.append(cur)
+    # run-on text without sentence ends (common in infographic tables): cut at word boundaries
+    final = []
+    for pc in pieces:
+        while len(pc) > 2 * max_chars:
+            cut = pc.rfind(" ", 0, max_chars)
+            cut = cut if cut > 0 else max_chars
+            final.append(pc[:cut]); pc = pc[cut:].strip()
+        final.append(pc)
+    pieces = final
 
     chunks, cur = [], ""
     for p in pieces:
@@ -155,31 +242,50 @@ def build_index():
         loaded.append((fp, pages))
     loaded.sort(key=lambda x: len(x[1]))
 
-    # 2. build parents (one per page) with de-duplication
-    parents, kept_sets, skipped = {}, [], []
+    # 2. build parents (one per guideline sheet) with de-duplication
+    parents, kept_sets, skipped, non_clinical = {}, [], [], 0
     for fp, pages in loaded:
         domain = infer_domain(fp)
+
+        # 2a. keep guideline pages only, and glue a "(Continued)" page onto the sheet it continues
+        sheets = []
         for page_no, page_text in pages:
-            if len(page_text) < MIN_PAGE_CHARS:
+            if len(page_text) < MIN_PAGE_CHARS or not is_clinical_page(page_text):
+                non_clinical += 1
                 continue
-            ws = word_set(page_text)
-            dup_of = next((pid for pid, s in kept_sets if jaccard(ws, s) >= DUPLICATE_JACCARD), None)
+            page_text = strip_noise(page_text)
+            title, continued = title_and_continued(page_text, fp.stem)
+            if continued and sheets:
+                sheets[-1]["text"] += "\n" + page_text
+                sheets[-1]["last"] = page_no
+            else:
+                sheets.append({"first": page_no, "last": page_no, "title": title, "text": page_text})
+
+        # 2b. drop sheets that already exist (same STW inside a merged file) and store the rest
+        for sh in sheets:
+            ws = word_set(sh["text"])
+            dup_of = next((pid for pid, s_ in kept_sets if jaccard(ws, s_) >= DUPLICATE_JACCARD), None)
+            label = sh["first"] if sh["first"] == sh["last"] else f"{sh['first']}-{sh['last']}"
             if dup_of:
-                skipped.append((f"{fp.name} p{page_no}", dup_of))
+                skipped.append((f"{fp.name} p{label} [{sh['title']}]", dup_of))
                 continue
-            pid = f"{fp.stem}_p{page_no}"
+            pid = f"{fp.stem}_p{sh['first']}"
             kept_sets.append((pid, ws))
             parents[pid] = {
-                "title": extract_title(page_text, fp.stem),
+                "title": sh["title"],
                 "source_file": fp.name,
-                "page": page_no,
+                "page": label,
                 "domain": domain,
-                "text": page_text,
+                "text": sh["text"],
             }
 
-    print(f"[*] {len(parents)} unique guideline pages kept; {len(skipped)} duplicate pages skipped.")
-    for a, b in skipped:
-        print(f"    - skipped {a}  (duplicate of {b})")
+    print(f"[*] {len(parents)} unique guideline sheets kept; {non_clinical} non-guideline pages skipped "
+          f"(covers, contents, committee lists); {len(skipped)} duplicate sheets skipped.")
+    for a_, b_ in skipped:
+        print(f"    - skipped {a_}  (duplicate of {b_})")
+    print("\n[*] Guidelines indexed:")
+    for par in parents.values():
+        print(f"    [{par['domain']:12s}] {par['title']}   ({par['source_file']} p{par['page']})")
 
     # 3. children = small chunks, each carrying its parent id and the guideline title
     chunks = []
